@@ -1,218 +1,225 @@
 {
   "type": "民国言情",
-  "date": "2026-06-15",
-  "prev_date": "2026-06-14",
+  "date": "2026-06-16",
+  "prev_date": "2026-06-15",
   "category": {
     "name": "民国言情",
     "trend": {
-      "new_count": 0,
-      "dropped_count": 0,
-      "new_books": [],
-      "dropped_books": [],
+      "new_count": 1,
+      "dropped_count": 1,
+      "new_books": [
+        "潜伏之佛龛易色"
+      ],
+      "dropped_books": [
+        {
+          "title": "陈皮阿四之多情种",
+          "intro": "故事发生在四屠黄葵之后……初见时，浑身浴血的少年黑沉着眸子，无法无天的流氓做派。 后来竟将整颗真心奉上，只求她的怜惜…… 披着老九门外衣的小甜文 私设如山，努力不崩人设 给橘子皮一个小小的羁绊"
+        }
+      ],
       "top_risers": [
         {
           "title": "倒闭首选：在青铜门开店",
           "change": "+2"
         },
         {
-          "title": "谍战，我是鬼子女贵族",
+          "title": "军阀养女：狼崽子的白月光是姐姐",
           "change": "+1"
         },
         {
-          "title": "沈小姐的婚约",
+          "title": "捂不热的军婚，她不要了",
           "change": "+1"
         }
       ],
       "top_fallers": [
         {
-          "title": "军阀养女：狼崽子的白月光是姐姐",
-          "change": "-2"
-        },
-        {
           "title": "谍战：我竟是敌方顶级女领导",
           "change": "-1"
         },
         {
-          "title": "酒后错撩杀猪匠",
+          "title": "我在民国续费人生",
+          "change": "-1"
+        },
+        {
+          "title": "沈小姐的婚约",
           "change": "-1"
         }
       ],
       "reads_growth": [
         {
           "title": "倒闭首选：在青铜门开店",
-          "growth": "+1274"
+          "growth": "+4000"
         },
         {
-          "title": "碎女子",
-          "growth": "+57"
+          "title": "谍战，我是鬼子女贵族",
+          "growth": "+1000"
         },
         {
-          "title": "谍战：我的动物军团杀疯了",
-          "growth": "+44"
+          "title": "民国谍影：暗香玫瑰",
+          "growth": "+140"
         }
       ],
-      "summary": "**🔥 题材趋势** 民国言情榜单主要围绕“谍战”、“军阀”、“乱世情缘”展开，融合了“闪婚”、“伪兄妹”、“强制爱”等强情节元素。时代背景下的家国情怀与个人命运交织是主要看点。\n**📖 读者偏好** 读者偏好甜虐交织、极限拉扯的情感线，同时对“双洁”、“HE”结局有一定要求。谍战题材中的“女特工”、“卧底”以及“金手指”设定也深受喜爱，增加了阅读的爽感和紧张感。\n**🆕 新上榜作品** 本期无新上榜作品，榜单相对稳定，显示出民国言情领域头部作品的持续吸引力。\n**📉 掉出榜单** 本期无作品掉出榜单，榜单竞争激烈，现有作品保持了较好的阅读热度。\n**💡 值得关注** 《闪婚，真千金嫁给了军阀大佬》以5.8万的在读量位居榜首，凸显了“军阀+闪婚+真千金”的组合魅力。同时，《长官的掌中谍》的“伪兄妹+养成+谍战”设定也展现了读者对复杂情感关系和时代背景融合的偏好。"
+      "summary": "## 番茄小说「民国言情」分类新书榜结构化分析\n\n**🔥 题材趋势**\n当前榜单主流题材集中在“谍战”和“军阀联姻/强取豪夺”两大类，其中“伪兄妹”、“养成”、“先婚后爱”等情感套路与“特工”、“卧底”等谍战元素扎堆出现。\n\n**📖 读者偏好**\n读者口味偏好甜虐交织的强情节故事，同时对“系统”、“金手指”和“穿越”这类能带来爽感的设定接受度高。\n\n**🆕 新上榜作品**\n《潜伏之佛龛易色》：将经典谍战IP与男女主情感纠葛相结合，展现了信仰与爱情的冲突与融合。\n\n**📉 掉出榜单**\n《陈皮阿四之多情种》：作为盗墓背景的民国言情，可能因IP热度下降或与主流谍战/军阀题材差异较大而掉榜。\n\n**💡 值得关注**\n《倒闭首选：在青铜门开店》：将“青铜门”这一热门IP元素与“开店系统”结合，题材新颖，有望吸引特定圈层读者。\n《酒后错撩杀猪匠》：以“糙汉”、“种田”、“先婚后爱”为核心，在民国背景下独辟蹊径，展现了不同于军阀豪门的市井烟火气。"
     },
     "books": [
       {
         "title": "闪婚，真千金嫁给了军阀大佬",
         "author": "初点点",
-        "reads": "5.8万",
+        "reads": "5.7万",
         "intro": "少帅程天循军务繁忙，最怕女人黏糊纠缠，他没时间应付。 　　秦言承诺，对他的事装聋作哑，不无理取闹、不索取感情，得到了他的信任，成功闪婚嫁入督军府。 　　婚后两人各取所需、各自敷衍，婚姻进行得很顺利。 　　直到他说：“你在我怀里肆无忌惮怀念你的旧情人，不适合吧？” 　　秦言：“你这是无理取闹。” 　　“我说我心里有你，你耳朵装聋。提到你的旧情人，你不聋了？” 　　秦言：“……”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc347c7c5973012220ffb1869f902f73a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106460&x-signature=Sxv9MxauZ0XBKk056fE54Pw1r7E%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc347c7c5973012220ffb1869f902f73a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193286&x-signature=6TvHj1v5TnK6CNtCC8eeCFKLKRc%3D",
         "url": "https://fanqienovel.com/page/7636393870938344472"
       },
       {
         "title": "长官的掌中谍",
         "author": "矮纸闲书客",
-        "reads": "2.2万",
+        "reads": "2.1万",
         "intro": "【伪兄妹｜养成｜民国谍战｜无血缘｜甜虐交织｜极限拉扯｜家国情怀｜时代群像｜双洁｜HE】 他从沪城战乱废墟里捡回她，一养，就是十四年。 那年她八岁，浑身破烂满脸灰尘，唯有一双眼睛亮得像灰烬里的火星，死死攥住他军装袖口的那一刻，就注定了两人这辈子的纠缠。 整个金陵城都知道，陆副站长审人从不手软，唯独对家里那位小公主，连句重话都舍不得说。 她怕打雷，他整夜守在房门外；她闹脾气，他追着哄；她软软叫一声哥哥，他应了十四年。 后来他才知道，他的小姑娘在他眼皮底下，偷了整整两年的情报。 他的偏爱，成了她最完美的保护色； 他的纵容，化作刺向自己阵营的利刃。 东窗事发那晚，他猩红着眼捏着她的下巴，眼底是淬了冰的疯魔： “我养了你十四年，你就是这么回报我的？” 她红着眼咬了他，骂他畜生。 他低低冷笑，指尖抚过她颤抖的唇，带着毁天灭地的狠劲： “既然你这么说，那我就让你看看，什么叫真正的畜生。” 十四年养育，爱是真的，恨也是真的。 他恨她的背叛，却更爱她眼里永不熄灭的光。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o908de7c1ee540a8eeef876502b6bd69a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106460&x-signature=W3bLVBrYxoaSFlW%2BiDJj%2BcdnRGk%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o908de7c1ee540a8eeef876502b6bd69a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193286&x-signature=3NvGy66xH4Q%2B3xOCpY6SLXnpAvU%3D",
         "url": "https://fanqienovel.com/page/7467880875636558873"
       },
       {
         "title": "谍战，我是鬼子女贵族",
         "author": "灵草谷的唐伞小僧",
-        "reads": "1.9万",
+        "reads": "2万",
         "intro": "新作品出炉，欢迎大家前往番茄小说阅读我的作品，希望大家能够喜欢，你们的关注是我写作的动力，我会努力讲好每个故事！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o61ba9a0dcfd5810306f1abf2d4d126bb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106460&x-signature=sRds3MmpV9KZfCzkpzRYezoBDRE%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o61ba9a0dcfd5810306f1abf2d4d126bb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193286&x-signature=fnmOOrvR%2FiaBla%2B0%2F0aPmjetwZc%3D",
         "url": "https://fanqienovel.com/page/7636685431718824984"
+      },
+      {
+        "title": "倒闭首选：在青铜门开店",
+        "author": "头痛",
+        "reads": "1.5万",
+        "intro": "【无cp+女主+系统+HE+从九门开始+日常流】 【本想写个2w字的短篇，结果刚开始第一章就定下了后面要写长的基调】 曲绫风，被【开店倒闭】系统绑定，一人一统一拍即合，为了完成任务，在青铜门里老老实实待了将近十一年。 全靠面包加牛奶过活。 在第十年的最后一天，门口倒下了一个差点破坏掉她任务的人。 不认识，喂点水给他全靠曲绫风良心未泯。 这一天成功过去，确定任务完成后，曲绫风才开始正式救助这位病患。 病患有眼疾，自称齐风。 然后被系统判定他是黑眼镜。 曲绫风想着反正这人以后也有女鬼跟着，多她一个不多，少她一个可不行。 她找不到路。 而且不用自己走路多好。 —— 任务完成后的曲绫风和系统简直就是解放天性的高山流水遇知音，一鬼专心买东西做攻略，一统致力于收集整理满足收藏癖。 不过她们都离不开黑瞎子。 因为买的食物和水果不经放，黑瞎子人高马大还能多吃些。 后面遇到另外几人，曲绫风和系统更高兴了。 这意味着她们可以放心地买吃的了。 差点被撑死的众人：。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o38113bb43579fc78faa65283c79293c6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193286&x-signature=mblEzDQxNWuAOtfG2DFI49qV9EY%3D",
+        "url": "https://fanqienovel.com/page/7637912401756572697"
       },
       {
         "title": "谍战：我竟是敌方顶级女领导",
         "author": "抢瑶瑶野干嘛",
-        "reads": "1.6万",
+        "reads": "1.5万",
         "intro": "【四十年代&谍战&无系统&无cp】 谁懂啊！现代外贸日语女经理一觉穿越，直接砸进华国大牢成了失忆女犯人！ 离谱的是，她长了张和倭国特高课女指挥官一模一样的脸！ 正主刚被暗杀，她就被军统当场捡走，强制拉去特训当替身间谍。 日语满级、情商爆表、搞情报自带天赋挂，她混进上海特高课疯狂卧底，偷偷给军统递情报。 全程被反派疯狂找茬怀疑身份，结果一块后腰胎记直接锁死身份，全员闭嘴！ 越查越崩溃：我哪是替身啊，我本人就是那个日本女大佬！ 我那个义兄竟是潜伏地下党。 从此她开启双轨打工模式，顶着日军高官马甲，一边忽悠鬼子，一边给两边递情报，在谍场躺赢封神 无cp",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o59f7080e28b06ca1d9cfde38177788be~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106460&x-signature=oRwxHmATKhhbS1DOdAEpLk0tP98%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o59f7080e28b06ca1d9cfde38177788be~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193286&x-signature=6x6kRGsshkTTBSYouJQfP4RN3hY%3D",
         "url": "https://fanqienovel.com/page/7624062180719070270"
       },
       {
         "title": "我在民国续费人生",
         "author": "她从雪中来",
-        "reads": "1.4万",
+        "reads": "1.3万",
         "intro": "【民国日常+金手指签到+轻松搞笑+微群像+青葱岁月+发家致富+背景板男主】 纪少微穿进自己氪过的民国游戏里，月卡只剩六天。不续费，就抹杀。 别人穿游戏是谈恋爱，她穿游戏是搞钱续命。 赛马场押冷门，陆宅晚宴当众破案，跟攻略对象合伙做生意。她把攻略对象的好感度，刷成了商业合伙人的信任值。 签到系统给道具？拿去换钱。 好感度涨了？拉来入股。 氪金玩家从不做亏本买卖，每一分好感都要变现。 民国日常，有校园里的青葱时光，也有街头巷尾的搞钱生意。 签到续命，搞钱为上。命悬一线，那就先赚它一笔。 纪少微每日三省吾身： 月卡续上了吗？ 银元攒够了没？ 今天比昨天多活一天了吗？ 温馨提醒：本文偏民国日常，非苏爽向，无乙女恋爱线，专注女主成长。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o431b6b6065a1a1c683dc59319e7e37fb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106460&x-signature=L4%2BH%2BMf4ZgqjQvGLbB%2Bt5rnf80w%3D",
+        "cover": "https://p9-reading-sign.fqnovelpic.com/novel-pic/p2o431b6b6065a1a1c683dc59319e7e37fb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193286&x-signature=iUez6Bpaezgl2wTGhXswPm5heto%3D",
         "url": "https://fanqienovel.com/page/7623236157978971160"
-      },
-      {
-        "title": "倒闭首选：在青铜门开店",
-        "author": "头痛",
-        "reads": "1.1万",
-        "intro": "【无cp+女主+系统+HE+从九门开始+日常流】 【本想写个2w字的短篇，结果刚开始第一章就定下了后面要写长的基调】 曲绫风，被【开店倒闭】系统绑定，一人一统一拍即合，为了完成任务，在青铜门里老老实实待了将近十一年。 全靠面包加牛奶过活。 在第十年的最后一天，门口倒下了一个差点破坏掉她任务的人。 不认识，喂点水给他全靠曲绫风良心未泯。 这一天成功过去，确定任务完成后，曲绫风才开始正式救助这位病患。 病患有眼疾，自称齐风。 然后被系统判定他是黑眼镜。 曲绫风想着反正这人以后也有女鬼跟着，多她一个不多，少她一个可不行。 她找不到路。 而且不用自己走路多好。 —— 任务完成后的曲绫风和系统简直就是解放天性的高山流水遇知音，一鬼专心买东西做攻略，一统致力于收集整理满足收藏癖。 不过她们都离不开黑瞎子。 因为买的食物和水果不经放，黑瞎子人高马大还能多吃些。 后面遇到另外几人，曲绫风和系统更高兴了。 这意味着她们可以放心地买吃的了。 差点被撑死的众人：。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o38113bb43579fc78faa65283c79293c6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106460&x-signature=ARhrMIxsz%2Fc5lQpBVkeqqI2jAE8%3D",
-        "url": "https://fanqienovel.com/page/7637912401756572697"
       },
       {
         "title": "酒后错撩杀猪匠",
         "author": "第六小只",
-        "reads": "1.1万",
+        "reads": "9733",
         "intro": "糙汉、种田、酒后错撩、先婚后爱 村人皆知，村东头的杨娇是出了名的娇。 小脸细腰，肤白如脂，媒人踏破了门槛，她一个都看不上。 直到村长寿宴上，她贪了几杯果酿，在麦田里和村西头那个糙汉杀猪匠滚作一团。 王莽一身蛮力，腰腿有使不完的劲儿，折腾得她哭了一整夜。 第二天酒醒，杨娇扶着酸软的腰，看着身旁浑身抓痕的男人，脑子里只有一个念头——跑！ 可那蛮汉却将她堵在墙角，嗓音粗哑：“昨晚的事，我认。你，我娶定了。” 从此，全村人都看见，那杀猪的糙汉身后多了个娇滴滴的小媳妇。 白日里，他杀猪卖肉，她刺绣补衣。 夜深时，他将她抵在灶台边，咬着她的耳朵低笑：“娇娇，昨晚的事，再复习一遍？” 杨娇被他圈在滚烫的胸膛和冰冷的灶台之间，双腿发软，欲哭无泪： 当初谁说杀猪匠老实本分的？这分明是头喂不饱的狼！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o84881cf79e754d98aa71dfae14829582~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106460&x-signature=qTNPPGlTIA5ZV09m684DlSiymgs%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o84881cf79e754d98aa71dfae14829582~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193286&x-signature=ofPbNbK2qoQYu2vvMPW%2FAVVQQGQ%3D",
         "url": "https://fanqienovel.com/page/7626002814052863000"
-      },
-      {
-        "title": "沈小姐的婚约",
-        "author": "月下三姑娘",
-        "reads": "8686",
-        "intro": "清醒理智女 vs 沉稳城府男 婚约是祖父生前定的，对方是上海滩最危险的男人——赵正。 我找他谈判：“一年之约，期满退婚。” 他淡笑：“好，你别后悔。”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o57517e55f1e6f97852e1842ece5ce743~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106460&x-signature=F2iDEmAXFVyI1c8HvTTR1QBwc6E%3D",
-        "url": "https://fanqienovel.com/page/7633052911202733118"
       },
       {
         "title": "军阀养女：狼崽子的白月光是姐姐",
         "author": "一只咖啡兔",
-        "reads": "9062",
+        "reads": "8106",
         "intro": "十五岁那年，沈棠成了许公馆的大小姐，许家独子许泽铭却是个混世魔王。 许太太病逝前拉着她的手说：“男人是靠不住的，替我照顾他。” 从此，她守着这句承诺，他守着这个姐姐。 民国乱世里，姐弟一场。是姐弟情深？还是青梅竹马？这份情感究竟会走向哪里？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/c5a2248f9cd7d93eaf5595ab08ade6ec~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106460&x-signature=XzUkc0n8kFnIB1VBQqkoPrlEsx0%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/c5a2248f9cd7d93eaf5595ab08ade6ec~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193286&x-signature=kpqYUgYsHNKjTIfsGml14fCX9D8%3D",
         "url": "https://fanqienovel.com/page/7631577945160551448"
+      },
+      {
+        "title": "沈小姐的婚约",
+        "author": "月下三姑娘",
+        "reads": "7939",
+        "intro": "清醒理智女 vs 沉稳城府男 婚约是祖父生前定的，对方是上海滩最危险的男人——赵正。 我找他谈判：“一年之约，期满退婚。” 他淡笑：“好，你别后悔。”",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o57517e55f1e6f97852e1842ece5ce743~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193286&x-signature=EinH3AAzQWRZytQlSflsQi2QM6E%3D",
+        "url": "https://fanqienovel.com/page/7633052911202733118"
       },
       {
         "title": "民国：我来自现代",
         "author": "生活进行时",
-        "reads": "7763",
+        "reads": "7438",
         "intro": "第一卷，为胜利而战。 宋小棠一个现代的灵魂，意外穿越到民国时期的1938年，一个六岁叫宋小棠的小姑娘身上，她既不是国党特工，也不是红党的地下党，她就是穿来给在上海做地下工作的父母帮忙的。 谁知帮着帮着，她也成了他们中的一员…… 第二卷，为国敛财。 讲的是一家三口奉命来到香港为国敛财期间，所发生的故事。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0c6925bf76bab7f28ba2907bad350cce~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106460&x-signature=J8878YL9cMoJqlFTTujTqQoUJAE%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0c6925bf76bab7f28ba2907bad350cce~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193286&x-signature=deB2y%2F%2FgJlmoFaWtYGWSU0dCwc0%3D",
         "url": "https://fanqienovel.com/page/7586646056583056408"
-      },
-      {
-        "title": "表妹复明后，被疯批少帅强夺了",
-        "author": "温酒残墨",
-        "reads": "7622",
-        "intro": "【失明表妹×少帅表哥+民国架空+强制爱+甜宠+双洁+非虐文】 整个邺城都知道，少帅霍妄捡了个瞎子表妹回来，疼惜得如珠如宝。 他会亲手喂她吃饭，在夜里守着她安睡，为她遮风挡雨。 阮瓷对霍妄充满信任和感激，毫不设防。 可不知从何时起，她渐渐察觉到身边各种不对劲。 同学在她长发遮掩的颈侧发现可疑红痕，莫名丢失又出现在床头的贴身小衣，房间中陌生的味道，还有疑似出轨的未婚夫…… 直到她意外复明，终于撞破了霍妄的秘密。 深夜，那个在她面前端方矜贵的男人，正用帕子漫不经心擦拭手指沾上的血迹。 “我的瓷瓷，不准任何人觊觎。” “谁敢多看她一眼，就把眼珠子挖了！” 阮瓷赫然发现，霍妄看她的眼神，分明是无法掩饰的占有欲！ 后来，霍妄将偷偷逃跑的她箍进怀里，唇瓣摩挲她耳垂，笑得病态又温柔：“瓷瓷，骗了我这么久，是不是该用你自己来还？” * 架空背景，非虐文，无分离战乱，排雷在第一章作话˙ᵕ˙ᰔ",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe0043a6cf4c09c684f6c346cd89c55c8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106464&x-signature=XjcI5TcHwGkXRwzIgFY5dzfjce4%3D",
-        "url": "https://fanqienovel.com/page/7614530541144001560"
       },
       {
         "title": "捂不热的军婚，她不要了",
         "author": "喜欢羊蹄风的小酥",
-        "reads": "7130",
+        "reads": "7175",
         "intro": "她是金陵首富唯一的千金，曾为他敛去光芒，甘做他笼中的金丝雀。他却在大婚之日奔赴战场，留她一人守着重病的自己，和一颗日渐冰冷的心。一封“离婚协议”，是她最后的体面。她远渡重洋，扯掉婚纱，在巴黎竖起“云裳”的招牌，让东方之美惊艳世界，也让所有人都知道——她宋茜，从来不是谁的附庸。而他，那个被誉为“苏家军魂”的冷面少帅，在死人堆里爬出来时，他从战场追到巴黎，从巴黎追回金陵。他当着满堂权贵的面，打翻她身边的“蓝颜”，攥着她的手腕，一字一句地宣布：“我苏志诚这辈子，就两样东西没撒过手——手里的枪，和眼前的你。”这是一场顶尖猎手与最美猎物的极致拉扯，也是烽火乱世里，一段关于尊严、等待与不灭爱意的传奇。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/00753f098bda063fa94842983d99d8a6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106464&x-signature=jHoED8RqDYBOWyzKpK1TZbztQqw%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/00753f098bda063fa94842983d99d8a6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193289&x-signature=PkrM6xLn7E9LZq4j994H2AwnEwM%3D",
         "url": "https://fanqienovel.com/page/7602962303884987417"
+      },
+      {
+        "title": "表妹复明后，被疯批少帅强夺了",
+        "author": "温酒残墨",
+        "reads": "7100",
+        "intro": "【失明表妹×少帅表哥+民国架空+强制爱+甜宠+双洁+非虐文】 整个邺城都知道，少帅霍妄捡了个瞎子表妹回来，疼惜得如珠如宝。 他会亲手喂她吃饭，在夜里守着她安睡，为她遮风挡雨。 阮瓷对霍妄充满信任和感激，毫不设防。 可不知从何时起，她渐渐察觉到身边各种不对劲。 同学在她长发遮掩的颈侧发现可疑红痕，莫名丢失又出现在床头的贴身小衣，房间中陌生的味道，还有疑似出轨的未婚夫…… 直到她意外复明，终于撞破了霍妄的秘密。 深夜，那个在她面前端方矜贵的男人，正用帕子漫不经心擦拭手指沾上的血迹。 “我的瓷瓷，不准任何人觊觎。” “谁敢多看她一眼，就把眼珠子挖了！” 阮瓷赫然发现，霍妄看她的眼神，分明是无法掩饰的占有欲！ 后来，霍妄将偷偷逃跑的她箍进怀里，唇瓣摩挲她耳垂，笑得病态又温柔：“瓷瓷，骗了我这么久，是不是该用你自己来还？” * 架空背景，非虐文，无分离战乱，排雷在第一章作话˙ᵕ˙ᰔ",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe0043a6cf4c09c684f6c346cd89c55c8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193289&x-signature=urUyDtBtlQgRaWNds%2FTxEcAybeg%3D",
+        "url": "https://fanqienovel.com/page/7614530541144001560"
       },
       {
         "title": "人间正道是沧桑：四十年来家国",
         "author": "羚羊挂角也无形",
-        "reads": "6576",
+        "reads": "6231",
         "intro": "《人间正道是沧桑》同人 楚桐×杨立仁 楚桐孤身一人穿越到这个凄风苦雨的年代，纵使出身优渥，背景深厚，却深知自己不是什么天纵奇才，以自己的能力和意志无法改变任何历史潮流。在这几十年的动荡里，不知道哪一天就会被一颗子弹、一次轰炸带走性命，本打算不牵扯进那些复杂的人和事当中，尽自己的能力和优势为国家做出哪怕微小的贡献也好，但命运和缘分始终引导着她走向另一个方向，也走向他——杨立仁的身边",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o731699d3d58000b3e6181a11fcc89c27~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106464&x-signature=%2FGqlrI3TCslM%2F4JObKc673LQgkM%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o731699d3d58000b3e6181a11fcc89c27~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193289&x-signature=fMnFbTGOAnFrGBIJnja5TBsa8Xk%3D",
         "url": "https://fanqienovel.com/page/7626765521886661657"
       },
       {
         "title": "潜伏：风雨故人来",
         "author": "砚秋知晚",
-        "reads": "6059",
+        "reads": "5856",
         "intro": "潜伏同人文 【HE】 津门远，江南近 奉命返乡述职，李涯本以为不过是一次寻常复命。 可他万万没有想到，此番归来，竟会重逢儿时故人。 江南旧影，长辈曾随口定下的一纸姻缘，在岁月里沉寂多年。 如今再见，儿时那一句轻许的姻缘，在兵荒马乱的年代，还能算数吗？ 办公室里，余则成拍着他的肩，笑得意味深长：“李队长，你就当是‘为国献身’吧。” 而上司吴敬中更是老谋深算，以威逼利诱之态，“在我眼里，不注重情分的人难堪大用。” 从满心不愿，到步步深陷，他在信仰与私情之间摇摆，在权谋与真心之间挣扎。 cr：Merryweather🌙",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocb51467188f66aa787bdf146fcedd974~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106464&x-signature=PCq%2FW6BWKMnMfu95t%2F5bSNDNew8%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocb51467188f66aa787bdf146fcedd974~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193289&x-signature=tbOOqbEiKCKd%2FKjUWYoRFTWat5E%3D",
         "url": "https://fanqienovel.com/page/7610427603467389976"
       },
       {
         "title": "谍战：我的动物军团杀疯了",
         "author": "多多蛋挞",
-        "reads": "5099",
+        "reads": "5171",
         "intro": "乱世狼烟，日寇横行。 孤女禾苗，觉醒万兽之主系统。 鼠潜地道，鸦探长空； 猫狗盯梢，蜂群破阵； 毒蛇隐杀，步步为营。 以鸟兽为耳目，以虫蛇为刀锋。 隐于市井，搅动谍战迷局； 孤身抗敌，踏平倭寇凶焰。 你抓不到我的人，更防不住我的万兽军团！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o23fc83da07ddf40e2e00ef58edb41514~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106464&x-signature=wB6yK1RYPnCADesa1S2MyNJTCYo%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o23fc83da07ddf40e2e00ef58edb41514~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193289&x-signature=%2BfGPwKmzoS92pNnsFHezy5WwZ9M%3D",
         "url": "https://fanqienovel.com/page/7628302723569437758"
       },
       {
         "title": "穿越民国：小姐的后院着火了",
         "author": "又瞎",
-        "reads": "5040",
+        "reads": "4808",
         "intro": "架空民国+多男主+男洁+女主有异能+不圣母傻白甜 洛岚是洛家收养的四小姐，兄长倾心，少帅俯首，公子情深，枭雄臣服。她不做依附谁的菟丝花，只做掌控一切的女王。乱世沉浮，她步步为营，权色兼收，活成最耀眼的传奇。 排雷：有金手指，女主最美最强，架空历史，前期纸乱金迷，后期啃树皮（女主不啃）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/0a5d4c3cfa3aec7927e982a16e929930~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106464&x-signature=1Y6NpktTcYY%2BkAEhLSMV%2BoMyVkc%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/0a5d4c3cfa3aec7927e982a16e929930~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193289&x-signature=J4%2BnvjOG4hqvNfb2peoXGSx3fYw%3D",
         "url": "https://fanqienovel.com/page/7610623852460117054"
-      },
-      {
-        "title": "奉陪【民国】",
-        "author": "北斗二娘",
-        "reads": "3546",
-        "intro": "宋临夏初见裴定澜，她是北上寻亲的孤女，他是四九城里有名的家族败类，不肖子孙。 　　她差点命丧黄泉，他出手相救。 　　二见裴定澜，她是抵死不嫁的宋家三小姐，他是来看热闹的裴九爷。 　　她孤立无援，他拾步而来，腰间的枪递到她手上：“来，谁欺负你，就崩了谁，九爷给你做主。” 　　她上膛，转身，枪口对准他的眉心。 　　裴九爷眼中含笑：“宋小姐你忘恩负义，我对你掏心掏肺，你竟想要我的命。” 　　她毫不犹豫开枪。 　　三见裴定澜，她手握宋家大半资产，摇身成了宋家半个掌事人，他生死一线，为她所救。 　　他却无意生死，只求她帮忙，眸中恳切令人心酸：“事关国运，万望宋小姐相助。” 　　再后来，她问：“为什么？” 　　他说：“阿稚，我只愿，能做掌灯的那个人，不求流芳百世，只求以微茫之光，愿山河共在，日月同辉，烟火人间。” 　　*** 　　他们相爱一生，生离死别尝遍，半生颠沛，只求苍山负雪，明烛天南，若你如夸父追逐光明，那我奉陪到底，此生不悔。 　　在这片伤痕累累的土地上，弯腰的人遍地都是，但有些人的脊梁，直了一辈子。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oeebebcb24f4af127f6e63f826aeb297d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106464&x-signature=qV9SBzgI46QV2vE6cDGWfvHT2aQ%3D",
-        "url": "https://fanqienovel.com/page/7546240208195308606"
       },
       {
         "title": "碎女子",
         "author": "终生不变",
-        "reads": "3578",
+        "reads": "3701",
         "intro": "民国 西北，军阀、宗族、饥荒、鸦片 巧取豪夺 一见钟情 有甜有虐 一生深情 一个女人被强娶的一生，一个男人在乱世里的守护。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1b31145c5a1f7e6a942f9a050809642c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106464&x-signature=Y3pPOuOmtq1nueiFfQguBfIXVGE%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1b31145c5a1f7e6a942f9a050809642c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193289&x-signature=dwRRfUho%2FaT6%2BK4AUa%2BWuoomsi8%3D",
         "url": "https://fanqienovel.com/page/7620665417526168638"
       },
       {
-        "title": "陈皮阿四之多情种",
-        "author": "废纸叁千",
-        "reads": "3076",
-        "intro": "故事发生在四屠黄葵之后……初见时，浑身浴血的少年黑沉着眸子，无法无天的流氓做派。 后来竟将整颗真心奉上，只求她的怜惜…… 披着老九门外衣的小甜文 私设如山，努力不崩人设 给橘子皮一个小小的羁绊",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5e24a4376042fa975e586fc72a86cf44~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106464&x-signature=kJx7FbsR6HSM0ola2rEKCuMNYOo%3D",
-        "url": "https://fanqienovel.com/page/7537294523685145625"
+        "title": "奉陪【民国】",
+        "author": "北斗二娘",
+        "reads": "3529",
+        "intro": "宋临夏初见裴定澜，她是北上寻亲的孤女，他是四九城里有名的家族败类，不肖子孙。 　　她差点命丧黄泉，他出手相救。 　　二见裴定澜，她是抵死不嫁的宋家三小姐，他是来看热闹的裴九爷。 　　她孤立无援，他拾步而来，腰间的枪递到她手上：“来，谁欺负你，就崩了谁，九爷给你做主。” 　　她上膛，转身，枪口对准他的眉心。 　　裴九爷眼中含笑：“宋小姐你忘恩负义，我对你掏心掏肺，你竟想要我的命。” 　　她毫不犹豫开枪。 　　三见裴定澜，她手握宋家大半资产，摇身成了宋家半个掌事人，他生死一线，为她所救。 　　他却无意生死，只求她帮忙，眸中恳切令人心酸：“事关国运，万望宋小姐相助。” 　　再后来，她问：“为什么？” 　　他说：“阿稚，我只愿，能做掌灯的那个人，不求流芳百世，只求以微茫之光，愿山河共在，日月同辉，烟火人间。” 　　*** 　　他们相爱一生，生离死别尝遍，半生颠沛，只求苍山负雪，明烛天南，若你如夸父追逐光明，那我奉陪到底，此生不悔。 　　在这片伤痕累累的土地上，弯腰的人遍地都是，但有些人的脊梁，直了一辈子。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oeebebcb24f4af127f6e63f826aeb297d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193289&x-signature=z8avdZGk3iGCj6JMRwua6k6QTY8%3D",
+        "url": "https://fanqienovel.com/page/7546240208195308606"
       },
       {
         "title": "民国谍影：暗香玫瑰",
         "author": "想吃双黄蛋",
-        "reads": "3352",
+        "reads": "3492",
         "intro": "女主来自和平年代，更懂山河破碎之痛。 甘愿入地狱、隐姓名、负骂名，以一己之力斩奸除恶，守护家国。..",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9f0f451a32b3acd659085edd3526b563~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106464&x-signature=NRT9afEDC5Hs9g4AOWNuL8Fg%2Fv8%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9f0f451a32b3acd659085edd3526b563~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193289&x-signature=FepHMT79%2B6TpZowDWG%2FMA%2BRvsx8%3D",
         "url": "https://fanqienovel.com/page/7638171841705561113"
+      },
+      {
+        "title": "潜伏之佛龛易色",
+        "author": "开心何包蛋",
+        "reads": "3146",
+        "intro": "李涯是军统最硬的骨头，代号佛龛。 一场战争后，他在上级的安排下潜入延安，当起了教书先生，从那时起就步步为营，潜在黑夜。 直到一个叫冯信紫的女人，闯入了他的世界，她不断冲击着他的坚守与信仰。 后来，军统佛龛死了，活下来的是忠于家国的“红色利刃”。 他和她历经重重困难，终成眷属，二人并肩作战，守着那片无声的战场。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4d4b412defa3b79387b6a479a8b94c21~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193289&x-signature=w6MsdWEvo7m2J10SUl0y%2BkzShyM%3D",
+        "url": "https://fanqienovel.com/page/7636385540081732632"
       }
     ]
   },
@@ -220,214 +227,221 @@
     {
       "name": "民国言情",
       "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          "潜伏之佛龛易色"
+        ],
+        "dropped_books": [
+          {
+            "title": "陈皮阿四之多情种",
+            "intro": "故事发生在四屠黄葵之后……初见时，浑身浴血的少年黑沉着眸子，无法无天的流氓做派。 后来竟将整颗真心奉上，只求她的怜惜…… 披着老九门外衣的小甜文 私设如山，努力不崩人设 给橘子皮一个小小的羁绊"
+          }
+        ],
         "top_risers": [
           {
             "title": "倒闭首选：在青铜门开店",
             "change": "+2"
           },
           {
-            "title": "谍战，我是鬼子女贵族",
+            "title": "军阀养女：狼崽子的白月光是姐姐",
             "change": "+1"
           },
           {
-            "title": "沈小姐的婚约",
+            "title": "捂不热的军婚，她不要了",
             "change": "+1"
           }
         ],
         "top_fallers": [
           {
-            "title": "军阀养女：狼崽子的白月光是姐姐",
-            "change": "-2"
-          },
-          {
             "title": "谍战：我竟是敌方顶级女领导",
             "change": "-1"
           },
           {
-            "title": "酒后错撩杀猪匠",
+            "title": "我在民国续费人生",
+            "change": "-1"
+          },
+          {
+            "title": "沈小姐的婚约",
             "change": "-1"
           }
         ],
         "reads_growth": [
           {
             "title": "倒闭首选：在青铜门开店",
-            "growth": "+1274"
+            "growth": "+4000"
           },
           {
-            "title": "碎女子",
-            "growth": "+57"
+            "title": "谍战，我是鬼子女贵族",
+            "growth": "+1000"
           },
           {
-            "title": "谍战：我的动物军团杀疯了",
-            "growth": "+44"
+            "title": "民国谍影：暗香玫瑰",
+            "growth": "+140"
           }
         ],
-        "summary": "**🔥 题材趋势** 民国言情榜单主要围绕“谍战”、“军阀”、“乱世情缘”展开，融合了“闪婚”、“伪兄妹”、“强制爱”等强情节元素。时代背景下的家国情怀与个人命运交织是主要看点。\n**📖 读者偏好** 读者偏好甜虐交织、极限拉扯的情感线，同时对“双洁”、“HE”结局有一定要求。谍战题材中的“女特工”、“卧底”以及“金手指”设定也深受喜爱，增加了阅读的爽感和紧张感。\n**🆕 新上榜作品** 本期无新上榜作品，榜单相对稳定，显示出民国言情领域头部作品的持续吸引力。\n**📉 掉出榜单** 本期无作品掉出榜单，榜单竞争激烈，现有作品保持了较好的阅读热度。\n**💡 值得关注** 《闪婚，真千金嫁给了军阀大佬》以5.8万的在读量位居榜首，凸显了“军阀+闪婚+真千金”的组合魅力。同时，《长官的掌中谍》的“伪兄妹+养成+谍战”设定也展现了读者对复杂情感关系和时代背景融合的偏好。"
+        "summary": "## 番茄小说「民国言情」分类新书榜结构化分析\n\n**🔥 题材趋势**\n当前榜单主流题材集中在“谍战”和“军阀联姻/强取豪夺”两大类，其中“伪兄妹”、“养成”、“先婚后爱”等情感套路与“特工”、“卧底”等谍战元素扎堆出现。\n\n**📖 读者偏好**\n读者口味偏好甜虐交织的强情节故事，同时对“系统”、“金手指”和“穿越”这类能带来爽感的设定接受度高。\n\n**🆕 新上榜作品**\n《潜伏之佛龛易色》：将经典谍战IP与男女主情感纠葛相结合，展现了信仰与爱情的冲突与融合。\n\n**📉 掉出榜单**\n《陈皮阿四之多情种》：作为盗墓背景的民国言情，可能因IP热度下降或与主流谍战/军阀题材差异较大而掉榜。\n\n**💡 值得关注**\n《倒闭首选：在青铜门开店》：将“青铜门”这一热门IP元素与“开店系统”结合，题材新颖，有望吸引特定圈层读者。\n《酒后错撩杀猪匠》：以“糙汉”、“种田”、“先婚后爱”为核心，在民国背景下独辟蹊径，展现了不同于军阀豪门的市井烟火气。"
       },
       "books": [
         {
           "title": "闪婚，真千金嫁给了军阀大佬",
           "author": "初点点",
-          "reads": "5.8万",
+          "reads": "5.7万",
           "intro": "少帅程天循军务繁忙，最怕女人黏糊纠缠，他没时间应付。 　　秦言承诺，对他的事装聋作哑，不无理取闹、不索取感情，得到了他的信任，成功闪婚嫁入督军府。 　　婚后两人各取所需、各自敷衍，婚姻进行得很顺利。 　　直到他说：“你在我怀里肆无忌惮怀念你的旧情人，不适合吧？” 　　秦言：“你这是无理取闹。” 　　“我说我心里有你，你耳朵装聋。提到你的旧情人，你不聋了？” 　　秦言：“……”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc347c7c5973012220ffb1869f902f73a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106460&x-signature=Sxv9MxauZ0XBKk056fE54Pw1r7E%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc347c7c5973012220ffb1869f902f73a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193286&x-signature=6TvHj1v5TnK6CNtCC8eeCFKLKRc%3D",
           "url": "https://fanqienovel.com/page/7636393870938344472"
         },
         {
           "title": "长官的掌中谍",
           "author": "矮纸闲书客",
-          "reads": "2.2万",
+          "reads": "2.1万",
           "intro": "【伪兄妹｜养成｜民国谍战｜无血缘｜甜虐交织｜极限拉扯｜家国情怀｜时代群像｜双洁｜HE】 他从沪城战乱废墟里捡回她，一养，就是十四年。 那年她八岁，浑身破烂满脸灰尘，唯有一双眼睛亮得像灰烬里的火星，死死攥住他军装袖口的那一刻，就注定了两人这辈子的纠缠。 整个金陵城都知道，陆副站长审人从不手软，唯独对家里那位小公主，连句重话都舍不得说。 她怕打雷，他整夜守在房门外；她闹脾气，他追着哄；她软软叫一声哥哥，他应了十四年。 后来他才知道，他的小姑娘在他眼皮底下，偷了整整两年的情报。 他的偏爱，成了她最完美的保护色； 他的纵容，化作刺向自己阵营的利刃。 东窗事发那晚，他猩红着眼捏着她的下巴，眼底是淬了冰的疯魔： “我养了你十四年，你就是这么回报我的？” 她红着眼咬了他，骂他畜生。 他低低冷笑，指尖抚过她颤抖的唇，带着毁天灭地的狠劲： “既然你这么说，那我就让你看看，什么叫真正的畜生。” 十四年养育，爱是真的，恨也是真的。 他恨她的背叛，却更爱她眼里永不熄灭的光。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o908de7c1ee540a8eeef876502b6bd69a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106460&x-signature=W3bLVBrYxoaSFlW%2BiDJj%2BcdnRGk%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o908de7c1ee540a8eeef876502b6bd69a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193286&x-signature=3NvGy66xH4Q%2B3xOCpY6SLXnpAvU%3D",
           "url": "https://fanqienovel.com/page/7467880875636558873"
         },
         {
           "title": "谍战，我是鬼子女贵族",
           "author": "灵草谷的唐伞小僧",
-          "reads": "1.9万",
+          "reads": "2万",
           "intro": "新作品出炉，欢迎大家前往番茄小说阅读我的作品，希望大家能够喜欢，你们的关注是我写作的动力，我会努力讲好每个故事！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o61ba9a0dcfd5810306f1abf2d4d126bb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106460&x-signature=sRds3MmpV9KZfCzkpzRYezoBDRE%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o61ba9a0dcfd5810306f1abf2d4d126bb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193286&x-signature=fnmOOrvR%2FiaBla%2B0%2F0aPmjetwZc%3D",
           "url": "https://fanqienovel.com/page/7636685431718824984"
+        },
+        {
+          "title": "倒闭首选：在青铜门开店",
+          "author": "头痛",
+          "reads": "1.5万",
+          "intro": "【无cp+女主+系统+HE+从九门开始+日常流】 【本想写个2w字的短篇，结果刚开始第一章就定下了后面要写长的基调】 曲绫风，被【开店倒闭】系统绑定，一人一统一拍即合，为了完成任务，在青铜门里老老实实待了将近十一年。 全靠面包加牛奶过活。 在第十年的最后一天，门口倒下了一个差点破坏掉她任务的人。 不认识，喂点水给他全靠曲绫风良心未泯。 这一天成功过去，确定任务完成后，曲绫风才开始正式救助这位病患。 病患有眼疾，自称齐风。 然后被系统判定他是黑眼镜。 曲绫风想着反正这人以后也有女鬼跟着，多她一个不多，少她一个可不行。 她找不到路。 而且不用自己走路多好。 —— 任务完成后的曲绫风和系统简直就是解放天性的高山流水遇知音，一鬼专心买东西做攻略，一统致力于收集整理满足收藏癖。 不过她们都离不开黑瞎子。 因为买的食物和水果不经放，黑瞎子人高马大还能多吃些。 后面遇到另外几人，曲绫风和系统更高兴了。 这意味着她们可以放心地买吃的了。 差点被撑死的众人：。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o38113bb43579fc78faa65283c79293c6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193286&x-signature=mblEzDQxNWuAOtfG2DFI49qV9EY%3D",
+          "url": "https://fanqienovel.com/page/7637912401756572697"
         },
         {
           "title": "谍战：我竟是敌方顶级女领导",
           "author": "抢瑶瑶野干嘛",
-          "reads": "1.6万",
+          "reads": "1.5万",
           "intro": "【四十年代&谍战&无系统&无cp】 谁懂啊！现代外贸日语女经理一觉穿越，直接砸进华国大牢成了失忆女犯人！ 离谱的是，她长了张和倭国特高课女指挥官一模一样的脸！ 正主刚被暗杀，她就被军统当场捡走，强制拉去特训当替身间谍。 日语满级、情商爆表、搞情报自带天赋挂，她混进上海特高课疯狂卧底，偷偷给军统递情报。 全程被反派疯狂找茬怀疑身份，结果一块后腰胎记直接锁死身份，全员闭嘴！ 越查越崩溃：我哪是替身啊，我本人就是那个日本女大佬！ 我那个义兄竟是潜伏地下党。 从此她开启双轨打工模式，顶着日军高官马甲，一边忽悠鬼子，一边给两边递情报，在谍场躺赢封神 无cp",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o59f7080e28b06ca1d9cfde38177788be~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106460&x-signature=oRwxHmATKhhbS1DOdAEpLk0tP98%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o59f7080e28b06ca1d9cfde38177788be~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193286&x-signature=6x6kRGsshkTTBSYouJQfP4RN3hY%3D",
           "url": "https://fanqienovel.com/page/7624062180719070270"
         },
         {
           "title": "我在民国续费人生",
           "author": "她从雪中来",
-          "reads": "1.4万",
+          "reads": "1.3万",
           "intro": "【民国日常+金手指签到+轻松搞笑+微群像+青葱岁月+发家致富+背景板男主】 纪少微穿进自己氪过的民国游戏里，月卡只剩六天。不续费，就抹杀。 别人穿游戏是谈恋爱，她穿游戏是搞钱续命。 赛马场押冷门，陆宅晚宴当众破案，跟攻略对象合伙做生意。她把攻略对象的好感度，刷成了商业合伙人的信任值。 签到系统给道具？拿去换钱。 好感度涨了？拉来入股。 氪金玩家从不做亏本买卖，每一分好感都要变现。 民国日常，有校园里的青葱时光，也有街头巷尾的搞钱生意。 签到续命，搞钱为上。命悬一线，那就先赚它一笔。 纪少微每日三省吾身： 月卡续上了吗？ 银元攒够了没？ 今天比昨天多活一天了吗？ 温馨提醒：本文偏民国日常，非苏爽向，无乙女恋爱线，专注女主成长。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o431b6b6065a1a1c683dc59319e7e37fb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106460&x-signature=L4%2BH%2BMf4ZgqjQvGLbB%2Bt5rnf80w%3D",
+          "cover": "https://p9-reading-sign.fqnovelpic.com/novel-pic/p2o431b6b6065a1a1c683dc59319e7e37fb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193286&x-signature=iUez6Bpaezgl2wTGhXswPm5heto%3D",
           "url": "https://fanqienovel.com/page/7623236157978971160"
-        },
-        {
-          "title": "倒闭首选：在青铜门开店",
-          "author": "头痛",
-          "reads": "1.1万",
-          "intro": "【无cp+女主+系统+HE+从九门开始+日常流】 【本想写个2w字的短篇，结果刚开始第一章就定下了后面要写长的基调】 曲绫风，被【开店倒闭】系统绑定，一人一统一拍即合，为了完成任务，在青铜门里老老实实待了将近十一年。 全靠面包加牛奶过活。 在第十年的最后一天，门口倒下了一个差点破坏掉她任务的人。 不认识，喂点水给他全靠曲绫风良心未泯。 这一天成功过去，确定任务完成后，曲绫风才开始正式救助这位病患。 病患有眼疾，自称齐风。 然后被系统判定他是黑眼镜。 曲绫风想着反正这人以后也有女鬼跟着，多她一个不多，少她一个可不行。 她找不到路。 而且不用自己走路多好。 —— 任务完成后的曲绫风和系统简直就是解放天性的高山流水遇知音，一鬼专心买东西做攻略，一统致力于收集整理满足收藏癖。 不过她们都离不开黑瞎子。 因为买的食物和水果不经放，黑瞎子人高马大还能多吃些。 后面遇到另外几人，曲绫风和系统更高兴了。 这意味着她们可以放心地买吃的了。 差点被撑死的众人：。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o38113bb43579fc78faa65283c79293c6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106460&x-signature=ARhrMIxsz%2Fc5lQpBVkeqqI2jAE8%3D",
-          "url": "https://fanqienovel.com/page/7637912401756572697"
         },
         {
           "title": "酒后错撩杀猪匠",
           "author": "第六小只",
-          "reads": "1.1万",
+          "reads": "9733",
           "intro": "糙汉、种田、酒后错撩、先婚后爱 村人皆知，村东头的杨娇是出了名的娇。 小脸细腰，肤白如脂，媒人踏破了门槛，她一个都看不上。 直到村长寿宴上，她贪了几杯果酿，在麦田里和村西头那个糙汉杀猪匠滚作一团。 王莽一身蛮力，腰腿有使不完的劲儿，折腾得她哭了一整夜。 第二天酒醒，杨娇扶着酸软的腰，看着身旁浑身抓痕的男人，脑子里只有一个念头——跑！ 可那蛮汉却将她堵在墙角，嗓音粗哑：“昨晚的事，我认。你，我娶定了。” 从此，全村人都看见，那杀猪的糙汉身后多了个娇滴滴的小媳妇。 白日里，他杀猪卖肉，她刺绣补衣。 夜深时，他将她抵在灶台边，咬着她的耳朵低笑：“娇娇，昨晚的事，再复习一遍？” 杨娇被他圈在滚烫的胸膛和冰冷的灶台之间，双腿发软，欲哭无泪： 当初谁说杀猪匠老实本分的？这分明是头喂不饱的狼！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o84881cf79e754d98aa71dfae14829582~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106460&x-signature=qTNPPGlTIA5ZV09m684DlSiymgs%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o84881cf79e754d98aa71dfae14829582~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193286&x-signature=ofPbNbK2qoQYu2vvMPW%2FAVVQQGQ%3D",
           "url": "https://fanqienovel.com/page/7626002814052863000"
-        },
-        {
-          "title": "沈小姐的婚约",
-          "author": "月下三姑娘",
-          "reads": "8686",
-          "intro": "清醒理智女 vs 沉稳城府男 婚约是祖父生前定的，对方是上海滩最危险的男人——赵正。 我找他谈判：“一年之约，期满退婚。” 他淡笑：“好，你别后悔。”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o57517e55f1e6f97852e1842ece5ce743~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106460&x-signature=F2iDEmAXFVyI1c8HvTTR1QBwc6E%3D",
-          "url": "https://fanqienovel.com/page/7633052911202733118"
         },
         {
           "title": "军阀养女：狼崽子的白月光是姐姐",
           "author": "一只咖啡兔",
-          "reads": "9062",
+          "reads": "8106",
           "intro": "十五岁那年，沈棠成了许公馆的大小姐，许家独子许泽铭却是个混世魔王。 许太太病逝前拉着她的手说：“男人是靠不住的，替我照顾他。” 从此，她守着这句承诺，他守着这个姐姐。 民国乱世里，姐弟一场。是姐弟情深？还是青梅竹马？这份情感究竟会走向哪里？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/c5a2248f9cd7d93eaf5595ab08ade6ec~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106460&x-signature=XzUkc0n8kFnIB1VBQqkoPrlEsx0%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/c5a2248f9cd7d93eaf5595ab08ade6ec~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193286&x-signature=kpqYUgYsHNKjTIfsGml14fCX9D8%3D",
           "url": "https://fanqienovel.com/page/7631577945160551448"
+        },
+        {
+          "title": "沈小姐的婚约",
+          "author": "月下三姑娘",
+          "reads": "7939",
+          "intro": "清醒理智女 vs 沉稳城府男 婚约是祖父生前定的，对方是上海滩最危险的男人——赵正。 我找他谈判：“一年之约，期满退婚。” 他淡笑：“好，你别后悔。”",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o57517e55f1e6f97852e1842ece5ce743~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193286&x-signature=EinH3AAzQWRZytQlSflsQi2QM6E%3D",
+          "url": "https://fanqienovel.com/page/7633052911202733118"
         },
         {
           "title": "民国：我来自现代",
           "author": "生活进行时",
-          "reads": "7763",
+          "reads": "7438",
           "intro": "第一卷，为胜利而战。 宋小棠一个现代的灵魂，意外穿越到民国时期的1938年，一个六岁叫宋小棠的小姑娘身上，她既不是国党特工，也不是红党的地下党，她就是穿来给在上海做地下工作的父母帮忙的。 谁知帮着帮着，她也成了他们中的一员…… 第二卷，为国敛财。 讲的是一家三口奉命来到香港为国敛财期间，所发生的故事。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0c6925bf76bab7f28ba2907bad350cce~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106460&x-signature=J8878YL9cMoJqlFTTujTqQoUJAE%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0c6925bf76bab7f28ba2907bad350cce~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193286&x-signature=deB2y%2F%2FgJlmoFaWtYGWSU0dCwc0%3D",
           "url": "https://fanqienovel.com/page/7586646056583056408"
-        },
-        {
-          "title": "表妹复明后，被疯批少帅强夺了",
-          "author": "温酒残墨",
-          "reads": "7622",
-          "intro": "【失明表妹×少帅表哥+民国架空+强制爱+甜宠+双洁+非虐文】 整个邺城都知道，少帅霍妄捡了个瞎子表妹回来，疼惜得如珠如宝。 他会亲手喂她吃饭，在夜里守着她安睡，为她遮风挡雨。 阮瓷对霍妄充满信任和感激，毫不设防。 可不知从何时起，她渐渐察觉到身边各种不对劲。 同学在她长发遮掩的颈侧发现可疑红痕，莫名丢失又出现在床头的贴身小衣，房间中陌生的味道，还有疑似出轨的未婚夫…… 直到她意外复明，终于撞破了霍妄的秘密。 深夜，那个在她面前端方矜贵的男人，正用帕子漫不经心擦拭手指沾上的血迹。 “我的瓷瓷，不准任何人觊觎。” “谁敢多看她一眼，就把眼珠子挖了！” 阮瓷赫然发现，霍妄看她的眼神，分明是无法掩饰的占有欲！ 后来，霍妄将偷偷逃跑的她箍进怀里，唇瓣摩挲她耳垂，笑得病态又温柔：“瓷瓷，骗了我这么久，是不是该用你自己来还？” * 架空背景，非虐文，无分离战乱，排雷在第一章作话˙ᵕ˙ᰔ",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe0043a6cf4c09c684f6c346cd89c55c8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106464&x-signature=XjcI5TcHwGkXRwzIgFY5dzfjce4%3D",
-          "url": "https://fanqienovel.com/page/7614530541144001560"
         },
         {
           "title": "捂不热的军婚，她不要了",
           "author": "喜欢羊蹄风的小酥",
-          "reads": "7130",
+          "reads": "7175",
           "intro": "她是金陵首富唯一的千金，曾为他敛去光芒，甘做他笼中的金丝雀。他却在大婚之日奔赴战场，留她一人守着重病的自己，和一颗日渐冰冷的心。一封“离婚协议”，是她最后的体面。她远渡重洋，扯掉婚纱，在巴黎竖起“云裳”的招牌，让东方之美惊艳世界，也让所有人都知道——她宋茜，从来不是谁的附庸。而他，那个被誉为“苏家军魂”的冷面少帅，在死人堆里爬出来时，他从战场追到巴黎，从巴黎追回金陵。他当着满堂权贵的面，打翻她身边的“蓝颜”，攥着她的手腕，一字一句地宣布：“我苏志诚这辈子，就两样东西没撒过手——手里的枪，和眼前的你。”这是一场顶尖猎手与最美猎物的极致拉扯，也是烽火乱世里，一段关于尊严、等待与不灭爱意的传奇。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/00753f098bda063fa94842983d99d8a6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106464&x-signature=jHoED8RqDYBOWyzKpK1TZbztQqw%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/00753f098bda063fa94842983d99d8a6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193289&x-signature=PkrM6xLn7E9LZq4j994H2AwnEwM%3D",
           "url": "https://fanqienovel.com/page/7602962303884987417"
+        },
+        {
+          "title": "表妹复明后，被疯批少帅强夺了",
+          "author": "温酒残墨",
+          "reads": "7100",
+          "intro": "【失明表妹×少帅表哥+民国架空+强制爱+甜宠+双洁+非虐文】 整个邺城都知道，少帅霍妄捡了个瞎子表妹回来，疼惜得如珠如宝。 他会亲手喂她吃饭，在夜里守着她安睡，为她遮风挡雨。 阮瓷对霍妄充满信任和感激，毫不设防。 可不知从何时起，她渐渐察觉到身边各种不对劲。 同学在她长发遮掩的颈侧发现可疑红痕，莫名丢失又出现在床头的贴身小衣，房间中陌生的味道，还有疑似出轨的未婚夫…… 直到她意外复明，终于撞破了霍妄的秘密。 深夜，那个在她面前端方矜贵的男人，正用帕子漫不经心擦拭手指沾上的血迹。 “我的瓷瓷，不准任何人觊觎。” “谁敢多看她一眼，就把眼珠子挖了！” 阮瓷赫然发现，霍妄看她的眼神，分明是无法掩饰的占有欲！ 后来，霍妄将偷偷逃跑的她箍进怀里，唇瓣摩挲她耳垂，笑得病态又温柔：“瓷瓷，骗了我这么久，是不是该用你自己来还？” * 架空背景，非虐文，无分离战乱，排雷在第一章作话˙ᵕ˙ᰔ",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe0043a6cf4c09c684f6c346cd89c55c8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193289&x-signature=urUyDtBtlQgRaWNds%2FTxEcAybeg%3D",
+          "url": "https://fanqienovel.com/page/7614530541144001560"
         },
         {
           "title": "人间正道是沧桑：四十年来家国",
           "author": "羚羊挂角也无形",
-          "reads": "6576",
+          "reads": "6231",
           "intro": "《人间正道是沧桑》同人 楚桐×杨立仁 楚桐孤身一人穿越到这个凄风苦雨的年代，纵使出身优渥，背景深厚，却深知自己不是什么天纵奇才，以自己的能力和意志无法改变任何历史潮流。在这几十年的动荡里，不知道哪一天就会被一颗子弹、一次轰炸带走性命，本打算不牵扯进那些复杂的人和事当中，尽自己的能力和优势为国家做出哪怕微小的贡献也好，但命运和缘分始终引导着她走向另一个方向，也走向他——杨立仁的身边",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o731699d3d58000b3e6181a11fcc89c27~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106464&x-signature=%2FGqlrI3TCslM%2F4JObKc673LQgkM%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o731699d3d58000b3e6181a11fcc89c27~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193289&x-signature=fMnFbTGOAnFrGBIJnja5TBsa8Xk%3D",
           "url": "https://fanqienovel.com/page/7626765521886661657"
         },
         {
           "title": "潜伏：风雨故人来",
           "author": "砚秋知晚",
-          "reads": "6059",
+          "reads": "5856",
           "intro": "潜伏同人文 【HE】 津门远，江南近 奉命返乡述职，李涯本以为不过是一次寻常复命。 可他万万没有想到，此番归来，竟会重逢儿时故人。 江南旧影，长辈曾随口定下的一纸姻缘，在岁月里沉寂多年。 如今再见，儿时那一句轻许的姻缘，在兵荒马乱的年代，还能算数吗？ 办公室里，余则成拍着他的肩，笑得意味深长：“李队长，你就当是‘为国献身’吧。” 而上司吴敬中更是老谋深算，以威逼利诱之态，“在我眼里，不注重情分的人难堪大用。” 从满心不愿，到步步深陷，他在信仰与私情之间摇摆，在权谋与真心之间挣扎。 cr：Merryweather🌙",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocb51467188f66aa787bdf146fcedd974~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106464&x-signature=PCq%2FW6BWKMnMfu95t%2F5bSNDNew8%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocb51467188f66aa787bdf146fcedd974~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193289&x-signature=tbOOqbEiKCKd%2FKjUWYoRFTWat5E%3D",
           "url": "https://fanqienovel.com/page/7610427603467389976"
         },
         {
           "title": "谍战：我的动物军团杀疯了",
           "author": "多多蛋挞",
-          "reads": "5099",
+          "reads": "5171",
           "intro": "乱世狼烟，日寇横行。 孤女禾苗，觉醒万兽之主系统。 鼠潜地道，鸦探长空； 猫狗盯梢，蜂群破阵； 毒蛇隐杀，步步为营。 以鸟兽为耳目，以虫蛇为刀锋。 隐于市井，搅动谍战迷局； 孤身抗敌，踏平倭寇凶焰。 你抓不到我的人，更防不住我的万兽军团！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o23fc83da07ddf40e2e00ef58edb41514~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106464&x-signature=wB6yK1RYPnCADesa1S2MyNJTCYo%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o23fc83da07ddf40e2e00ef58edb41514~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193289&x-signature=%2BfGPwKmzoS92pNnsFHezy5WwZ9M%3D",
           "url": "https://fanqienovel.com/page/7628302723569437758"
         },
         {
           "title": "穿越民国：小姐的后院着火了",
           "author": "又瞎",
-          "reads": "5040",
+          "reads": "4808",
           "intro": "架空民国+多男主+男洁+女主有异能+不圣母傻白甜 洛岚是洛家收养的四小姐，兄长倾心，少帅俯首，公子情深，枭雄臣服。她不做依附谁的菟丝花，只做掌控一切的女王。乱世沉浮，她步步为营，权色兼收，活成最耀眼的传奇。 排雷：有金手指，女主最美最强，架空历史，前期纸乱金迷，后期啃树皮（女主不啃）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/0a5d4c3cfa3aec7927e982a16e929930~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106464&x-signature=1Y6NpktTcYY%2BkAEhLSMV%2BoMyVkc%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/0a5d4c3cfa3aec7927e982a16e929930~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193289&x-signature=J4%2BnvjOG4hqvNfb2peoXGSx3fYw%3D",
           "url": "https://fanqienovel.com/page/7610623852460117054"
-        },
-        {
-          "title": "奉陪【民国】",
-          "author": "北斗二娘",
-          "reads": "3546",
-          "intro": "宋临夏初见裴定澜，她是北上寻亲的孤女，他是四九城里有名的家族败类，不肖子孙。 　　她差点命丧黄泉，他出手相救。 　　二见裴定澜，她是抵死不嫁的宋家三小姐，他是来看热闹的裴九爷。 　　她孤立无援，他拾步而来，腰间的枪递到她手上：“来，谁欺负你，就崩了谁，九爷给你做主。” 　　她上膛，转身，枪口对准他的眉心。 　　裴九爷眼中含笑：“宋小姐你忘恩负义，我对你掏心掏肺，你竟想要我的命。” 　　她毫不犹豫开枪。 　　三见裴定澜，她手握宋家大半资产，摇身成了宋家半个掌事人，他生死一线，为她所救。 　　他却无意生死，只求她帮忙，眸中恳切令人心酸：“事关国运，万望宋小姐相助。” 　　再后来，她问：“为什么？” 　　他说：“阿稚，我只愿，能做掌灯的那个人，不求流芳百世，只求以微茫之光，愿山河共在，日月同辉，烟火人间。” 　　*** 　　他们相爱一生，生离死别尝遍，半生颠沛，只求苍山负雪，明烛天南，若你如夸父追逐光明，那我奉陪到底，此生不悔。 　　在这片伤痕累累的土地上，弯腰的人遍地都是，但有些人的脊梁，直了一辈子。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oeebebcb24f4af127f6e63f826aeb297d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106464&x-signature=qV9SBzgI46QV2vE6cDGWfvHT2aQ%3D",
-          "url": "https://fanqienovel.com/page/7546240208195308606"
         },
         {
           "title": "碎女子",
           "author": "终生不变",
-          "reads": "3578",
+          "reads": "3701",
           "intro": "民国 西北，军阀、宗族、饥荒、鸦片 巧取豪夺 一见钟情 有甜有虐 一生深情 一个女人被强娶的一生，一个男人在乱世里的守护。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1b31145c5a1f7e6a942f9a050809642c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106464&x-signature=Y3pPOuOmtq1nueiFfQguBfIXVGE%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1b31145c5a1f7e6a942f9a050809642c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193289&x-signature=dwRRfUho%2FaT6%2BK4AUa%2BWuoomsi8%3D",
           "url": "https://fanqienovel.com/page/7620665417526168638"
         },
         {
-          "title": "陈皮阿四之多情种",
-          "author": "废纸叁千",
-          "reads": "3076",
-          "intro": "故事发生在四屠黄葵之后……初见时，浑身浴血的少年黑沉着眸子，无法无天的流氓做派。 后来竟将整颗真心奉上，只求她的怜惜…… 披着老九门外衣的小甜文 私设如山，努力不崩人设 给橘子皮一个小小的羁绊",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5e24a4376042fa975e586fc72a86cf44~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106464&x-signature=kJx7FbsR6HSM0ola2rEKCuMNYOo%3D",
-          "url": "https://fanqienovel.com/page/7537294523685145625"
+          "title": "奉陪【民国】",
+          "author": "北斗二娘",
+          "reads": "3529",
+          "intro": "宋临夏初见裴定澜，她是北上寻亲的孤女，他是四九城里有名的家族败类，不肖子孙。 　　她差点命丧黄泉，他出手相救。 　　二见裴定澜，她是抵死不嫁的宋家三小姐，他是来看热闹的裴九爷。 　　她孤立无援，他拾步而来，腰间的枪递到她手上：“来，谁欺负你，就崩了谁，九爷给你做主。” 　　她上膛，转身，枪口对准他的眉心。 　　裴九爷眼中含笑：“宋小姐你忘恩负义，我对你掏心掏肺，你竟想要我的命。” 　　她毫不犹豫开枪。 　　三见裴定澜，她手握宋家大半资产，摇身成了宋家半个掌事人，他生死一线，为她所救。 　　他却无意生死，只求她帮忙，眸中恳切令人心酸：“事关国运，万望宋小姐相助。” 　　再后来，她问：“为什么？” 　　他说：“阿稚，我只愿，能做掌灯的那个人，不求流芳百世，只求以微茫之光，愿山河共在，日月同辉，烟火人间。” 　　*** 　　他们相爱一生，生离死别尝遍，半生颠沛，只求苍山负雪，明烛天南，若你如夸父追逐光明，那我奉陪到底，此生不悔。 　　在这片伤痕累累的土地上，弯腰的人遍地都是，但有些人的脊梁，直了一辈子。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oeebebcb24f4af127f6e63f826aeb297d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193289&x-signature=z8avdZGk3iGCj6JMRwua6k6QTY8%3D",
+          "url": "https://fanqienovel.com/page/7546240208195308606"
         },
         {
           "title": "民国谍影：暗香玫瑰",
           "author": "想吃双黄蛋",
-          "reads": "3352",
+          "reads": "3492",
           "intro": "女主来自和平年代，更懂山河破碎之痛。 甘愿入地狱、隐姓名、负骂名，以一己之力斩奸除恶，守护家国。..",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9f0f451a32b3acd659085edd3526b563~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782106464&x-signature=NRT9afEDC5Hs9g4AOWNuL8Fg%2Fv8%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9f0f451a32b3acd659085edd3526b563~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193289&x-signature=FepHMT79%2B6TpZowDWG%2FMA%2BRvsx8%3D",
           "url": "https://fanqienovel.com/page/7638171841705561113"
+        },
+        {
+          "title": "潜伏之佛龛易色",
+          "author": "开心何包蛋",
+          "reads": "3146",
+          "intro": "李涯是军统最硬的骨头，代号佛龛。 一场战争后，他在上级的安排下潜入延安，当起了教书先生，从那时起就步步为营，潜在黑夜。 直到一个叫冯信紫的女人，闯入了他的世界，她不断冲击着他的坚守与信仰。 后来，军统佛龛死了，活下来的是忠于家国的“红色利刃”。 他和她历经重重困难，终成眷属，二人并肩作战，守着那片无声的战场。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4d4b412defa3b79387b6a479a8b94c21~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782193289&x-signature=w6MsdWEvo7m2J10SUl0y%2BkzShyM%3D",
+          "url": "https://fanqienovel.com/page/7636385540081732632"
         }
       ]
     }

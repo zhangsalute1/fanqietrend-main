@@ -1,41 +1,44 @@
 {
   "type": "玄幻言情",
-  "date": "2026-06-17",
-  "prev_date": "2026-06-16",
+  "date": "2026-06-18",
+  "prev_date": "2026-06-17",
   "category": {
     "name": "玄幻言情",
     "trend": {
-      "new_count": 2,
-      "dropped_count": 2,
+      "new_count": 1,
+      "dropped_count": 1,
       "new_books": [
-        "凤命被夺后，我除祟续命",
-        "小师妹五界第一，天才见她都破防"
+        "重生成NPC我成了隐藏BOSS"
       ],
       "dropped_books": [
         {
-          "title": "什么，那是阐教大师姐？！",
-          "intro": "（无cp+亲情向）蘅音穿越了，成了洪荒中的一缕先天乙木之气，并拜入三清之一玉清元始的门下。 原本过得好好的，却突然进入平行时空，遇到了怒气冲冲的通天。 通天很清楚自己二哥门下没有蘅音这个弟子，但却发现"
-        },
-        {
-          "title": "涅槃修仙，我说能飞升就能飞升",
-          "intro": "［传统修仙+无CP+不圣母+音修+女强+升级流+五灵根+炼器+金手指+灵宠］ 封玥被世间唯一一枚先天至宝五行涅槃珠带着，在修仙界重活一世。 这一世，她双亲在修仙界顶级宗门苍玄宗附近的仙城经营酒铺，一出"
+          "title": "病弱龙崽的哥哥是大恶龙",
+          "intro": "【团宠＋无cp＋白切黑＋成长向＋治愈】 龙族由世界孕育强大且稀少，龙蛋更是如此，千年甚至万年才能孕育出一枚。 罗伊作为这一代的龙崽，可谓是备受宠爱。 只是这份宠爱有些沉重。 让他刚破壳就成了族中唯一一"
         }
       ],
       "top_risers": [
         {
-          "title": "明日方舟：岁炎录",
-          "change": "+4"
+          "title": "胎穿后我决定低调，但实力不允许",
+          "change": "+2"
         },
         {
-          "title": "我，恶毒女配？杀穿龙傲天剧本！",
-          "change": "+3"
+          "title": "穿成男频文那早死嫡哥的废材妻",
+          "change": "+1"
         },
         {
-          "title": "病弱龙崽的哥哥是大恶龙",
-          "change": "+3"
+          "title": "可拉倒吧！我娘胎里签到就无敌了",
+          "change": "+1"
         }
       ],
       "top_fallers": [
+        {
+          "title": "明日方舟：岁炎录",
+          "change": "-4"
+        },
+        {
+          "title": "剑仙魔尊别舔女主！你妈被气活了",
+          "change": "-1"
+        },
         {
           "title": "易孕女修，大佬都对我垂涎欲滴",
           "change": "-1"
@@ -43,91 +46,91 @@
       ],
       "reads_growth": [
         {
-          "title": "死后诈尸诅咒，仙门上下悔悔悔",
-          "growth": "+3000"
+          "title": "穿书被龙掳走，我被龙族当崽了？",
+          "growth": "+9000"
         },
         {
-          "title": "穿书被龙掳走，我被龙族当崽了？",
+          "title": "死后诈尸诅咒，仙门上下悔悔悔",
           "growth": "+2000"
         },
         {
-          "title": "穿成男频文那早死嫡哥的废材妻",
-          "growth": "+1000"
+          "title": "胎穿后我决定低调，但实力不允许",
+          "growth": "+2000"
         }
       ],
-      "summary": "**🔥 题材趋势** 玄幻言情榜单呈现多元化趋势，涵盖“穿书”、“修仙”、“异世采集”、“末世穿越”等多种设定。其中，“万人迷”、“系统金手指”和“爽文”元素是主要驱动力。\n**📖 读者偏好** 读者钟情于女主“开挂逆袭”、“团宠”、“无CP或多男主全收”的剧情，强调女主的强大与独立。对“易孕女修”等猎奇设定也有一定兴趣。\n**🆕 新上榜作品** 《凤命被夺后，我除祟续命》和《小师妹五界第一，天才见她都破防》新上榜，前者侧重复仇逆袭，后者强调大女主爽文，均符合当前读者对强女主的期待。\n**📉 掉出榜单** 《什么，那是阐教大师姐？！》和《涅槃修仙，我说能飞升就能飞升》掉出榜单，可能反映出读者对纯亲情向或传统修仙文的兴趣略有下降，或作品后期内容未能保持吸引力。\n**💡 值得关注** 《穿书被龙掳走，我被龙族当崽了？》以25.3万在读量遥遥领先，其“龙系亲和”的独特设定和搞笑风格是亮点。多部作品强调“男全洁”和“雄竞修罗场”，迎合了女频读者的核心爽点。"
+      "summary": "**🔥 题材趋势** “穿书”、“系统”和“修仙”仍是玄幻言情的主流，但“大女主”、“无CP”和“团宠”设定逐渐增多，显示出女性独立与成长的主题受到重视。\n**📖 读者偏好** 读者对“万人迷”、“男全洁”、“多男主全收”的甜宠文有强烈需求，同时“爽文”、“逆袭”和“金手指”是吸引读者的重要元素。\n**🆕 新上榜作品** 《重生成NPC我成了隐藏BOSS》以游戏世界观和NPC逆袭为特色，结合西幻奇幻元素，带来新鲜感。\n**📉 掉出榜单** 《病弱龙崽的哥哥是大恶龙》的掉榜可能说明纯粹的团宠或无CP设定若缺乏其他创新点，难以持续保持高位。\n**💡 值得关注** “修仙+万人迷+雄竞”的组合在榜单中表现突出，且出现“易孕多子系统”等大胆创新设定，预示着玄幻言情在寻求更刺激、更具争议性的叙事方式。"
     },
     "books": [
       {
         "title": "穿书被龙掳走，我被龙族当崽了？",
         "author": "超爱吃咖喱",
-        "reads": "25.3万",
+        "reads": "26.2万",
         "intro": "分刚会涨/搞笑/绝不让女主窝囊/天才/有cp 沈舒安穿书了，她穿成了一本修仙文中女主的妹妹。 但没想到开局直面宗门的外门大典，还得跟着众人一起表演剑阵。 而刚穿来的她，明明连御剑都御不明白。 情急之下，沈舒安只得呼唤系统，赌一手新手大礼包。 结果：【特殊体质：龙系亲和】 效果：可大幅增加体质和龙系魔法天赋，大幅提升巨龙对你的初始好感度。 副作用：有百分之九十九的几率被巨龙掳走，宿主，接下来请为自己而奋斗吧~ 沈舒安：“？这不修仙文吗，魔法什么鬼，巨龙又是什么鬼？” 但眼看剑阵将起，就剩她还僵在原地的时候。 忽地，天地骤暗，一道遮天黑影轰然从苍穹压下—— “啥意思，圣明宗，你家怎会有我龙族小崽？！” 龙吟响彻全场，一双黄金巨瞳如烈日高悬。 一条庞大到足以遮天蔽日的五爪金龙惊愕震怒。 大典上全体修士猝不及防，风中凌乱。 沈舒安也人傻了：“不是，系统，你来真的？” 下一秒，一股无形之力将她卷起，沈舒安连忙朝下方伸手大喊： “啊！救命！姐，你知道的，我是娘爹亲生的啊！” “捞捞！” 女主沈晚秋：“？？？” 圣明宗众人：“？？？” - 【哎呀，龙族和人族你们别打啦！】 【天才修仙爽，一直修仙一直爽】 【龙族太子孤僻高傲？没有呀，他大好人",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o933359555731ff0eaf246b9d19759f62~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278438&x-signature=ptlIQJCQX6jdtmwyhls8MmCig2k%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o933359555731ff0eaf246b9d19759f62~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364117&x-signature=fd6VP8WNqZsRC3UIRNUi4oRkwEA%3D",
         "url": "https://fanqienovel.com/page/7634800241266412569"
       },
       {
         "title": "死后诈尸诅咒，仙门上下悔悔悔",
         "author": "每天一顿饭",
-        "reads": "10.6万",
+        "reads": "10.8万",
         "intro": "关山岄十岁穿越，被师尊捡回仙门。 　　二十岁被小师妹陷害，当着全宗上下所有人的面处以极刑。 　　本想着死了就死了，说不定还能穿越回去，谁知死后系统才来。 　　人都死了，绑定系统还有什么用？ 　　关山岄满腔怨气，好在系统破例给了三次诅咒机会。 　　怨气消散，这还像点话，在众人的目光中，关山岄诈尸了。 　　她诅咒小师妹死。 　　诅咒师尊死。 　　诅咒全宗门骂她的人都去死。 　　师尊气极，一招将她的尸体轰成灰。 　　—— 　　仙门所有人都以为诅咒不过是关山岄无能放出的狠话，直到第一个诅咒成真，所有人都后悔了。 　　更让他们悔的是，被诅咒死后，为什么还能见到关山岄？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob20d6c647a749abbdf135b59e1a00cba~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278438&x-signature=3KuaRBWDCMlx2O5FXbRL%2FonCPQI%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob20d6c647a749abbdf135b59e1a00cba~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364117&x-signature=9NgV0%2Fk2LcgU25dZvEZZx5Ofbsc%3D",
         "url": "https://fanqienovel.com/page/7639772279101983806"
       },
       {
         "title": "被夺气运后，我靠双修飞升成神",
         "author": "小鹅超爱写",
-        "reads": "7.8万",
+        "reads": "7.5万",
         "intro": "【刚出评分！还会涨的！】 【男全洁+修仙+系统+万人迷+1vn+多男主全收】 【万人嫌变万人迷】 穿成被绿茶夺走气运的万人嫌炮灰，沈微澜睁眼就发现自己正压在冰清玉洁的化神期师尊身上。 面对高岭之花拼死压抑的喘息，她选择直接强上！ 绑定双修逆袭系统，只要撩拨那些曾偏心绿茶的男神们，就能夺回气运，原地飞升！ 从此，剧情走向彻底崩坏—— 傲娇小师弟眼尾泛红，将她堵在墙角：“我中了你的情蛊，你要对我负责到底！” 一向端方守节的温润大师兄步步紧逼…… 至于那晚被强上的高冷师尊？他红着眼：“逆徒，你到底还有多少事瞒着为师？”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7464a80875e2be9e3d6ee92474728a27~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278438&x-signature=%2FEc0B%2FGfcFW9jlSe%2FmvE5OX2q%2FE%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7464a80875e2be9e3d6ee92474728a27~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364117&x-signature=VcGDW85AI%2BrJQAB0cgnnTmewnpY%3D",
         "url": "https://fanqienovel.com/page/7614732062435593241"
       },
       {
         "title": "异世采集：废柴辅灵师好运连连",
         "author": "东方有吉",
-        "reads": "6.5万",
+        "reads": "6.2万",
         "intro": "【团宠+异世采集文+无CP+锦鲤好运+炼丹炼器+无系统】 （评分刚开） 穆秋时在15岁觉醒下品天赋后，意外得到一份许愿券，获得“锦鲤好运”buff，从此开启躺赢人生……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od2136a314f733d1ffd0e268f0184453d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278438&x-signature=q9IX%2Fs7d9SfU27jif3BmHHVKp4I%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od2136a314f733d1ffd0e268f0184453d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364117&x-signature=bZj6qWGwdJp5%2F0htYU0GX6luBKE%3D",
         "url": "https://fanqienovel.com/page/7628445867799759896"
+      },
+      {
+        "title": "穿成男频文那早死嫡哥的废材妻",
+        "author": "溜溜鼠",
+        "reads": "5.7万",
+        "intro": "【古代玄幻，娇媚大小姐x美惨强男主早死哥】 苏颜玉，世家大族天赋废一个，奈何生的实在美丽，家族难弃之。 宋砚清，男频爽文里的顶级世家嫡长子，男主的嫡大哥，天赋异禀，天之骄子，奈何意外陡生，天赋受损故弃之。 苏家与宋家两家早有婚约，因宋家天之骄子天赋受损天骄变废材，两家一拍即合，两人喜结连理成夫妻。 家族弃子，废材夫妻联手种灵物养灵兽，携手共进把家护。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4b4cd517e70cd09de364f48b666699a3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364117&x-signature=pUU0jpw37N%2BPPzO2gIeGPuHBcKE%3D",
+        "url": "https://fanqienovel.com/page/7631467175995264062"
       },
       {
         "title": "剑仙魔尊别舔女主！你妈被气活了",
         "author": "南小非",
         "reads": "5.6万",
         "intro": "【开局无敌＋爽文＋训儿、训夫、训全世界】 苏明凰刚继任玄天宗就被天雷劈死。 死后她才知道自己活在话本里，一家四口全是反派。 大儿子是苦修无情道的天才剑修，爱上女主走火入魔，最终被杀夫证道。 二儿子是心狠手辣的魔族少主，对女主强取豪夺失败后，被男主斩于剑下。 还有清冷神尊恨海情天，囚禁女主作为亡妻替身，幡然醒悟后将宗门赠予女主。 苏明凰：我是亡妻？ - 百年后，故事开始，苏明凰重生在女主枉死的师姐身上。 刚睁眼女主就要夺她金丹。 青梅竹马未婚夫道德绑架。 一巴掌扇死。 亲手拉扯大的小师弟杀人夺丹。 两巴掌扇死。 女主颠倒黑白，更是降龙十八掌。 宗主偏心舞弊，苏明凰不怕。 她踩在宗主的肩膀上，笑的猖狂：“师弟，宗主你当不明白，换我来！” 玄天宗，她才是真祖宗。 - 剑道天才为女主鸣不平，魔族少主为女主出恶气。 所有人都以为玄天宗要倒大霉。 就见苏明凰抡起长剑：“逆子，跪下！” - 玄天宗落魄百年，新任宗主是个乳臭未干的臭丫头。 众人唱衰，没过多久却发现他们错了。 这臭丫头太强了！ 新一代天才，她单手碾碎。 其他宗门长老，她乱棍打死。 隐世家族大能，她一剑荡平。 就连号称半步登天的神尊，在她面前也俯首称臣。 这是人！？ 这他爹的是当年的混世魔王回来了！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o615e8be3ffbf780d820849fcc9bd0bce~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278438&x-signature=C%2Fwzydzz92LiId5uoJbjkbzpOhY%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o615e8be3ffbf780d820849fcc9bd0bce~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364117&x-signature=JRus72N5EQ9RhXGZ7rLjyuYsDvk%3D",
         "url": "https://fanqienovel.com/page/7506892837129030718"
-      },
-      {
-        "title": "穿成男频文那早死嫡哥的废材妻",
-        "author": "溜溜鼠",
-        "reads": "5.6万",
-        "intro": "【古代玄幻，娇媚大小姐x美惨强男主早死哥】 苏颜玉，世家大族天赋废一个，奈何生的实在美丽，家族难弃之。 宋砚清，男频爽文里的顶级世家嫡长子，男主的嫡大哥，天赋异禀，天之骄子，奈何意外陡生，天赋受损故弃之。 苏家与宋家两家早有婚约，因宋家天之骄子天赋受损天骄变废材，两家一拍即合，两人喜结连理成夫妻。 家族弃子，废材夫妻联手种灵物养灵兽，携手共进把家护。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4b4cd517e70cd09de364f48b666699a3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278438&x-signature=jauDmNK2fTs1UuGKELPuH0Vi0Lw%3D",
-        "url": "https://fanqienovel.com/page/7631467175995264062"
       },
       {
         "title": "穿成耽美文女配男主全贴上来了",
         "author": "狠毒的辣条",
-        "reads": "5.4万",
+        "reads": "5.3万",
         "intro": "（评分刚开，会涨的宝宝们不要被吓跑了） 【万人迷玛丽苏+1vn+男全洁+搞笑轻松+一见钟情梗】 奚泱最摆的那一年系统出现了，它说其实她穿进了一本耽美文里。 文中被群狼环伺强取豪夺的主角受，正是那个亲手把她捡回来养大的师兄慕屿。 而她作为文中戏份最多的女配，唯一的作用就是主角们play的一环，甚至读者们还给她取了个亲切的绰号“无能的师妹”。 系统还告诉她主角受已经觉醒了自我意识，为了逃离原剧情线一直在自杀。 为了不当无能的师妹，也为了捍卫师兄的屁股，奚泱毅然决然地走上了拯救师兄的道路。 只是...... 原本应该落在慕屿身上或窥伺，或觊觎、占有的目光怎么全都落在她身上了？ 而且慕屿看她的眼神也算不上清白。 —— 一向待人温和礼遇最是冷静自持的师兄：“师妹于我而言一直如同亲妹。” 吃醋吃疯后的某人：“我与泱泱可有血缘？既然没有泱泱又算我哪门子的亲妹？”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6270a40267107eb2b44712bf8d22fbda~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278438&x-signature=d%2Bv7KbDRRLzGFes3hbGK%2Bupgxvs%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6270a40267107eb2b44712bf8d22fbda~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364117&x-signature=8im7PB8W03zkoExvh%2BhzolYLpKQ%3D",
         "url": "https://fanqienovel.com/page/7635901914214845465"
       },
       {
         "title": "穿成断供留子食修小摊爆火美利坚",
         "author": "星星塔娜",
-        "reads": "5.1万",
+        "reads": "4.9万",
         "intro": "极品饭灵根的食修道祖江荨一朝飞升 再睁眼发现自己穿成了差点饿死的小可怜 在美利坚留学 亲爹后妈忽然断供 即将被斩杀线送走时江荨穿了过来 烤冷面 酱香饼 肉蛋堡 小烧烤 那都是啥？没关系，不重要。 脑子没反应过来身体已经去排队了呢 华国留子们过大年似的奔走相告： 江老板出摊了！速来速来！ 眼看着小摊生意越来越好 食客开始感到不对劲 老牌影后 顶流明星 金融大鳄 政界新贵 怎么全来到了这个小摊前 又一个比一个恭敬？ 江荨：排好队哈 美利坚队长来了也得排队！ —————————— 美食＋现代修仙文 无cp 细水长流 不建议空腹阅读",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od960da2bac30c3bbf4cab73fbd6b5514~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278438&x-signature=Ysx84eLD6rMTEFhCs2FsxgM6SVU%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od960da2bac30c3bbf4cab73fbd6b5514~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364117&x-signature=jBkbDljxqTRvbopaMCptR1oxi%2Fc%3D",
         "url": "https://fanqienovel.com/page/7626601175718038553"
       },
       {
         "title": "资质平平，但顶美",
         "author": "剪雪成裳",
-        "reads": "4.9万",
+        "reads": "4.6万",
         "intro": "【修仙+万人迷+男全洁+苏文+女嬷+金手指读档+软饭硬吃】 青云宗外门弟子冷素心，是日月也不能掩其辉的绝世美人。 这样的绝世容光，若放在真仙身上，那便是望之如仰观日月，令人不敢直视、不敢亵渎的姑射神人。 可她偏偏只有炼气五层。 她不知道，那些看似高高在上、渊渟岳峙的前辈高人，都在用什么样的眼神看她。 * 资质平平无奇，但顶级美貌 排雷：大量凝女主，强取豪夺，强制",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of74966078217a99e28ede7b4a5313969~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278438&x-signature=Fpcn4FhoeXpwNxCHwujHWJLeO3k%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of74966078217a99e28ede7b4a5313969~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364117&x-signature=HiM9CK7t%2FP3NbADsb4VLfakWbQM%3D",
         "url": "https://fanqienovel.com/page/7561251663562935320"
       },
       {
@@ -135,71 +138,63 @@
         "author": "子之木",
         "reads": "4.3万",
         "intro": "评分低是因为刚开分，还没开始涨T_T 【胎穿+无cp+升级爽文+捡漏+金手指】 　　牧筝穿越以来，一直以为她娘拿了古代乡村版娇妻带球跑剧本。 　　可谁成想呢！ 　　五岁时她娘一个晴天霹雳砸在她脑袋上。 　　好消息，这原来是个男女平等实力为尊的修仙世界！ 　　坏消息，她娘扔下五岁的她跑路了！ 　　走前都没给她指指通往修真界的路…… 　　就在她打算收拾收拾加入丐帮打听消息时，修真界来招收弟子了。 　　从此以后，第一宗门多了个超级天才。 　　天生神族血脉，体质超强！ 　　寻宝神通，人形宝贝探测仪！ 　　风火满值极品灵根，人形灵气吸收机！ 　　什么？穿书女？ 　　剧情，拿来吧你！ 　　牧筝看着再次到手的男女主机缘。 　　嘿嘿，离飞升回家又近一步！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8d4dcfc4a4e5f6ee4db83baf2718edd3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278438&x-signature=bekj1ibHiqMAIYQ8ccqzxQhHLfQ%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8d4dcfc4a4e5f6ee4db83baf2718edd3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364117&x-signature=uegZJtSmpODKQtA2vAtOO57xs4E%3D",
         "url": "https://fanqienovel.com/page/7636262968228858904"
       },
       {
         "title": "我，恶毒女配？杀穿龙傲天剧本！",
         "author": "桃花老人",
-        "reads": "3.7万",
+        "reads": "3.8万",
         "intro": "（评分刚出，会涨的） 【反派、无CP、系统、无道德】 　　 　　　羲徵羽穿成了男频文里龙傲天的恶毒前未婚妻。 　　 　　一个注定结局凄惨，被人用来打脸的配角？ 　　 　　谢邀，没兴趣。 　　 　　无恶不作系统：【当场退婚，狠狠羞辱男主，奖励造化级神药】 　　 　　【把男主的至交好友打残，奖励造化级剑法！】 　　 　　【将男主逼入九死一生的诛魔窟，奖励提升灵根品级！】 　　 　羲徵羽：干！她干得就是这个反派！ 　　 　　但好像干得太起劲，剧情怎么越走越偏？ 　　 　　男主的神剑，男主的神兽，甚至是男主的后宫们，怎么一个个全没了！ 　　 　　羲徵羽：她不知道啊，是神剑抱着她的大腿非要跟她走！ 　　 　　是神兽一开口就喊她主人，跟她有什么关系？ 　　 　　至于老婆跑了，有没有可能是男主太废物？ 　　 　　主角团：杀了这个无耻歹毒的魔鬼！ 　　 　　结果四方神州，万民群起攻之：苍梧十六公主羲徵羽，心怀天下，舍生取义，拯救苍生于水火之中。 　　 　　谁敢动公主，就从他们的尸体上踏过去！ 　　 　　系统：全疯了！我让你当反派，怎么最后你功德满身，独坐高台，男主成了过街老鼠？ 　　 　　羲徵羽：别夸，论反派的三要素~ 　　 　　野心要大！名声要好！下手要狠！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o46419734db5195187b38a980178ac806~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278441&x-signature=sCvN8%2FO8Q7QOlMsYa3e1ZTXDJts%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o46419734db5195187b38a980178ac806~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364120&x-signature=gtxidNM%2BWdPms%2B3gzaEeU%2BcmARg%3D",
         "url": "https://fanqienovel.com/page/7641995003329268760"
-      },
-      {
-        "title": "病弱龙崽的哥哥是大恶龙",
-        "author": "糍鱼",
-        "reads": "3.6万",
-        "intro": "【团宠＋无cp＋白切黑＋成长向＋治愈】 龙族由世界孕育强大且稀少，龙蛋更是如此，千年甚至万年才能孕育出一枚。 罗伊作为这一代的龙崽，可谓是备受宠爱。 只是这份宠爱有些沉重。 让他刚破壳就成了族中唯一一只病弱龙崽。 每当有龙族幼崽降生，总会引起多方关注。 龙崽病弱，他那哥哥更是恶名远扬的大恶龙。 可即便这样，依旧有人把主意打到了龙崽头上。 恶龙哥哥眼中的弟弟：病弱瘦小，可爱乖巧，极其容易被欺负。 眷属眼中的罗伊大人：单纯善良，温柔体贴，极其容易被骗走。 外人眼中的罗伊：高傲危险，绝不吃亏，有什么样的哥，就有什么样的弟，是大恶龙的亲弟没跑！！ 罗伊看自己：是嗷，他就是族中最弱的一只。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o662ff09693846cbad737ff2b3ac452e1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278441&x-signature=XzMDk7lHZlFuXOZivtwTsJxj25Q%3D",
-        "url": "https://fanqienovel.com/page/7637640059046349886"
-      },
-      {
-        "title": "易孕女修，大佬都对我垂涎欲滴",
-        "author": "川桔",
-        "reads": "3.6万",
-        "intro": "【易孕多子系统】+【多马甲】+【微万人迷】+【男全洁】+【雄竞修罗场】+【高岭之花坠下神坛】 阮南烛穿了。 穿成了修炼世界里一个废物炮灰。 但好在，她觉醒了【易孕多子系统】。 在这个生个孩子费死劲的修仙世界，堪比核爆级金手指！ 没办法，在这动不动就被人练成尊魂幡里十万幽魂之一的残酷世界，实力才是王道。 阮南烛本想凭借努力在修仙界站稳脚跟，但超烂天赋、超烂家世压的她压根看不见一点希望。 阮南烛：妥协了。 生一个孩子给绝世宝物！生！ 生一个孩子给提升境界！生！ 孩子爹天赋越高、收益越大！ 生！必须生！ 立志拉高修仙界生育指标！ 只是，阮南烛可不是一个有良心的人，生完直接死遁，换下一个！ 把所有大佬当炉鼎，她也算是修仙界第一人了！ 直到她站在巅峰之上，回头才发现，马甲太多、孩子太多、情债也太多了！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oca4091fc0dd861dcfe0afb90c324f547~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278441&x-signature=7FeQNVMRYqQEYNGN2GK6lgn4oIw%3D",
-        "url": "https://fanqienovel.com/page/7514285963258907672"
       },
       {
         "title": "胎穿后我决定低调，但实力不允许",
         "author": "喜欢兰花蕉的简自",
-        "reads": "3.5万",
+        "reads": "3.7万",
         "intro": "陆元漪上辈子是被花盆砸死的。 再睁眼，她成了玄元大陆四大世家之一的陆家七小姐——有爹疼、有娘爱、上面还有三个哥哥两个姐姐。 挺好，她决定这辈子低调做人，安安稳稳修炼。 不就是红橙黄绿青蓝紫无八个境界、每境九个小阶吗？慢慢来，不急。 不就是高阶技能书都掌握在世家皇族手里吗？反正她家就有，不慌。 她给自己定了三条铁律：一不显山露水，二不当出头鸟，三——能苟就苟。 三岁测元气那天，她拼命祈祷测元石不让它太亮。 测元石炸了。 全族长老盯着她，眼神发光。 陆元漪：“……现在说我想低调还来得及吗？” 后来她才知道，这大陆的规则从来不是她想苟就能苟的。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1731ee85acd0aaed702bdcd4dab528aa~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278441&x-signature=ONzXTh%2F10GrPxu7Neo0AkS80Tf4%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1731ee85acd0aaed702bdcd4dab528aa~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364120&x-signature=TIx5MallVYpykFBH7tI2gWYgL6A%3D",
         "url": "https://fanqienovel.com/page/7644219091720342553"
+      },
+      {
+        "title": "重生成NPC我成了隐藏BOSS",
+        "author": "赖咩",
+        "reads": "3.5万",
+        "intro": "西幻奇幻｜游戏｜剧情｜无CP｜马甲｜女强｜成长｜基建｜微群 于凌夜死过一次。 死在自己拼命讨好的队友手里。 再睁眼，她成了副本NPC。 开局脆皮低攻，主动技能为零，身边还有一个怪物养父。 她穿上白裙，红着眼求救，转身就把前世仇人送进BOSS房改造。 偷技能，夺道具，开血宴，杀公爵。 系统猩红的提示亮起—— 【新的副本BOSS正在生成】 【织魂魔女·伊索尔德】",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o99fd8df94404503652b17acadd272067~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364120&x-signature=TY3JXP9azKo3eTNoGFzeqzDybYk%3D",
+        "url": "https://fanqienovel.com/page/7639382456285531198"
+      },
+      {
+        "title": "易孕女修，大佬都对我垂涎欲滴",
+        "author": "川桔",
+        "reads": "3.2万",
+        "intro": "【易孕多子系统】+【多马甲】+【微万人迷】+【男全洁】+【雄竞修罗场】+【高岭之花坠下神坛】 阮南烛穿了。 穿成了修炼世界里一个废物炮灰。 但好在，她觉醒了【易孕多子系统】。 在这个生个孩子费死劲的修仙世界，堪比核爆级金手指！ 没办法，在这动不动就被人练成尊魂幡里十万幽魂之一的残酷世界，实力才是王道。 阮南烛本想凭借努力在修仙界站稳脚跟，但超烂天赋、超烂家世压的她压根看不见一点希望。 阮南烛：妥协了。 生一个孩子给绝世宝物！生！ 生一个孩子给提升境界！生！ 孩子爹天赋越高、收益越大！ 生！必须生！ 立志拉高修仙界生育指标！ 只是，阮南烛可不是一个有良心的人，生完直接死遁，换下一个！ 把所有大佬当炉鼎，她也算是修仙界第一人了！ 直到她站在巅峰之上，回头才发现，马甲太多、孩子太多、情债也太多了！",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oca4091fc0dd861dcfe0afb90c324f547~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364120&x-signature=3AusvdU%2F0IdTC87HuVhPQc92aN0%3D",
+        "url": "https://fanqienovel.com/page/7514285963258907672"
       },
       {
         "title": "杨戬要疯了：闺女天天想换爹",
         "author": "小断秋",
-        "reads": "3.2万",
-        "intro": "天劫之下，龙蛋敖宝宝砸向亲爹杨戬： “大渣男！我要砸死你！” 杨戬接住了——自己的亲闺女。 雷光一闪，父女俩穿越回封神大战前。 敖宝宝发现：砸死杨戬，难度太大。 她当场决定：“那我换个爹！” 姑姑杨婵在一旁拍手：“宝宝加油！” 杨戬：“……” 后来，三界所有男神都被他闺女面试了一遍。 杨戬要疯了，杨婵笑疯了。 敖宝宝：好烦！今天又是没找到新爹的一天。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc53097b263182021f759453cace0da68~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278441&x-signature=u7T8O9ONzv3hvRNZC1zJbNO8q1k%3D",
-        "url": "https://fanqienovel.com/page/7637447096714415128"
-      },
-      {
-        "title": "明日方舟：岁炎录",
-        "author": "荷叶雨舟",
         "reads": "3.1万",
-        "intro": "从岁陵里爬出来的那一刻，他不知道自己是谁 直到他的姐姐蹲下来，朝他伸出手 后来他有了好多哥哥姐姐，骗他喝酒的、教他下棋的、给他做好吃的、每天晚上睡觉都拿他当抱枕的……他以为日子会一直这样过下去 再后来他长大了 有人要他庇佑大炎，杀了哥哥姐姐 有人要他颠覆大炎，杀了哥哥姐姐 梦里他喊的是“不要”...可如果有一天，他喊不出来了呢？ 他做了两个梦 在第一个梦里，他赢了。他吞噬了罪兽，取代了炎的意志，活成了岁家最乖的小幺 可另一个梦里，他没有...他会亲手杀了那些叫他“小幺”的人，会站在废墟里，想起很久以前，有人给他扎过辫子，有人给他做过排骨，有人唱过一首再也听不到的歌谣 他不知道哪一个梦会来（我也不知道） 他叫桀。岁家最小的崽/岁家最后的崽 一个不知道自己会被宠爱，还是终将辜负所有人的奶龙 —— 好了，现在到你了 如果你信他赢，这个故事的结局就是甜的。如果你信他输，那从现在开始，每一页糖里都裹着玻璃渣。 猜对了没奖，姐姐的尾巴不给你摸，哥哥做的排骨也不给你吃 猜错了也没事，桀又不会真的去你家门口哭 emm...反正你又不能顺着网线爬过来打我～ 5月31日入舟，希望集齐全岁",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5fc7feae7118566f8d2903fdc301dbbe~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278441&x-signature=kJO2H8ytWS%2FZ4CwHrNUp8vPKO%2Fo%3D",
-        "url": "https://fanqienovel.com/page/7641197895948979262"
+        "intro": "天劫之下，龙蛋敖宝宝砸向亲爹杨戬： “大渣男！我要砸死你！” 杨戬接住了——自己的亲闺女。 雷光一闪，父女俩穿越回封神大战前。 敖宝宝发现：砸死杨戬，难度太大。 她当场决定：“那我换个爹！” 姑姑杨婵在一旁拍手：“宝宝加油！” 杨戬：“……” 后来，三界所有男神都被他闺女面试了一遍。 杨戬要疯了，杨婵笑疯了。 敖宝宝：好烦！今天又是没找到新爹的一天。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc53097b263182021f759453cace0da68~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364120&x-signature=Fznc1xazHYdRSZokAi0MW97BU7o%3D",
+        "url": "https://fanqienovel.com/page/7637447096714415128"
       },
       {
         "title": "可拉倒吧！我娘胎里签到就无敌了",
         "author": "提子味的乐柚",
         "reads": "3万",
-        "intro": "【东北人+东北签到系统+搞笑+穿书+修仙】 （女主只想苟着奈何实力不允许啊！） 东北搞笑女意外穿进修仙文成了同名同姓的路人甲炮灰，绑定同款大碴子味苟道签到系统！ 别人修仙拼命内卷，女主全程佛系躺平，签到奖励全是洪荒至宝。刚出生就练气，直接赢在起跑线。 为保命直接死遁秘境，一苟便是五十年，外界仅过五年，她悄悄炼出随身秘境，修为早已登顶无敌！ 原书男女主苦心修炼四处抢机缘，上门百般刁难。 女主一身大花袄在手，铁锅一挥轻松碾压全场，只想安稳躺平，谁也别耽误自己吃吃喝喝过日子！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oef251c35bb75bf6adf1b5f9db8b6f064~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278441&x-signature=F9Vm6yKBD7S%2FuNnK%2Fh%2F%2BZJ6sVI0%3D",
+        "intro": "【东北人+东北签到系统+搞笑+穿书+修仙】 （女主只想苟着奈何实力不允许啊！） 东北搞笑女意外穿进修仙文成了同名同姓的路人甲炮灰，绑定同款大碴子味签到系统！ 别人修仙拼命内卷，女主全程佛系躺平，签到奖励全是洪荒至宝。刚出生就练气，直接赢在起跑线。 为保命直接死遁秘境，一苟便是五十年，外界仅过五年，她悄悄炼出随身秘境，修为早已登顶无敌！ 原书男女主苦心修炼四处抢机缘，上门百般刁难。 女主一身大花袄在手，铁锅一挥轻松碾压全场，只想安稳躺平，谁也别耽误自己吃吃喝喝过日子！",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oef251c35bb75bf6adf1b5f9db8b6f064~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364120&x-signature=BvXb7dQjEdI%2B886svFs32MzHT8s%3D",
         "url": "https://fanqienovel.com/page/7638140863800953880"
       },
       {
         "title": "穿成万人迷修仙文的娇媚恶毒女配",
         "author": "千喜",
-        "reads": "3万",
+        "reads": "2.9万",
         "intro": "【修仙+穿书+万人迷+雄竞+追妻火葬场+男全洁+修罗场】 洛芙穿成了万人迷修仙文中，又娇又媚的恶毒女配。 小说中的洛芙天生媚骨无恶不作，对男主一见钟情， 在对方走火入魔失忆时，她假扮他道侣，也同时双修帮助男主修为重回巅峰。 结果男主恢复记忆第一件事，就是杀妻证道，一仙剑戳死洛芙！ 洛芙则被大反派魔尊复活后移情别恋，爱上对方， 魔尊让她潜入男女主师门中，弄死男主，掳走女主， 结果东窗事发，被女主的爱慕者们斩杀于诛仙崖！ 洛芙不甘心，想要夺舍女主，结果被魔尊发现，他大手一挥儿，就让她魂！飞！魄！散！了！ 洛芙：o(╥﹏╥)o…… 知道炮灰女配没人权，但反复嘎掉好可怜！ 所以洛芙抢在男主杀妻证道前，一脸冷萌：我要跟你和离！ 男主：？？？ 被众人发现魔修身份时，洛芙抢在他们动手前哭得我见犹怜：其实我只想做个好修。 众人：？？？ 洛芙抢在魔尊要让自己魂飞魄散前，咬着他的袖子一脸真诚：我发现尊上您跟女主简直配死了！ 魔尊：？？？ 终于躲开所有生死劫的洛芙，来到一个世外桃源，刚打算过幸福日子，却被人绑架了？ 黑暗之中，她听到‘女主’用男人的声音说： “你们都别抢，阿芙本该是我的。”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe9841a53488c525e7e244cf3949594d0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278441&x-signature=AHxEnXZy%2F3mfa610LqAAXK58%2Bgo%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe9841a53488c525e7e244cf3949594d0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364120&x-signature=n56OfOyLAZmthm27bFUuBk6inaw%3D",
         "url": "https://fanqienovel.com/page/7633043085491964953"
       },
       {
@@ -207,16 +202,24 @@
         "author": "不吃刀鱼",
         "reads": "2.9万",
         "intro": "凤命被夺，镇魂钉入骨，活埋乱葬岗——这是我沈清辞的开局。 师傅说，我命格尽失，寿命将尽，唯有除祟攒功德，才能逆天续命，夺回一切。 下山后，我执符除邪，开阁立威。 古宅厉鬼？收！诡异咒术？破！害我之人？必诛！ 凤命被夺又如何？镇魂钉入骨又怎样？ 我以除祟为刃，以功德为命，携厉鬼重生，逆命复仇，定要让所有恶人血债血偿！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4fc8d4c5631d92491cc2708bee46eca6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278441&x-signature=U6kqxTMKr%2BA40FacR1Jm5Zk1pBo%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4fc8d4c5631d92491cc2708bee46eca6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364120&x-signature=5EPnBihzR6p0E%2BafRmnIpvwy2C8%3D",
         "url": "https://fanqienovel.com/page/7639185644228463640"
       },
       {
         "title": "小师妹五界第一，天才见她都破防",
         "author": "三百",
-        "reads": "2.8万",
+        "reads": "2.9万",
         "intro": "【大女主、爽文、群像、无cp】 现代人有没有灵根？ 云鸢表示，有的！还很牛！ * 一朝身穿到修仙界，觉醒极品金灵根，还是先天剑骨，被顶级宗门追着抢。 这都不算什么。 云鸢没想到，自己在现代对动物的亲和力，在修仙界还能用！ * 异兽大杀四方，各宗门弟子出去历练。 “那是杀伤力极高的黑背烈齿狼！” 云鸢：黑背德牧？ “那是会吐人言迷惑人心的凤鸟！” 云鸢：小玄凤？？ “那是雪地最难惹的蓝眸飓风狼！” 云鸢：二哈？？？ 看着云鸢轻松收下一堆灵兽，并且还称兄道弟，还能契约！ 同辈弟子：大变态！！ 云鸢：变态？ 要不你们去瞧瞧她的几个师兄师姐？ * 加入飞流峰后。 云鸢才知道，变态是何物。 大师姐最强武力，专修无情道，一剑一负心人。 二师兄笑眯眯的，整日睡不醒，像是个废物，实则下手最狠。 三师兄清冷无双，洁癖严重，一弄脏衣服修为暴增。 四师兄长的多美，说话就多脏，出手就多阴。 小师姐没她腰高，却最有钱，擅长拿灵石砸人！ * 直到飞升后，云鸢才发现自己的身份大有来头。 她穿的不是修仙界吗？ 这魔法又是哪儿来的！ 这突然冒出的爹妈又是怎么回事儿",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/68cd25f92017be704919b8a344dc0ab5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278441&x-signature=iZLyKbiYGNwPAiy8lYW%2FUNV%2Fk0c%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/68cd25f92017be704919b8a344dc0ab5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364120&x-signature=EL821q%2Ffi3H2IGuK9R1jMWkwJ9U%3D",
         "url": "https://fanqienovel.com/page/7587720446674471998"
+      },
+      {
+        "title": "明日方舟：岁炎录",
+        "author": "荷叶雨舟",
+        "reads": "2.9万",
+        "intro": "从岁陵里爬出来的那一刻，他不知道自己是谁 直到他的姐姐蹲下来，朝他伸出手 后来他有了好多哥哥姐姐，骗他喝酒的、教他下棋的、给他做好吃的、每天晚上睡觉都拿他当抱枕的……他以为日子会一直这样过下去 再后来他长大了 有人要他庇佑大炎，杀了哥哥姐姐 有人要他颠覆大炎，杀了哥哥姐姐 梦里他喊的是“不要”...可如果有一天，他喊不出来了呢？ 他做了两个梦 在第一个梦里，他赢了。他吞噬了罪兽，取代了炎的意志，活成了岁家最乖的小幺 可另一个梦里，他没有...他会亲手杀了那些叫他“小幺”的人，会站在废墟里，想起很久以前，有人给他扎过辫子，有人给他做过排骨，有人唱过一首再也听不到的歌谣 他不知道哪一个梦会来（我也不知道） 他叫桀。岁家最小的崽/岁家最后的崽 一个不知道自己会被宠爱，还是终将辜负所有人的奶龙 —— 好了，现在到你了 如果你信他赢，这个故事的结局就是甜的。如果你信他输，那从现在开始，每一页糖里都裹着玻璃渣。 猜对了没奖，姐姐的尾巴不给你摸，哥哥做的排骨也不给你吃 猜错了也没事，桀又不会真的去你家门口哭 emm...反正你又不能顺着网线爬过来打我～ 5月31日入舟，希望集齐全岁",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5fc7feae7118566f8d2903fdc301dbbe~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364120&x-signature=f4ktJAljz%2BPSGoqHp4326o%2FAbRw%3D",
+        "url": "https://fanqienovel.com/page/7641197895948979262"
       }
     ]
   },
@@ -224,37 +227,40 @@
     {
       "name": "玄幻言情",
       "trend": {
-        "new_count": 2,
-        "dropped_count": 2,
+        "new_count": 1,
+        "dropped_count": 1,
         "new_books": [
-          "凤命被夺后，我除祟续命",
-          "小师妹五界第一，天才见她都破防"
+          "重生成NPC我成了隐藏BOSS"
         ],
         "dropped_books": [
           {
-            "title": "什么，那是阐教大师姐？！",
-            "intro": "（无cp+亲情向）蘅音穿越了，成了洪荒中的一缕先天乙木之气，并拜入三清之一玉清元始的门下。 原本过得好好的，却突然进入平行时空，遇到了怒气冲冲的通天。 通天很清楚自己二哥门下没有蘅音这个弟子，但却发现"
-          },
-          {
-            "title": "涅槃修仙，我说能飞升就能飞升",
-            "intro": "［传统修仙+无CP+不圣母+音修+女强+升级流+五灵根+炼器+金手指+灵宠］ 封玥被世间唯一一枚先天至宝五行涅槃珠带着，在修仙界重活一世。 这一世，她双亲在修仙界顶级宗门苍玄宗附近的仙城经营酒铺，一出"
+            "title": "病弱龙崽的哥哥是大恶龙",
+            "intro": "【团宠＋无cp＋白切黑＋成长向＋治愈】 龙族由世界孕育强大且稀少，龙蛋更是如此，千年甚至万年才能孕育出一枚。 罗伊作为这一代的龙崽，可谓是备受宠爱。 只是这份宠爱有些沉重。 让他刚破壳就成了族中唯一一"
           }
         ],
         "top_risers": [
           {
-            "title": "明日方舟：岁炎录",
-            "change": "+4"
+            "title": "胎穿后我决定低调，但实力不允许",
+            "change": "+2"
           },
           {
-            "title": "我，恶毒女配？杀穿龙傲天剧本！",
-            "change": "+3"
+            "title": "穿成男频文那早死嫡哥的废材妻",
+            "change": "+1"
           },
           {
-            "title": "病弱龙崽的哥哥是大恶龙",
-            "change": "+3"
+            "title": "可拉倒吧！我娘胎里签到就无敌了",
+            "change": "+1"
           }
         ],
         "top_fallers": [
+          {
+            "title": "明日方舟：岁炎录",
+            "change": "-4"
+          },
+          {
+            "title": "剑仙魔尊别舔女主！你妈被气活了",
+            "change": "-1"
+          },
           {
             "title": "易孕女修，大佬都对我垂涎欲滴",
             "change": "-1"
@@ -262,91 +268,91 @@
         ],
         "reads_growth": [
           {
-            "title": "死后诈尸诅咒，仙门上下悔悔悔",
-            "growth": "+3000"
+            "title": "穿书被龙掳走，我被龙族当崽了？",
+            "growth": "+9000"
           },
           {
-            "title": "穿书被龙掳走，我被龙族当崽了？",
+            "title": "死后诈尸诅咒，仙门上下悔悔悔",
             "growth": "+2000"
           },
           {
-            "title": "穿成男频文那早死嫡哥的废材妻",
-            "growth": "+1000"
+            "title": "胎穿后我决定低调，但实力不允许",
+            "growth": "+2000"
           }
         ],
-        "summary": "**🔥 题材趋势** 玄幻言情榜单呈现多元化趋势，涵盖“穿书”、“修仙”、“异世采集”、“末世穿越”等多种设定。其中，“万人迷”、“系统金手指”和“爽文”元素是主要驱动力。\n**📖 读者偏好** 读者钟情于女主“开挂逆袭”、“团宠”、“无CP或多男主全收”的剧情，强调女主的强大与独立。对“易孕女修”等猎奇设定也有一定兴趣。\n**🆕 新上榜作品** 《凤命被夺后，我除祟续命》和《小师妹五界第一，天才见她都破防》新上榜，前者侧重复仇逆袭，后者强调大女主爽文，均符合当前读者对强女主的期待。\n**📉 掉出榜单** 《什么，那是阐教大师姐？！》和《涅槃修仙，我说能飞升就能飞升》掉出榜单，可能反映出读者对纯亲情向或传统修仙文的兴趣略有下降，或作品后期内容未能保持吸引力。\n**💡 值得关注** 《穿书被龙掳走，我被龙族当崽了？》以25.3万在读量遥遥领先，其“龙系亲和”的独特设定和搞笑风格是亮点。多部作品强调“男全洁”和“雄竞修罗场”，迎合了女频读者的核心爽点。"
+        "summary": "**🔥 题材趋势** “穿书”、“系统”和“修仙”仍是玄幻言情的主流，但“大女主”、“无CP”和“团宠”设定逐渐增多，显示出女性独立与成长的主题受到重视。\n**📖 读者偏好** 读者对“万人迷”、“男全洁”、“多男主全收”的甜宠文有强烈需求，同时“爽文”、“逆袭”和“金手指”是吸引读者的重要元素。\n**🆕 新上榜作品** 《重生成NPC我成了隐藏BOSS》以游戏世界观和NPC逆袭为特色，结合西幻奇幻元素，带来新鲜感。\n**📉 掉出榜单** 《病弱龙崽的哥哥是大恶龙》的掉榜可能说明纯粹的团宠或无CP设定若缺乏其他创新点，难以持续保持高位。\n**💡 值得关注** “修仙+万人迷+雄竞”的组合在榜单中表现突出，且出现“易孕多子系统”等大胆创新设定，预示着玄幻言情在寻求更刺激、更具争议性的叙事方式。"
       },
       "books": [
         {
           "title": "穿书被龙掳走，我被龙族当崽了？",
           "author": "超爱吃咖喱",
-          "reads": "25.3万",
+          "reads": "26.2万",
           "intro": "分刚会涨/搞笑/绝不让女主窝囊/天才/有cp 沈舒安穿书了，她穿成了一本修仙文中女主的妹妹。 但没想到开局直面宗门的外门大典，还得跟着众人一起表演剑阵。 而刚穿来的她，明明连御剑都御不明白。 情急之下，沈舒安只得呼唤系统，赌一手新手大礼包。 结果：【特殊体质：龙系亲和】 效果：可大幅增加体质和龙系魔法天赋，大幅提升巨龙对你的初始好感度。 副作用：有百分之九十九的几率被巨龙掳走，宿主，接下来请为自己而奋斗吧~ 沈舒安：“？这不修仙文吗，魔法什么鬼，巨龙又是什么鬼？” 但眼看剑阵将起，就剩她还僵在原地的时候。 忽地，天地骤暗，一道遮天黑影轰然从苍穹压下—— “啥意思，圣明宗，你家怎会有我龙族小崽？！” 龙吟响彻全场，一双黄金巨瞳如烈日高悬。 一条庞大到足以遮天蔽日的五爪金龙惊愕震怒。 大典上全体修士猝不及防，风中凌乱。 沈舒安也人傻了：“不是，系统，你来真的？” 下一秒，一股无形之力将她卷起，沈舒安连忙朝下方伸手大喊： “啊！救命！姐，你知道的，我是娘爹亲生的啊！” “捞捞！” 女主沈晚秋：“？？？” 圣明宗众人：“？？？” - 【哎呀，龙族和人族你们别打啦！】 【天才修仙爽，一直修仙一直爽】 【龙族太子孤僻高傲？没有呀，他大好人",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o933359555731ff0eaf246b9d19759f62~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278438&x-signature=ptlIQJCQX6jdtmwyhls8MmCig2k%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o933359555731ff0eaf246b9d19759f62~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364117&x-signature=fd6VP8WNqZsRC3UIRNUi4oRkwEA%3D",
           "url": "https://fanqienovel.com/page/7634800241266412569"
         },
         {
           "title": "死后诈尸诅咒，仙门上下悔悔悔",
           "author": "每天一顿饭",
-          "reads": "10.6万",
+          "reads": "10.8万",
           "intro": "关山岄十岁穿越，被师尊捡回仙门。 　　二十岁被小师妹陷害，当着全宗上下所有人的面处以极刑。 　　本想着死了就死了，说不定还能穿越回去，谁知死后系统才来。 　　人都死了，绑定系统还有什么用？ 　　关山岄满腔怨气，好在系统破例给了三次诅咒机会。 　　怨气消散，这还像点话，在众人的目光中，关山岄诈尸了。 　　她诅咒小师妹死。 　　诅咒师尊死。 　　诅咒全宗门骂她的人都去死。 　　师尊气极，一招将她的尸体轰成灰。 　　—— 　　仙门所有人都以为诅咒不过是关山岄无能放出的狠话，直到第一个诅咒成真，所有人都后悔了。 　　更让他们悔的是，被诅咒死后，为什么还能见到关山岄？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob20d6c647a749abbdf135b59e1a00cba~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278438&x-signature=3KuaRBWDCMlx2O5FXbRL%2FonCPQI%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob20d6c647a749abbdf135b59e1a00cba~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364117&x-signature=9NgV0%2Fk2LcgU25dZvEZZx5Ofbsc%3D",
           "url": "https://fanqienovel.com/page/7639772279101983806"
         },
         {
           "title": "被夺气运后，我靠双修飞升成神",
           "author": "小鹅超爱写",
-          "reads": "7.8万",
+          "reads": "7.5万",
           "intro": "【刚出评分！还会涨的！】 【男全洁+修仙+系统+万人迷+1vn+多男主全收】 【万人嫌变万人迷】 穿成被绿茶夺走气运的万人嫌炮灰，沈微澜睁眼就发现自己正压在冰清玉洁的化神期师尊身上。 面对高岭之花拼死压抑的喘息，她选择直接强上！ 绑定双修逆袭系统，只要撩拨那些曾偏心绿茶的男神们，就能夺回气运，原地飞升！ 从此，剧情走向彻底崩坏—— 傲娇小师弟眼尾泛红，将她堵在墙角：“我中了你的情蛊，你要对我负责到底！” 一向端方守节的温润大师兄步步紧逼…… 至于那晚被强上的高冷师尊？他红着眼：“逆徒，你到底还有多少事瞒着为师？”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7464a80875e2be9e3d6ee92474728a27~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278438&x-signature=%2FEc0B%2FGfcFW9jlSe%2FmvE5OX2q%2FE%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7464a80875e2be9e3d6ee92474728a27~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364117&x-signature=VcGDW85AI%2BrJQAB0cgnnTmewnpY%3D",
           "url": "https://fanqienovel.com/page/7614732062435593241"
         },
         {
           "title": "异世采集：废柴辅灵师好运连连",
           "author": "东方有吉",
-          "reads": "6.5万",
+          "reads": "6.2万",
           "intro": "【团宠+异世采集文+无CP+锦鲤好运+炼丹炼器+无系统】 （评分刚开） 穆秋时在15岁觉醒下品天赋后，意外得到一份许愿券，获得“锦鲤好运”buff，从此开启躺赢人生……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od2136a314f733d1ffd0e268f0184453d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278438&x-signature=q9IX%2Fs7d9SfU27jif3BmHHVKp4I%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od2136a314f733d1ffd0e268f0184453d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364117&x-signature=bZj6qWGwdJp5%2F0htYU0GX6luBKE%3D",
           "url": "https://fanqienovel.com/page/7628445867799759896"
+        },
+        {
+          "title": "穿成男频文那早死嫡哥的废材妻",
+          "author": "溜溜鼠",
+          "reads": "5.7万",
+          "intro": "【古代玄幻，娇媚大小姐x美惨强男主早死哥】 苏颜玉，世家大族天赋废一个，奈何生的实在美丽，家族难弃之。 宋砚清，男频爽文里的顶级世家嫡长子，男主的嫡大哥，天赋异禀，天之骄子，奈何意外陡生，天赋受损故弃之。 苏家与宋家两家早有婚约，因宋家天之骄子天赋受损天骄变废材，两家一拍即合，两人喜结连理成夫妻。 家族弃子，废材夫妻联手种灵物养灵兽，携手共进把家护。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4b4cd517e70cd09de364f48b666699a3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364117&x-signature=pUU0jpw37N%2BPPzO2gIeGPuHBcKE%3D",
+          "url": "https://fanqienovel.com/page/7631467175995264062"
         },
         {
           "title": "剑仙魔尊别舔女主！你妈被气活了",
           "author": "南小非",
           "reads": "5.6万",
           "intro": "【开局无敌＋爽文＋训儿、训夫、训全世界】 苏明凰刚继任玄天宗就被天雷劈死。 死后她才知道自己活在话本里，一家四口全是反派。 大儿子是苦修无情道的天才剑修，爱上女主走火入魔，最终被杀夫证道。 二儿子是心狠手辣的魔族少主，对女主强取豪夺失败后，被男主斩于剑下。 还有清冷神尊恨海情天，囚禁女主作为亡妻替身，幡然醒悟后将宗门赠予女主。 苏明凰：我是亡妻？ - 百年后，故事开始，苏明凰重生在女主枉死的师姐身上。 刚睁眼女主就要夺她金丹。 青梅竹马未婚夫道德绑架。 一巴掌扇死。 亲手拉扯大的小师弟杀人夺丹。 两巴掌扇死。 女主颠倒黑白，更是降龙十八掌。 宗主偏心舞弊，苏明凰不怕。 她踩在宗主的肩膀上，笑的猖狂：“师弟，宗主你当不明白，换我来！” 玄天宗，她才是真祖宗。 - 剑道天才为女主鸣不平，魔族少主为女主出恶气。 所有人都以为玄天宗要倒大霉。 就见苏明凰抡起长剑：“逆子，跪下！” - 玄天宗落魄百年，新任宗主是个乳臭未干的臭丫头。 众人唱衰，没过多久却发现他们错了。 这臭丫头太强了！ 新一代天才，她单手碾碎。 其他宗门长老，她乱棍打死。 隐世家族大能，她一剑荡平。 就连号称半步登天的神尊，在她面前也俯首称臣。 这是人！？ 这他爹的是当年的混世魔王回来了！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o615e8be3ffbf780d820849fcc9bd0bce~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278438&x-signature=C%2Fwzydzz92LiId5uoJbjkbzpOhY%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o615e8be3ffbf780d820849fcc9bd0bce~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364117&x-signature=JRus72N5EQ9RhXGZ7rLjyuYsDvk%3D",
           "url": "https://fanqienovel.com/page/7506892837129030718"
-        },
-        {
-          "title": "穿成男频文那早死嫡哥的废材妻",
-          "author": "溜溜鼠",
-          "reads": "5.6万",
-          "intro": "【古代玄幻，娇媚大小姐x美惨强男主早死哥】 苏颜玉，世家大族天赋废一个，奈何生的实在美丽，家族难弃之。 宋砚清，男频爽文里的顶级世家嫡长子，男主的嫡大哥，天赋异禀，天之骄子，奈何意外陡生，天赋受损故弃之。 苏家与宋家两家早有婚约，因宋家天之骄子天赋受损天骄变废材，两家一拍即合，两人喜结连理成夫妻。 家族弃子，废材夫妻联手种灵物养灵兽，携手共进把家护。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4b4cd517e70cd09de364f48b666699a3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278438&x-signature=jauDmNK2fTs1UuGKELPuH0Vi0Lw%3D",
-          "url": "https://fanqienovel.com/page/7631467175995264062"
         },
         {
           "title": "穿成耽美文女配男主全贴上来了",
           "author": "狠毒的辣条",
-          "reads": "5.4万",
+          "reads": "5.3万",
           "intro": "（评分刚开，会涨的宝宝们不要被吓跑了） 【万人迷玛丽苏+1vn+男全洁+搞笑轻松+一见钟情梗】 奚泱最摆的那一年系统出现了，它说其实她穿进了一本耽美文里。 文中被群狼环伺强取豪夺的主角受，正是那个亲手把她捡回来养大的师兄慕屿。 而她作为文中戏份最多的女配，唯一的作用就是主角们play的一环，甚至读者们还给她取了个亲切的绰号“无能的师妹”。 系统还告诉她主角受已经觉醒了自我意识，为了逃离原剧情线一直在自杀。 为了不当无能的师妹，也为了捍卫师兄的屁股，奚泱毅然决然地走上了拯救师兄的道路。 只是...... 原本应该落在慕屿身上或窥伺，或觊觎、占有的目光怎么全都落在她身上了？ 而且慕屿看她的眼神也算不上清白。 —— 一向待人温和礼遇最是冷静自持的师兄：“师妹于我而言一直如同亲妹。” 吃醋吃疯后的某人：“我与泱泱可有血缘？既然没有泱泱又算我哪门子的亲妹？”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6270a40267107eb2b44712bf8d22fbda~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278438&x-signature=d%2Bv7KbDRRLzGFes3hbGK%2Bupgxvs%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6270a40267107eb2b44712bf8d22fbda~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364117&x-signature=8im7PB8W03zkoExvh%2BhzolYLpKQ%3D",
           "url": "https://fanqienovel.com/page/7635901914214845465"
         },
         {
           "title": "穿成断供留子食修小摊爆火美利坚",
           "author": "星星塔娜",
-          "reads": "5.1万",
+          "reads": "4.9万",
           "intro": "极品饭灵根的食修道祖江荨一朝飞升 再睁眼发现自己穿成了差点饿死的小可怜 在美利坚留学 亲爹后妈忽然断供 即将被斩杀线送走时江荨穿了过来 烤冷面 酱香饼 肉蛋堡 小烧烤 那都是啥？没关系，不重要。 脑子没反应过来身体已经去排队了呢 华国留子们过大年似的奔走相告： 江老板出摊了！速来速来！ 眼看着小摊生意越来越好 食客开始感到不对劲 老牌影后 顶流明星 金融大鳄 政界新贵 怎么全来到了这个小摊前 又一个比一个恭敬？ 江荨：排好队哈 美利坚队长来了也得排队！ —————————— 美食＋现代修仙文 无cp 细水长流 不建议空腹阅读",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od960da2bac30c3bbf4cab73fbd6b5514~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278438&x-signature=Ysx84eLD6rMTEFhCs2FsxgM6SVU%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od960da2bac30c3bbf4cab73fbd6b5514~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364117&x-signature=jBkbDljxqTRvbopaMCptR1oxi%2Fc%3D",
           "url": "https://fanqienovel.com/page/7626601175718038553"
         },
         {
           "title": "资质平平，但顶美",
           "author": "剪雪成裳",
-          "reads": "4.9万",
+          "reads": "4.6万",
           "intro": "【修仙+万人迷+男全洁+苏文+女嬷+金手指读档+软饭硬吃】 青云宗外门弟子冷素心，是日月也不能掩其辉的绝世美人。 这样的绝世容光，若放在真仙身上，那便是望之如仰观日月，令人不敢直视、不敢亵渎的姑射神人。 可她偏偏只有炼气五层。 她不知道，那些看似高高在上、渊渟岳峙的前辈高人，都在用什么样的眼神看她。 * 资质平平无奇，但顶级美貌 排雷：大量凝女主，强取豪夺，强制",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of74966078217a99e28ede7b4a5313969~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278438&x-signature=Fpcn4FhoeXpwNxCHwujHWJLeO3k%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of74966078217a99e28ede7b4a5313969~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364117&x-signature=HiM9CK7t%2FP3NbADsb4VLfakWbQM%3D",
           "url": "https://fanqienovel.com/page/7561251663562935320"
         },
         {
@@ -354,71 +360,63 @@
           "author": "子之木",
           "reads": "4.3万",
           "intro": "评分低是因为刚开分，还没开始涨T_T 【胎穿+无cp+升级爽文+捡漏+金手指】 　　牧筝穿越以来，一直以为她娘拿了古代乡村版娇妻带球跑剧本。 　　可谁成想呢！ 　　五岁时她娘一个晴天霹雳砸在她脑袋上。 　　好消息，这原来是个男女平等实力为尊的修仙世界！ 　　坏消息，她娘扔下五岁的她跑路了！ 　　走前都没给她指指通往修真界的路…… 　　就在她打算收拾收拾加入丐帮打听消息时，修真界来招收弟子了。 　　从此以后，第一宗门多了个超级天才。 　　天生神族血脉，体质超强！ 　　寻宝神通，人形宝贝探测仪！ 　　风火满值极品灵根，人形灵气吸收机！ 　　什么？穿书女？ 　　剧情，拿来吧你！ 　　牧筝看着再次到手的男女主机缘。 　　嘿嘿，离飞升回家又近一步！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8d4dcfc4a4e5f6ee4db83baf2718edd3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278438&x-signature=bekj1ibHiqMAIYQ8ccqzxQhHLfQ%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8d4dcfc4a4e5f6ee4db83baf2718edd3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364117&x-signature=uegZJtSmpODKQtA2vAtOO57xs4E%3D",
           "url": "https://fanqienovel.com/page/7636262968228858904"
         },
         {
           "title": "我，恶毒女配？杀穿龙傲天剧本！",
           "author": "桃花老人",
-          "reads": "3.7万",
+          "reads": "3.8万",
           "intro": "（评分刚出，会涨的） 【反派、无CP、系统、无道德】 　　 　　　羲徵羽穿成了男频文里龙傲天的恶毒前未婚妻。 　　 　　一个注定结局凄惨，被人用来打脸的配角？ 　　 　　谢邀，没兴趣。 　　 　　无恶不作系统：【当场退婚，狠狠羞辱男主，奖励造化级神药】 　　 　　【把男主的至交好友打残，奖励造化级剑法！】 　　 　　【将男主逼入九死一生的诛魔窟，奖励提升灵根品级！】 　　 　羲徵羽：干！她干得就是这个反派！ 　　 　　但好像干得太起劲，剧情怎么越走越偏？ 　　 　　男主的神剑，男主的神兽，甚至是男主的后宫们，怎么一个个全没了！ 　　 　　羲徵羽：她不知道啊，是神剑抱着她的大腿非要跟她走！ 　　 　　是神兽一开口就喊她主人，跟她有什么关系？ 　　 　　至于老婆跑了，有没有可能是男主太废物？ 　　 　　主角团：杀了这个无耻歹毒的魔鬼！ 　　 　　结果四方神州，万民群起攻之：苍梧十六公主羲徵羽，心怀天下，舍生取义，拯救苍生于水火之中。 　　 　　谁敢动公主，就从他们的尸体上踏过去！ 　　 　　系统：全疯了！我让你当反派，怎么最后你功德满身，独坐高台，男主成了过街老鼠？ 　　 　　羲徵羽：别夸，论反派的三要素~ 　　 　　野心要大！名声要好！下手要狠！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o46419734db5195187b38a980178ac806~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278441&x-signature=sCvN8%2FO8Q7QOlMsYa3e1ZTXDJts%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o46419734db5195187b38a980178ac806~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364120&x-signature=gtxidNM%2BWdPms%2B3gzaEeU%2BcmARg%3D",
           "url": "https://fanqienovel.com/page/7641995003329268760"
-        },
-        {
-          "title": "病弱龙崽的哥哥是大恶龙",
-          "author": "糍鱼",
-          "reads": "3.6万",
-          "intro": "【团宠＋无cp＋白切黑＋成长向＋治愈】 龙族由世界孕育强大且稀少，龙蛋更是如此，千年甚至万年才能孕育出一枚。 罗伊作为这一代的龙崽，可谓是备受宠爱。 只是这份宠爱有些沉重。 让他刚破壳就成了族中唯一一只病弱龙崽。 每当有龙族幼崽降生，总会引起多方关注。 龙崽病弱，他那哥哥更是恶名远扬的大恶龙。 可即便这样，依旧有人把主意打到了龙崽头上。 恶龙哥哥眼中的弟弟：病弱瘦小，可爱乖巧，极其容易被欺负。 眷属眼中的罗伊大人：单纯善良，温柔体贴，极其容易被骗走。 外人眼中的罗伊：高傲危险，绝不吃亏，有什么样的哥，就有什么样的弟，是大恶龙的亲弟没跑！！ 罗伊看自己：是嗷，他就是族中最弱的一只。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o662ff09693846cbad737ff2b3ac452e1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278441&x-signature=XzMDk7lHZlFuXOZivtwTsJxj25Q%3D",
-          "url": "https://fanqienovel.com/page/7637640059046349886"
-        },
-        {
-          "title": "易孕女修，大佬都对我垂涎欲滴",
-          "author": "川桔",
-          "reads": "3.6万",
-          "intro": "【易孕多子系统】+【多马甲】+【微万人迷】+【男全洁】+【雄竞修罗场】+【高岭之花坠下神坛】 阮南烛穿了。 穿成了修炼世界里一个废物炮灰。 但好在，她觉醒了【易孕多子系统】。 在这个生个孩子费死劲的修仙世界，堪比核爆级金手指！ 没办法，在这动不动就被人练成尊魂幡里十万幽魂之一的残酷世界，实力才是王道。 阮南烛本想凭借努力在修仙界站稳脚跟，但超烂天赋、超烂家世压的她压根看不见一点希望。 阮南烛：妥协了。 生一个孩子给绝世宝物！生！ 生一个孩子给提升境界！生！ 孩子爹天赋越高、收益越大！ 生！必须生！ 立志拉高修仙界生育指标！ 只是，阮南烛可不是一个有良心的人，生完直接死遁，换下一个！ 把所有大佬当炉鼎，她也算是修仙界第一人了！ 直到她站在巅峰之上，回头才发现，马甲太多、孩子太多、情债也太多了！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oca4091fc0dd861dcfe0afb90c324f547~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278441&x-signature=7FeQNVMRYqQEYNGN2GK6lgn4oIw%3D",
-          "url": "https://fanqienovel.com/page/7514285963258907672"
         },
         {
           "title": "胎穿后我决定低调，但实力不允许",
           "author": "喜欢兰花蕉的简自",
-          "reads": "3.5万",
+          "reads": "3.7万",
           "intro": "陆元漪上辈子是被花盆砸死的。 再睁眼，她成了玄元大陆四大世家之一的陆家七小姐——有爹疼、有娘爱、上面还有三个哥哥两个姐姐。 挺好，她决定这辈子低调做人，安安稳稳修炼。 不就是红橙黄绿青蓝紫无八个境界、每境九个小阶吗？慢慢来，不急。 不就是高阶技能书都掌握在世家皇族手里吗？反正她家就有，不慌。 她给自己定了三条铁律：一不显山露水，二不当出头鸟，三——能苟就苟。 三岁测元气那天，她拼命祈祷测元石不让它太亮。 测元石炸了。 全族长老盯着她，眼神发光。 陆元漪：“……现在说我想低调还来得及吗？” 后来她才知道，这大陆的规则从来不是她想苟就能苟的。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1731ee85acd0aaed702bdcd4dab528aa~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278441&x-signature=ONzXTh%2F10GrPxu7Neo0AkS80Tf4%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1731ee85acd0aaed702bdcd4dab528aa~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364120&x-signature=TIx5MallVYpykFBH7tI2gWYgL6A%3D",
           "url": "https://fanqienovel.com/page/7644219091720342553"
+        },
+        {
+          "title": "重生成NPC我成了隐藏BOSS",
+          "author": "赖咩",
+          "reads": "3.5万",
+          "intro": "西幻奇幻｜游戏｜剧情｜无CP｜马甲｜女强｜成长｜基建｜微群 于凌夜死过一次。 死在自己拼命讨好的队友手里。 再睁眼，她成了副本NPC。 开局脆皮低攻，主动技能为零，身边还有一个怪物养父。 她穿上白裙，红着眼求救，转身就把前世仇人送进BOSS房改造。 偷技能，夺道具，开血宴，杀公爵。 系统猩红的提示亮起—— 【新的副本BOSS正在生成】 【织魂魔女·伊索尔德】",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o99fd8df94404503652b17acadd272067~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364120&x-signature=TY3JXP9azKo3eTNoGFzeqzDybYk%3D",
+          "url": "https://fanqienovel.com/page/7639382456285531198"
+        },
+        {
+          "title": "易孕女修，大佬都对我垂涎欲滴",
+          "author": "川桔",
+          "reads": "3.2万",
+          "intro": "【易孕多子系统】+【多马甲】+【微万人迷】+【男全洁】+【雄竞修罗场】+【高岭之花坠下神坛】 阮南烛穿了。 穿成了修炼世界里一个废物炮灰。 但好在，她觉醒了【易孕多子系统】。 在这个生个孩子费死劲的修仙世界，堪比核爆级金手指！ 没办法，在这动不动就被人练成尊魂幡里十万幽魂之一的残酷世界，实力才是王道。 阮南烛本想凭借努力在修仙界站稳脚跟，但超烂天赋、超烂家世压的她压根看不见一点希望。 阮南烛：妥协了。 生一个孩子给绝世宝物！生！ 生一个孩子给提升境界！生！ 孩子爹天赋越高、收益越大！ 生！必须生！ 立志拉高修仙界生育指标！ 只是，阮南烛可不是一个有良心的人，生完直接死遁，换下一个！ 把所有大佬当炉鼎，她也算是修仙界第一人了！ 直到她站在巅峰之上，回头才发现，马甲太多、孩子太多、情债也太多了！",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oca4091fc0dd861dcfe0afb90c324f547~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364120&x-signature=3AusvdU%2F0IdTC87HuVhPQc92aN0%3D",
+          "url": "https://fanqienovel.com/page/7514285963258907672"
         },
         {
           "title": "杨戬要疯了：闺女天天想换爹",
           "author": "小断秋",
-          "reads": "3.2万",
-          "intro": "天劫之下，龙蛋敖宝宝砸向亲爹杨戬： “大渣男！我要砸死你！” 杨戬接住了——自己的亲闺女。 雷光一闪，父女俩穿越回封神大战前。 敖宝宝发现：砸死杨戬，难度太大。 她当场决定：“那我换个爹！” 姑姑杨婵在一旁拍手：“宝宝加油！” 杨戬：“……” 后来，三界所有男神都被他闺女面试了一遍。 杨戬要疯了，杨婵笑疯了。 敖宝宝：好烦！今天又是没找到新爹的一天。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc53097b263182021f759453cace0da68~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278441&x-signature=u7T8O9ONzv3hvRNZC1zJbNO8q1k%3D",
-          "url": "https://fanqienovel.com/page/7637447096714415128"
-        },
-        {
-          "title": "明日方舟：岁炎录",
-          "author": "荷叶雨舟",
           "reads": "3.1万",
-          "intro": "从岁陵里爬出来的那一刻，他不知道自己是谁 直到他的姐姐蹲下来，朝他伸出手 后来他有了好多哥哥姐姐，骗他喝酒的、教他下棋的、给他做好吃的、每天晚上睡觉都拿他当抱枕的……他以为日子会一直这样过下去 再后来他长大了 有人要他庇佑大炎，杀了哥哥姐姐 有人要他颠覆大炎，杀了哥哥姐姐 梦里他喊的是“不要”...可如果有一天，他喊不出来了呢？ 他做了两个梦 在第一个梦里，他赢了。他吞噬了罪兽，取代了炎的意志，活成了岁家最乖的小幺 可另一个梦里，他没有...他会亲手杀了那些叫他“小幺”的人，会站在废墟里，想起很久以前，有人给他扎过辫子，有人给他做过排骨，有人唱过一首再也听不到的歌谣 他不知道哪一个梦会来（我也不知道） 他叫桀。岁家最小的崽/岁家最后的崽 一个不知道自己会被宠爱，还是终将辜负所有人的奶龙 —— 好了，现在到你了 如果你信他赢，这个故事的结局就是甜的。如果你信他输，那从现在开始，每一页糖里都裹着玻璃渣。 猜对了没奖，姐姐的尾巴不给你摸，哥哥做的排骨也不给你吃 猜错了也没事，桀又不会真的去你家门口哭 emm...反正你又不能顺着网线爬过来打我～ 5月31日入舟，希望集齐全岁",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5fc7feae7118566f8d2903fdc301dbbe~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278441&x-signature=kJO2H8ytWS%2FZ4CwHrNUp8vPKO%2Fo%3D",
-          "url": "https://fanqienovel.com/page/7641197895948979262"
+          "intro": "天劫之下，龙蛋敖宝宝砸向亲爹杨戬： “大渣男！我要砸死你！” 杨戬接住了——自己的亲闺女。 雷光一闪，父女俩穿越回封神大战前。 敖宝宝发现：砸死杨戬，难度太大。 她当场决定：“那我换个爹！” 姑姑杨婵在一旁拍手：“宝宝加油！” 杨戬：“……” 后来，三界所有男神都被他闺女面试了一遍。 杨戬要疯了，杨婵笑疯了。 敖宝宝：好烦！今天又是没找到新爹的一天。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc53097b263182021f759453cace0da68~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364120&x-signature=Fznc1xazHYdRSZokAi0MW97BU7o%3D",
+          "url": "https://fanqienovel.com/page/7637447096714415128"
         },
         {
           "title": "可拉倒吧！我娘胎里签到就无敌了",
           "author": "提子味的乐柚",
           "reads": "3万",
-          "intro": "【东北人+东北签到系统+搞笑+穿书+修仙】 （女主只想苟着奈何实力不允许啊！） 东北搞笑女意外穿进修仙文成了同名同姓的路人甲炮灰，绑定同款大碴子味苟道签到系统！ 别人修仙拼命内卷，女主全程佛系躺平，签到奖励全是洪荒至宝。刚出生就练气，直接赢在起跑线。 为保命直接死遁秘境，一苟便是五十年，外界仅过五年，她悄悄炼出随身秘境，修为早已登顶无敌！ 原书男女主苦心修炼四处抢机缘，上门百般刁难。 女主一身大花袄在手，铁锅一挥轻松碾压全场，只想安稳躺平，谁也别耽误自己吃吃喝喝过日子！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oef251c35bb75bf6adf1b5f9db8b6f064~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278441&x-signature=F9Vm6yKBD7S%2FuNnK%2Fh%2F%2BZJ6sVI0%3D",
+          "intro": "【东北人+东北签到系统+搞笑+穿书+修仙】 （女主只想苟着奈何实力不允许啊！） 东北搞笑女意外穿进修仙文成了同名同姓的路人甲炮灰，绑定同款大碴子味签到系统！ 别人修仙拼命内卷，女主全程佛系躺平，签到奖励全是洪荒至宝。刚出生就练气，直接赢在起跑线。 为保命直接死遁秘境，一苟便是五十年，外界仅过五年，她悄悄炼出随身秘境，修为早已登顶无敌！ 原书男女主苦心修炼四处抢机缘，上门百般刁难。 女主一身大花袄在手，铁锅一挥轻松碾压全场，只想安稳躺平，谁也别耽误自己吃吃喝喝过日子！",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oef251c35bb75bf6adf1b5f9db8b6f064~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364120&x-signature=BvXb7dQjEdI%2B886svFs32MzHT8s%3D",
           "url": "https://fanqienovel.com/page/7638140863800953880"
         },
         {
           "title": "穿成万人迷修仙文的娇媚恶毒女配",
           "author": "千喜",
-          "reads": "3万",
+          "reads": "2.9万",
           "intro": "【修仙+穿书+万人迷+雄竞+追妻火葬场+男全洁+修罗场】 洛芙穿成了万人迷修仙文中，又娇又媚的恶毒女配。 小说中的洛芙天生媚骨无恶不作，对男主一见钟情， 在对方走火入魔失忆时，她假扮他道侣，也同时双修帮助男主修为重回巅峰。 结果男主恢复记忆第一件事，就是杀妻证道，一仙剑戳死洛芙！ 洛芙则被大反派魔尊复活后移情别恋，爱上对方， 魔尊让她潜入男女主师门中，弄死男主，掳走女主， 结果东窗事发，被女主的爱慕者们斩杀于诛仙崖！ 洛芙不甘心，想要夺舍女主，结果被魔尊发现，他大手一挥儿，就让她魂！飞！魄！散！了！ 洛芙：o(╥﹏╥)o…… 知道炮灰女配没人权，但反复嘎掉好可怜！ 所以洛芙抢在男主杀妻证道前，一脸冷萌：我要跟你和离！ 男主：？？？ 被众人发现魔修身份时，洛芙抢在他们动手前哭得我见犹怜：其实我只想做个好修。 众人：？？？ 洛芙抢在魔尊要让自己魂飞魄散前，咬着他的袖子一脸真诚：我发现尊上您跟女主简直配死了！ 魔尊：？？？ 终于躲开所有生死劫的洛芙，来到一个世外桃源，刚打算过幸福日子，却被人绑架了？ 黑暗之中，她听到‘女主’用男人的声音说： “你们都别抢，阿芙本该是我的。”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe9841a53488c525e7e244cf3949594d0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278441&x-signature=AHxEnXZy%2F3mfa610LqAAXK58%2Bgo%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe9841a53488c525e7e244cf3949594d0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364120&x-signature=n56OfOyLAZmthm27bFUuBk6inaw%3D",
           "url": "https://fanqienovel.com/page/7633043085491964953"
         },
         {
@@ -426,16 +424,24 @@
           "author": "不吃刀鱼",
           "reads": "2.9万",
           "intro": "凤命被夺，镇魂钉入骨，活埋乱葬岗——这是我沈清辞的开局。 师傅说，我命格尽失，寿命将尽，唯有除祟攒功德，才能逆天续命，夺回一切。 下山后，我执符除邪，开阁立威。 古宅厉鬼？收！诡异咒术？破！害我之人？必诛！ 凤命被夺又如何？镇魂钉入骨又怎样？ 我以除祟为刃，以功德为命，携厉鬼重生，逆命复仇，定要让所有恶人血债血偿！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4fc8d4c5631d92491cc2708bee46eca6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278441&x-signature=U6kqxTMKr%2BA40FacR1Jm5Zk1pBo%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4fc8d4c5631d92491cc2708bee46eca6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364120&x-signature=5EPnBihzR6p0E%2BafRmnIpvwy2C8%3D",
           "url": "https://fanqienovel.com/page/7639185644228463640"
         },
         {
           "title": "小师妹五界第一，天才见她都破防",
           "author": "三百",
-          "reads": "2.8万",
+          "reads": "2.9万",
           "intro": "【大女主、爽文、群像、无cp】 现代人有没有灵根？ 云鸢表示，有的！还很牛！ * 一朝身穿到修仙界，觉醒极品金灵根，还是先天剑骨，被顶级宗门追着抢。 这都不算什么。 云鸢没想到，自己在现代对动物的亲和力，在修仙界还能用！ * 异兽大杀四方，各宗门弟子出去历练。 “那是杀伤力极高的黑背烈齿狼！” 云鸢：黑背德牧？ “那是会吐人言迷惑人心的凤鸟！” 云鸢：小玄凤？？ “那是雪地最难惹的蓝眸飓风狼！” 云鸢：二哈？？？ 看着云鸢轻松收下一堆灵兽，并且还称兄道弟，还能契约！ 同辈弟子：大变态！！ 云鸢：变态？ 要不你们去瞧瞧她的几个师兄师姐？ * 加入飞流峰后。 云鸢才知道，变态是何物。 大师姐最强武力，专修无情道，一剑一负心人。 二师兄笑眯眯的，整日睡不醒，像是个废物，实则下手最狠。 三师兄清冷无双，洁癖严重，一弄脏衣服修为暴增。 四师兄长的多美，说话就多脏，出手就多阴。 小师姐没她腰高，却最有钱，擅长拿灵石砸人！ * 直到飞升后，云鸢才发现自己的身份大有来头。 她穿的不是修仙界吗？ 这魔法又是哪儿来的！ 这突然冒出的爹妈又是怎么回事儿",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/68cd25f92017be704919b8a344dc0ab5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782278441&x-signature=iZLyKbiYGNwPAiy8lYW%2FUNV%2Fk0c%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/68cd25f92017be704919b8a344dc0ab5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364120&x-signature=EL821q%2Ffi3H2IGuK9R1jMWkwJ9U%3D",
           "url": "https://fanqienovel.com/page/7587720446674471998"
+        },
+        {
+          "title": "明日方舟：岁炎录",
+          "author": "荷叶雨舟",
+          "reads": "2.9万",
+          "intro": "从岁陵里爬出来的那一刻，他不知道自己是谁 直到他的姐姐蹲下来，朝他伸出手 后来他有了好多哥哥姐姐，骗他喝酒的、教他下棋的、给他做好吃的、每天晚上睡觉都拿他当抱枕的……他以为日子会一直这样过下去 再后来他长大了 有人要他庇佑大炎，杀了哥哥姐姐 有人要他颠覆大炎，杀了哥哥姐姐 梦里他喊的是“不要”...可如果有一天，他喊不出来了呢？ 他做了两个梦 在第一个梦里，他赢了。他吞噬了罪兽，取代了炎的意志，活成了岁家最乖的小幺 可另一个梦里，他没有...他会亲手杀了那些叫他“小幺”的人，会站在废墟里，想起很久以前，有人给他扎过辫子，有人给他做过排骨，有人唱过一首再也听不到的歌谣 他不知道哪一个梦会来（我也不知道） 他叫桀。岁家最小的崽/岁家最后的崽 一个不知道自己会被宠爱，还是终将辜负所有人的奶龙 —— 好了，现在到你了 如果你信他赢，这个故事的结局就是甜的。如果你信他输，那从现在开始，每一页糖里都裹着玻璃渣。 猜对了没奖，姐姐的尾巴不给你摸，哥哥做的排骨也不给你吃 猜错了也没事，桀又不会真的去你家门口哭 emm...反正你又不能顺着网线爬过来打我～ 5月31日入舟，希望集齐全岁",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5fc7feae7118566f8d2903fdc301dbbe~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782364120&x-signature=f4ktJAljz%2BPSGoqHp4326o%2FAbRw%3D",
+          "url": "https://fanqienovel.com/page/7641197895948979262"
         }
       ]
     }

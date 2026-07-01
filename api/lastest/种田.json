@@ -1,113 +1,112 @@
 {
   "type": "种田",
-  "date": "2026-06-30",
-  "prev_date": "2026-06-29",
+  "date": "2026-07-01",
+  "prev_date": "2026-06-30",
   "category": {
     "name": "种田",
     "trend": {
-      "new_count": 0,
-      "dropped_count": 0,
-      "new_books": [],
-      "dropped_books": [],
+      "new_count": 1,
+      "dropped_count": 1,
+      "new_books": [
+        "笨蛋美人挺孕肚，搬空全京去流放"
+      ],
+      "dropped_books": [
+        {
+          "title": "食肆经营手札",
+          "intro": "评分刚出，会涨（可能吧～） 【美食+经营+轻松日常+市井生活】 季荷一朝穿越，爹娘双亡，只给她留下一间临街食肆，和一群虎视眈眈的族亲。 无依无靠，囊中羞涩，唯有一身厨艺傍身。 摆摊开市，盘活老店，一灶"
+        }
+      ],
       "top_risers": [
         {
-          "title": "侯爷前妻恶毒但做饭实在美味",
-          "change": "+3"
+          "title": "穿成恶毒原配，我靠山吃山养家",
+          "change": "+4"
         },
         {
-          "title": "胎穿古代，在主角后面捡漏",
-          "change": "+2"
+          "title": "真千金替嫁流放，空间囤货亿点点",
+          "change": "+1"
         },
         {
-          "title": "穿成小丫鬟，靠梳妆赎身暴富",
+          "title": "刚和离就逃荒，我靠灵泉空间改命",
           "change": "+1"
         }
       ],
       "top_fallers": [
         {
-          "title": "惊！我和死去的儿子在古代相遇了",
-          "change": "-2"
+          "title": "穿成流放罪臣的恶毒妻",
+          "change": "-3"
         },
         {
-          "title": "断亲就断亲，萌娃囤粮带弟逃荒",
-          "change": "-2"
+          "title": "我靠拆快递在国子监后巷开小店",
+          "change": "-1"
         },
         {
-          "title": "彪悍小农女的悠闲生活",
+          "title": "带着快递驿站去逃荒",
           "change": "-1"
         }
       ],
       "reads_growth": [
         {
           "title": "侯爷前妻恶毒但做饭实在美味",
-          "growth": "+5000"
+          "growth": "+4000"
+        },
+        {
+          "title": "断亲就断亲，萌娃囤粮带弟逃荒",
+          "growth": "+3000"
         },
         {
           "title": "穿成恶毒原配，我靠山吃山养家",
           "growth": "+3000"
-        },
-        {
-          "title": "胎穿古代，在主角后面捡漏",
-          "growth": "+2000"
         }
       ],
-      "summary": "**🔥 题材趋势** 榜单作品高度集中于“穿越+逃荒/种田/经营”题材，其中“金手指（空间、系统、异能、电动车）”是核心要素。美食经营、古代农村生活、发家致富也是常见主题。\n**📖 读者偏好** 读者偏爱女主独立自强，利用现代知识或特殊能力在古代逆境中生存并致富的故事。剧情多包含虐渣、团宠、基建等爽点，且对“无CP”或“先婚后爱”的CP模式接受度高。\n**🆕 新上榜作品** 本期无新上榜作品，榜单相对稳定。\n**📉 掉出榜单** 本期无掉出榜单作品，显示现有作品的读者黏性较高。\n**💡 值得关注** “带金手指逃荒”是当前种田文的绝对热门，如《弃妇带崽逃荒开局一辆电动车》和《带着快递驿站去逃荒》都通过新颖的金手指设定脱颖而出。美食经营类作品如《临水小厨娘》和《我靠拆快递在国子监后巷开小店》也保持着稳定热度。"
+      "summary": "**🔥 题材趋势** 种田文榜单延续了逃荒、空间、美食经营和古言日常的题材热度，同时，“真千金”、“恶毒原配”等角色反转设定也开始流行。\n**📖 读者偏好** 读者偏爱带有金手指（如电动车、灵泉空间、快递驿站）、系统、以及强女主设定的作品，尤其是在灾荒、流放等困境中逆袭发家致富的剧情。对“断亲”、“虐渣”的爽点需求也十分明显。\n**🆕 新上榜作品** 《笨蛋美人挺孕肚，搬空全京去流放》新上榜，结合了“笨蛋美人”、“流放”、“空间”等热门元素，展现了多重爽点的叠加效应。\n**📉 掉出榜单** 《食肆经营手札》掉出榜单，可能反映出纯粹的美食经营题材在竞争激烈中需要更多创新点来吸引读者。\n**💡 值得关注** 结合“流放”、“抄家”、“空间囤货”以及“恶毒女配逆袭”等元素的复合型种田文表现突出，此类作品通过多重爽点叠加，有效提升了读者的代入感和阅读快感。"
     },
     "books": [
       {
         "title": "弃妇带崽逃荒开局一辆电动车",
         "author": "爱吃盐烤秋刀的一点点",
-        "reads": "7.1万",
+        "reads": "6.7万",
         "intro": "26岁社畜徐余思逛完超市骑车回家，惨遭车祸，一睁眼竟穿越灾荒年！ 成了刚生完女儿，就被狠心婆家扫地出门的可怜弃妇！ 婆家丈夫带着怀身孕的寡妇，狠心将她与满月幼女丢在空屋，全家卷粮逃荒，任由她们母女自生自灭！ 危急关头，车祸是自己骑的的电动车成为自己的金手指！ 自带两平米储物空间，还有自己丈在超市买的吃食和刚拿的快递，金手指更有逆天再生能力！ 别人逃荒步步惊心艰难求生，她骑着电车一路疾驰，囤粮致富，带着女儿安稳扎根乱世，日子越过越红火！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oabacb4142e62259d821331372e4525c1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399081&x-signature=k4rZSQk7EHPVR0BRIoXs68Ol0dU%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oabacb4142e62259d821331372e4525c1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486657&x-signature=95FaIJDBgn9HXdK6zwK0HwEzgKo%3D",
         "url": "https://fanqienovel.com/page/7641535868523531289"
       },
       {
         "title": "胎穿古代，在主角后面捡漏",
         "author": "我与云上",
-        "reads": "6.3万",
+        "reads": "6.4万",
         "intro": "[架空] [种田] [经商] [金手指] [有cp]（cp出场比较后） （刚出评分，还会继续涨哦）新人新作品，请多多担待。 李巧语因被医闹病人报复，穿越到古代，直到两岁才恢复记忆。 家中虽在村里比较富裕，但每个人心思各异，李巧语只能默默苟住，学习手艺，偷摸赚钱。 可惜在这个时代，女性终究地位低下，为了未来的幸福，她只好计划制造机会入赘高富帅。 本来以为这漫长的岁月会按部就班进行。 没想到村长家出了个福娃，村里人都说福娃就是运气好，肯定是神仙下凡。 却没有看到福娃一捡东西，旁边的人就会倒霉。 还有，三姐整天用看鬼的眼神看我干什么？哦，原来她是重生的！！？ 隔壁家的书生也满嘴“我命由我不由天，三十年河东...”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od8f16a26a44a8bd639cd05dc52866eb6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399081&x-signature=ftd%2B6wiyuR6YdLc23k7PspKlPqI%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od8f16a26a44a8bd639cd05dc52866eb6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486657&x-signature=a362s3jwZ%2F1vuzUJnmhD7v0ItUM%3D",
         "url": "https://fanqienovel.com/page/7635046106379848729"
       },
       {
         "title": "农门相公是王爷",
         "author": "八宝粥的小七喜",
-        "reads": "5.8万",
+        "reads": "5.5万",
         "intro": "【杀伐果断的王爷伪装成乡下农夫 vs 重生庶女】前世，萧归晚医好宁王的顽疾，却被困深宫，孤独终老。 重活一世，嫡姐抢着嫁给宁王，把她塞给乡下农户叶大牛。 萧归晚笑了：种田、养鸡、有空间灵泉，远离宫斗，自在逍遥。 新婚夜被人下药，她被迫与农夫夫君圆房。 行吧，这男人脸好腰好体力好，她不算亏。 可她渐渐发现——这个只会犁地的“叶大牛”，能写兵法，会布阵局，手指上的茧子根本不是锄头磨出来的。 直到某天，帅旗降临，千军万马跪迎：“恭迎镇北王！” 萧归晚：？？？说好的泥腿子呢？ 更崩溃的是——这男人也是重生的，前世就是被嫡姐害死的那个战神。 两个重生戏精面面相觑：所以这场婚姻，到底谁骗谁？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe055621593203a913f0bc6b54d555e89~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399081&x-signature=%2B3kCi27lVWBVa00IRN17uiZS7Fw%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe055621593203a913f0bc6b54d555e89~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486657&x-signature=5e8wG5CHcAslU%2BWj0cJ4rc%2Bp%2BLo%3D",
         "url": "https://fanqienovel.com/page/7632993786192219161"
       },
       {
         "title": "惊！我和死去的儿子在古代相遇了",
         "author": "二手月光",
-        "reads": "5.4万",
+        "reads": "5.3万",
         "intro": "评分刚出，会涨，放心阅读。 （穿越+系统+重逢+战乱+逃荒+日常+经商+科举） 刘雯青在儿子车祸离世一年后，为了麻痹自己不去想儿子，没日没夜编写代码、开发系统，最终心力交瘁猝然离世。 再次睁眼，儿子居然活生生站在眼前，只是两人身处的时代变了。 这是个穷到只能靠野菜饱腹的地方，可刘雯青不在意，只要儿子在，那都不是事儿。 * 冷书轩被车撞后穿越到古代，身边出现了一个和妈妈长得一模一样的女人。 起初他欣喜若狂，以为终于能再次拥有母亲。 可相处下来才发现，这女人根本就是个疯子，刻薄狠毒，对亲生儿女没有半分怜爱。 柳条抽得他遍体鳞伤。 他恨透了这张与母亲相同却恶毒无比的脸。 好在，她失足落水，眼看就要没了气息。 可她……又活了过来。 那双曾经冰冷怨毒的眼睛，再睁开时，变成他熟悉至极、盛满爱意的目光。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0cef56090ee949e077963001adc689e8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399081&x-signature=rZI1dx5EqYOfQSLneIDRJuz5bcQ%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0cef56090ee949e077963001adc689e8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486657&x-signature=4hNu4yX%2FGuB%2FKQdwzSU2bF9FHaA%3D",
         "url": "https://fanqienovel.com/page/7625684571446578201"
       },
       {
         "title": "临水小厨娘",
         "author": "芋圆香芋派",
-        "reads": "5.2万",
+        "reads": "5.3万",
         "intro": "【种田美食文➕轻松向➕日常➕有cp➕架空江南水乡】 现代天才女厨师苏茉，穿成了临水县小食肆老板的女儿。睁开眼，饭馆濒临倒闭，父母满面愁容，看着父亲糟蹋食材的手艺，苏茉默默拿起了祖传铁勺——看我把食肆做大做强！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8d6c2f273ba42d21858726035307ef99~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399081&x-signature=JOBhV0CT5uZH5nGDQIfnpHp6G%2FM%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8d6c2f273ba42d21858726035307ef99~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486657&x-signature=gSnwvOD91uOSqUnE5CcCxIU4GFE%3D",
         "url": "https://fanqienovel.com/page/7624037780791774232"
-      },
-      {
-        "title": "穿成流放罪臣的恶毒妻",
-        "author": "月亮短路",
-        "reads": "4.8万",
-        "intro": "宋知意一睁眼，穿进了一本古言虐文。 穿成了那个偷光丈夫救命粮、跟押送官私奔、最后被浸猪笼的恶毒妻子。 身边躺着烧到四十度、伤口发黑的男主——前内阁首辅沈惊寒。 面前坐着满嘴黄牙、眼神下流的押送官赵虎。 路边的车前草，她认得。沟渠里的黄芩根，她挖得。 水缸里的断肠草，她一舔舌尖就辨出来了。 粥里磨碎的曼陀罗籽？不好意思，她闻得到那股微麻的涩味。 所有人都在等沈惊寒死在路上。 而她，拿一根断了头的铜簪当针，扯麻绳当线，就着火光缝了七针。 没有外挂的普通人，凭什么活到最后？ 凭一双认得药草的眼睛，一颗死也要死得明白的心。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o177cad2e1b533a67d3fdf23f6a8c311b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399081&x-signature=JuIirq3eUjggyZhxzEZ7PYPDYKA%3D",
-        "url": "https://fanqienovel.com/page/7637903145187691582"
       },
       {
         "title": "真千金替嫁流放，空间囤货亿点点",
         "author": "星期十三",
-        "reads": "4.9万",
+        "reads": "4.6万",
         "intro": "【硬核真千金+满级医毒大佬+零元购搬空流放+团宠基建】 新婚夜，圣旨到，抄家流放三千里！ 渣爹为了保住假千金的凤命，灌我迷药，让我替嫁给中毒垂死的残疾战神去送死？ 安宁冷笑：没关系，我有28世纪顶级医疗物资空间，搬空京城去流放！ 皇帝要抄家？我先一步刮地三尺，连御书房的龙椅、御花园的土都给挖了，让狗皇帝早起连口热粥都喝不上！ 相府想断亲？我反手搬空他百年底蕴，金库、粮仓、连灶台里的柴火都不留，让渣男贱女跪在空宅里喝西北风！ 流放路上，极南荒芜，缺衣少食？ 我有成吨高能物资，灵井水洗经伐髓，顺手把这一家子老弱病残养成了满级大佬。 差役横行？一手术刀封喉。荒野求生？我反手就是一个基建大动作。 至于那个假装昏迷、想借死遁局的战神夫君…… 安宁：别演了，再装死，我这针下去你可就真成太监了。 楚景瑜：夫人息怒，本王这就起来为你打江山！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of80b6bbdd9e912fe8ca314f1b61d6373~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399081&x-signature=5s5vXHGyNKeHlKO7sgXvP5I%2FzFE%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of80b6bbdd9e912fe8ca314f1b61d6373~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486657&x-signature=bkpvim2o%2Fgfj9KjtSXU%2FN0xGWpI%3D",
         "url": "https://fanqienovel.com/page/7632236436263029785"
       },
       {
@@ -115,55 +114,71 @@
         "author": "夜梧桐好美",
         "reads": "4.7万",
         "intro": "苏清禾穿进逃荒文，甩了原主的渣男丈夫，拿着休书和嫁妆回了娘家，当看到原主娘家人时，惊呆了，这也太瘦了，还老的老，小的小，还有一个腿脚不便的，只有一个月就逃荒了，他们不会死在逃荒途中吧！ 先看看吧！这些人要是不收留她，她就离开，自己去逃荒。 原主娘亲：“清禾，你怎么回来了。” 苏清禾回答：“我和离了。” 全场沉默。 然后集体安慰她，让她安心待在家里，有他们一口吃的，就有苏清禾一口吃的。 苏清禾：她还挺感动的，都穷成这样了，还要给她从嘴里挤出粮食，她还怎么独自去逃荒呢？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o656e2a4c954ce5bbfe26dc19e82f0fc6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399081&x-signature=MgOHMsTUOZJ1dKDSooxnsVfZmW8%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o656e2a4c954ce5bbfe26dc19e82f0fc6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486657&x-signature=xhc2565%2FKcyPWc3sqX7l2lp%2BcfE%3D",
         "url": "https://fanqienovel.com/page/7633708095465589785"
       },
       {
         "title": "侯爷前妻恶毒但做饭实在美味",
         "author": "满沁",
-        "reads": "4.2万",
+        "reads": "4.6万",
         "intro": "美食博主沈轻漾穿进了自己投资的短剧剧本里，成了男主的恶毒前妻。 剧本中，恶毒前妻拿男主当跳板，跟三皇子勾结，伪造证据害得男主全家抄家流放，害死公婆，羞辱男主，还将小姑子卖到了烟花之地折磨。 最后，男主立下赫赫战功，辅助太子登基，成为权倾朝野的重臣，她被男主手下用尽酷刑后活活烧死。 根据她博览网文，遍阅短剧的经验，男主这玩意一般是有光环的，跟男主作对是没有好下场的！ 抛夫弃家是不可能的！ 她得跟男主同甘苦共患难！还要发挥自己的厨艺，好吃好喝伺候着他！ 等男主以后风光了，她讨一封和离书，顺便要点金银珠宝，要是可以的话再要套大房子几个上商铺，甚至再要几个知暖知热，长得帅，懂伺候的人小厮—— 这不妥妥走上人生巅峰吗？ 然而—— 和离书有了，金银珠宝，大房子，商铺也有了—— 就是要几个小厮，怎么都不肯给！ “知暖知热？” “长得帅？” “懂得伺候人？” “阿漾你看看，我哪点不符合？” 沈轻漾：“........”其实她早就想说了，都和离了，他这样天天爬自己的床，还蹭吃蹭住的，实在不合适。 “娘亲，爹爹说得对，你考虑考虑爹爹嘛——” 还有这个儿子，她都不想说，每天晚上裴侯爷连墙都不用爬了，直接开门给他爹！还真是千防万防家贼难防啊！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0bcd423a7adbb9f88e6a689fef51f971~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399081&x-signature=K6C%2BwZugsJkcuquQuUc9TJUas9s%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0bcd423a7adbb9f88e6a689fef51f971~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486657&x-signature=GosGUQiHeL7xv6jrjVWw8sWa3Tg%3D",
         "url": "https://fanqienovel.com/page/7639943820884331545"
       },
       {
-        "title": "我靠拆快递在国子监后巷开小店",
-        "author": "南瓜周",
-        "reads": "4.2万",
-        "intro": "【美食经营+拆快递+吃瓜+团宠日常+有cp】 　　乔满在现代遭遇意外，穿成大景国一位农户女。 　　原主是个药罐子，双亲离世，家境拮据，身边只有两位亲人，年长三岁的兄长及年迈的祖母。 　　瞧着米缸见底、捉襟见肘的光景，乔满默默叹口气…… 　　还好有个拆快递的系统！ 　　· 　　生活紧巴巴？ 　　乔满邪魅一笑，推着小摊子直奔目的地。 　　背靠人流量极大的国子监和太学，还愁没生意？ 　　炸串拌面麻辣烫，众人一口就爱上。 　　镇纸花笺和香囊，抢到一份心飞扬。 　　· 　　一到放学，国子监后巷挤满了学生。 　　无论是勋贵子弟，还是寒门学子都能在阿满小摊上购得心仪产品。 　　几个好友结伴，一手清供，一手美食，喜滋滋从人群中穿过，不时嗅嗅食物香气，顺便吐槽国子监食堂里的清苦。 　　有人惊讶一声：“他怎么会在这儿？” 　　几人顺势看去…… 　　蹲在角落，手捧着海碗，埋头嗦面的不正是国子监最清高自傲且厌食的那位小公子吗？ 　　（有男主，出场晚，是苏晏。）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc0a80a1dd8ad56cd9dc5104290ab7348~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399081&x-signature=MR6Dwcaz3%2Bt2ctEUqFWRGUMWf%2F0%3D",
-        "url": "https://fanqienovel.com/page/7634418107456424984"
+        "title": "穿成流放罪臣的恶毒妻",
+        "author": "月亮短路",
+        "reads": "4.5万",
+        "intro": "宋知意一睁眼，穿进了一本古言虐文。 穿成了那个偷光丈夫救命粮、跟押送官私奔、最后被浸猪笼的恶毒妻子。 身边躺着烧到四十度、伤口发黑的男主——前内阁首辅沈惊寒。 面前坐着满嘴黄牙、眼神下流的押送官赵虎。 路边的车前草，她认得。沟渠里的黄芩根，她挖得。 水缸里的断肠草，她一舔舌尖就辨出来了。 粥里磨碎的曼陀罗籽？不好意思，她闻得到那股微麻的涩味。 所有人都在等沈惊寒死在路上。 而她，拿一根断了头的铜簪当针，扯麻绳当线，就着火光缝了七针。 没有外挂的普通人，凭什么活到最后？ 凭一双认得药草的眼睛，一颗死也要死得明白的心。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o177cad2e1b533a67d3fdf23f6a8c311b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486657&x-signature=c5hCky6dnt5M8fdATUMonSUqA7Y%3D",
+        "url": "https://fanqienovel.com/page/7637903145187691582"
       },
       {
         "title": "断亲就断亲，萌娃囤粮带弟逃荒",
         "author": "风沙中的雨伞",
-        "reads": "4.1万",
+        "reads": "4.4万",
         "intro": "【古言种田+末世大佬重生+满级空间+搬空断亲+带弟逃荒+极致打脸】 末世杀伐果断的满级大佬，沈锦鲤一睁眼竟成了五岁农家小可怜，正被极品祖母按着手印，要卖掉换两袋发霉的陈粮？ 看着旁边饿得奄奄一息的亲弟弟，沈锦鲤冷笑一声：这委屈谁爱受谁受！ 极品算计？她当场手撕契约，霸气断亲！ 大旱将至？不怕，她的末世无限空间也跟着穿来了！ 临走前，她意念一动，反手将极品全家的库房连锅端。金银细软、粮仓水缸，甚至连院子里的地皮都刮走一层，一粒米都没给渣亲留！ 荒年千里，饿殍遍野。别人啃树皮吃观音土，五岁奶娃却左手烤鸡右手甜汤，带着弟弟在逃荒路上硬生生胖了三圈，还顺手开荒基建，打造出了一座乱世桃源。 直到某天，饿得只剩半条命的极品亲戚们要饭到城楼下，看着上面那个粉雕玉琢、手握重兵的五岁小城主，瞬间悔得肠子都青了…… 现在跪下叫祖宗，还来得及吗？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o878416aa0409cf802c27bdac00f7aa65~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399085&x-signature=ZEbZCRe5XxSGoqdqHTuvpIJrenE%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o878416aa0409cf802c27bdac00f7aa65~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486657&x-signature=AV7c0mBWrHNsUhgd5bWDdsAsvJE%3D",
         "url": "https://fanqienovel.com/page/7648974960739748889"
+      },
+      {
+        "title": "我靠拆快递在国子监后巷开小店",
+        "author": "南瓜周",
+        "reads": "4.3万",
+        "intro": "【美食经营+拆快递+吃瓜+团宠日常+有cp】 　　乔满在现代遭遇意外，穿成大景国一位农户女。 　　原主是个药罐子，双亲离世，家境拮据，身边只有两位亲人，年长三岁的兄长及年迈的祖母。 　　瞧着米缸见底、捉襟见肘的光景，乔满默默叹口气…… 　　还好有个拆快递的系统！ 　　· 　　生活紧巴巴？ 　　乔满邪魅一笑，推着小摊子直奔目的地。 　　背靠人流量极大的国子监和太学，还愁没生意？ 　　炸串拌面麻辣烫，众人一口就爱上。 　　镇纸花笺和香囊，抢到一份心飞扬。 　　· 　　一到放学，国子监后巷挤满了学生。 　　无论是勋贵子弟，还是寒门学子都能在阿满小摊上购得心仪产品。 　　几个好友结伴，一手清供，一手美食，喜滋滋从人群中穿过，不时嗅嗅食物香气，顺便吐槽国子监食堂里的清苦。 　　有人惊讶一声：“他怎么会在这儿？” 　　几人顺势看去…… 　　蹲在角落，手捧着海碗，埋头嗦面的不正是国子监最清高自傲且厌食的那位小公子吗？ 　　（有男主，出场晚，是苏晏。）",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc0a80a1dd8ad56cd9dc5104290ab7348~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486660&x-signature=04UayIi13FECCp1%2BqhpmThsiTRY%3D",
+        "url": "https://fanqienovel.com/page/7634418107456424984"
       },
       {
         "title": "彪悍小农女的悠闲生活",
         "author": "随笔浮想",
-        "reads": "3.7万",
+        "reads": "3.6万",
         "intro": "张璃死了，死后穿越成古代杏花村里的一缕游魂，村里张莲花与父亲张铁柱激烈争吵，撞门身亡。 张璃的魂魄便进入这具身体，承受开瓢的剧痛，为消解心中那口怨气，她抓起镰刀，发疯一样追着张铁柱全村跑。 从此村里谁惹她，她便疯给谁看。这一世，她不想再拼命的卷，只想种种田，悠闲度日。 富商家的纨绔，村里来的文弱书生，不时凑过来招惹，她从未放在心上。 后来，经历过多次磨难，总有人默默守在她身边。待她见过太多的生死，她握住文弱书生的手，许他三生三世。 （多是家长里短，亲情，也有家国情怀）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od14db5fd01a215592d2fc440c92ad30b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399085&x-signature=woq4p45IJvTeQ65Qr9B78IEJY8o%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od14db5fd01a215592d2fc440c92ad30b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486660&x-signature=xD6lSfU6XLlZkMaROF%2BrNx2M8%2F0%3D",
         "url": "https://fanqienovel.com/page/7646312151467953176"
+      },
+      {
+        "title": "穿成恶毒原配，我靠山吃山养家",
+        "author": "阿栗子哎",
+        "reads": "3.5万",
+        "intro": "【种田+日常+发家致富+细水长流+无金手指】 避雷：不是突然暴富就买田买铺子的风格，偶尔有美食。 借着午休眯一会的功夫，关凝把自己眯成了一本书里的恶毒原配，也是个极品。 家徒四壁不说，还想做高门贵夫人，她哄骗失忆后的章池说，他是自己买回来的赘婿。 不让他出村一步就算了，家里也没地，还怪人家没本事养不了家。 为了留住他，原主和寡母给章池下药，结果一发入魂有了孩子。 章池恢复记忆后，原主死无全尸。 关宁：…… 幸好她来的这个时间点药还没下到粥里，她淡定的把准备给章池下的药扔进火塘。 比起生孩子和搞男人，还是先填饱肚子吧。 她真不想顿顿喝野菜糊糊。 于是关宁带着娘亲和弟弟上山挖野菜，捡菌子，找药材，下河捕鱼…… 章池发现，以前常在自己面前晃悠的关宁，现在眼里只有野菜和菌子。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of1da526d57c3f066a6bb5eb18eb2feb4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486660&x-signature=%2FgZm97FCAi%2BLE3KqhUiPX%2FC48HM%3D",
+        "url": "https://fanqienovel.com/page/7643028989245672510"
       },
       {
         "title": "带着快递驿站去逃荒",
         "author": "晒月光的镜子",
         "reads": "3.5万",
         "intro": "（才出分，会涨的~）夏芸禾穿越到古代农村，还带来了一座大型快递驿站。 驿站里什么都有，但她每天只能从里面拿一件东西。 终于站稳脚跟后，大旱居然来了，庄稼绝收，难道天要亡她？ 还能怎么办，一起去逃荒呗！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob86413531e2e4f383f6eac7db052dfb7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399085&x-signature=rF92J6da0zR%2B4wkFAHlu2%2B8qVZ4%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob86413531e2e4f383f6eac7db052dfb7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486660&x-signature=riOO5g3HfwPpIU%2FPmClClcThpjs%3D",
         "url": "https://fanqienovel.com/page/7636064339312528409"
       },
       {
         "title": "神医娘子狠狠撩，糙汉铁匠何处逃",
         "author": "爱玩水的竹子君",
-        "reads": "3.3万",
+        "reads": "3.4万",
         "intro": "（评分刚出）十五两银子，他买下她。他木讷寡言，旁人都笑他是块木头。苏瑶却知这汉子纯粹又温柔，所以她偏要撩他。擦汗、探脉、治伤，步步逼近。直到那天，这糙汉将她抵在墙角，嗓音低哑：“别这样！”她踮脚，凑近他耳畔，单手探入他结实胸膛：“怎样？这样？”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob4c6c75688d74cb9a473cf69dca382cb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399085&x-signature=Alqkr1sV%2BaO7tA8TW1suSXtO9mA%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob4c6c75688d74cb9a473cf69dca382cb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486660&x-signature=7Y8VjRLgKRI6ySEBc2xMMT%2FtTCo%3D",
         "url": "https://fanqienovel.com/page/7642656867352595480"
       },
       {
@@ -171,7 +186,7 @@
         "author": "一品澄辞",
         "reads": "3.1万",
         "intro": "1V多，多男主 末世植物学家苏晚，一睁眼穿成远古兽世人人嫌恶的丑雌兽。 原主身中剧毒，臃肿丑陋性情恶毒，还得罪了部落最顶尖的五位战神夫君。 狼、虎、蛇、狐、鹰，五位俊美强悍的兽人，个个厌弃她、避之不及。 好在她自带空间与治愈异能，既是兽世独一份的治愈神祗，还能解毒瘦身、逆天改容。 认灵植、做美食、建家园，她凭本事在蛮荒兽世站稳脚跟。 从前冷眼厌恶的五大战神，从试探在意到疯狂沦陷，争着宠她护她。 雄多雌少，雌兽至尊，且看苏晚在远古蛮荒，被五个绝世兽夫捧成心尖宠。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8848292dd0c2e0b895a1631e8fa885e5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399085&x-signature=KSZ4uoFcYpZm%2Fv%2FT3yfzpDa6R9g%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8848292dd0c2e0b895a1631e8fa885e5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486660&x-signature=Ahu7gmv0chhfpN%2BCA1Q0mXyDFeQ%3D",
         "url": "https://fanqienovel.com/page/7644026367650057278"
       },
       {
@@ -179,39 +194,31 @@
         "author": "旧窗藏日光",
         "reads": "3.1万",
         "intro": "【恶女+替嫁++大力+美食+空间+甜宠+赶海+发家致富+虐渣】沈鸢穿成了被继母按着脑袋往墙上撞的恶毒村姑，全家逼她替姐嫁给瘸腿渔夫。 她笑了：嫁！但断亲书和嫁妆一样不能少。 临走上演空城计，把沈家偷得只剩四面墙。 新婚第一天，全村恶霸来闹事，她一拳把人打飞两米远，全村震惊。 第二天就要分家，公婆：没钱没房你分个寂寞？ 沈鸢拎起竹篓走向海边：你们不懂，这片海能生金。 蛤蜊、海螺、八爪鱼……别人眼里的破烂，她手里的宝贝。沙虫、海参、鲍鱼……她闭着眼都知道哪儿有。 全村人都在等着看笑话，直到她真金白银堆满了院。 瘸腿相公一脸懵：娶了个啥媳妇？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o532de63ea73e17d2a159f6c23b1febe6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399085&x-signature=SUnMXC3OuV4RVxKIFgQYYwoySnY%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o532de63ea73e17d2a159f6c23b1febe6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486660&x-signature=uX2DoAwtWuNfdDfk7ZXTPzkK6bU%3D",
         "url": "https://fanqienovel.com/page/7647076991916592190"
       },
       {
-        "title": "穿成恶毒原配，我靠山吃山养家",
-        "author": "阿栗子哎",
-        "reads": "3.2万",
-        "intro": "【种田+日常+发家致富+细水长流+无金手指】 避雷：不是突然暴富就买田买铺子的风格，偶尔有美食。 借着午休眯一会的功夫，关凝把自己眯成了一本书里的恶毒原配，也是个极品。 家徒四壁不说，还想做高门贵夫人，她哄骗失忆后的章池说，他是自己买回来的赘婿。 不让他出村一步就算了，家里也没地，还怪人家没本事养不了家。 为了留住他，原主和寡母给章池下药，结果一发入魂有了孩子。 章池恢复记忆后，原主死无全尸。 关宁：…… 幸好她来的这个时间点药还没下到粥里，她淡定的把准备给章池下的药扔进火塘。 比起生孩子和搞男人，还是先填饱肚子吧。 她真不想顿顿喝野菜糊糊。 于是关宁带着娘亲和弟弟上山挖野菜，捡菌子，找药材，下河捕鱼…… 章池发现，以前常在自己面前晃悠的关宁，现在眼里只有野菜和菌子。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of1da526d57c3f066a6bb5eb18eb2feb4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399085&x-signature=V90hQEewgA7UjBIoCiNY73MXtOk%3D",
-        "url": "https://fanqienovel.com/page/7643028989245672510"
+        "title": "笨蛋美人挺孕肚，搬空全京去流放",
+        "author": "咬草",
+        "reads": "2.9万",
+        "intro": "【种田+天灾+流放+虐渣+搬空+空间】 修真界符阵宗师南穗穗渡劫失败，穿成临安侯府人人嫌弃的痴傻庶女，被迫替嫁给身中剧毒、双腿残疾的短命宁王冲喜。 新婚夜，宁王剑指咽喉：“说，皇后派你来做什么？” 南穗穗软乎乎歪头：“哥哥，要吃糖糖吗？穗穗有甜甜的糖糖哦……” 宁王：……（这怕不是个真傻子？） 婚后次日，南穗穗察觉王府死气萦绕，掐指一算，十日之内必遭抄家流放！ 南穗穗冷笑一声，反手画下百张搬运符，连夜搬空侯府，顺便将国库、帝后私库一扫而空！ 短短十天，她不仅囤够亿万物资，还顺手解了宁王的毒，揣着双胎崽崽踏上流放路。 流放途中，别人啃树皮，她吃香喝辣，极品来找茬，宁王开启极致护妻模式。 宁王：“我家夫人身怀六甲，谁敢惊着她，本王要谁的命！” 被自家老祖宗显灵揍得脸肿如猪的仇家痛哭：“王爷！她召我老祖宗上来抽了我三百个巴掌，到底谁惊着谁啊？！” 宁王：“我家夫人最怕打雷，一听雷声就往本王怀里钻。” 被劈得外焦里嫩的刺客们嚎啕大哭：“王爷！那追着我们劈了三天三夜的九天玄雷就是她招来的！我们被劈成黑炭，她挺着大肚子在旁边用雷火烤红薯，这叫怕打雷？！” …… 柔弱是装的，满级大佬是真的，搬空全京去流放是让狗皇帝哭爹喊娘的！",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oedabf85b9a4ebec045210d63a48fed6e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486660&x-signature=TCa1v0jBAyggHS9LGUPLHtqhjdg%3D",
+        "url": "https://fanqienovel.com/page/7647142493472951321"
       },
       {
         "title": "穿成小丫鬟，靠梳妆赎身暴富",
         "author": "穿尽红丝",
-        "reads": "2.7万",
+        "reads": "2.8万",
         "intro": "观看指南：【非爽文+架空北宋+微群像+市井经商+微宅斗+家长里短+日常流】 林丰穗穿到北宋，成了八岁小丫头，喜提知州府上「家生子」身份。 娘是灶上的厨娘，爹是账房贴书，前边还有个大她两岁的绣娘姐姐。 老娘是灶上摸油水的高手，好的孬的全塞兜里。 姐姐绣活一般，嘴皮子极好，哄的管事眉开眼笑，多出的边角料通通拎回家。 家里边只剩个老实爹，半点不敢马虎手里的账。 丰穗到了年纪要学门手艺，全家人跳出来支招。 娘说：厨房干活是冬冷夏热，不行！ 姐说：绣娘的活计不分昼夜，别干！ 爹说：账房么，识字算术，不差分厘，还行！ 丰穗心想：学，都学，但还得靠重操旧业稳妥。 “娘子，梳妆吗？” 不不不，搞错了！八岁大的人应该先拜师学艺。 谨小慎微是安身立命的前提。 赚钱赎身，身兼数职是常态。 伺候主子饮食起居，还得起早贪黑，制那面脂香膏、胭脂水粉上街兜售。 苦点累点都没事，只要能挣脱这脖子上的枷锁。 一家人齐整出府，置上一间小院，做些经济买卖，自由自在的过红火日子，便浑身都是劲。 日子能过好，就别让其糟下去。 立意：自由、奋斗、自强则万事顺，向阳而生。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa024c18fe7ac739d0b69c10726918e79~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399085&x-signature=GSYJrqKPJBblAPshc9Yjh2TxkNo%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa024c18fe7ac739d0b69c10726918e79~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486660&x-signature=QZA599xgsMld2sxMp99UtSlR9Zs%3D",
         "url": "https://fanqienovel.com/page/7564256304332557336"
-      },
-      {
-        "title": "食肆经营手札",
-        "author": "白兔馅韭菜盒子",
-        "reads": "2.6万",
-        "intro": "评分刚出，会涨（可能吧～） 【美食+经营+轻松日常+市井生活】 季荷一朝穿越，爹娘双亡，只给她留下一间临街食肆，和一群虎视眈眈的族亲。 无依无靠，囊中羞涩，唯有一身厨艺傍身。 摆摊开市，盘活老店，一灶一釜，百味生香。 酥皮金汁的蟹黄兜子，玲珑剔透的透花糍，色如琥珀的双味鹌子羹...... 时鲜入馔不过夜，春有荠菜银鱼鲊，夏供荷香清露冷淘，秋来菊苗霜螯对月，冬至羊头签热雾腾腾。 四季流转，尽在一案之间。香透重楼，馋杀四邻。 樊楼少东家徐鹤闻，出身显赫，是汴京城里出了名的矜贵人儿。 吃穿用度无一不精，脾气秉性无一不冷。 偏偏这位爷有个不为人知的毛病：挑嘴。挑到令人发指的地步。 直到某日，一名不起眼的小摊贩带来了一个食盒...... 彼时的徐鹤闻还不知道，那是一个比他还会拿腔作调的小厨娘。 至于谁先动了心——这事不好说。 市井小厨娘 X 樊楼少东家 美食勾人，烟火入心。人间百味，尽系一人。 架空北宋，私设如山，请勿考究。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2off1c3bcfc375fb1c777f12dd0130a59c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399085&x-signature=qFRi1ZsX1z%2FMezyms1D9A6wD9vI%3D",
-        "url": "https://fanqienovel.com/page/7641516108419173401"
       },
       {
         "title": "天灾末世，孤女带空间独自逃荒",
         "author": "倾幽沫沫",
-        "reads": "2.6万",
+        "reads": "2.7万",
         "intro": "评分刚出，后期会涨的！ （架空+无cp+微群像+天灾+女主独狼不圣母+空间+异能） 现代30岁的沈青青，穿越到大渊朝的农家15岁孤女沈锦年身上，面对极品亲戚，她利落分家断亲。 奈何古代天灾不断，还好她有空间，悄悄提前囤货，开启独自南下逃荒…… 避坑指南：女主属于慢慢成长型，并不是像别的爽文女主那样，上来就杀伐果断，武力值爆棚，力大无穷！喜欢这类的千万别点进去看…… 本文越往后越癫，不喜癫文的慎入！ ps:喜欢独狼逃荒文的闭眼入，全文预计百万字打底，数据好无上限，作者手搓不易，望读者宝宝不喜直接退出，不必特意留差评告知作者，谢谢，祝各位2026暴富！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc7cdc54e66e8294e564dc69cd565c74e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399085&x-signature=cOXauUE1%2B5H7vS8V85v5QZK32iw%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc7cdc54e66e8294e564dc69cd565c74e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486660&x-signature=FtP9ImsZUITH8Hpd%2BircJM5n41U%3D",
         "url": "https://fanqienovel.com/page/7628812323305573401"
       }
     ]
@@ -220,109 +227,108 @@
     {
       "name": "种田",
       "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          "笨蛋美人挺孕肚，搬空全京去流放"
+        ],
+        "dropped_books": [
+          {
+            "title": "食肆经营手札",
+            "intro": "评分刚出，会涨（可能吧～） 【美食+经营+轻松日常+市井生活】 季荷一朝穿越，爹娘双亡，只给她留下一间临街食肆，和一群虎视眈眈的族亲。 无依无靠，囊中羞涩，唯有一身厨艺傍身。 摆摊开市，盘活老店，一灶"
+          }
+        ],
         "top_risers": [
           {
-            "title": "侯爷前妻恶毒但做饭实在美味",
-            "change": "+3"
+            "title": "穿成恶毒原配，我靠山吃山养家",
+            "change": "+4"
           },
           {
-            "title": "胎穿古代，在主角后面捡漏",
-            "change": "+2"
+            "title": "真千金替嫁流放，空间囤货亿点点",
+            "change": "+1"
           },
           {
-            "title": "穿成小丫鬟，靠梳妆赎身暴富",
+            "title": "刚和离就逃荒，我靠灵泉空间改命",
             "change": "+1"
           }
         ],
         "top_fallers": [
           {
-            "title": "惊！我和死去的儿子在古代相遇了",
-            "change": "-2"
+            "title": "穿成流放罪臣的恶毒妻",
+            "change": "-3"
           },
           {
-            "title": "断亲就断亲，萌娃囤粮带弟逃荒",
-            "change": "-2"
+            "title": "我靠拆快递在国子监后巷开小店",
+            "change": "-1"
           },
           {
-            "title": "彪悍小农女的悠闲生活",
+            "title": "带着快递驿站去逃荒",
             "change": "-1"
           }
         ],
         "reads_growth": [
           {
             "title": "侯爷前妻恶毒但做饭实在美味",
-            "growth": "+5000"
+            "growth": "+4000"
+          },
+          {
+            "title": "断亲就断亲，萌娃囤粮带弟逃荒",
+            "growth": "+3000"
           },
           {
             "title": "穿成恶毒原配，我靠山吃山养家",
             "growth": "+3000"
-          },
-          {
-            "title": "胎穿古代，在主角后面捡漏",
-            "growth": "+2000"
           }
         ],
-        "summary": "**🔥 题材趋势** 榜单作品高度集中于“穿越+逃荒/种田/经营”题材，其中“金手指（空间、系统、异能、电动车）”是核心要素。美食经营、古代农村生活、发家致富也是常见主题。\n**📖 读者偏好** 读者偏爱女主独立自强，利用现代知识或特殊能力在古代逆境中生存并致富的故事。剧情多包含虐渣、团宠、基建等爽点，且对“无CP”或“先婚后爱”的CP模式接受度高。\n**🆕 新上榜作品** 本期无新上榜作品，榜单相对稳定。\n**📉 掉出榜单** 本期无掉出榜单作品，显示现有作品的读者黏性较高。\n**💡 值得关注** “带金手指逃荒”是当前种田文的绝对热门，如《弃妇带崽逃荒开局一辆电动车》和《带着快递驿站去逃荒》都通过新颖的金手指设定脱颖而出。美食经营类作品如《临水小厨娘》和《我靠拆快递在国子监后巷开小店》也保持着稳定热度。"
+        "summary": "**🔥 题材趋势** 种田文榜单延续了逃荒、空间、美食经营和古言日常的题材热度，同时，“真千金”、“恶毒原配”等角色反转设定也开始流行。\n**📖 读者偏好** 读者偏爱带有金手指（如电动车、灵泉空间、快递驿站）、系统、以及强女主设定的作品，尤其是在灾荒、流放等困境中逆袭发家致富的剧情。对“断亲”、“虐渣”的爽点需求也十分明显。\n**🆕 新上榜作品** 《笨蛋美人挺孕肚，搬空全京去流放》新上榜，结合了“笨蛋美人”、“流放”、“空间”等热门元素，展现了多重爽点的叠加效应。\n**📉 掉出榜单** 《食肆经营手札》掉出榜单，可能反映出纯粹的美食经营题材在竞争激烈中需要更多创新点来吸引读者。\n**💡 值得关注** 结合“流放”、“抄家”、“空间囤货”以及“恶毒女配逆袭”等元素的复合型种田文表现突出，此类作品通过多重爽点叠加，有效提升了读者的代入感和阅读快感。"
       },
       "books": [
         {
           "title": "弃妇带崽逃荒开局一辆电动车",
           "author": "爱吃盐烤秋刀的一点点",
-          "reads": "7.1万",
+          "reads": "6.7万",
           "intro": "26岁社畜徐余思逛完超市骑车回家，惨遭车祸，一睁眼竟穿越灾荒年！ 成了刚生完女儿，就被狠心婆家扫地出门的可怜弃妇！ 婆家丈夫带着怀身孕的寡妇，狠心将她与满月幼女丢在空屋，全家卷粮逃荒，任由她们母女自生自灭！ 危急关头，车祸是自己骑的的电动车成为自己的金手指！ 自带两平米储物空间，还有自己丈在超市买的吃食和刚拿的快递，金手指更有逆天再生能力！ 别人逃荒步步惊心艰难求生，她骑着电车一路疾驰，囤粮致富，带着女儿安稳扎根乱世，日子越过越红火！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oabacb4142e62259d821331372e4525c1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399081&x-signature=k4rZSQk7EHPVR0BRIoXs68Ol0dU%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oabacb4142e62259d821331372e4525c1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486657&x-signature=95FaIJDBgn9HXdK6zwK0HwEzgKo%3D",
           "url": "https://fanqienovel.com/page/7641535868523531289"
         },
         {
           "title": "胎穿古代，在主角后面捡漏",
           "author": "我与云上",
-          "reads": "6.3万",
+          "reads": "6.4万",
           "intro": "[架空] [种田] [经商] [金手指] [有cp]（cp出场比较后） （刚出评分，还会继续涨哦）新人新作品，请多多担待。 李巧语因被医闹病人报复，穿越到古代，直到两岁才恢复记忆。 家中虽在村里比较富裕，但每个人心思各异，李巧语只能默默苟住，学习手艺，偷摸赚钱。 可惜在这个时代，女性终究地位低下，为了未来的幸福，她只好计划制造机会入赘高富帅。 本来以为这漫长的岁月会按部就班进行。 没想到村长家出了个福娃，村里人都说福娃就是运气好，肯定是神仙下凡。 却没有看到福娃一捡东西，旁边的人就会倒霉。 还有，三姐整天用看鬼的眼神看我干什么？哦，原来她是重生的！！？ 隔壁家的书生也满嘴“我命由我不由天，三十年河东...”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od8f16a26a44a8bd639cd05dc52866eb6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399081&x-signature=ftd%2B6wiyuR6YdLc23k7PspKlPqI%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od8f16a26a44a8bd639cd05dc52866eb6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486657&x-signature=a362s3jwZ%2F1vuzUJnmhD7v0ItUM%3D",
           "url": "https://fanqienovel.com/page/7635046106379848729"
         },
         {
           "title": "农门相公是王爷",
           "author": "八宝粥的小七喜",
-          "reads": "5.8万",
+          "reads": "5.5万",
           "intro": "【杀伐果断的王爷伪装成乡下农夫 vs 重生庶女】前世，萧归晚医好宁王的顽疾，却被困深宫，孤独终老。 重活一世，嫡姐抢着嫁给宁王，把她塞给乡下农户叶大牛。 萧归晚笑了：种田、养鸡、有空间灵泉，远离宫斗，自在逍遥。 新婚夜被人下药，她被迫与农夫夫君圆房。 行吧，这男人脸好腰好体力好，她不算亏。 可她渐渐发现——这个只会犁地的“叶大牛”，能写兵法，会布阵局，手指上的茧子根本不是锄头磨出来的。 直到某天，帅旗降临，千军万马跪迎：“恭迎镇北王！” 萧归晚：？？？说好的泥腿子呢？ 更崩溃的是——这男人也是重生的，前世就是被嫡姐害死的那个战神。 两个重生戏精面面相觑：所以这场婚姻，到底谁骗谁？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe055621593203a913f0bc6b54d555e89~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399081&x-signature=%2B3kCi27lVWBVa00IRN17uiZS7Fw%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe055621593203a913f0bc6b54d555e89~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486657&x-signature=5e8wG5CHcAslU%2BWj0cJ4rc%2Bp%2BLo%3D",
           "url": "https://fanqienovel.com/page/7632993786192219161"
         },
         {
           "title": "惊！我和死去的儿子在古代相遇了",
           "author": "二手月光",
-          "reads": "5.4万",
+          "reads": "5.3万",
           "intro": "评分刚出，会涨，放心阅读。 （穿越+系统+重逢+战乱+逃荒+日常+经商+科举） 刘雯青在儿子车祸离世一年后，为了麻痹自己不去想儿子，没日没夜编写代码、开发系统，最终心力交瘁猝然离世。 再次睁眼，儿子居然活生生站在眼前，只是两人身处的时代变了。 这是个穷到只能靠野菜饱腹的地方，可刘雯青不在意，只要儿子在，那都不是事儿。 * 冷书轩被车撞后穿越到古代，身边出现了一个和妈妈长得一模一样的女人。 起初他欣喜若狂，以为终于能再次拥有母亲。 可相处下来才发现，这女人根本就是个疯子，刻薄狠毒，对亲生儿女没有半分怜爱。 柳条抽得他遍体鳞伤。 他恨透了这张与母亲相同却恶毒无比的脸。 好在，她失足落水，眼看就要没了气息。 可她……又活了过来。 那双曾经冰冷怨毒的眼睛，再睁开时，变成他熟悉至极、盛满爱意的目光。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0cef56090ee949e077963001adc689e8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399081&x-signature=rZI1dx5EqYOfQSLneIDRJuz5bcQ%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0cef56090ee949e077963001adc689e8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486657&x-signature=4hNu4yX%2FGuB%2FKQdwzSU2bF9FHaA%3D",
           "url": "https://fanqienovel.com/page/7625684571446578201"
         },
         {
           "title": "临水小厨娘",
           "author": "芋圆香芋派",
-          "reads": "5.2万",
+          "reads": "5.3万",
           "intro": "【种田美食文➕轻松向➕日常➕有cp➕架空江南水乡】 现代天才女厨师苏茉，穿成了临水县小食肆老板的女儿。睁开眼，饭馆濒临倒闭，父母满面愁容，看着父亲糟蹋食材的手艺，苏茉默默拿起了祖传铁勺——看我把食肆做大做强！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8d6c2f273ba42d21858726035307ef99~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399081&x-signature=JOBhV0CT5uZH5nGDQIfnpHp6G%2FM%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8d6c2f273ba42d21858726035307ef99~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486657&x-signature=gSnwvOD91uOSqUnE5CcCxIU4GFE%3D",
           "url": "https://fanqienovel.com/page/7624037780791774232"
-        },
-        {
-          "title": "穿成流放罪臣的恶毒妻",
-          "author": "月亮短路",
-          "reads": "4.8万",
-          "intro": "宋知意一睁眼，穿进了一本古言虐文。 穿成了那个偷光丈夫救命粮、跟押送官私奔、最后被浸猪笼的恶毒妻子。 身边躺着烧到四十度、伤口发黑的男主——前内阁首辅沈惊寒。 面前坐着满嘴黄牙、眼神下流的押送官赵虎。 路边的车前草，她认得。沟渠里的黄芩根，她挖得。 水缸里的断肠草，她一舔舌尖就辨出来了。 粥里磨碎的曼陀罗籽？不好意思，她闻得到那股微麻的涩味。 所有人都在等沈惊寒死在路上。 而她，拿一根断了头的铜簪当针，扯麻绳当线，就着火光缝了七针。 没有外挂的普通人，凭什么活到最后？ 凭一双认得药草的眼睛，一颗死也要死得明白的心。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o177cad2e1b533a67d3fdf23f6a8c311b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399081&x-signature=JuIirq3eUjggyZhxzEZ7PYPDYKA%3D",
-          "url": "https://fanqienovel.com/page/7637903145187691582"
         },
         {
           "title": "真千金替嫁流放，空间囤货亿点点",
           "author": "星期十三",
-          "reads": "4.9万",
+          "reads": "4.6万",
           "intro": "【硬核真千金+满级医毒大佬+零元购搬空流放+团宠基建】 新婚夜，圣旨到，抄家流放三千里！ 渣爹为了保住假千金的凤命，灌我迷药，让我替嫁给中毒垂死的残疾战神去送死？ 安宁冷笑：没关系，我有28世纪顶级医疗物资空间，搬空京城去流放！ 皇帝要抄家？我先一步刮地三尺，连御书房的龙椅、御花园的土都给挖了，让狗皇帝早起连口热粥都喝不上！ 相府想断亲？我反手搬空他百年底蕴，金库、粮仓、连灶台里的柴火都不留，让渣男贱女跪在空宅里喝西北风！ 流放路上，极南荒芜，缺衣少食？ 我有成吨高能物资，灵井水洗经伐髓，顺手把这一家子老弱病残养成了满级大佬。 差役横行？一手术刀封喉。荒野求生？我反手就是一个基建大动作。 至于那个假装昏迷、想借死遁局的战神夫君…… 安宁：别演了，再装死，我这针下去你可就真成太监了。 楚景瑜：夫人息怒，本王这就起来为你打江山！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of80b6bbdd9e912fe8ca314f1b61d6373~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399081&x-signature=5s5vXHGyNKeHlKO7sgXvP5I%2FzFE%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of80b6bbdd9e912fe8ca314f1b61d6373~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486657&x-signature=bkpvim2o%2Fgfj9KjtSXU%2FN0xGWpI%3D",
           "url": "https://fanqienovel.com/page/7632236436263029785"
         },
         {
@@ -330,55 +336,71 @@
           "author": "夜梧桐好美",
           "reads": "4.7万",
           "intro": "苏清禾穿进逃荒文，甩了原主的渣男丈夫，拿着休书和嫁妆回了娘家，当看到原主娘家人时，惊呆了，这也太瘦了，还老的老，小的小，还有一个腿脚不便的，只有一个月就逃荒了，他们不会死在逃荒途中吧！ 先看看吧！这些人要是不收留她，她就离开，自己去逃荒。 原主娘亲：“清禾，你怎么回来了。” 苏清禾回答：“我和离了。” 全场沉默。 然后集体安慰她，让她安心待在家里，有他们一口吃的，就有苏清禾一口吃的。 苏清禾：她还挺感动的，都穷成这样了，还要给她从嘴里挤出粮食，她还怎么独自去逃荒呢？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o656e2a4c954ce5bbfe26dc19e82f0fc6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399081&x-signature=MgOHMsTUOZJ1dKDSooxnsVfZmW8%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o656e2a4c954ce5bbfe26dc19e82f0fc6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486657&x-signature=xhc2565%2FKcyPWc3sqX7l2lp%2BcfE%3D",
           "url": "https://fanqienovel.com/page/7633708095465589785"
         },
         {
           "title": "侯爷前妻恶毒但做饭实在美味",
           "author": "满沁",
-          "reads": "4.2万",
+          "reads": "4.6万",
           "intro": "美食博主沈轻漾穿进了自己投资的短剧剧本里，成了男主的恶毒前妻。 剧本中，恶毒前妻拿男主当跳板，跟三皇子勾结，伪造证据害得男主全家抄家流放，害死公婆，羞辱男主，还将小姑子卖到了烟花之地折磨。 最后，男主立下赫赫战功，辅助太子登基，成为权倾朝野的重臣，她被男主手下用尽酷刑后活活烧死。 根据她博览网文，遍阅短剧的经验，男主这玩意一般是有光环的，跟男主作对是没有好下场的！ 抛夫弃家是不可能的！ 她得跟男主同甘苦共患难！还要发挥自己的厨艺，好吃好喝伺候着他！ 等男主以后风光了，她讨一封和离书，顺便要点金银珠宝，要是可以的话再要套大房子几个上商铺，甚至再要几个知暖知热，长得帅，懂伺候的人小厮—— 这不妥妥走上人生巅峰吗？ 然而—— 和离书有了，金银珠宝，大房子，商铺也有了—— 就是要几个小厮，怎么都不肯给！ “知暖知热？” “长得帅？” “懂得伺候人？” “阿漾你看看，我哪点不符合？” 沈轻漾：“........”其实她早就想说了，都和离了，他这样天天爬自己的床，还蹭吃蹭住的，实在不合适。 “娘亲，爹爹说得对，你考虑考虑爹爹嘛——” 还有这个儿子，她都不想说，每天晚上裴侯爷连墙都不用爬了，直接开门给他爹！还真是千防万防家贼难防啊！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0bcd423a7adbb9f88e6a689fef51f971~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399081&x-signature=K6C%2BwZugsJkcuquQuUc9TJUas9s%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0bcd423a7adbb9f88e6a689fef51f971~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486657&x-signature=GosGUQiHeL7xv6jrjVWw8sWa3Tg%3D",
           "url": "https://fanqienovel.com/page/7639943820884331545"
         },
         {
-          "title": "我靠拆快递在国子监后巷开小店",
-          "author": "南瓜周",
-          "reads": "4.2万",
-          "intro": "【美食经营+拆快递+吃瓜+团宠日常+有cp】 　　乔满在现代遭遇意外，穿成大景国一位农户女。 　　原主是个药罐子，双亲离世，家境拮据，身边只有两位亲人，年长三岁的兄长及年迈的祖母。 　　瞧着米缸见底、捉襟见肘的光景，乔满默默叹口气…… 　　还好有个拆快递的系统！ 　　· 　　生活紧巴巴？ 　　乔满邪魅一笑，推着小摊子直奔目的地。 　　背靠人流量极大的国子监和太学，还愁没生意？ 　　炸串拌面麻辣烫，众人一口就爱上。 　　镇纸花笺和香囊，抢到一份心飞扬。 　　· 　　一到放学，国子监后巷挤满了学生。 　　无论是勋贵子弟，还是寒门学子都能在阿满小摊上购得心仪产品。 　　几个好友结伴，一手清供，一手美食，喜滋滋从人群中穿过，不时嗅嗅食物香气，顺便吐槽国子监食堂里的清苦。 　　有人惊讶一声：“他怎么会在这儿？” 　　几人顺势看去…… 　　蹲在角落，手捧着海碗，埋头嗦面的不正是国子监最清高自傲且厌食的那位小公子吗？ 　　（有男主，出场晚，是苏晏。）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc0a80a1dd8ad56cd9dc5104290ab7348~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399081&x-signature=MR6Dwcaz3%2Bt2ctEUqFWRGUMWf%2F0%3D",
-          "url": "https://fanqienovel.com/page/7634418107456424984"
+          "title": "穿成流放罪臣的恶毒妻",
+          "author": "月亮短路",
+          "reads": "4.5万",
+          "intro": "宋知意一睁眼，穿进了一本古言虐文。 穿成了那个偷光丈夫救命粮、跟押送官私奔、最后被浸猪笼的恶毒妻子。 身边躺着烧到四十度、伤口发黑的男主——前内阁首辅沈惊寒。 面前坐着满嘴黄牙、眼神下流的押送官赵虎。 路边的车前草，她认得。沟渠里的黄芩根，她挖得。 水缸里的断肠草，她一舔舌尖就辨出来了。 粥里磨碎的曼陀罗籽？不好意思，她闻得到那股微麻的涩味。 所有人都在等沈惊寒死在路上。 而她，拿一根断了头的铜簪当针，扯麻绳当线，就着火光缝了七针。 没有外挂的普通人，凭什么活到最后？ 凭一双认得药草的眼睛，一颗死也要死得明白的心。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o177cad2e1b533a67d3fdf23f6a8c311b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486657&x-signature=c5hCky6dnt5M8fdATUMonSUqA7Y%3D",
+          "url": "https://fanqienovel.com/page/7637903145187691582"
         },
         {
           "title": "断亲就断亲，萌娃囤粮带弟逃荒",
           "author": "风沙中的雨伞",
-          "reads": "4.1万",
+          "reads": "4.4万",
           "intro": "【古言种田+末世大佬重生+满级空间+搬空断亲+带弟逃荒+极致打脸】 末世杀伐果断的满级大佬，沈锦鲤一睁眼竟成了五岁农家小可怜，正被极品祖母按着手印，要卖掉换两袋发霉的陈粮？ 看着旁边饿得奄奄一息的亲弟弟，沈锦鲤冷笑一声：这委屈谁爱受谁受！ 极品算计？她当场手撕契约，霸气断亲！ 大旱将至？不怕，她的末世无限空间也跟着穿来了！ 临走前，她意念一动，反手将极品全家的库房连锅端。金银细软、粮仓水缸，甚至连院子里的地皮都刮走一层，一粒米都没给渣亲留！ 荒年千里，饿殍遍野。别人啃树皮吃观音土，五岁奶娃却左手烤鸡右手甜汤，带着弟弟在逃荒路上硬生生胖了三圈，还顺手开荒基建，打造出了一座乱世桃源。 直到某天，饿得只剩半条命的极品亲戚们要饭到城楼下，看着上面那个粉雕玉琢、手握重兵的五岁小城主，瞬间悔得肠子都青了…… 现在跪下叫祖宗，还来得及吗？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o878416aa0409cf802c27bdac00f7aa65~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399085&x-signature=ZEbZCRe5XxSGoqdqHTuvpIJrenE%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o878416aa0409cf802c27bdac00f7aa65~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486657&x-signature=AV7c0mBWrHNsUhgd5bWDdsAsvJE%3D",
           "url": "https://fanqienovel.com/page/7648974960739748889"
+        },
+        {
+          "title": "我靠拆快递在国子监后巷开小店",
+          "author": "南瓜周",
+          "reads": "4.3万",
+          "intro": "【美食经营+拆快递+吃瓜+团宠日常+有cp】 　　乔满在现代遭遇意外，穿成大景国一位农户女。 　　原主是个药罐子，双亲离世，家境拮据，身边只有两位亲人，年长三岁的兄长及年迈的祖母。 　　瞧着米缸见底、捉襟见肘的光景，乔满默默叹口气…… 　　还好有个拆快递的系统！ 　　· 　　生活紧巴巴？ 　　乔满邪魅一笑，推着小摊子直奔目的地。 　　背靠人流量极大的国子监和太学，还愁没生意？ 　　炸串拌面麻辣烫，众人一口就爱上。 　　镇纸花笺和香囊，抢到一份心飞扬。 　　· 　　一到放学，国子监后巷挤满了学生。 　　无论是勋贵子弟，还是寒门学子都能在阿满小摊上购得心仪产品。 　　几个好友结伴，一手清供，一手美食，喜滋滋从人群中穿过，不时嗅嗅食物香气，顺便吐槽国子监食堂里的清苦。 　　有人惊讶一声：“他怎么会在这儿？” 　　几人顺势看去…… 　　蹲在角落，手捧着海碗，埋头嗦面的不正是国子监最清高自傲且厌食的那位小公子吗？ 　　（有男主，出场晚，是苏晏。）",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc0a80a1dd8ad56cd9dc5104290ab7348~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486660&x-signature=04UayIi13FECCp1%2BqhpmThsiTRY%3D",
+          "url": "https://fanqienovel.com/page/7634418107456424984"
         },
         {
           "title": "彪悍小农女的悠闲生活",
           "author": "随笔浮想",
-          "reads": "3.7万",
+          "reads": "3.6万",
           "intro": "张璃死了，死后穿越成古代杏花村里的一缕游魂，村里张莲花与父亲张铁柱激烈争吵，撞门身亡。 张璃的魂魄便进入这具身体，承受开瓢的剧痛，为消解心中那口怨气，她抓起镰刀，发疯一样追着张铁柱全村跑。 从此村里谁惹她，她便疯给谁看。这一世，她不想再拼命的卷，只想种种田，悠闲度日。 富商家的纨绔，村里来的文弱书生，不时凑过来招惹，她从未放在心上。 后来，经历过多次磨难，总有人默默守在她身边。待她见过太多的生死，她握住文弱书生的手，许他三生三世。 （多是家长里短，亲情，也有家国情怀）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od14db5fd01a215592d2fc440c92ad30b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399085&x-signature=woq4p45IJvTeQ65Qr9B78IEJY8o%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od14db5fd01a215592d2fc440c92ad30b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486660&x-signature=xD6lSfU6XLlZkMaROF%2BrNx2M8%2F0%3D",
           "url": "https://fanqienovel.com/page/7646312151467953176"
+        },
+        {
+          "title": "穿成恶毒原配，我靠山吃山养家",
+          "author": "阿栗子哎",
+          "reads": "3.5万",
+          "intro": "【种田+日常+发家致富+细水长流+无金手指】 避雷：不是突然暴富就买田买铺子的风格，偶尔有美食。 借着午休眯一会的功夫，关凝把自己眯成了一本书里的恶毒原配，也是个极品。 家徒四壁不说，还想做高门贵夫人，她哄骗失忆后的章池说，他是自己买回来的赘婿。 不让他出村一步就算了，家里也没地，还怪人家没本事养不了家。 为了留住他，原主和寡母给章池下药，结果一发入魂有了孩子。 章池恢复记忆后，原主死无全尸。 关宁：…… 幸好她来的这个时间点药还没下到粥里，她淡定的把准备给章池下的药扔进火塘。 比起生孩子和搞男人，还是先填饱肚子吧。 她真不想顿顿喝野菜糊糊。 于是关宁带着娘亲和弟弟上山挖野菜，捡菌子，找药材，下河捕鱼…… 章池发现，以前常在自己面前晃悠的关宁，现在眼里只有野菜和菌子。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of1da526d57c3f066a6bb5eb18eb2feb4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486660&x-signature=%2FgZm97FCAi%2BLE3KqhUiPX%2FC48HM%3D",
+          "url": "https://fanqienovel.com/page/7643028989245672510"
         },
         {
           "title": "带着快递驿站去逃荒",
           "author": "晒月光的镜子",
           "reads": "3.5万",
           "intro": "（才出分，会涨的~）夏芸禾穿越到古代农村，还带来了一座大型快递驿站。 驿站里什么都有，但她每天只能从里面拿一件东西。 终于站稳脚跟后，大旱居然来了，庄稼绝收，难道天要亡她？ 还能怎么办，一起去逃荒呗！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob86413531e2e4f383f6eac7db052dfb7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399085&x-signature=rF92J6da0zR%2B4wkFAHlu2%2B8qVZ4%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob86413531e2e4f383f6eac7db052dfb7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486660&x-signature=riOO5g3HfwPpIU%2FPmClClcThpjs%3D",
           "url": "https://fanqienovel.com/page/7636064339312528409"
         },
         {
           "title": "神医娘子狠狠撩，糙汉铁匠何处逃",
           "author": "爱玩水的竹子君",
-          "reads": "3.3万",
+          "reads": "3.4万",
           "intro": "（评分刚出）十五两银子，他买下她。他木讷寡言，旁人都笑他是块木头。苏瑶却知这汉子纯粹又温柔，所以她偏要撩他。擦汗、探脉、治伤，步步逼近。直到那天，这糙汉将她抵在墙角，嗓音低哑：“别这样！”她踮脚，凑近他耳畔，单手探入他结实胸膛：“怎样？这样？”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob4c6c75688d74cb9a473cf69dca382cb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399085&x-signature=Alqkr1sV%2BaO7tA8TW1suSXtO9mA%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob4c6c75688d74cb9a473cf69dca382cb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486660&x-signature=7Y8VjRLgKRI6ySEBc2xMMT%2FtTCo%3D",
           "url": "https://fanqienovel.com/page/7642656867352595480"
         },
         {
@@ -386,7 +408,7 @@
           "author": "一品澄辞",
           "reads": "3.1万",
           "intro": "1V多，多男主 末世植物学家苏晚，一睁眼穿成远古兽世人人嫌恶的丑雌兽。 原主身中剧毒，臃肿丑陋性情恶毒，还得罪了部落最顶尖的五位战神夫君。 狼、虎、蛇、狐、鹰，五位俊美强悍的兽人，个个厌弃她、避之不及。 好在她自带空间与治愈异能，既是兽世独一份的治愈神祗，还能解毒瘦身、逆天改容。 认灵植、做美食、建家园，她凭本事在蛮荒兽世站稳脚跟。 从前冷眼厌恶的五大战神，从试探在意到疯狂沦陷，争着宠她护她。 雄多雌少，雌兽至尊，且看苏晚在远古蛮荒，被五个绝世兽夫捧成心尖宠。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8848292dd0c2e0b895a1631e8fa885e5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399085&x-signature=KSZ4uoFcYpZm%2Fv%2FT3yfzpDa6R9g%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8848292dd0c2e0b895a1631e8fa885e5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486660&x-signature=Ahu7gmv0chhfpN%2BCA1Q0mXyDFeQ%3D",
           "url": "https://fanqienovel.com/page/7644026367650057278"
         },
         {
@@ -394,39 +416,31 @@
           "author": "旧窗藏日光",
           "reads": "3.1万",
           "intro": "【恶女+替嫁++大力+美食+空间+甜宠+赶海+发家致富+虐渣】沈鸢穿成了被继母按着脑袋往墙上撞的恶毒村姑，全家逼她替姐嫁给瘸腿渔夫。 她笑了：嫁！但断亲书和嫁妆一样不能少。 临走上演空城计，把沈家偷得只剩四面墙。 新婚第一天，全村恶霸来闹事，她一拳把人打飞两米远，全村震惊。 第二天就要分家，公婆：没钱没房你分个寂寞？ 沈鸢拎起竹篓走向海边：你们不懂，这片海能生金。 蛤蜊、海螺、八爪鱼……别人眼里的破烂，她手里的宝贝。沙虫、海参、鲍鱼……她闭着眼都知道哪儿有。 全村人都在等着看笑话，直到她真金白银堆满了院。 瘸腿相公一脸懵：娶了个啥媳妇？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o532de63ea73e17d2a159f6c23b1febe6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399085&x-signature=SUnMXC3OuV4RVxKIFgQYYwoySnY%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o532de63ea73e17d2a159f6c23b1febe6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486660&x-signature=uX2DoAwtWuNfdDfk7ZXTPzkK6bU%3D",
           "url": "https://fanqienovel.com/page/7647076991916592190"
         },
         {
-          "title": "穿成恶毒原配，我靠山吃山养家",
-          "author": "阿栗子哎",
-          "reads": "3.2万",
-          "intro": "【种田+日常+发家致富+细水长流+无金手指】 避雷：不是突然暴富就买田买铺子的风格，偶尔有美食。 借着午休眯一会的功夫，关凝把自己眯成了一本书里的恶毒原配，也是个极品。 家徒四壁不说，还想做高门贵夫人，她哄骗失忆后的章池说，他是自己买回来的赘婿。 不让他出村一步就算了，家里也没地，还怪人家没本事养不了家。 为了留住他，原主和寡母给章池下药，结果一发入魂有了孩子。 章池恢复记忆后，原主死无全尸。 关宁：…… 幸好她来的这个时间点药还没下到粥里，她淡定的把准备给章池下的药扔进火塘。 比起生孩子和搞男人，还是先填饱肚子吧。 她真不想顿顿喝野菜糊糊。 于是关宁带着娘亲和弟弟上山挖野菜，捡菌子，找药材，下河捕鱼…… 章池发现，以前常在自己面前晃悠的关宁，现在眼里只有野菜和菌子。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of1da526d57c3f066a6bb5eb18eb2feb4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399085&x-signature=V90hQEewgA7UjBIoCiNY73MXtOk%3D",
-          "url": "https://fanqienovel.com/page/7643028989245672510"
+          "title": "笨蛋美人挺孕肚，搬空全京去流放",
+          "author": "咬草",
+          "reads": "2.9万",
+          "intro": "【种田+天灾+流放+虐渣+搬空+空间】 修真界符阵宗师南穗穗渡劫失败，穿成临安侯府人人嫌弃的痴傻庶女，被迫替嫁给身中剧毒、双腿残疾的短命宁王冲喜。 新婚夜，宁王剑指咽喉：“说，皇后派你来做什么？” 南穗穗软乎乎歪头：“哥哥，要吃糖糖吗？穗穗有甜甜的糖糖哦……” 宁王：……（这怕不是个真傻子？） 婚后次日，南穗穗察觉王府死气萦绕，掐指一算，十日之内必遭抄家流放！ 南穗穗冷笑一声，反手画下百张搬运符，连夜搬空侯府，顺便将国库、帝后私库一扫而空！ 短短十天，她不仅囤够亿万物资，还顺手解了宁王的毒，揣着双胎崽崽踏上流放路。 流放途中，别人啃树皮，她吃香喝辣，极品来找茬，宁王开启极致护妻模式。 宁王：“我家夫人身怀六甲，谁敢惊着她，本王要谁的命！” 被自家老祖宗显灵揍得脸肿如猪的仇家痛哭：“王爷！她召我老祖宗上来抽了我三百个巴掌，到底谁惊着谁啊？！” 宁王：“我家夫人最怕打雷，一听雷声就往本王怀里钻。” 被劈得外焦里嫩的刺客们嚎啕大哭：“王爷！那追着我们劈了三天三夜的九天玄雷就是她招来的！我们被劈成黑炭，她挺着大肚子在旁边用雷火烤红薯，这叫怕打雷？！” …… 柔弱是装的，满级大佬是真的，搬空全京去流放是让狗皇帝哭爹喊娘的！",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oedabf85b9a4ebec045210d63a48fed6e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486660&x-signature=TCa1v0jBAyggHS9LGUPLHtqhjdg%3D",
+          "url": "https://fanqienovel.com/page/7647142493472951321"
         },
         {
           "title": "穿成小丫鬟，靠梳妆赎身暴富",
           "author": "穿尽红丝",
-          "reads": "2.7万",
+          "reads": "2.8万",
           "intro": "观看指南：【非爽文+架空北宋+微群像+市井经商+微宅斗+家长里短+日常流】 林丰穗穿到北宋，成了八岁小丫头，喜提知州府上「家生子」身份。 娘是灶上的厨娘，爹是账房贴书，前边还有个大她两岁的绣娘姐姐。 老娘是灶上摸油水的高手，好的孬的全塞兜里。 姐姐绣活一般，嘴皮子极好，哄的管事眉开眼笑，多出的边角料通通拎回家。 家里边只剩个老实爹，半点不敢马虎手里的账。 丰穗到了年纪要学门手艺，全家人跳出来支招。 娘说：厨房干活是冬冷夏热，不行！ 姐说：绣娘的活计不分昼夜，别干！ 爹说：账房么，识字算术，不差分厘，还行！ 丰穗心想：学，都学，但还得靠重操旧业稳妥。 “娘子，梳妆吗？” 不不不，搞错了！八岁大的人应该先拜师学艺。 谨小慎微是安身立命的前提。 赚钱赎身，身兼数职是常态。 伺候主子饮食起居，还得起早贪黑，制那面脂香膏、胭脂水粉上街兜售。 苦点累点都没事，只要能挣脱这脖子上的枷锁。 一家人齐整出府，置上一间小院，做些经济买卖，自由自在的过红火日子，便浑身都是劲。 日子能过好，就别让其糟下去。 立意：自由、奋斗、自强则万事顺，向阳而生。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa024c18fe7ac739d0b69c10726918e79~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399085&x-signature=GSYJrqKPJBblAPshc9Yjh2TxkNo%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa024c18fe7ac739d0b69c10726918e79~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486660&x-signature=QZA599xgsMld2sxMp99UtSlR9Zs%3D",
           "url": "https://fanqienovel.com/page/7564256304332557336"
-        },
-        {
-          "title": "食肆经营手札",
-          "author": "白兔馅韭菜盒子",
-          "reads": "2.6万",
-          "intro": "评分刚出，会涨（可能吧～） 【美食+经营+轻松日常+市井生活】 季荷一朝穿越，爹娘双亡，只给她留下一间临街食肆，和一群虎视眈眈的族亲。 无依无靠，囊中羞涩，唯有一身厨艺傍身。 摆摊开市，盘活老店，一灶一釜，百味生香。 酥皮金汁的蟹黄兜子，玲珑剔透的透花糍，色如琥珀的双味鹌子羹...... 时鲜入馔不过夜，春有荠菜银鱼鲊，夏供荷香清露冷淘，秋来菊苗霜螯对月，冬至羊头签热雾腾腾。 四季流转，尽在一案之间。香透重楼，馋杀四邻。 樊楼少东家徐鹤闻，出身显赫，是汴京城里出了名的矜贵人儿。 吃穿用度无一不精，脾气秉性无一不冷。 偏偏这位爷有个不为人知的毛病：挑嘴。挑到令人发指的地步。 直到某日，一名不起眼的小摊贩带来了一个食盒...... 彼时的徐鹤闻还不知道，那是一个比他还会拿腔作调的小厨娘。 至于谁先动了心——这事不好说。 市井小厨娘 X 樊楼少东家 美食勾人，烟火入心。人间百味，尽系一人。 架空北宋，私设如山，请勿考究。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2off1c3bcfc375fb1c777f12dd0130a59c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399085&x-signature=qFRi1ZsX1z%2FMezyms1D9A6wD9vI%3D",
-          "url": "https://fanqienovel.com/page/7641516108419173401"
         },
         {
           "title": "天灾末世，孤女带空间独自逃荒",
           "author": "倾幽沫沫",
-          "reads": "2.6万",
+          "reads": "2.7万",
           "intro": "评分刚出，后期会涨的！ （架空+无cp+微群像+天灾+女主独狼不圣母+空间+异能） 现代30岁的沈青青，穿越到大渊朝的农家15岁孤女沈锦年身上，面对极品亲戚，她利落分家断亲。 奈何古代天灾不断，还好她有空间，悄悄提前囤货，开启独自南下逃荒…… 避坑指南：女主属于慢慢成长型，并不是像别的爽文女主那样，上来就杀伐果断，武力值爆棚，力大无穷！喜欢这类的千万别点进去看…… 本文越往后越癫，不喜癫文的慎入！ ps:喜欢独狼逃荒文的闭眼入，全文预计百万字打底，数据好无上限，作者手搓不易，望读者宝宝不喜直接退出，不必特意留差评告知作者，谢谢，祝各位2026暴富！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc7cdc54e66e8294e564dc69cd565c74e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783399085&x-signature=cOXauUE1%2B5H7vS8V85v5QZK32iw%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc7cdc54e66e8294e564dc69cd565c74e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1783486660&x-signature=FtP9ImsZUITH8Hpd%2BircJM5n41U%3D",
           "url": "https://fanqienovel.com/page/7628812323305573401"
         }
       ]

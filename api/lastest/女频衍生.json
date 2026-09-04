@@ -1,245 +1,225 @@
 {
   "type": "女频衍生",
-  "date": "2026-09-03",
-  "prev_date": "2026-09-02",
+  "date": "2026-09-04",
+  "prev_date": "2026-09-03",
   "category": {
     "name": "女频衍生",
     "trend": {
-      "new_count": 6,
-      "dropped_count": 6,
+      "new_count": 1,
+      "dropped_count": 1,
       "new_books": [
-        "唐晶重生，改写前半生",
-        "南部档案：穿成漂亮人鱼被圈养了",
-        "盗笔，盐虾小师妹，她本相活阎王",
-        "综穿之我是骆驼祥子的女儿？",
-        "综穿：专注改变剧情发展一百年"
+        "天幕观影斩神：开局曝光林七夜"
       ],
       "dropped_books": [
         {
-          "title": "斩神：无所谓，我会念台词",
-          "intro": "【女强+万人迷+all向+正文无cp+微量系统+正文第三人称】 你穿了你醒了。 恭喜，你成了一名恶神代理人！ 你：......这有什么好恭喜的？ 在被选中后，邪教找上门，原主自认为无力与古神教会对抗，"
-        },
-        {
-          "title": "天幕观影斩神：开局曝光林七夜",
-          "intro": "好消息：穿越到斩神绑定那个系统！ 坏消息：系统让她赚取曝光度！(自我理解：大热的主播。) —— 计划第一步：贷款买最好的播放位。 白洛璃：要买就买最好的，要全部人都能看到的那种！ 计划第二步：发布的第"
-        },
-        {
-          "title": "穿书进长明宗，我师妹是叶翘",
-          "intro": "《一剑星河渡》同人文。【已签约】 【原创主角+系统+马甲+日常+搞事+cp叶清寒+私设】 我，洛清玉一个大四学生，写论文给猝死了，本以为死后要走地府程序，结果醒来发现自己穿越了，还穿越到了一个灰扑扑身"
-        },
-        {
-          "title": "红楼：贾敏重生后，不送黛玉进京",
-          "intro": "贾敏死后，魂魄被困在女儿身边许多年。 她看着六岁的黛玉独自入京，看着她寄人篱下、丧父无家，也看着那个将情意看得比性命还重的孩子，最终病逝潇湘馆。 直到黛玉咽气，她才终于抱住女儿。 再睁眼，贾敏回到了自"
-        },
-        {
-          "title": "综影：啥万人迷，我就是个破厨子",
-          "intro": "【橘子味汽水+正文无cp+万人迷+贴贴+老九门和南部放在一块写】 身为穿越总局里头的一名厨子，夏汪汪总认为是自己一碗螺蛳粉糟了天谴，这才让穿越总局团灭，自己也沦落到各个小世界里艰难求生。 好在，平平无"
+          "title": "斩神：安卿鱼，鼠鼠我呀只想嗑瓜",
+          "intro": "【斩神同人+拆官配+萌宠化形+万人迷+修罗场+腹黑+1v1甜宠+空间+有私设】 夏雪穿越到了斩神世界。 没成人。 没成神。 更没成为神明代理人。 她穿成了一只被关在笼子里、丢在垃圾桶旁的小垃圾。 毛被"
         }
       ],
       "top_risers": [
         {
-          "title": "依萍重生：书桓滚开！杜飞别乱来",
-          "change": "+2"
+          "title": "斩神：我被总司令一脚踹进假面",
+          "change": "+4"
         },
         {
-          "title": "惊悚：熟读甄嬛传剧情的我杀疯了",
-          "change": "+2"
+          "title": "综穿之我是骆驼祥子的女儿？",
+          "change": "+3"
         },
         {
-          "title": "少年派：公主病",
+          "title": "什么？我不是天才爱豆吗？",
           "change": "+1"
         }
       ],
       "top_fallers": [
         {
-          "title": "斩神：我被总司令一脚踹进假面",
-          "change": "-5"
+          "title": "小欢喜：和区长儿子谈恋爱",
+          "change": "-6"
         },
         {
           "title": "综影视之娇媚动人",
-          "change": "-3"
+          "change": "-2"
         },
         {
-          "title": "什么？我不是天才爱豆吗？",
+          "title": "综穿：专注改变剧情发展一百年",
           "change": "-2"
         }
       ],
       "reads_growth": [
         {
           "title": "少年派：公主病",
-          "growth": "+5000"
+          "growth": "+6000"
         },
         {
-          "title": "重生曲家小儿子，欢乐颂的新人生",
-          "growth": "+3000"
+          "title": "盗笔，盐虾小师妹，她本相活阎王",
+          "growth": "+4000"
         },
         {
-          "title": "依萍重生：书桓滚开！杜飞别乱来",
-          "growth": "-1000"
+          "title": "综影视：开局绑定秦始皇",
+          "growth": "+4000"
         }
       ],
-      "summary": "新增6本上榜；6本掉出（《斩神：无所谓，我会念台词》、《天幕观影斩神：开局曝光林七夜》、《穿书进长明宗，我师妹是叶翘》、《红楼：贾敏重生后，不送黛玉进京》、《综影：啥万人迷，我就是个破厨子》）；《依萍重生：书桓滚开！杜飞别乱来》排名上升+2位；《少年派：公主病》阅读量+5000。"
+      "summary": "新增1本上榜；1本掉出（《斩神：安卿鱼，鼠鼠我呀只想嗑瓜》）；《斩神：我被总司令一脚踹进假面》排名上升+4位；《少年派：公主病》阅读量+6000。"
     },
     "books": [
       {
         "title": "宜修换嫁年羹尧，摆烂躺赢了",
         "author": "桂魄西沉",
-        "reads": "23.8万",
+        "reads": "23.3万",
         "intro": "（评分刚出，已被作者吃掉）【甄嬛传+同人+宜修纯元双重生+换嫁+换亲+正室福晋+躺赢养老+1v1】 重活一世，宜修再也不想嫁给胖橘了。谁知还没等她选，柔则就率先选择嫁给胖橘。 看着她眼中隐晦的得意与恨，这一刻，宜修就猜到她也重生了。 姐姐，上一世，我当皇后的苦，这回换你来尝一次吧…… 宜修本想选一位闲散王爷，亦或者哪怕是个小一点的门楣，嫁过去好歹能当正房娘子。谁知柔则一转脸，让姑母和父母将她许给了年羹尧。 好啊，你敢赐婚，我就敢嫁！ 姐姐是皇后，姑母是太后，妹妹是华妃，有钱有闲有地位，年羹尧将她宠进了骨子里…… 至于抄家？做梦去吧！ 公公是三朝阁老大学士，兄长也是朝中要员，这从龙之功还没那么容易散呢！夫妻这么多年 她对皇帝的心思了如指掌，真当皇帝心里头一点不念着年家的好，一点都不珍爱华妃么？ 姐姐，再活一百世，也还是你输啊……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/83f711c188af3863d917000c9dc844e3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015179&x-signature=6cE5YtNM9qbJzM8uIFboW1ZcG3w%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/83f711c188af3863d917000c9dc844e3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101682&x-signature=adDT7I2VyFq3Iudp%2B7y989TsREk%3D",
         "url": "https://fanqienovel.com/page/7577701639453150233"
       },
       {
         "title": "少年派：公主病",
         "author": "蛮渡",
-        "reads": "10.3万",
+        "reads": "10.9万",
         "intro": "一朝意外，钟宝蓓穿越到《少年派》的世界里。 成为别人眼中整日犯公主病的小作精，还要被迫重读三年高中。 为了摆脱草包校花的名号，她努力搞学业，抱紧中考状元钱三一的大腿，好好学习。 谁知道毕业那天聚会，向来对她冷脸的钱三一会红着脸跟她表白。 钟宝蓓陷入沉思。 嗯？ 不是，你怎么会喜欢我？ · 钱三一说过，他永远不会喜欢像母亲裴音那样的人。 起初，他觉得钟宝蓓和裴音很相似，精致，骄傲，在意旁人的眼光。 他不喜欢她。 后来，他总是会偷偷念她的名字。 宝蓓，宝贝。 · 钟宝蓓×钱三一 1.爱写点校园，爱写点口是心非的真香情节 2.发现少年派的同人很少，所以来尝试为爱发电，拆cp 3.同人作品都是用来练手的，不能保证每个人都不ooc，但作者会尽量保持原作人设和情节",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob8029fcfc0e268dc1ff8046734fb22cc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015179&x-signature=GeaDfq0oN332Bn0VYogwdGZBIr0%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob8029fcfc0e268dc1ff8046734fb22cc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101682&x-signature=nWDaJqbb%2BUasWlutL1JUs5CJy%2Fg%3D",
         "url": "https://fanqienovel.com/page/7662572749981764670"
-      },
-      {
-        "title": "重生曲家小儿子，欢乐颂的新人生",
-        "author": "皮蛋小米粥",
-        "reads": "9万",
-        "intro": "（电视剧，单女主，不滥情，后续根据情况添加别的影视剧，目前：欢乐颂、好先生） 重生成欢乐颂中曲筱绡的亲弟弟，上一世为了活命做自己不喜欢的事，这一世有人兜底后曲连英开始追求梦想，人如果没有梦想，那跟咸鱼有什么区别呢？这一世，曲连英梦想、家庭、爱情他全都要。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe7eb0e824b56c729353275f0efdb2c8f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015179&x-signature=bfcHKJWrLYi0tkJEhCSzILhdZ%2B8%3D",
-        "url": "https://fanqienovel.com/page/7671904953287330840"
       },
       {
         "title": "什么？我不是天才爱豆吗？",
         "author": "湖边倒影",
-        "reads": "8.7万",
+        "reads": "8.4万",
         "intro": "【架空韩娱，文抄公，微缺德，不建议带入，论坛体较多】 【女主关种、道德水准低、纯恨批】 赵瑞雪穿越了。 好消息，是漂亮女爱豆。坏消息，糊得查无此团。 更坏的消息，队友们疑似要个资起飞了。更好的消息，金手指到账了。 积累嫂子值就能增加职业能力，美貌、身材、创作、声乐、舞蹈、表情管理、舞台表现力……应有尽有，点击即加！ 好好好，蓝星天才爱豆舍我其谁！！！ 【姓名：赵瑞雪 艺名：Snow 所属团：Honey Jar （蜜罐） 别名：蜜1、蜜制、蜜恋、四楼 国籍：中国 出生日期：1998.11.22 星座：天蝎座 MBTI：ISFP 身高：170CM】",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc277b585668e4d4b929ab1cd6562be5e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015179&x-signature=NoJPZbsfenKOXqi1MO66gQR4HzU%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc277b585668e4d4b929ab1cd6562be5e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101682&x-signature=0gYOk3dtTzAsJHhIdK%2BdwLbwLSY%3D",
         "url": "https://fanqienovel.com/page/7666148870967020606"
+      },
+      {
+        "title": "重生曲家小儿子，欢乐颂的新人生",
+        "author": "皮蛋小米粥",
+        "reads": "8.2万",
+        "intro": "（电视剧，单女主，不滥情，后续根据情况添加别的影视剧，目前：欢乐颂、好先生） 重生成欢乐颂中曲筱绡的亲弟弟，上一世为了活命做自己不喜欢的事，这一世有人兜底后曲连英开始追求梦想，人如果没有梦想，那跟咸鱼有什么区别呢？这一世，曲连英梦想、家庭、爱情他全都要。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe7eb0e824b56c729353275f0efdb2c8f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101682&x-signature=f1KeuC0%2Flytbidq9aGqXEnvKS8w%3D",
+        "url": "https://fanqienovel.com/page/7671904953287330840"
       },
       {
         "title": "唐晶重生，改写前半生",
         "author": "怪味小酒",
-        "reads": "7.1万",
+        "reads": "6.9万",
         "intro": "唐晶重生了。 正好重生在罗子君刚被陈俊生提出离婚的黄昏。 前世惨痛记忆汹涌而来：是她亲手将深陷绝境的闺蜜，推向了相恋十年的爱人贺涵。 最终，爱情友情双重背叛，她一无所有。 这一世，她倾尽一切立下死誓： 绝不让贺涵插手罗子君的人生，绝不让两人产生半分纠葛。 她独自处理离婚官司，为罗子君规划好前路，步步设防、层层阻拦。 贺涵每一次想要伸出援手，都被她温和却强硬地挡在门外。 她筑起密不透风的防线，以为这样就能改写悲剧，守住爱情与友情。 可命运的漩涡，远比她想象得诡异。 她拼命隔绝，到底是成功斩断了两人情愫，彻底阻止他们相爱？ 还是她偏执疯狂的阻拦，在无形中步步助推，亲手加速了他们彼此沦陷？ 她会守住贺涵，守住自我，还是再次重蹈覆辙？ 真正的重生，从不是阻拦他人宿命。 而是终于明白：她要改写的，从来不是别人的命运，而是她自己的人生。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob2c5fb0d0e3b773987ea18595859165e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015179&x-signature=kQ2FlccoyhXnzn3QzIDLA%2BB%2BLjw%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob2c5fb0d0e3b773987ea18595859165e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101682&x-signature=d2Ka%2B%2F2q1rKsvgKpX4XzdwYpYBU%3D",
         "url": "https://fanqienovel.com/page/7631159442683218968"
       },
       {
         "title": "依萍重生：书桓滚开！杜飞别乱来",
         "author": "就图碎银几两",
-        "reads": "6万",
+        "reads": "6.1万",
         "intro": "[刚开分，后面会涨] 避雷： ①喜欢书桓，如萍和雪姨的勿入 ②依萍有原创男主CP，事业线为辅，无CP粉勿入 去陆家要钱的大雨夜二十年后，被何书桓的多情折磨得身心俱疲的依萍，梦回前世小燕子，携带小燕子的记忆重生了！ 重回大雨夜，依萍没有被鞭打，拿到学费，进入音专，遇到林慕远，一个从相识起就对她关怀备至，极致偏爱的男人，开启与前世完全不一样的风生水起，繁花似锦的人生。 对陆家人和何书桓，有仇的报仇，有怨的报怨，吃过的苦，受过的罪，想办法让他们尝一遍，最终活成让他们仰望的存在。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o952bb009af8d0b14e8a4a017df81eba8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015179&x-signature=VmSuXfB%2BPJSjxqgh30u33KL1V6U%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o952bb009af8d0b14e8a4a017df81eba8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101682&x-signature=qNQyllM9Ja1QJLwUhPfZj2TjUQ4%3D",
         "url": "https://fanqienovel.com/page/7660848468067372056"
       },
       {
         "title": "惊悚：熟读甄嬛传剧情的我杀疯了",
         "author": "清蒸咸萝卜",
-        "reads": "5.9万",
+        "reads": "5.6万",
         "intro": "【无cp+国运游戏+规则怪谈+影视综+打脸爽文+龙国崛起】 为救癌症晚期母亲，苏小小和系统交易，穿越到诡怪横行的平行世界，刚睁眼就被大伯一家关在地下室，断水断粮，就等着她死了吞掉房产，转头移民小日子！ 就在她奄奄一息、以为要凉透时，国运游戏突然绑定！全球诡怪入侵，华国国运低于35%，濒临覆灭，而我，成了龙国唯一的希望！ 没人知道，这个世界的龙国没了两百年历史，更没有《甄嬛传》《如懿传》《还珠格格》这些宫斗神剧！ 更没有《梁祝》、《牛郎织女》、《西游记》、《红楼梦》、《白蛇传》这些经典…… 而苏小小，恰好熟读所有剧情，靠着剧情预知天赋，在清宫诡影副本里步步为营，选对每一个关键选项，通关即加国运，解锁资源，抵御诡怪！ 龙国从濒临覆灭，一路逆袭成世界第一，举国沸腾！ 而当初想吞她家产、移民小日子的大伯一家，国破家亡，跪在她面前哭着求原谅、求恢复华国国籍？ 晚了！当初你们把我逼入绝境时，怎么没想过今天？滚！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oac2da12fa25ac9346551e286b288bad8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015179&x-signature=6bG3SlnNT2r0V5bfm62tyE7p6%2BM%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oac2da12fa25ac9346551e286b288bad8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101682&x-signature=r%2BwBJi0icKpdXyrFq6HOtgWI7%2FM%3D",
         "url": "https://fanqienovel.com/page/7654786992063925272"
       },
       {
         "title": "南部档案：重生后全演上了",
         "author": "鹤顶红加冰",
-        "reads": "5.8万",
+        "reads": "5.5万",
         "intro": "（cp位置随意磕，看你咋想 ） 张海楼活了一百多年。 一百多年没提过虾仔的名字。 后来倒霉催的替吴邪挡了一刀彻底完犊子了。 闭眼，想的是算不算英年早逝？ 再一睁开眼睛，出现在了厦门的破庙里面，身边没有虾仔，也没有被师傅收养，上辈子的事情一件都没有发生。 那还扯个屁啊。 得嘞。 赶紧撒丫子跑路吧。 跑的有点远，一口气干到了常沙，凭借上辈子的身手以及不要脸的精神成为了张启山的副官。 江湖人称小张哥。 本以为跑远了就安全了。 可鬼知道老天爷居然如此大方，连重生的名额都是买一送二。 张海侠从厦门追到常沙，把他堵在巷子里，攥着他手腕说：\"弟弟不依赖哥哥，是不是当哥哥死了？” 张海琪从巷子口走过来，端着茶碗，上下打量他三遍：“长能耐了，知道离家出走了是吧。” 二对一。 本以为稳稳妥妥。 哪曾想杀出个程咬金。 张启山带着九门杀了过来：“我养大的小崽子你想带走？问过我同意了吗？” 张海侠：师傅，要不你嫁过去吧，我和海楼算是嫁妆。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of9c28edc37f4ae5890ff256f20b9e1cf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015179&x-signature=Ce346mM9qWnYMs7iI4O4Pvxa9Wg%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of9c28edc37f4ae5890ff256f20b9e1cf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101682&x-signature=NuRg%2BBPk8lcKGow3zIh6VqTdyUU%3D",
         "url": "https://fanqienovel.com/page/7656209306659851326"
       },
       {
         "title": "斩神：穿越后，我和哪吒恋爱了",
         "author": "君翎羽",
-        "reads": "5.5万",
+        "reads": "5.4万",
         "intro": "【斩神同人+CP哪吒+弥补遗憾】 避雷：拆官配！！！副CP可能是莫莉和胖胖。 蓝星——白汀晚上完晚自习，正哼着歌回家，结果居然发现有流星！ 她抬头看着流星，走到巷口拐弯回家。 谁懂啊！ 别人拐弯撞到帅哥！ 她呢？拐了个弯，拐异世界来了？ 开局传来惨叫声 十年老书虫的白汀晚表示，开局惨叫绝对有刀！ 三十六计，走为上计！ 好想逃，却逃不掉。 以为要被杀的白汀晚却成了哪吒代理人！ 结果还被136小队当场抓包，她这才知道自己穿斩神了！ 这波是被强制入职！ 白汀晚表示，要是还能穿回蓝星就写一本小说一定赚钱！名字就叫《一朝拐弯穿斩神，我成哪吒代理人！》 哪吒转动着指尖的莲花硬币，凑近唇边轻轻落下一吻：“我的小莲花确实胆小，要是不小心吓到她，躲着我……” 他指尖用力，掌心的莲花硬币被攥得微微发紧，眸中笑意不变，语气透着快意：“那就只能把你关起来啦。” “关起来就只能永远留在我身边，只看着我一个人，好不好？我的小莲花~” 白汀晚：“……” 你补药过来啊！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob7a8a8f59e6b388551262919df18c611~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015179&x-signature=fMh3Q9FHdtYPbw3%2Bm7quYHifDvY%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob7a8a8f59e6b388551262919df18c611~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101682&x-signature=wrmEA7sl60eTUpOTvx%2B2AivNzqU%3D",
         "url": "https://fanqienovel.com/page/7649382437750852670"
+      },
+      {
+        "title": "天幕观影斩神：开局曝光林七夜",
+        "author": "黑胖球",
+        "reads": "5.2万",
+        "intro": "好消息：穿越到斩神绑定那个系统！ 坏消息：系统让她赚取曝光度！(自我理解：大热的主播。) —— 计划第一步：贷款买最好的播放位。 白洛璃：要买就买最好的，要全部人都能看到的那种！ 计划第二步：发布的第一条内容必须要有话题、热度、内容、颜值…… 白洛璃：划重点“颜值”，这年头到处都是颜狗。 那么接下来要登场的是病院在逃人员、黑梧桐俱乐部当之无愧的大阪头牌、牛郎界的天花板、熟女之友·浅羽七夜先生！ 咳咳咳！抱歉搞错了！ 接下来登场的是宙斯预言中的渎神者、多神代理人、诸神精神病院院长、005特殊小队【夜幕】的队长、守夜人第七任总司令林七夜先生！ 计划第三步：盘点斩神中那些意难平的情侣(或盘点斩神中那些意难平的人物) 白洛璃：维持热度的最好办法就是炒cp，正好原著中有几对cp，或者是展现那些意难平的人物，在经过一些剪辑、春秋笔法的渲染，绝对让人哭的欲生欲死。 【不拆原著cp，就是屏幕在播放的时候会经过剪辑和一些春秋笔法的渲染，跟原著略有差别。】 【不喜轻喷！▄█▀█●】",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob02c4a29bf2be7950146c29bfbd58b33~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101682&x-signature=vlJO4SrnsrPIpoQruaut%2Bq1hbg4%3D",
+        "url": "https://fanqienovel.com/page/7645488373351599166"
       },
       {
         "title": "南部档案：穿成漂亮人鱼被圈养了",
         "author": "斜白",
-        "reads": "5万",
+        "reads": "5.1万",
         "intro": "【南部档案弥补遗憾、1V1、HE、OOC预警、有私设、cp张海侠×宁薇、非女强、逆天改命】 地府投胎名额紧张，宁薇只有完成穿越任务，才能获得优先投胎资格。 一不小心随机穿越到未知的南部档案世界，还穿成了南洋最后一条人鱼！ 宁薇甩了甩自己布灵布灵闪闪发光的墨蓝色鱼尾，一时接受不了非人身份。 赫曼总督府，密室巨大水箱内，她全身赤裸隐于水草中沉睡，却被意外闯入的陌生男子救走。 鱼虾之旅就此开始…… 不会走路的宁薇，有了海虾版人形轮椅，不会用人鱼声带发声的宁薇，由海虾一句句按着下巴教导。 张海虾说他们不是亲人胜似亲人，直到有一天，冷静克制温柔的人突然变了。 黑虾将宁薇困于臂弯中，低头深吻：“人鱼有什么奇怪？鱼虾该是天生绝配。” 混乱一场，白虾醒来，红着脸自责慌乱：“一切都是我的错，我一力承当。” 张海虾变的占有欲极强，整条鱼都是他的，宁薇走不掉了。 只能白天哄一个爱掉眼泪的，晚上哄一个爱邪笑的…… ———————— 第二人称简介： 你只是个什么都不知道的普通人，意外穿越到南部档案世界，成了一条漂亮人鱼。结识张海侠后，冒险之旅开启……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od2d24ef34d702f9ee673828294cb4f23~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015179&x-signature=lLZ4klwBaoo9PGQ06V6gHIeF5n8%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od2d24ef34d702f9ee673828294cb4f23~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101686&x-signature=NEK%2FF9Ahu1ccpOjAN2diXMOM3jE%3D",
         "url": "https://fanqienovel.com/page/7670852163756624921"
       },
       {
         "title": "盗笔，盐虾小师妹，她本相活阎王",
         "author": "一生发财兔",
-        "reads": "4.3万",
+        "reads": "4.7万",
         "intro": "【all+沙雕+颠+读心】 张海玉，张海琪最小徒弟，档案馆有名的活阎王！ 众人杀人她补刀，不给档案馆留祸！ 为人狡诈心狠，癫、睚眦必报！ 人身准则: 打不过就跑，跑不过跪下认怂！ 后趁敌不备，插敌脚背！最后捅敌之肋！ 档案馆被剿灭？师傅中毒，虾残疾惨死？盐终身遗憾？？ 殊不知，她心声暴露，众人听了个正着: 张海楼胆大想碰邪神雕像？ 她掏出电棍: 【要是敢放出邪神，老娘让你见识一下现代科技！】 张海盐:…… 得意忘形自报家门？ 她直接化身电击少女，让他瞬间爽翻！ 【还狂！等敌人顺着查到档案馆，所有人被杀！虾因你瘫痪身死你就开心了！】 张海盐:不嘻嘻 虾仔因爆炸受伤，只能坐轮椅。 她:【我有一个问题…】 虾:行！ 她:【又帅又行不会跑，还打不过我…真好】 虾:你虫脆是的红蛋！ 黄昏草？ 【烧！】 莫云高药下毒暗害师傅？ 她踩着莫云高的脑袋扇: 【就你叫莫云高啊？】 【什么档次，也配族长来见？！】 黑虾弑杀？不存在的！ 【试试是你骨头硬还是我电棍硬！】 黑虾:我走…我走还不行吗！ 最后众人安然无恙，某日，张海琪再次下令: 保护吴邪。 她:【嘿嘿…小天真。】 吴邪:【你表过来啊！】",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc3a3929b3f05508a95081e6e5ad3af42~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015183&x-signature=vHwDAzN8miXus0ZVnPA6qo9S9xM%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc3a3929b3f05508a95081e6e5ad3af42~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101686&x-signature=zbRuihkpYoqAkvKpj3FcyYbOL6M%3D",
         "url": "https://fanqienovel.com/page/7669072349152414745"
       },
       {
-        "title": "小欢喜：和区长儿子谈恋爱",
-        "author": "遮厘",
-        "reads": "4.2万",
-        "intro": "童文洁觉得她们老童家的基因一等一的好 全被老方家给拖累了 方圆不服表示老方家的艺术细胞也不错滴 和好朋友永远在一起 才是最开心的 一个发小、好朋友都成了我亲家的故事。 ps：主剧情日常向，喜欢的点赞哦",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o97c6f66cfd4158b0aebfbed3b15a3f24~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015183&x-signature=rsVwRqOIRLmLmvcNXn%2FCZMGjj4k%3D",
-        "url": "https://fanqienovel.com/page/7664948127643749401"
+        "title": "综穿之我是骆驼祥子的女儿？",
+        "author": "爱吃鱼的小玉儿",
+        "reads": "4.1万",
+        "intro": "林悦与快穿系统合作，穿越各个世界完成任务，也享受到了不同的精彩人生。（大部分世界有cp） 世界一：骆驼祥子（祥子的女儿） 世界二：消失的月亮（原创世界） 世界三：星汉灿烂（程少商） 世界四: 小巷人家（吴珊珊） 世界五:欢乐颂（樊胜美） 世界六:情满四合院（闫解娣）",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7a193446748defc7c450f032f5ad6738~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101686&x-signature=v5loy1blWJHxkw8VQFl%2FTQQmJns%3D",
+        "url": "https://fanqienovel.com/page/7533705358213139481"
       },
       {
         "title": "综影视：女配不做踏脚石",
         "author": "金玉京子",
         "reads": "4万",
         "intro": "［综影视+金手指+女配+爽文］ 快穿局的任务者穿越到各个影视世界成为女配，让她们不再成为天命主角的踏脚石…… 甄嬛传 余莺儿(已完结) 如懿传 金玉妍(已完结) 甄嬛传 安陵容(已完结) 如懿传 魏嬿婉ing",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe6fdf7d6b26d7b8d7e7f5db51f8e600f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015183&x-signature=GFjHNt8tGOdvs9DGDymxYg5ojXQ%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe6fdf7d6b26d7b8d7e7f5db51f8e600f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101686&x-signature=ocMJ21%2Baf3lKhxzo59fZZ%2BFstso%3D",
         "url": "https://fanqienovel.com/page/7647067479197371454"
       },
       {
         "title": "综影视：开局抽到小纸人",
         "author": "黑锦鲤",
-        "reads": "4万",
+        "reads": "3.9万",
         "intro": "【女强，绝不受委屈，老书——综影视：我在小世界疯狂做任务】 知云，一个平平无奇的普通人，因救人绑定系统面板，穿越在影视剧中的衍生世界做任务。 终极笔记——易飒CP解雨臣 莲花楼——小龙女CP李莲花 暗河传——角丽谯CP苏昌河 爱你——夏友善CP何苏叶 延禧攻略——朱云巧CP乾隆 我的人间烟火——樊胜美CP孟宴臣",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o543142b5b973660a1647415839d16223~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015183&x-signature=0tlhNV7M6U9E2QtLiH44tSYv2D8%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o543142b5b973660a1647415839d16223~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101686&x-signature=KI%2F%2F%2BLNgP5t1IsaMBmvqVYJu2rw%3D",
         "url": "https://fanqienovel.com/page/7654179746627980313"
+      },
+      {
+        "title": "斩神：我被总司令一脚踹进假面",
+        "author": "云间凌",
+        "reads": "2.9万",
+        "intro": "【斩神+团宠+all+会有点ooc】 池念熬夜，在下床的时候，一脚给自己干到了斩神 开局逃命？不好意思金手指虽迟但到 遗憾是吧？你看我像不像遗憾就对了 有我在，你们能死算我没用",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3bcbc59673d933e4e738cbf027df6a57~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101686&x-signature=bmIhtimJdiF4QPIJuSTKMXOhZyU%3D",
+        "url": "https://fanqienovel.com/page/7664918470907153470"
       },
       {
         "title": "综影视之娇媚动人",
         "author": "君折冬",
-        "reads": "3.8万",
+        "reads": "3.6万",
         "intro": "[快穿＋绝色大美人＋万人迷＋崩剧情＋甜宠＋空间＋一见钟情] 江琳死了，为了救在马路上调皮玩耍的小男孩被车撞死了。 幸运的是绑定了一个叫功德系统，它能穿梭万界，江琳只要为小世界的女配或者是炮灰完成心愿，就能获得功德和“永生” 1，南来北往 2，欢乐颂 3，甄嬛传 4，小巷人家 5，何以笙箫默 6，雪豹 7，法医秦明 8，步步惊心 ... ps：小作者文笔不成熟，都是影视剧，女主不完美，介意勿扰。 有的世界1v1，有的1vn。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9d35c6039a6b864be03d717ed5dfd828~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015183&x-signature=%2B4P5dIS%2BkSMEXwXSypo%2F15nUtOQ%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9d35c6039a6b864be03d717ed5dfd828~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101686&x-signature=RNJmKfp7IgNcPmKiwpRsxNdPfz8%3D",
         "url": "https://fanqienovel.com/page/7595403486292888601"
       },
       {
-        "title": "综穿之我是骆驼祥子的女儿？",
-        "author": "爱吃鱼的小玉儿",
-        "reads": "3.8万",
-        "intro": "林悦与快穿系统合作，穿越各个世界完成任务，也享受到了不同的精彩人生。（大部分世界有cp） 世界一：骆驼祥子（祥子的女儿） 世界二：消失的月亮（原创世界） 世界三：星汉灿烂（程少商） 世界四: 小巷人家（吴珊珊） 世界五:欢乐颂（樊胜美） 世界六:情满四合院（闫解娣）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7a193446748defc7c450f032f5ad6738~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015183&x-signature=OGdrPkmGlyH2nW8u1d5FfNusuaA%3D",
-        "url": "https://fanqienovel.com/page/7533705358213139481"
+        "title": "小欢喜：和区长儿子谈恋爱",
+        "author": "遮厘",
+        "reads": "3.7万",
+        "intro": "童文洁觉得她们老童家的基因一等一的好 全被老方家给拖累了 方圆不服表示老方家的艺术细胞也不错滴 和好朋友永远在一起 才是最开心的 一个发小、好朋友都成了我亲家的故事。 ps：主剧情日常向，喜欢的点赞哦",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o97c6f66cfd4158b0aebfbed3b15a3f24~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101686&x-signature=YMGoXX9wqTZsYKLx9eTawZzJ38E%3D",
+        "url": "https://fanqienovel.com/page/7664948127643749401"
       },
       {
         "title": "综穿：专注改变剧情发展一百年",
         "author": "清瓜橙子皮",
-        "reads": "3.6万",
+        "reads": "3.8万",
         "intro": "【主角性别不固定，无固定CP，金手指不大，系统出现频率也不高】 在各个基于小说或影视剧演化的小世界里，完成人物目标，改变原剧情。 不虐主角，想到什么写什么，可能一开始会以清穿为主，然后会有很多私设，作者尽量标注出来。 第一个世界：乌雅成璧（已完结） 第二个世界：李静言（连载中） 后续世界看作者脑洞，如果有很多小伙伴看，有推荐的话，也会考虑。 作者写的东西都是自己想要写出来的，若读者小宝们有什么不喜欢的地方，可以提意见，但请嘴下留情！谢谢~ 作者不太会写简介，将就看一下吧~",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o91ce38d2d93629c2f0871bc7accbd0b1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015183&x-signature=Vsiv%2FwASQptTFPpzxQz0pU6pqGQ%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o91ce38d2d93629c2f0871bc7accbd0b1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101686&x-signature=jeE9Z3MXtJfd3C6vAr2fDdctZ9U%3D",
         "url": "https://fanqienovel.com/page/7660888499087756313"
       },
       {
         "title": "综影视：开局绑定秦始皇",
         "author": "萧子卿",
-        "reads": "3.4万",
+        "reads": "3.8万",
         "intro": "[女频衍生、综影视、女强、同人、衍生] [同人文第一准则：不扶贫！！！] 秦王政十三年，彗星见东方 明栎来到秦朝，改变了秦始皇既定的命运轨迹 自此，人皇初显 然，不历万界，不成皇道 在混沌珠的帮助下，明栎复活秦始皇，和他一起踏上了历万界、成人皇之路 -- 世界一：终极笔记（黑瞎子） --盗皇陵，复活秦始皇 世界二：暗河传（苏昌河） --从杀手到皇帝 ...... 待定世界-- 庆余年（范闲） 小巷人家（林栋哲） HP（小龙or麦劳德--汤姆） 莲花楼（李莲花） 少年歌行（无心） 异人之下（王也） 沉香如屑（王玄夜）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2cdd610bf6b74c5f71eae32c12136953~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015183&x-signature=6ugWFtc1rLo6tcyMzUF1mNUigro%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2cdd610bf6b74c5f71eae32c12136953~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101686&x-signature=lA7hP2sDba%2FyGdfWfR0Mf%2BwXBhA%3D",
         "url": "https://fanqienovel.com/page/7671635129046944830"
-      },
-      {
-        "title": "斩神：安卿鱼，鼠鼠我呀只想嗑瓜",
-        "author": "流年里的一把火",
-        "reads": "3.4万",
-        "intro": "【斩神同人+拆官配+萌宠化形+万人迷+修罗场+腹黑+1v1甜宠+空间+有私设】 夏雪穿越到了斩神世界。 没成人。 没成神。 更没成为神明代理人。 她穿成了一只被关在笼子里、丢在垃圾桶旁的小垃圾。 毛被染得乱七八糟，笼子上还挂着“免费赠送”的纸牌。 她一想到仓鼠的寿命只有2~3年…… 还不如干脆嘎巴一下死了算了。 就在夏雪四仰八叉躺在笼子里准备摆烂等死时，一个背着书包的高中生蹲在笼前，认真询问： “你好，我是安卿鱼，要跟我回家吗？” 夏雪一个鲤鱼打挺爬起来，对上那双眼睛，鼠鼠我愿意呀！ 千言万语堵在喉咙里，最后只变成一声：“吱吱。” 安卿鱼：…… 她没有系统，只有一个能存放几把瓜子的简单空间。 本想仗着熟知剧情嗑瓜看戏，结果安卿鱼看她的眼神越来越不对。 别人养仓鼠：铲屎、喂粮、换水、买跑轮。 安卿鱼养仓鼠：雪球，来看我解剖帅不帅？ 后来，守夜人发现安卿鱼肩上总蹲着一只嗑瓜子的仓鼠。 他趁反派不注意，以迅雷不及掩耳之势抓住她一把丢出去：“出来吧！卡皮巴拉雪球，给我上！” 夏雪：“狗男人！这个得加钱。”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oce9289d01b66d2151ddd65f424368646~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015183&x-signature=e6EN7n4wif4L1j8vcUHZ%2FHpcrrE%3D",
-        "url": "https://fanqienovel.com/page/7674082563383626776"
-      },
-      {
-        "title": "斩神：我被总司令一脚踹进假面",
-        "author": "云间凌",
-        "reads": "3.3万",
-        "intro": "【斩神+团宠+all+会有点ooc】 池念熬夜，在下床的时候，一脚给自己干到了斩神 开局逃命？不好意思金手指虽迟但到 遗憾是吧？你看我像不像遗憾就对了 有我在，你们能死算我没用",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3bcbc59673d933e4e738cbf027df6a57~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015183&x-signature=T1gYJMXCbSZa2l5I7N%2BftRP6CKk%3D",
-        "url": "https://fanqienovel.com/page/7664918470907153470"
       }
     ]
   },
@@ -247,241 +227,221 @@
     {
       "name": "女频衍生",
       "trend": {
-        "new_count": 6,
-        "dropped_count": 6,
+        "new_count": 1,
+        "dropped_count": 1,
         "new_books": [
-          "唐晶重生，改写前半生",
-          "南部档案：穿成漂亮人鱼被圈养了",
-          "盗笔，盐虾小师妹，她本相活阎王",
-          "综穿之我是骆驼祥子的女儿？",
-          "综穿：专注改变剧情发展一百年"
+          "天幕观影斩神：开局曝光林七夜"
         ],
         "dropped_books": [
           {
-            "title": "斩神：无所谓，我会念台词",
-            "intro": "【女强+万人迷+all向+正文无cp+微量系统+正文第三人称】 你穿了你醒了。 恭喜，你成了一名恶神代理人！ 你：......这有什么好恭喜的？ 在被选中后，邪教找上门，原主自认为无力与古神教会对抗，"
-          },
-          {
-            "title": "天幕观影斩神：开局曝光林七夜",
-            "intro": "好消息：穿越到斩神绑定那个系统！ 坏消息：系统让她赚取曝光度！(自我理解：大热的主播。) —— 计划第一步：贷款买最好的播放位。 白洛璃：要买就买最好的，要全部人都能看到的那种！ 计划第二步：发布的第"
-          },
-          {
-            "title": "穿书进长明宗，我师妹是叶翘",
-            "intro": "《一剑星河渡》同人文。【已签约】 【原创主角+系统+马甲+日常+搞事+cp叶清寒+私设】 我，洛清玉一个大四学生，写论文给猝死了，本以为死后要走地府程序，结果醒来发现自己穿越了，还穿越到了一个灰扑扑身"
-          },
-          {
-            "title": "红楼：贾敏重生后，不送黛玉进京",
-            "intro": "贾敏死后，魂魄被困在女儿身边许多年。 她看着六岁的黛玉独自入京，看着她寄人篱下、丧父无家，也看着那个将情意看得比性命还重的孩子，最终病逝潇湘馆。 直到黛玉咽气，她才终于抱住女儿。 再睁眼，贾敏回到了自"
-          },
-          {
-            "title": "综影：啥万人迷，我就是个破厨子",
-            "intro": "【橘子味汽水+正文无cp+万人迷+贴贴+老九门和南部放在一块写】 身为穿越总局里头的一名厨子，夏汪汪总认为是自己一碗螺蛳粉糟了天谴，这才让穿越总局团灭，自己也沦落到各个小世界里艰难求生。 好在，平平无"
+            "title": "斩神：安卿鱼，鼠鼠我呀只想嗑瓜",
+            "intro": "【斩神同人+拆官配+萌宠化形+万人迷+修罗场+腹黑+1v1甜宠+空间+有私设】 夏雪穿越到了斩神世界。 没成人。 没成神。 更没成为神明代理人。 她穿成了一只被关在笼子里、丢在垃圾桶旁的小垃圾。 毛被"
           }
         ],
         "top_risers": [
           {
-            "title": "依萍重生：书桓滚开！杜飞别乱来",
-            "change": "+2"
+            "title": "斩神：我被总司令一脚踹进假面",
+            "change": "+4"
           },
           {
-            "title": "惊悚：熟读甄嬛传剧情的我杀疯了",
-            "change": "+2"
+            "title": "综穿之我是骆驼祥子的女儿？",
+            "change": "+3"
           },
           {
-            "title": "少年派：公主病",
+            "title": "什么？我不是天才爱豆吗？",
             "change": "+1"
           }
         ],
         "top_fallers": [
           {
-            "title": "斩神：我被总司令一脚踹进假面",
-            "change": "-5"
+            "title": "小欢喜：和区长儿子谈恋爱",
+            "change": "-6"
           },
           {
             "title": "综影视之娇媚动人",
-            "change": "-3"
+            "change": "-2"
           },
           {
-            "title": "什么？我不是天才爱豆吗？",
+            "title": "综穿：专注改变剧情发展一百年",
             "change": "-2"
           }
         ],
         "reads_growth": [
           {
             "title": "少年派：公主病",
-            "growth": "+5000"
+            "growth": "+6000"
           },
           {
-            "title": "重生曲家小儿子，欢乐颂的新人生",
-            "growth": "+3000"
+            "title": "盗笔，盐虾小师妹，她本相活阎王",
+            "growth": "+4000"
           },
           {
-            "title": "依萍重生：书桓滚开！杜飞别乱来",
-            "growth": "-1000"
+            "title": "综影视：开局绑定秦始皇",
+            "growth": "+4000"
           }
         ],
-        "summary": "新增6本上榜；6本掉出（《斩神：无所谓，我会念台词》、《天幕观影斩神：开局曝光林七夜》、《穿书进长明宗，我师妹是叶翘》、《红楼：贾敏重生后，不送黛玉进京》、《综影：啥万人迷，我就是个破厨子》）；《依萍重生：书桓滚开！杜飞别乱来》排名上升+2位；《少年派：公主病》阅读量+5000。"
+        "summary": "新增1本上榜；1本掉出（《斩神：安卿鱼，鼠鼠我呀只想嗑瓜》）；《斩神：我被总司令一脚踹进假面》排名上升+4位；《少年派：公主病》阅读量+6000。"
       },
       "books": [
         {
           "title": "宜修换嫁年羹尧，摆烂躺赢了",
           "author": "桂魄西沉",
-          "reads": "23.8万",
+          "reads": "23.3万",
           "intro": "（评分刚出，已被作者吃掉）【甄嬛传+同人+宜修纯元双重生+换嫁+换亲+正室福晋+躺赢养老+1v1】 重活一世，宜修再也不想嫁给胖橘了。谁知还没等她选，柔则就率先选择嫁给胖橘。 看着她眼中隐晦的得意与恨，这一刻，宜修就猜到她也重生了。 姐姐，上一世，我当皇后的苦，这回换你来尝一次吧…… 宜修本想选一位闲散王爷，亦或者哪怕是个小一点的门楣，嫁过去好歹能当正房娘子。谁知柔则一转脸，让姑母和父母将她许给了年羹尧。 好啊，你敢赐婚，我就敢嫁！ 姐姐是皇后，姑母是太后，妹妹是华妃，有钱有闲有地位，年羹尧将她宠进了骨子里…… 至于抄家？做梦去吧！ 公公是三朝阁老大学士，兄长也是朝中要员，这从龙之功还没那么容易散呢！夫妻这么多年 她对皇帝的心思了如指掌，真当皇帝心里头一点不念着年家的好，一点都不珍爱华妃么？ 姐姐，再活一百世，也还是你输啊……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/83f711c188af3863d917000c9dc844e3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015179&x-signature=6cE5YtNM9qbJzM8uIFboW1ZcG3w%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/83f711c188af3863d917000c9dc844e3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101682&x-signature=adDT7I2VyFq3Iudp%2B7y989TsREk%3D",
           "url": "https://fanqienovel.com/page/7577701639453150233"
         },
         {
           "title": "少年派：公主病",
           "author": "蛮渡",
-          "reads": "10.3万",
+          "reads": "10.9万",
           "intro": "一朝意外，钟宝蓓穿越到《少年派》的世界里。 成为别人眼中整日犯公主病的小作精，还要被迫重读三年高中。 为了摆脱草包校花的名号，她努力搞学业，抱紧中考状元钱三一的大腿，好好学习。 谁知道毕业那天聚会，向来对她冷脸的钱三一会红着脸跟她表白。 钟宝蓓陷入沉思。 嗯？ 不是，你怎么会喜欢我？ · 钱三一说过，他永远不会喜欢像母亲裴音那样的人。 起初，他觉得钟宝蓓和裴音很相似，精致，骄傲，在意旁人的眼光。 他不喜欢她。 后来，他总是会偷偷念她的名字。 宝蓓，宝贝。 · 钟宝蓓×钱三一 1.爱写点校园，爱写点口是心非的真香情节 2.发现少年派的同人很少，所以来尝试为爱发电，拆cp 3.同人作品都是用来练手的，不能保证每个人都不ooc，但作者会尽量保持原作人设和情节",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob8029fcfc0e268dc1ff8046734fb22cc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015179&x-signature=GeaDfq0oN332Bn0VYogwdGZBIr0%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob8029fcfc0e268dc1ff8046734fb22cc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101682&x-signature=nWDaJqbb%2BUasWlutL1JUs5CJy%2Fg%3D",
           "url": "https://fanqienovel.com/page/7662572749981764670"
-        },
-        {
-          "title": "重生曲家小儿子，欢乐颂的新人生",
-          "author": "皮蛋小米粥",
-          "reads": "9万",
-          "intro": "（电视剧，单女主，不滥情，后续根据情况添加别的影视剧，目前：欢乐颂、好先生） 重生成欢乐颂中曲筱绡的亲弟弟，上一世为了活命做自己不喜欢的事，这一世有人兜底后曲连英开始追求梦想，人如果没有梦想，那跟咸鱼有什么区别呢？这一世，曲连英梦想、家庭、爱情他全都要。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe7eb0e824b56c729353275f0efdb2c8f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015179&x-signature=bfcHKJWrLYi0tkJEhCSzILhdZ%2B8%3D",
-          "url": "https://fanqienovel.com/page/7671904953287330840"
         },
         {
           "title": "什么？我不是天才爱豆吗？",
           "author": "湖边倒影",
-          "reads": "8.7万",
+          "reads": "8.4万",
           "intro": "【架空韩娱，文抄公，微缺德，不建议带入，论坛体较多】 【女主关种、道德水准低、纯恨批】 赵瑞雪穿越了。 好消息，是漂亮女爱豆。坏消息，糊得查无此团。 更坏的消息，队友们疑似要个资起飞了。更好的消息，金手指到账了。 积累嫂子值就能增加职业能力，美貌、身材、创作、声乐、舞蹈、表情管理、舞台表现力……应有尽有，点击即加！ 好好好，蓝星天才爱豆舍我其谁！！！ 【姓名：赵瑞雪 艺名：Snow 所属团：Honey Jar （蜜罐） 别名：蜜1、蜜制、蜜恋、四楼 国籍：中国 出生日期：1998.11.22 星座：天蝎座 MBTI：ISFP 身高：170CM】",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc277b585668e4d4b929ab1cd6562be5e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015179&x-signature=NoJPZbsfenKOXqi1MO66gQR4HzU%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc277b585668e4d4b929ab1cd6562be5e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101682&x-signature=0gYOk3dtTzAsJHhIdK%2BdwLbwLSY%3D",
           "url": "https://fanqienovel.com/page/7666148870967020606"
+        },
+        {
+          "title": "重生曲家小儿子，欢乐颂的新人生",
+          "author": "皮蛋小米粥",
+          "reads": "8.2万",
+          "intro": "（电视剧，单女主，不滥情，后续根据情况添加别的影视剧，目前：欢乐颂、好先生） 重生成欢乐颂中曲筱绡的亲弟弟，上一世为了活命做自己不喜欢的事，这一世有人兜底后曲连英开始追求梦想，人如果没有梦想，那跟咸鱼有什么区别呢？这一世，曲连英梦想、家庭、爱情他全都要。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe7eb0e824b56c729353275f0efdb2c8f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101682&x-signature=f1KeuC0%2Flytbidq9aGqXEnvKS8w%3D",
+          "url": "https://fanqienovel.com/page/7671904953287330840"
         },
         {
           "title": "唐晶重生，改写前半生",
           "author": "怪味小酒",
-          "reads": "7.1万",
+          "reads": "6.9万",
           "intro": "唐晶重生了。 正好重生在罗子君刚被陈俊生提出离婚的黄昏。 前世惨痛记忆汹涌而来：是她亲手将深陷绝境的闺蜜，推向了相恋十年的爱人贺涵。 最终，爱情友情双重背叛，她一无所有。 这一世，她倾尽一切立下死誓： 绝不让贺涵插手罗子君的人生，绝不让两人产生半分纠葛。 她独自处理离婚官司，为罗子君规划好前路，步步设防、层层阻拦。 贺涵每一次想要伸出援手，都被她温和却强硬地挡在门外。 她筑起密不透风的防线，以为这样就能改写悲剧，守住爱情与友情。 可命运的漩涡，远比她想象得诡异。 她拼命隔绝，到底是成功斩断了两人情愫，彻底阻止他们相爱？ 还是她偏执疯狂的阻拦，在无形中步步助推，亲手加速了他们彼此沦陷？ 她会守住贺涵，守住自我，还是再次重蹈覆辙？ 真正的重生，从不是阻拦他人宿命。 而是终于明白：她要改写的，从来不是别人的命运，而是她自己的人生。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob2c5fb0d0e3b773987ea18595859165e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015179&x-signature=kQ2FlccoyhXnzn3QzIDLA%2BB%2BLjw%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob2c5fb0d0e3b773987ea18595859165e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101682&x-signature=d2Ka%2B%2F2q1rKsvgKpX4XzdwYpYBU%3D",
           "url": "https://fanqienovel.com/page/7631159442683218968"
         },
         {
           "title": "依萍重生：书桓滚开！杜飞别乱来",
           "author": "就图碎银几两",
-          "reads": "6万",
+          "reads": "6.1万",
           "intro": "[刚开分，后面会涨] 避雷： ①喜欢书桓，如萍和雪姨的勿入 ②依萍有原创男主CP，事业线为辅，无CP粉勿入 去陆家要钱的大雨夜二十年后，被何书桓的多情折磨得身心俱疲的依萍，梦回前世小燕子，携带小燕子的记忆重生了！ 重回大雨夜，依萍没有被鞭打，拿到学费，进入音专，遇到林慕远，一个从相识起就对她关怀备至，极致偏爱的男人，开启与前世完全不一样的风生水起，繁花似锦的人生。 对陆家人和何书桓，有仇的报仇，有怨的报怨，吃过的苦，受过的罪，想办法让他们尝一遍，最终活成让他们仰望的存在。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o952bb009af8d0b14e8a4a017df81eba8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015179&x-signature=VmSuXfB%2BPJSjxqgh30u33KL1V6U%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o952bb009af8d0b14e8a4a017df81eba8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101682&x-signature=qNQyllM9Ja1QJLwUhPfZj2TjUQ4%3D",
           "url": "https://fanqienovel.com/page/7660848468067372056"
         },
         {
           "title": "惊悚：熟读甄嬛传剧情的我杀疯了",
           "author": "清蒸咸萝卜",
-          "reads": "5.9万",
+          "reads": "5.6万",
           "intro": "【无cp+国运游戏+规则怪谈+影视综+打脸爽文+龙国崛起】 为救癌症晚期母亲，苏小小和系统交易，穿越到诡怪横行的平行世界，刚睁眼就被大伯一家关在地下室，断水断粮，就等着她死了吞掉房产，转头移民小日子！ 就在她奄奄一息、以为要凉透时，国运游戏突然绑定！全球诡怪入侵，华国国运低于35%，濒临覆灭，而我，成了龙国唯一的希望！ 没人知道，这个世界的龙国没了两百年历史，更没有《甄嬛传》《如懿传》《还珠格格》这些宫斗神剧！ 更没有《梁祝》、《牛郎织女》、《西游记》、《红楼梦》、《白蛇传》这些经典…… 而苏小小，恰好熟读所有剧情，靠着剧情预知天赋，在清宫诡影副本里步步为营，选对每一个关键选项，通关即加国运，解锁资源，抵御诡怪！ 龙国从濒临覆灭，一路逆袭成世界第一，举国沸腾！ 而当初想吞她家产、移民小日子的大伯一家，国破家亡，跪在她面前哭着求原谅、求恢复华国国籍？ 晚了！当初你们把我逼入绝境时，怎么没想过今天？滚！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oac2da12fa25ac9346551e286b288bad8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015179&x-signature=6bG3SlnNT2r0V5bfm62tyE7p6%2BM%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oac2da12fa25ac9346551e286b288bad8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101682&x-signature=r%2BwBJi0icKpdXyrFq6HOtgWI7%2FM%3D",
           "url": "https://fanqienovel.com/page/7654786992063925272"
         },
         {
           "title": "南部档案：重生后全演上了",
           "author": "鹤顶红加冰",
-          "reads": "5.8万",
+          "reads": "5.5万",
           "intro": "（cp位置随意磕，看你咋想 ） 张海楼活了一百多年。 一百多年没提过虾仔的名字。 后来倒霉催的替吴邪挡了一刀彻底完犊子了。 闭眼，想的是算不算英年早逝？ 再一睁开眼睛，出现在了厦门的破庙里面，身边没有虾仔，也没有被师傅收养，上辈子的事情一件都没有发生。 那还扯个屁啊。 得嘞。 赶紧撒丫子跑路吧。 跑的有点远，一口气干到了常沙，凭借上辈子的身手以及不要脸的精神成为了张启山的副官。 江湖人称小张哥。 本以为跑远了就安全了。 可鬼知道老天爷居然如此大方，连重生的名额都是买一送二。 张海侠从厦门追到常沙，把他堵在巷子里，攥着他手腕说：\"弟弟不依赖哥哥，是不是当哥哥死了？” 张海琪从巷子口走过来，端着茶碗，上下打量他三遍：“长能耐了，知道离家出走了是吧。” 二对一。 本以为稳稳妥妥。 哪曾想杀出个程咬金。 张启山带着九门杀了过来：“我养大的小崽子你想带走？问过我同意了吗？” 张海侠：师傅，要不你嫁过去吧，我和海楼算是嫁妆。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of9c28edc37f4ae5890ff256f20b9e1cf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015179&x-signature=Ce346mM9qWnYMs7iI4O4Pvxa9Wg%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of9c28edc37f4ae5890ff256f20b9e1cf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101682&x-signature=NuRg%2BBPk8lcKGow3zIh6VqTdyUU%3D",
           "url": "https://fanqienovel.com/page/7656209306659851326"
         },
         {
           "title": "斩神：穿越后，我和哪吒恋爱了",
           "author": "君翎羽",
-          "reads": "5.5万",
+          "reads": "5.4万",
           "intro": "【斩神同人+CP哪吒+弥补遗憾】 避雷：拆官配！！！副CP可能是莫莉和胖胖。 蓝星——白汀晚上完晚自习，正哼着歌回家，结果居然发现有流星！ 她抬头看着流星，走到巷口拐弯回家。 谁懂啊！ 别人拐弯撞到帅哥！ 她呢？拐了个弯，拐异世界来了？ 开局传来惨叫声 十年老书虫的白汀晚表示，开局惨叫绝对有刀！ 三十六计，走为上计！ 好想逃，却逃不掉。 以为要被杀的白汀晚却成了哪吒代理人！ 结果还被136小队当场抓包，她这才知道自己穿斩神了！ 这波是被强制入职！ 白汀晚表示，要是还能穿回蓝星就写一本小说一定赚钱！名字就叫《一朝拐弯穿斩神，我成哪吒代理人！》 哪吒转动着指尖的莲花硬币，凑近唇边轻轻落下一吻：“我的小莲花确实胆小，要是不小心吓到她，躲着我……” 他指尖用力，掌心的莲花硬币被攥得微微发紧，眸中笑意不变，语气透着快意：“那就只能把你关起来啦。” “关起来就只能永远留在我身边，只看着我一个人，好不好？我的小莲花~” 白汀晚：“……” 你补药过来啊！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob7a8a8f59e6b388551262919df18c611~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015179&x-signature=fMh3Q9FHdtYPbw3%2Bm7quYHifDvY%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob7a8a8f59e6b388551262919df18c611~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101682&x-signature=wrmEA7sl60eTUpOTvx%2B2AivNzqU%3D",
           "url": "https://fanqienovel.com/page/7649382437750852670"
+        },
+        {
+          "title": "天幕观影斩神：开局曝光林七夜",
+          "author": "黑胖球",
+          "reads": "5.2万",
+          "intro": "好消息：穿越到斩神绑定那个系统！ 坏消息：系统让她赚取曝光度！(自我理解：大热的主播。) —— 计划第一步：贷款买最好的播放位。 白洛璃：要买就买最好的，要全部人都能看到的那种！ 计划第二步：发布的第一条内容必须要有话题、热度、内容、颜值…… 白洛璃：划重点“颜值”，这年头到处都是颜狗。 那么接下来要登场的是病院在逃人员、黑梧桐俱乐部当之无愧的大阪头牌、牛郎界的天花板、熟女之友·浅羽七夜先生！ 咳咳咳！抱歉搞错了！ 接下来登场的是宙斯预言中的渎神者、多神代理人、诸神精神病院院长、005特殊小队【夜幕】的队长、守夜人第七任总司令林七夜先生！ 计划第三步：盘点斩神中那些意难平的情侣(或盘点斩神中那些意难平的人物) 白洛璃：维持热度的最好办法就是炒cp，正好原著中有几对cp，或者是展现那些意难平的人物，在经过一些剪辑、春秋笔法的渲染，绝对让人哭的欲生欲死。 【不拆原著cp，就是屏幕在播放的时候会经过剪辑和一些春秋笔法的渲染，跟原著略有差别。】 【不喜轻喷！▄█▀█●】",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob02c4a29bf2be7950146c29bfbd58b33~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101682&x-signature=vlJO4SrnsrPIpoQruaut%2Bq1hbg4%3D",
+          "url": "https://fanqienovel.com/page/7645488373351599166"
         },
         {
           "title": "南部档案：穿成漂亮人鱼被圈养了",
           "author": "斜白",
-          "reads": "5万",
+          "reads": "5.1万",
           "intro": "【南部档案弥补遗憾、1V1、HE、OOC预警、有私设、cp张海侠×宁薇、非女强、逆天改命】 地府投胎名额紧张，宁薇只有完成穿越任务，才能获得优先投胎资格。 一不小心随机穿越到未知的南部档案世界，还穿成了南洋最后一条人鱼！ 宁薇甩了甩自己布灵布灵闪闪发光的墨蓝色鱼尾，一时接受不了非人身份。 赫曼总督府，密室巨大水箱内，她全身赤裸隐于水草中沉睡，却被意外闯入的陌生男子救走。 鱼虾之旅就此开始…… 不会走路的宁薇，有了海虾版人形轮椅，不会用人鱼声带发声的宁薇，由海虾一句句按着下巴教导。 张海虾说他们不是亲人胜似亲人，直到有一天，冷静克制温柔的人突然变了。 黑虾将宁薇困于臂弯中，低头深吻：“人鱼有什么奇怪？鱼虾该是天生绝配。” 混乱一场，白虾醒来，红着脸自责慌乱：“一切都是我的错，我一力承当。” 张海虾变的占有欲极强，整条鱼都是他的，宁薇走不掉了。 只能白天哄一个爱掉眼泪的，晚上哄一个爱邪笑的…… ———————— 第二人称简介： 你只是个什么都不知道的普通人，意外穿越到南部档案世界，成了一条漂亮人鱼。结识张海侠后，冒险之旅开启……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od2d24ef34d702f9ee673828294cb4f23~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015179&x-signature=lLZ4klwBaoo9PGQ06V6gHIeF5n8%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od2d24ef34d702f9ee673828294cb4f23~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101686&x-signature=NEK%2FF9Ahu1ccpOjAN2diXMOM3jE%3D",
           "url": "https://fanqienovel.com/page/7670852163756624921"
         },
         {
           "title": "盗笔，盐虾小师妹，她本相活阎王",
           "author": "一生发财兔",
-          "reads": "4.3万",
+          "reads": "4.7万",
           "intro": "【all+沙雕+颠+读心】 张海玉，张海琪最小徒弟，档案馆有名的活阎王！ 众人杀人她补刀，不给档案馆留祸！ 为人狡诈心狠，癫、睚眦必报！ 人身准则: 打不过就跑，跑不过跪下认怂！ 后趁敌不备，插敌脚背！最后捅敌之肋！ 档案馆被剿灭？师傅中毒，虾残疾惨死？盐终身遗憾？？ 殊不知，她心声暴露，众人听了个正着: 张海楼胆大想碰邪神雕像？ 她掏出电棍: 【要是敢放出邪神，老娘让你见识一下现代科技！】 张海盐:…… 得意忘形自报家门？ 她直接化身电击少女，让他瞬间爽翻！ 【还狂！等敌人顺着查到档案馆，所有人被杀！虾因你瘫痪身死你就开心了！】 张海盐:不嘻嘻 虾仔因爆炸受伤，只能坐轮椅。 她:【我有一个问题…】 虾:行！ 她:【又帅又行不会跑，还打不过我…真好】 虾:你虫脆是的红蛋！ 黄昏草？ 【烧！】 莫云高药下毒暗害师傅？ 她踩着莫云高的脑袋扇: 【就你叫莫云高啊？】 【什么档次，也配族长来见？！】 黑虾弑杀？不存在的！ 【试试是你骨头硬还是我电棍硬！】 黑虾:我走…我走还不行吗！ 最后众人安然无恙，某日，张海琪再次下令: 保护吴邪。 她:【嘿嘿…小天真。】 吴邪:【你表过来啊！】",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc3a3929b3f05508a95081e6e5ad3af42~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015183&x-signature=vHwDAzN8miXus0ZVnPA6qo9S9xM%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc3a3929b3f05508a95081e6e5ad3af42~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101686&x-signature=zbRuihkpYoqAkvKpj3FcyYbOL6M%3D",
           "url": "https://fanqienovel.com/page/7669072349152414745"
         },
         {
-          "title": "小欢喜：和区长儿子谈恋爱",
-          "author": "遮厘",
-          "reads": "4.2万",
-          "intro": "童文洁觉得她们老童家的基因一等一的好 全被老方家给拖累了 方圆不服表示老方家的艺术细胞也不错滴 和好朋友永远在一起 才是最开心的 一个发小、好朋友都成了我亲家的故事。 ps：主剧情日常向，喜欢的点赞哦",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o97c6f66cfd4158b0aebfbed3b15a3f24~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015183&x-signature=rsVwRqOIRLmLmvcNXn%2FCZMGjj4k%3D",
-          "url": "https://fanqienovel.com/page/7664948127643749401"
+          "title": "综穿之我是骆驼祥子的女儿？",
+          "author": "爱吃鱼的小玉儿",
+          "reads": "4.1万",
+          "intro": "林悦与快穿系统合作，穿越各个世界完成任务，也享受到了不同的精彩人生。（大部分世界有cp） 世界一：骆驼祥子（祥子的女儿） 世界二：消失的月亮（原创世界） 世界三：星汉灿烂（程少商） 世界四: 小巷人家（吴珊珊） 世界五:欢乐颂（樊胜美） 世界六:情满四合院（闫解娣）",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7a193446748defc7c450f032f5ad6738~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101686&x-signature=v5loy1blWJHxkw8VQFl%2FTQQmJns%3D",
+          "url": "https://fanqienovel.com/page/7533705358213139481"
         },
         {
           "title": "综影视：女配不做踏脚石",
           "author": "金玉京子",
           "reads": "4万",
           "intro": "［综影视+金手指+女配+爽文］ 快穿局的任务者穿越到各个影视世界成为女配，让她们不再成为天命主角的踏脚石…… 甄嬛传 余莺儿(已完结) 如懿传 金玉妍(已完结) 甄嬛传 安陵容(已完结) 如懿传 魏嬿婉ing",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe6fdf7d6b26d7b8d7e7f5db51f8e600f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015183&x-signature=GFjHNt8tGOdvs9DGDymxYg5ojXQ%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe6fdf7d6b26d7b8d7e7f5db51f8e600f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101686&x-signature=ocMJ21%2Baf3lKhxzo59fZZ%2BFstso%3D",
           "url": "https://fanqienovel.com/page/7647067479197371454"
         },
         {
           "title": "综影视：开局抽到小纸人",
           "author": "黑锦鲤",
-          "reads": "4万",
+          "reads": "3.9万",
           "intro": "【女强，绝不受委屈，老书——综影视：我在小世界疯狂做任务】 知云，一个平平无奇的普通人，因救人绑定系统面板，穿越在影视剧中的衍生世界做任务。 终极笔记——易飒CP解雨臣 莲花楼——小龙女CP李莲花 暗河传——角丽谯CP苏昌河 爱你——夏友善CP何苏叶 延禧攻略——朱云巧CP乾隆 我的人间烟火——樊胜美CP孟宴臣",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o543142b5b973660a1647415839d16223~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015183&x-signature=0tlhNV7M6U9E2QtLiH44tSYv2D8%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o543142b5b973660a1647415839d16223~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101686&x-signature=KI%2F%2F%2BLNgP5t1IsaMBmvqVYJu2rw%3D",
           "url": "https://fanqienovel.com/page/7654179746627980313"
+        },
+        {
+          "title": "斩神：我被总司令一脚踹进假面",
+          "author": "云间凌",
+          "reads": "2.9万",
+          "intro": "【斩神+团宠+all+会有点ooc】 池念熬夜，在下床的时候，一脚给自己干到了斩神 开局逃命？不好意思金手指虽迟但到 遗憾是吧？你看我像不像遗憾就对了 有我在，你们能死算我没用",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3bcbc59673d933e4e738cbf027df6a57~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101686&x-signature=bmIhtimJdiF4QPIJuSTKMXOhZyU%3D",
+          "url": "https://fanqienovel.com/page/7664918470907153470"
         },
         {
           "title": "综影视之娇媚动人",
           "author": "君折冬",
-          "reads": "3.8万",
+          "reads": "3.6万",
           "intro": "[快穿＋绝色大美人＋万人迷＋崩剧情＋甜宠＋空间＋一见钟情] 江琳死了，为了救在马路上调皮玩耍的小男孩被车撞死了。 幸运的是绑定了一个叫功德系统，它能穿梭万界，江琳只要为小世界的女配或者是炮灰完成心愿，就能获得功德和“永生” 1，南来北往 2，欢乐颂 3，甄嬛传 4，小巷人家 5，何以笙箫默 6，雪豹 7，法医秦明 8，步步惊心 ... ps：小作者文笔不成熟，都是影视剧，女主不完美，介意勿扰。 有的世界1v1，有的1vn。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9d35c6039a6b864be03d717ed5dfd828~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015183&x-signature=%2B4P5dIS%2BkSMEXwXSypo%2F15nUtOQ%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9d35c6039a6b864be03d717ed5dfd828~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101686&x-signature=RNJmKfp7IgNcPmKiwpRsxNdPfz8%3D",
           "url": "https://fanqienovel.com/page/7595403486292888601"
         },
         {
-          "title": "综穿之我是骆驼祥子的女儿？",
-          "author": "爱吃鱼的小玉儿",
-          "reads": "3.8万",
-          "intro": "林悦与快穿系统合作，穿越各个世界完成任务，也享受到了不同的精彩人生。（大部分世界有cp） 世界一：骆驼祥子（祥子的女儿） 世界二：消失的月亮（原创世界） 世界三：星汉灿烂（程少商） 世界四: 小巷人家（吴珊珊） 世界五:欢乐颂（樊胜美） 世界六:情满四合院（闫解娣）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7a193446748defc7c450f032f5ad6738~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015183&x-signature=OGdrPkmGlyH2nW8u1d5FfNusuaA%3D",
-          "url": "https://fanqienovel.com/page/7533705358213139481"
+          "title": "小欢喜：和区长儿子谈恋爱",
+          "author": "遮厘",
+          "reads": "3.7万",
+          "intro": "童文洁觉得她们老童家的基因一等一的好 全被老方家给拖累了 方圆不服表示老方家的艺术细胞也不错滴 和好朋友永远在一起 才是最开心的 一个发小、好朋友都成了我亲家的故事。 ps：主剧情日常向，喜欢的点赞哦",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o97c6f66cfd4158b0aebfbed3b15a3f24~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101686&x-signature=YMGoXX9wqTZsYKLx9eTawZzJ38E%3D",
+          "url": "https://fanqienovel.com/page/7664948127643749401"
         },
         {
           "title": "综穿：专注改变剧情发展一百年",
           "author": "清瓜橙子皮",
-          "reads": "3.6万",
+          "reads": "3.8万",
           "intro": "【主角性别不固定，无固定CP，金手指不大，系统出现频率也不高】 在各个基于小说或影视剧演化的小世界里，完成人物目标，改变原剧情。 不虐主角，想到什么写什么，可能一开始会以清穿为主，然后会有很多私设，作者尽量标注出来。 第一个世界：乌雅成璧（已完结） 第二个世界：李静言（连载中） 后续世界看作者脑洞，如果有很多小伙伴看，有推荐的话，也会考虑。 作者写的东西都是自己想要写出来的，若读者小宝们有什么不喜欢的地方，可以提意见，但请嘴下留情！谢谢~ 作者不太会写简介，将就看一下吧~",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o91ce38d2d93629c2f0871bc7accbd0b1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015183&x-signature=Vsiv%2FwASQptTFPpzxQz0pU6pqGQ%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o91ce38d2d93629c2f0871bc7accbd0b1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101686&x-signature=jeE9Z3MXtJfd3C6vAr2fDdctZ9U%3D",
           "url": "https://fanqienovel.com/page/7660888499087756313"
         },
         {
           "title": "综影视：开局绑定秦始皇",
           "author": "萧子卿",
-          "reads": "3.4万",
+          "reads": "3.8万",
           "intro": "[女频衍生、综影视、女强、同人、衍生] [同人文第一准则：不扶贫！！！] 秦王政十三年，彗星见东方 明栎来到秦朝，改变了秦始皇既定的命运轨迹 自此，人皇初显 然，不历万界，不成皇道 在混沌珠的帮助下，明栎复活秦始皇，和他一起踏上了历万界、成人皇之路 -- 世界一：终极笔记（黑瞎子） --盗皇陵，复活秦始皇 世界二：暗河传（苏昌河） --从杀手到皇帝 ...... 待定世界-- 庆余年（范闲） 小巷人家（林栋哲） HP（小龙or麦劳德--汤姆） 莲花楼（李莲花） 少年歌行（无心） 异人之下（王也） 沉香如屑（王玄夜）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2cdd610bf6b74c5f71eae32c12136953~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015183&x-signature=6ugWFtc1rLo6tcyMzUF1mNUigro%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2cdd610bf6b74c5f71eae32c12136953~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789101686&x-signature=lA7hP2sDba%2FyGdfWfR0Mf%2BwXBhA%3D",
           "url": "https://fanqienovel.com/page/7671635129046944830"
-        },
-        {
-          "title": "斩神：安卿鱼，鼠鼠我呀只想嗑瓜",
-          "author": "流年里的一把火",
-          "reads": "3.4万",
-          "intro": "【斩神同人+拆官配+萌宠化形+万人迷+修罗场+腹黑+1v1甜宠+空间+有私设】 夏雪穿越到了斩神世界。 没成人。 没成神。 更没成为神明代理人。 她穿成了一只被关在笼子里、丢在垃圾桶旁的小垃圾。 毛被染得乱七八糟，笼子上还挂着“免费赠送”的纸牌。 她一想到仓鼠的寿命只有2~3年…… 还不如干脆嘎巴一下死了算了。 就在夏雪四仰八叉躺在笼子里准备摆烂等死时，一个背着书包的高中生蹲在笼前，认真询问： “你好，我是安卿鱼，要跟我回家吗？” 夏雪一个鲤鱼打挺爬起来，对上那双眼睛，鼠鼠我愿意呀！ 千言万语堵在喉咙里，最后只变成一声：“吱吱。” 安卿鱼：…… 她没有系统，只有一个能存放几把瓜子的简单空间。 本想仗着熟知剧情嗑瓜看戏，结果安卿鱼看她的眼神越来越不对。 别人养仓鼠：铲屎、喂粮、换水、买跑轮。 安卿鱼养仓鼠：雪球，来看我解剖帅不帅？ 后来，守夜人发现安卿鱼肩上总蹲着一只嗑瓜子的仓鼠。 他趁反派不注意，以迅雷不及掩耳之势抓住她一把丢出去：“出来吧！卡皮巴拉雪球，给我上！” 夏雪：“狗男人！这个得加钱。”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oce9289d01b66d2151ddd65f424368646~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015183&x-signature=e6EN7n4wif4L1j8vcUHZ%2FHpcrrE%3D",
-          "url": "https://fanqienovel.com/page/7674082563383626776"
-        },
-        {
-          "title": "斩神：我被总司令一脚踹进假面",
-          "author": "云间凌",
-          "reads": "3.3万",
-          "intro": "【斩神+团宠+all+会有点ooc】 池念熬夜，在下床的时候，一脚给自己干到了斩神 开局逃命？不好意思金手指虽迟但到 遗憾是吧？你看我像不像遗憾就对了 有我在，你们能死算我没用",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3bcbc59673d933e4e738cbf027df6a57~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789015183&x-signature=T1gYJMXCbSZa2l5I7N%2BftRP6CKk%3D",
-          "url": "https://fanqienovel.com/page/7664918470907153470"
         }
       ]
     }

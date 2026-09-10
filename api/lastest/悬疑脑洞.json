@@ -1,144 +1,144 @@
 {
   "type": "悬疑脑洞",
-  "date": "2026-09-09",
-  "prev_date": "2026-09-08",
+  "date": "2026-09-10",
+  "prev_date": "2026-09-09",
   "category": {
     "name": "悬疑脑洞",
     "trend": {
       "new_count": 1,
       "dropped_count": 1,
       "new_books": [
-        "盗笔：跟马甲绝赞水仙中"
+        "盗笔：解雨臣捡了个想死的崽"
       ],
       "dropped_books": [
         {
-          "title": "盗墓：吴家走丢的小姑娘回来了",
-          "intro": "吴岁安是吴二白失踪多年的亲生女儿。 幼年时，她被秘密送往国外保护，却在途中落入人体实验组织手中。漫长的药物、催眠与神经实验，让她的心智永远停在了五岁。 直到迟到多年的系统终于找回宿主。 看完实验记录，"
+          "title": "盗笔：跟马甲绝赞水仙中",
+          "intro": "符卿，当代脆皮大学生，一觉睡醒绑定了度假系统，穿进了危机四伏的盗墓世界。 系统很贴心，开局附赠无性·俊美·武力值爆表的马甲一具，让她一人双号，无缝切换。 谁知道开局落地沙海被邪帝跟汪家监视。 符卿：6"
         }
       ],
       "top_risers": [
         {
-          "title": "隧夜轮回：成为白哥迷妹这件事！",
-          "change": "+4"
-        },
-        {
-          "title": "盗墓：好好的反派被你们养废了",
+          "title": "诡异文里当路人，邪神竟是我老公",
           "change": "+3"
         },
         {
-          "title": "盗墓：系统绑错人我进了同人剧本",
-          "change": "+2"
+          "title": "盗墓：好好的反派被你们养废了",
+          "change": "+1"
+        },
+        {
+          "title": "糟糕！她怎么成无限流BOSS了",
+          "change": "+1"
         }
       ],
       "top_fallers": [
         {
-          "title": "盗墓：魔丸麒麟为何天天修罗场？",
-          "change": "-6"
+          "title": "盗墓：我只是一个伙计啊",
+          "change": "-2"
         },
         {
-          "title": "老九门之九门攻略手册",
-          "change": "-3"
+          "title": "盗墓：系统绑错人我进了同人剧本",
+          "change": "-2"
         },
         {
-          "title": "盗墓麒麟崽怎么又又又倒霉了",
+          "title": "盗墓：好消息穿成张家人了",
           "change": "-1"
         }
       ],
       "reads_growth": [
         {
           "title": "盗墓：我只是一个伙计啊",
-          "growth": "+1000"
+          "growth": "+2000"
         },
         {
           "title": "诡异文里当路人，邪神竟是我老公",
           "growth": "+1000"
         },
         {
-          "title": "什么变态，那是我老公",
+          "title": "盗笔：神算她专收杀神做保镖！",
           "growth": "+1000"
         }
       ],
-      "summary": "新增1本上榜；1本掉出（《盗墓：吴家走丢的小姑娘回来了》）；《隧夜轮回：成为白哥迷妹这件事！》排名上升+4位；《盗墓：我只是一个伙计啊》阅读量+1000。"
+      "summary": "新增1本上榜；1本掉出（《盗笔：跟马甲绝赞水仙中》）；《诡异文里当路人，邪神竟是我老公》排名上升+3位；《盗墓：我只是一个伙计啊》阅读量+2000。"
     },
     "books": [
       {
         "title": "扮演美强惨马甲的我虐哭漫画读者",
         "author": "是酱紫鸭",
-        "reads": "8万",
+        "reads": "7.8万",
         "intro": "【女频男主+无CP全暧昧+多马甲+沉浸式扮演+论坛体+建立组织+迪化+中二】 俞池泠是个朝六晚十的游戏策划，每天为了剧情人设绞尽脑汁，在方案第10086次被驳回后，一个自称系统的家伙找上了他： “到漫画世界扮演马甲，拯救be剧本，一个主角一百万。” “成交！” 至此，俞池泠踏上了自导自演的精分生涯。 * 时隔四年，漫画《诡杀·‖》终于定档，作为大热少年漫《诡杀》的延续作，相关词条迅速登上热搜。 “我记得上部主角都死光了吧，这也能圆?” “估计又是挂羊头卖狗肉的IP情怀鸡汤，溜了溜了。” 谁料作者根本不按套路出牌，直接启动时间大法，开启二周目。 随着剧情发展，新势力【幽灵】登场，队员各个实力强悍，天赋拉满。 “这些才是作者心肝吧，这么捧?！” 再后来，读者发现，圣洁的天使长曾被推上火架，灵魂日夜遭受烈焰炙烤；鸠占鹊巢的“小偷”最终代替主角坠入时间缝隙，被众人遗忘；无所不知的万事通其实饱受精神折磨，早已处于崩溃边缘…… “啊啊啊，别动我心肝！” “不要死，没人怪你！” “是反派还是救世主，我自有定夺。” 而马甲本人俞池泠表示：市场反馈良好，可继续推出同类型角色",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odb4d25f3310114cbb95a4d0acc4ec82c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534288&x-signature=s3HdhzoIrk0FhAPRB653F%2F5TlEs%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odb4d25f3310114cbb95a4d0acc4ec82c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620768&x-signature=xjeJHxeut%2FhxHy%2BHEwWYgPtcwNA%3D",
         "url": "https://fanqienovel.com/page/7663396925902703640"
       },
       {
         "title": "穿成汪少主，九门全员舍不得杀我",
         "author": "十字星的月亮",
-        "reads": "4.6万",
+        "reads": "4.5万",
         "intro": "【开分大吉，刚刚开分，会涨的】当代苦逼打工人穿越，喜提汪家少主身份+满身实验针孔，绑定爱唠嗑吐槽系统。 荒郊被二月红捡走，本想低调苟活，不料汪家身份藏不住。 掉马后，九门众人一边忌惮他的身份，一边又舍不得伤他分毫，爱恨拉扯没完没了。 躲过地底百年沉睡，闯遍各大古墓，最后反手收服汪家，平衡张家与九门。 别人闯盗墓世界寻长生，只有他：被迫卷入千年博弈，顺带收获一摊子剪不断的温柔与纠葛，系统天天在线吐槽宿主倒霉一生。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o60fbd24510c3c3930e473faf1539e0cd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534288&x-signature=QMcvI%2BDLtaXYMESvZNOVv6LGv9w%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o60fbd24510c3c3930e473faf1539e0cd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620768&x-signature=Ip1i2v6dvKVy5t7W3TUtwgK8qMc%3D",
         "url": "https://fanqienovel.com/page/7670048886643231806"
       },
       {
         "title": "沙海：大美人想过普通生活",
         "author": "激情鸽子",
-        "reads": "4.5万",
+        "reads": "4万",
         "intro": "【女主all向+修罗场+回箭头晚+后期强制爱（非挖心挖肝，是请你强制爱我吧，上位者低头）+ooc+有私设】 一个准大一新生，除了好看亿点点，在一次乐于助人后，被带入沙漠冒险，打开新世界大门，想要回归普通生活，被人死死抓着，最后没招了的故事。 * 男嘉宾排名不分先后，人数不定。 xx（怎么两清） ：别害怕，如果我死了，一定会把你一起带走，你不会孤单的。 ：事情不好办但可以处理……她在做什么呢，这件事派谁合适，头点疼，她睡了吗？ xx（轻薄桃花逐水流） ：你问我解开皮带干嘛，当然啦。 ：死时的头颅如果不能滚到爱人脚下，就是负担，拿好这把刀吧，小姑娘。 xx（天秤两端） ：我是个生意人，就当完成一次交易，关小姐，应付一个和应付一群，这个选择不难做。 ：如果你会像东流的河水一样，义无反顾，流向我么？ xx（骑马倚斜桥） ：她存在于自己的过去，现在，和必然的将来。 ：你可以不喜欢我，你可以恨我打扰了你的安宁生活，你居然和我说都过去了？我讨厌你，我最讨厌你！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2ace6e46d182346e212440261927cab1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534288&x-signature=BnFKWEPumyAJlH5S%2FaPm0W8O6uo%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2ace6e46d182346e212440261927cab1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620768&x-signature=trTRFTPb4sHUinfCHqCaZFFFWYk%3D",
         "url": "https://fanqienovel.com/page/7665663141824433176"
-      },
-      {
-        "title": "盗墓：好消息穿成张家人了",
-        "author": "姚瑶42412831",
-        "reads": "3.8万",
-        "intro": "家人们，出张起灵的COS因为黑古金刀不能进地铁打滴滴上国道了，坏消息死了！好消息穿了！！！ 一睁眼就有人要杀我，叮当保命系统激活… 只要见证名场面就能获得积分复活，系统先别介绍了，要死了，挖槽他要割我大动脉！救命救命救命救命 虽然很想帮忙振兴张家，但是也没说需要我的小命啊，好不容易被系统选中了能再活一次，上线就送大砍刀吗？？？OOC致歉 哦哦 OOC道歉，",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0698d332217ecd7aaddd8b28f4638a7c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534288&x-signature=cPIua5ST2DJJ8jFQhP6j%2FIS8Lf4%3D",
-        "url": "https://fanqienovel.com/page/7554407075334327358"
-      },
-      {
-        "title": "盗墓：我只是一个伙计啊",
-        "author": "66滴",
-        "reads": "3.8万",
-        "intro": "［盗笔+南部档案+all+十二符咒+微万人迷+ooc］ 在一场沙尘暴里，沈渡睁开眼时什么都不记得了。 还好他有系统给的金手指十二生肖符咒，什么！符咒要靠自己倒霉才能换！ 系统给沈渡画大饼，十二生肖符咒魅力四射，这点倒霉程度不算什么！ 身为阿宁队伍里默默无闻的伙计，沈渡在墓里一边大喊着不要咬我啊一边用自己的细瘦的胳膊徒手撕大蛇。 一边被石头绊倒一边迅速爬起来以人类不可达之速跑的飞快。 一边善良的人格躲在吴邪众人身边嘤嘤嘤求保护，一边邪恶人格就要炸掉墓穴与怪物同归于尽。 沈渡在失去记忆后给自己找了好多好朋友，但是好朋友总是往危险的地方钻怎么办，没办法，沈渡这么善良的人当然要保护他们啦！ 只是为什么好朋友们看他的眼神怎么越来越怪啊。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o11dd54d6f8926ddbaf8493af346162ce~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534288&x-signature=%2BrA6eCFLx7cdG3FUzcszeuO%2F4hI%3D",
-        "url": "https://fanqienovel.com/page/7667160428958452798"
-      },
-      {
-        "title": "盗墓麒麟崽怎么又又又倒霉了",
-        "author": "闹心巴拉的",
-        "reads": "3.8万",
-        "intro": "【无cp＋友情＋团宠＋搞笑＋系统？＋后面会变小麒麟】 路归只是去趟厕所的功夫，再出来就被带到了盗墓世界。 还绑定了个985系统，要他加入主角团。 说是让他改变每个人未来悲惨的命运走向？ 他只是个普通人啊！！ 主角团那都是何许人也？！一个个的都是能喜提一套银手镯套餐的狠人，他一个小卡拉米不得送菜去。 无邪开心:“我们都是小卡拉米。” 张起灵慈爱:是小可爱，我家的。 黑瞎子扶额:“真是个没长大的小崽子。” 王胖子笑成花:“快来吃饭。” 解雨臣霸气十足:“拿去刷。”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc7799742c736925e831c353bf9e98cb8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534288&x-signature=aoFB3DUSuC8eBDFDzHGmAdU34bw%3D",
-        "url": "https://fanqienovel.com/page/7648908738077658137"
       },
       {
         "title": "诡异文里当路人，邪神竟是我老公",
         "author": "小仙咕咕",
-        "reads": "3.7万",
+        "reads": "3.8万",
         "intro": "【刚开分低】【1V1】【情感拉扯】【今天也没能和邪神老公离婚】 姜窈穿书后决定当一个路人，在恐怖文里脱离主角一行人，保住自己小命 为此她不但从京市辞职，去了一个小城市，还火速相亲结婚 就请问，谁家喜欢男主的炮灰路人会闪婚啊？！ 而且这个便宜老公她老满意了！ 长相帅气，但职业平常，生活偶而白痴，但胜在身强力壮 但渐渐的，她发现自己老公有点不对劲 他买的食材奇奇怪怪从来没见过，但异常鲜美 身体过度冰凉，极度黏人，没有没有正确的是非观 偶尔半夜惊醒，一抬眸就会看见他专注的眼神 像盯着猎物 姜窈觉得不对劲，非常不对劲 直到有一天，她看见老实人老公脚踩S级异常，把男主按在地上打 姜窈当场就被吓跑了！ 破案了家人们，她老公真的不是人！ 离、离婚！这、这婚必须得离！ 姜窈决定向国家求助 平时还要装作一切正常，忍着害怕和怪物老公贴贴 她以为自己装得很好，某天回家却看见怪物拿着“离婚协议书”满脸阴沉 他偏过头看着她：[当时你都看见了？是吗？] 姜窈当场就被吓晕了 醒过来发现自己被无数腕足紧紧捆在床上 漆黑的夜色里，他低下头，用那双始终平静的黑眸看着她 [我不离婚] 半人半怪物的青年苍白着脸，吐出冷冷的四个字 路人女主X装人类好难·真阴湿·邪神男主",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8a15ffc615b8a8c82652f99e7bbb37b6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534288&x-signature=Dcw0Rdiy7ADwgGh7xvLZL8geFO8%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8a15ffc615b8a8c82652f99e7bbb37b6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620768&x-signature=hqz8CscZNcg9H4WDQFctudknmOI%3D",
         "url": "https://fanqienovel.com/page/7660196544301239321"
+      },
+      {
+        "title": "盗墓：好消息穿成张家人了",
+        "author": "姚瑶42412831",
+        "reads": "3.4万",
+        "intro": "家人们，出张起灵的COS因为黑古金刀不能进地铁打滴滴上国道了，坏消息死了！好消息穿了！！！ 一睁眼就有人要杀我，叮当保命系统激活… 只要见证名场面就能获得积分复活，系统先别介绍了，要死了，挖槽他要割我大动脉！救命救命救命救命 虽然很想帮忙振兴张家，但是也没说需要我的小命啊，好不容易被系统选中了能再活一次，上线就送大砍刀吗？？？OOC致歉 哦哦 OOC道歉，",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0698d332217ecd7aaddd8b28f4638a7c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620768&x-signature=K7B%2BireLMWqXF4ePh1syEvLtwjE%3D",
+        "url": "https://fanqienovel.com/page/7554407075334327358"
+      },
+      {
+        "title": "盗墓麒麟崽怎么又又又倒霉了",
+        "author": "闹心巴拉的",
+        "reads": "3.7万",
+        "intro": "【无cp＋友情＋团宠＋搞笑＋系统？＋后面会变小麒麟】 路归只是去趟厕所的功夫，再出来就被带到了盗墓世界。 还绑定了个985系统，要他加入主角团。 说是让他改变每个人未来悲惨的命运走向？ 他只是个普通人啊！！ 主角团那都是何许人也？！一个个的都是能喜提一套银手镯套餐的狠人，他一个小卡拉米不得送菜去。 无邪开心:“我们都是小卡拉米。” 张起灵慈爱:是小可爱，我家的。 黑瞎子扶额:“真是个没长大的小崽子。” 王胖子笑成花:“快来吃饭。” 解雨臣霸气十足:“拿去刷。”",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc7799742c736925e831c353bf9e98cb8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620768&x-signature=%2BebWbaKVI8cml1OWYp6fWqU1PD8%3D",
+        "url": "https://fanqienovel.com/page/7648908738077658137"
+      },
+      {
+        "title": "盗墓：我只是一个伙计啊",
+        "author": "66滴",
+        "reads": "4万",
+        "intro": "［盗笔+南部档案+all+十二符咒+微万人迷+ooc］ 在一场沙尘暴里，沈渡睁开眼时什么都不记得了。 还好他有系统给的金手指十二生肖符咒，什么！符咒要靠自己倒霉才能换！ 系统给沈渡画大饼，十二生肖符咒魅力四射，这点倒霉程度不算什么！ 身为阿宁队伍里默默无闻的伙计，沈渡在墓里一边大喊着不要咬我啊一边用自己的细瘦的胳膊徒手撕大蛇。 一边被石头绊倒一边迅速爬起来以人类不可达之速跑的飞快。 一边善良的人格躲在吴邪众人身边嘤嘤嘤求保护，一边邪恶人格就要炸掉墓穴与怪物同归于尽。 沈渡在失去记忆后给自己找了好多好朋友，但是好朋友总是往危险的地方钻怎么办，没办法，沈渡这么善良的人当然要保护他们啦！ 只是为什么好朋友们看他的眼神怎么越来越怪啊。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o11dd54d6f8926ddbaf8493af346162ce~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620768&x-signature=L0D%2FHIF3cME6pewJQKK%2BX0pAUPU%3D",
+        "url": "https://fanqienovel.com/page/7667160428958452798"
       },
       {
         "title": "无限回档：他们都以为我是预言家",
         "author": "尹白水",
-        "reads": "2.7万",
+        "reads": "2.6万",
         "intro": "评分刚出，后面会涨的 【女强+无CP+诡异+直播+回档+伪预言家】 【天命】恐怖游戏降临地球，全世界沦为炼狱。 易予白不幸被选入游戏，更加不幸的是，由于系统的错误分配，她开局直接死亡。 但万幸，她获得了SSS级异能——无限回档。 从此，她便成了所有人眼中那个神秘莫测的【预言家】。 预知危机，预知生死。 中世纪石屋、血色戏台、深山古村、废弃病院、幽灵旅馆…… 每一个副本，都是一场精心策划的死局。 万人奔逃，百鬼齐哭。 唯独她立于原地，与深渊对视。 【神说——】 【此时此地——】 【便应——】 【破！晓！】 小剧场 龙国观众：“你怎么知道我们易神又通关了呀？” 龙国观众：“你怎么知道易神是我们龙国的呀？” 龙国观众：“你怎么知道我们国家没污染了呀？” 龙国观众：“你怎么知道……” 其他国家：“……”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obfbcf87359471bfdae318d798d968e02~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534288&x-signature=x2C3UZpYD3RNdXpEci6y%2BV1WSII%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obfbcf87359471bfdae318d798d968e02~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620768&x-signature=hn2EjjyuCfmOIAOeljFuxBhSFMs%3D",
         "url": "https://fanqienovel.com/page/7633005137966926910"
       },
       {
         "title": "盗笔：神算她专收杀神做保镖！",
         "author": "则易之",
-        "reads": "2.5万",
+        "reads": "2.6万",
         "intro": "（评分刚出，后边应该……会涨的，欢迎阅读～） 江忍，一个大三在读学生，家里有祖传的怪病，但奇怪的是她从来没见妈妈和奶奶发过病。 二十二岁那年迟到的系统找上门，江忍才知道，原来她还是个穿n代。 第一天穿越，江忍以为自己来到的是抗战时期的华国，在不知道任务的情况下，江忍努力赚钱，用金钱支援抗战，但谁能告诉她，张大佛爷什么鬼？系统给她干哪来了？ 知道真相的江忍眼泪留下来，这可是民国，加上盗墓笔记世界观，危险等级一升再升。 为了搞清楚任务，江忍靠每日三问靠近主角团。 为了苟住小命，多活一段时间，江忍开始踏上找保镖的征程。 陈皮？盗墓笔记里出了名的杀神，收了。 南部档案黑虾？这简直太棒了，有脑子会用枪！ 这还犹豫什么，收了！ （作者没有定cp，大家自由阅读，可以自行组cp，但是磕到的时候记得把作者带上，作者也想磕～） （本文系统是打酱油的工具统，主要作用只是带女主穿越以及帮女主遮掩天道，女主有特殊的能力，但特殊能力是家里传下来的。 避雷点：女主到民国会受伤，非爽文，也不会一直跟着九门的行动走，底色善良会有帮助别人的时候，也有被伤害的时候。文中的逻辑可能不是那么的严密，小作者接受批评。）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o26ce214e9bb00f50aedadeeee5784007~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534288&x-signature=D5XsL%2FMNSaMfCP10wOOXSg5hbqI%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o26ce214e9bb00f50aedadeeee5784007~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620768&x-signature=pBzxj4RHGHmvqP5babvV8m0hx6s%3D",
         "url": "https://fanqienovel.com/page/7656657995232709694"
       },
       {
         "title": "我和顶头boss成诡了",
         "author": "冰淇凌红茶不含冰",
-        "reads": "2.4万",
+        "reads": "2.3万",
         "intro": "双男主｜双洁｜诡异立场｜恋爱脑的双向奔赴 一对穷凶极恶的诡异双子星，至死都是彼此的恋爱脑。我和顶头 boss 死后成为诡异，我们开了好多夫妻店小副本，玩家误上断头台～ 强推第八卷：他分明是祥瑞（暴君妖妃风味） “建仁，哥只是有病，没啥正常三观，但哥又不是傻。真喜欢一个人，不知道怎么去爱，还能不知道啥日子过的舒服？” 也是，当年没捅破那窗户纸，没意识到自己爱上了对方。 但荣哥给钱给权给地位给自由，还得偷偷给我留后路。当然，我也留了。 可惜，都没用上，准确来说，是我们都不想用。 胡建仁把笔拿起来又放下：“现在外面世界的爱，已经到了我们都理解不了的程度了吗？你说他们是不是不懂什么叫爱？” “你看看那四个傀儡，不是被关、就是被抽血、或者被恨、被当空气。她们身上的标签全是‘惨’” “爱又不是把自己搞得越惨就越真。爱一个人，是会让他过得好的。” 周荣哼了一声：“所以真正的答案不在那四个人里面。真正的答案，应该是那个让被爱的人过得最好的人。”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6608965a01186312691917705f947ea5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534288&x-signature=CzXqh2FHSwvTscpuKUhre5CCaN8%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6608965a01186312691917705f947ea5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620768&x-signature=40SE%2BY500dOfciCMIY%2BeHLGwtHU%3D",
         "url": "https://fanqienovel.com/page/7657438469932715033"
       },
       {
@@ -146,31 +146,23 @@
         "author": "子桑翡",
         "reads": "2.4万",
         "intro": "明想嫁给谢均，结婚两年，生活平淡且幸福。 可这一天，她突然看到了出现的弹幕。 【笑死，女配不会以为她会很幸福吧，嫁给了一个变态杀人狂魔】 【都不知道自己怎么死的，还在那沾沾自喜】 明想：胡说，我老公怎么可能是变态。 她不信，觉得自己产生幻觉了。 谢均从屠宰场回来，衣服上沾了不少血。 【来了来了，女配今晚会被这个变态杀死分尸，我迫不及待了！】 【终于能看到她的下场了，抢了女主的人生，该死！】 明想看向朝自己温柔笑的丈夫，拿着把刀在切菜。 她老公这么好，为了两人的小家，每天从早到晚去屠宰场杀猪，才不是什么变态。 明想坚决不相信弹幕说的。 当抛弃她的明家人找上门，对她颐指气使，骂她不孝，让她替养女去死时。 谢均站在她面前，徒手捏死了嚣张气焰的一家人，化做血雾。 弹幕空白几秒: 【不是，你告诉我这是普通的鬼夫文？女主都被杀了，反派还是惊悚副本的boss，疯了，我真是疯了！】 明想:？ 明想觉得自己精神更不正常了。 她老公才没杀人，杀的是恶人，也不是变态。 #女主眼中全是正常人，看不到诡异，甜文，1v1 #什么，你说我老公是变态，胡说，他明明就是个普通屠宰场杀猪的",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o837e2b0395f69c2922fa203c53a4ee1c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534292&x-signature=KFgADP3ECc8Q%2FoiTIlzqkF9h18s%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o837e2b0395f69c2922fa203c53a4ee1c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620771&x-signature=y9yzGurqgalIUn7jbhlBSatiwbU%3D",
         "url": "https://fanqienovel.com/page/7615733068296358974"
       },
       {
         "title": "隧夜轮回：成为白哥迷妹这件事！",
         "author": "哈奇糯米",
-        "reads": "2.3万",
+        "reads": "2.4万",
         "intro": "【隧夜轮回同人/原创梦女x白哥/CP党集中营~】 这本书只是兴趣写的，为爱发电~，原画里的人物会直接简称，或者同音字代替，各位有兴趣的，且看且珍惜吧~指不定什么时候就没了！ 这是一个关于规培版医学生夏潇潇，误入恐怖地铁，来到一个充满诡异的地方，在这里她遇到神一样的男人——，从此她以白哥作为心中的偶像，坚决不拖后腿，凭借自己的努力和智慧抢占白哥头号迷妹第一！ 通关要领就是——跟紧白哥，听白哥的，跑得快些。（微笑）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o030082283fa3e046a6fa126a66491c3c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534292&x-signature=SR9YaHQ4a18PEcNZ%2Bhwu7qrEO2I%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o030082283fa3e046a6fa126a66491c3c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620771&x-signature=runMI%2F1t1mWZC05b4%2F8h50krNTs%3D",
         "url": "https://fanqienovel.com/page/7663139825431612441"
-      },
-      {
-        "title": "盗墓：系统绑错人我进了同人剧本",
-        "author": "黑色的光辉",
-        "reads": "2.3万",
-        "intro": "【盗墓+成长型女主+智商在线+无cp+系统工具人+多世界穿越】 刚买了房的元潇还没来得及享受，就被突如其来的系统拐到另一个世界。 还以为接下来是手握金手指的爽文人生，哪知道下一刻，系统就说绑错人了？！ 啊！绑错人了！ 元潇还没讨要补偿，系统直接留下一个面板就跑路了！ 元潇：…… 好吧，至少还有个系统面板。 当元潇发现穿越的是盗墓世界后，还没来得及高兴，就发现这里是衍生世界？！ 啊？是龙傲天？！ 当穿进下一个世界后，啊？是美强惨？！ 啊？这对吗？ 接下来元潇就发现她陷入了一个没有正版的各种衍生盗墓宇宙，救赎，美强惨，动物变身，国运，禁地探险…… 各种乱入剧情眼花缭乱。 然后元潇就在这些世界里遇见各种主角团，还有他们的各种挂件，即兄弟，敌人，cp，亲友…… 元潇：…… 无邪，你的家业要被抢了，你知道吗？ 张启灵，你知道自己还有个大哥吗？ 王胖子，突然冒出来个亲妹，感觉如何？ 黑爷，那个美女想和你组cp，答应吗？ 解雨辰，有了个姐姐，是不是感觉人都轻松了？ 嫩牛五方：人生！易如反掌！ 当元潇带着一堆纪念品终于来到正版世界：“朋友们，我带着你们的强来了！” PS：所有人单身，主角独自穿越",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oef2a3549fe372750e9293271bbdef880~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534292&x-signature=XYYYa9Z%2FafexTTTmeJvhsAQIDug%3D",
-        "url": "https://fanqienovel.com/page/7642626324678331454"
       },
       {
         "title": "盗墓：好好的反派被你们养废了",
         "author": "俺是摆烂大王",
-        "reads": "2.2万",
+        "reads": "2.3万",
         "intro": "【主受+all受+盗墓+私设+系统+双男主+瓶邪黑花+张家男团+灿丧两兄弟+九门老辈子（带副官版）】 墨离的人生，自始至终只有生存二字。 当他刚想选择退休那天，“bang”撞大运了，被火焰吞噬的那一刻，他只有一个想法，这操蛋的人生，终于要结束了。 再次睁眼，竟然躺在一个四四方方的小盒子里，那既然这样，来都来了躺一会吧。 什么剧情辅助，别找我。 什么倒斗下墓，也别找我。 我只想摆烂，躺平。 有热闹凑，gogogo！ 哎哎哎，你们都离我远点啊！！！我不想搞对象！！！ 原来吃肉也需要负责吗？那是墨大炮吃的，管我墨离什么事？ 不是，我明明是个大反派哎，你们尊重一下我的职业好吗？ 再宠我我就真的要忘本了！！！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o97d881139be75c70e2c542a76dcd08dc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534292&x-signature=IHQH7yl8Az4hpO4KY0s0yHwqwec%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o97d881139be75c70e2c542a76dcd08dc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620771&x-signature=k2HvUdBv%2Fe37yfrmDQlyWGhLGeQ%3D",
         "url": "https://fanqienovel.com/page/7591575842568817688"
       },
       {
@@ -178,23 +170,31 @@
         "author": "何王黄",
         "reads": "2.2万",
         "intro": "【评分刚出，会涨的】【女强+反派女主+无CP+无限流+幕后流+副本经营+微群像】 前导演予初因为一场阴谋，身败名裂，再无执导机会。 将死之际，她主动进入无限流世界，成为一名玩家，靠着“看30秒广告原地复活”的天赋，硬生生莽穿了整个玩家界。 可这一次，她玩脱了。 跟四星副本BOSS同归于尽后，再睁眼，她成BOSS了。 没有系统面板，没有队友，只有一艘破败的帆船，和一部不断弹出消息的手机。 群聊里，五百个ID后缀，清一色挂着【BOSS】。 租赁副本、匹配玩家、设计规则、制造淘汰！ 玩家们终于发现，他们面对的不是普通的BOSS。 而是一个能预判每一步、设计每一局，把人心当棋盘的怪物。 但予初要面对的，远不止玩家。 这个世界里，有活了不知多久的资深BOSS，有对人类恨之入骨的存在。 从一星副本到排行榜巅峰，从被轻视的“新人”到无人敢小觑的“导演”。 这个由BOSS统治的世界，该换个讲故事的人了！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe29de31ea5c4ab1fed569c9bda4438fc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534292&x-signature=MOwg%2BAFmAg%2FllnB6P7yKHpofHso%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe29de31ea5c4ab1fed569c9bda4438fc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620771&x-signature=oCBX2JbILJYVPeVDk2CNF4dv9l0%3D",
         "url": "https://fanqienovel.com/page/7660195128207739929"
+      },
+      {
+        "title": "盗墓：系统绑错人我进了同人剧本",
+        "author": "黑色的光辉",
+        "reads": "2.3万",
+        "intro": "【盗墓+成长型女主+智商在线+无cp+系统工具人+多世界穿越】 刚买了房的元潇还没来得及享受，就被突如其来的系统拐到另一个世界。 还以为接下来是手握金手指的爽文人生，哪知道下一刻，系统就说绑错人了？！ 啊！绑错人了！ 元潇还没讨要补偿，系统直接留下一个面板就跑路了！ 元潇：…… 好吧，至少还有个系统面板。 当元潇发现穿越的是盗墓世界后，还没来得及高兴，就发现这里是衍生世界？！ 啊？是龙傲天？！ 当穿进下一个世界后，啊？是美强惨？！ 啊？这对吗？ 接下来元潇就发现她陷入了一个没有正版的各种衍生盗墓宇宙，救赎，美强惨，动物变身，国运，禁地探险…… 各种乱入剧情眼花缭乱。 然后元潇就在这些世界里遇见各种主角团，还有他们的各种挂件，即兄弟，敌人，cp，亲友…… 元潇：…… 无邪，你的家业要被抢了，你知道吗？ 张启灵，你知道自己还有个大哥吗？ 王胖子，突然冒出来个亲妹，感觉如何？ 黑爷，那个美女想和你组cp，答应吗？ 解雨辰，有了个姐姐，是不是感觉人都轻松了？ 嫩牛五方：人生！易如反掌！ 当元潇带着一堆纪念品终于来到正版世界：“朋友们，我带着你们的强来了！” PS：所有人单身，主角独自穿越",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oef2a3549fe372750e9293271bbdef880~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620771&x-signature=n%2BfzYyA6olmWks7MK6qWpiWtKKk%3D",
+        "url": "https://fanqienovel.com/page/7642626324678331454"
       },
       {
         "title": "老九门之九门攻略手册",
         "author": "草莓桃酥",
-        "reads": "2.2万",
+        "reads": "1.9万",
         "intro": "老九门同人续写，主写与陈皮阿四的感情线。 ——张晚湜意外穿越进了九门世界，需要完成攻略任务才能活下去的故事，整个故事贯穿九门，每个人物都会写。 情感向，盗墓向，悬疑向，日常向都有。 （简介不会写，感兴趣请进正文♥）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4f245cdd51ba30691d36a380e2e04c8f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534292&x-signature=%2FoxkuoxbwX3cXSmNYItnqVPLp1Y%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4f245cdd51ba30691d36a380e2e04c8f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620771&x-signature=ojMtmCB1LXXsQ8dnsAz%2Bt5o2rBQ%3D",
         "url": "https://fanqienovel.com/page/7672066503058934809"
       },
       {
         "title": "盗墓：魔丸麒麟为何天天修罗场？",
         "author": "朱砂酒",
-        "reads": "2.1万",
+        "reads": "1.9万",
         "intro": "【all+盗笔+九门+张家男团+汪家男团+铝三角+灿丧双子+南部档案+终极+沙海+重启+女本位+万人迷+搞笑无厘头+正文第三人称】 *脑回路清奇圣女vs被逼成男鬼的众人 汪家特大喜讯：失魂症发作后被自家拐来的麒麟圣女容昭，由于半夜火烧汪家被汪先生连人带包裹一同丢了出去。 容昭：出了汪家才知道把人当人参埋地里犯法？！该咋办！ 霸道拯救主角团之助力圣女学习常识系统：我来！！ 某昭：哈？！ 受害者采访环节… 吴邪：那天下雪，你说路不好走，把水泥地变成瓷砖，我们响的跟摔炮似的。 黑瞎子：那天我没忍住亲了你一口，你说我长大了，让粽子给我跳了一宿钢管舞！ 黎簇：那天你说你要带我回家，也没说你家是汪家…我才刚逃出来啊！ 汪灿：那天我说我爱你，你说情敌互删吧…这到底谁教你的常识？ 刘丧：那天你说想要宝宝了，我说好，结果你把我变成棉花娃娃？！ 张海盐：那天你说记得我，结果转头把我交给警察？！ 张海客：那天你说不会留我一人…结果给我留了一屋野鸡脖子！ …… 容昭：就说救没救吧，走开啊！不要恩将仇报！ * 1.玛丽苏+私设ooc 2.团宠多男主+1vn 3.无意识训狗+爽文修罗场",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o168351c2664dbd768f84c06a2e635bdd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534292&x-signature=u7Hz2GMtaNPeFYgg9o%2FccW%2FbqYk%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o168351c2664dbd768f84c06a2e635bdd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620771&x-signature=Ko15d9VEvSF0RXioeU2n9C2nyEw%3D",
         "url": "https://fanqienovel.com/page/7601080288050940990"
       },
       {
@@ -202,24 +202,24 @@
         "author": "心是心上月",
         "reads": "2万",
         "intro": "张宝珠的恋爱笔记。 　　第一篇：失忆族长在工地打工养我 　　张宝珠：路边的男人不能捡，会变得不幸！ 　　张起灵：捡我，我打工养你！ 　　第二篇：年下弟弟粘人又爱哭 　　张宝珠：打饭手抖怎么办？ 　　吴邪：宝宝，辛苦了，我给你揉揉小手～ 　　第三篇：进错房间后，二爷夜夜宠 　　张宝珠：我有男朋友，你别过来！ 　　吴二白：乖，和他分手。 　　第四篇：当老板的快乐，谁懂？ 　　张宝珠：除了按摩，你还会什么？ 　　黑瞎子：瞎子我呀，会的可就多了～ 　　第五篇：被撞后，我把肇事司机认成了男朋友 　　张宝珠：哥哥，你是我的男朋友吗？ 　　解雨臣：嗯。 　　过渡篇六：小修罗场～ 　　第七篇：我知道她很可爱，但是表哥你为什么也知道？ 　　张宝珠：你怎么又回来了？ 　　解连环：你喜欢白天的我还是晚上的我？ 　　吴三省：白天的我厉害还是晚上的我厉害？ 　　第八篇：等我想一想",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc41b22f12498a637afa9dba1bacc49c3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534292&x-signature=F6Ujo6CJFsQGriBPG%2FO8z%2B1DdTc%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc41b22f12498a637afa9dba1bacc49c3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620771&x-signature=WWSEJcXXwQ4NHQfAvlCaVx9zGhQ%3D",
         "url": "https://fanqienovel.com/page/7654802667813735486"
-      },
-      {
-        "title": "盗笔：跟马甲绝赞水仙中",
-        "author": "谏笺",
-        "reads": "1.7万",
-        "intro": "符卿，当代脆皮大学生，一觉睡醒绑定了度假系统，穿进了危机四伏的盗墓世界。 系统很贴心，开局附赠无性·俊美·武力值爆表的马甲一具，让她一人双号，无缝切换。 谁知道开局落地沙海被邪帝跟汪家监视。 符卿：6 于是—— 吴邪调查时，发现百年前的档案里真有一位姓符的神医。 多了个死皮赖脸求根治的挂件。 汪家疯狂调查，发现这个家族严丝合缝，深不可测。 符卿：嗯对，都是我啊。 起初，她只是想让这趟冒险更有趣些。 于是顺着吴邪的试探，为自己铺开一张“隐世医学大家”的网。 可布局久了，连她自己都开始沉溺。 风慕佑护着她，却也用那双冷静的眼睛，打量她纤细的脖颈，将翻涌的幽暗思绪压回心底。 她知道那不是别人，是她自己——爱自己，占有自己，在最危险的时刻，只有马甲会挡在她身前。 一人双身，互为刀鞘。 在这个遍布谜团的世界，符卿给自己造了一个家族，也给自己造了一面镜子。 只是偶尔她也会想—— 到底是她演活了符家，还是符家，本就是她灵魂里住着的另一个答案？ 【ps：会有原创剧情，不会走原著剧情预警，会改变剧情预警。】",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o080bc26c1c304edea550a00fe50446cb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534292&x-signature=svBRn3Wp90HKfBGpr4FaibD9OLA%3D",
-        "url": "https://fanqienovel.com/page/7668667301897440318"
       },
       {
         "title": "综影视之遗憾我来填补",
         "author": "云山乱而晓山青",
-        "reads": "1.7万",
+        "reads": "1.6万",
         "intro": "被疾病折磨、被家人放弃的普通女孩，在生命结束的时候绑定了一个新手系统，一边体验不同的人生，一边改变众生的遗憾，一边救赎自己。 （人和统都是小白，相互陪伴，一起成长，女主前期心理是有一点问题了，后面才会慢慢和自己和解，女主会撒谎，不是一个完美的人。）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obf3c2897642e5ea64ac7ad8d21fc096a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534292&x-signature=QwPj9HmS5nZY5pJwWZjDATuPHMM%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obf3c2897642e5ea64ac7ad8d21fc096a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620771&x-signature=IBSLAQKUY6rFENPz7mr2Xv2BICE%3D",
         "url": "https://fanqienovel.com/page/7670651293639117886"
+      },
+      {
+        "title": "盗笔：解雨臣捡了个想死的崽",
+        "author": "淮迟栖",
+        "reads": "2.5万",
+        "intro": "顾宴安好不容易拼死考上大学，一睁眼却被系统扔回高一新生座位上——听到要再读三年书那一刻，心都死了，真心觉得这世界就是针对他 详细请看正文，不喜欢退出去，谢谢理解",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oaaa4b48d8d6fd01ea0dcf7d9b2834732~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620771&x-signature=sFEu%2FdE6%2FPy3HyrWGXU2hsJiBvA%3D",
+        "url": "https://fanqienovel.com/page/7661673738508717080"
       }
     ]
   },
@@ -230,137 +230,137 @@
         "new_count": 1,
         "dropped_count": 1,
         "new_books": [
-          "盗笔：跟马甲绝赞水仙中"
+          "盗笔：解雨臣捡了个想死的崽"
         ],
         "dropped_books": [
           {
-            "title": "盗墓：吴家走丢的小姑娘回来了",
-            "intro": "吴岁安是吴二白失踪多年的亲生女儿。 幼年时，她被秘密送往国外保护，却在途中落入人体实验组织手中。漫长的药物、催眠与神经实验，让她的心智永远停在了五岁。 直到迟到多年的系统终于找回宿主。 看完实验记录，"
+            "title": "盗笔：跟马甲绝赞水仙中",
+            "intro": "符卿，当代脆皮大学生，一觉睡醒绑定了度假系统，穿进了危机四伏的盗墓世界。 系统很贴心，开局附赠无性·俊美·武力值爆表的马甲一具，让她一人双号，无缝切换。 谁知道开局落地沙海被邪帝跟汪家监视。 符卿：6"
           }
         ],
         "top_risers": [
           {
-            "title": "隧夜轮回：成为白哥迷妹这件事！",
-            "change": "+4"
-          },
-          {
-            "title": "盗墓：好好的反派被你们养废了",
+            "title": "诡异文里当路人，邪神竟是我老公",
             "change": "+3"
           },
           {
-            "title": "盗墓：系统绑错人我进了同人剧本",
-            "change": "+2"
+            "title": "盗墓：好好的反派被你们养废了",
+            "change": "+1"
+          },
+          {
+            "title": "糟糕！她怎么成无限流BOSS了",
+            "change": "+1"
           }
         ],
         "top_fallers": [
           {
-            "title": "盗墓：魔丸麒麟为何天天修罗场？",
-            "change": "-6"
+            "title": "盗墓：我只是一个伙计啊",
+            "change": "-2"
           },
           {
-            "title": "老九门之九门攻略手册",
-            "change": "-3"
+            "title": "盗墓：系统绑错人我进了同人剧本",
+            "change": "-2"
           },
           {
-            "title": "盗墓麒麟崽怎么又又又倒霉了",
+            "title": "盗墓：好消息穿成张家人了",
             "change": "-1"
           }
         ],
         "reads_growth": [
           {
             "title": "盗墓：我只是一个伙计啊",
-            "growth": "+1000"
+            "growth": "+2000"
           },
           {
             "title": "诡异文里当路人，邪神竟是我老公",
             "growth": "+1000"
           },
           {
-            "title": "什么变态，那是我老公",
+            "title": "盗笔：神算她专收杀神做保镖！",
             "growth": "+1000"
           }
         ],
-        "summary": "新增1本上榜；1本掉出（《盗墓：吴家走丢的小姑娘回来了》）；《隧夜轮回：成为白哥迷妹这件事！》排名上升+4位；《盗墓：我只是一个伙计啊》阅读量+1000。"
+        "summary": "新增1本上榜；1本掉出（《盗笔：跟马甲绝赞水仙中》）；《诡异文里当路人，邪神竟是我老公》排名上升+3位；《盗墓：我只是一个伙计啊》阅读量+2000。"
       },
       "books": [
         {
           "title": "扮演美强惨马甲的我虐哭漫画读者",
           "author": "是酱紫鸭",
-          "reads": "8万",
+          "reads": "7.8万",
           "intro": "【女频男主+无CP全暧昧+多马甲+沉浸式扮演+论坛体+建立组织+迪化+中二】 俞池泠是个朝六晚十的游戏策划，每天为了剧情人设绞尽脑汁，在方案第10086次被驳回后，一个自称系统的家伙找上了他： “到漫画世界扮演马甲，拯救be剧本，一个主角一百万。” “成交！” 至此，俞池泠踏上了自导自演的精分生涯。 * 时隔四年，漫画《诡杀·‖》终于定档，作为大热少年漫《诡杀》的延续作，相关词条迅速登上热搜。 “我记得上部主角都死光了吧，这也能圆?” “估计又是挂羊头卖狗肉的IP情怀鸡汤，溜了溜了。” 谁料作者根本不按套路出牌，直接启动时间大法，开启二周目。 随着剧情发展，新势力【幽灵】登场，队员各个实力强悍，天赋拉满。 “这些才是作者心肝吧，这么捧?！” 再后来，读者发现，圣洁的天使长曾被推上火架，灵魂日夜遭受烈焰炙烤；鸠占鹊巢的“小偷”最终代替主角坠入时间缝隙，被众人遗忘；无所不知的万事通其实饱受精神折磨，早已处于崩溃边缘…… “啊啊啊，别动我心肝！” “不要死，没人怪你！” “是反派还是救世主，我自有定夺。” 而马甲本人俞池泠表示：市场反馈良好，可继续推出同类型角色",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odb4d25f3310114cbb95a4d0acc4ec82c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534288&x-signature=s3HdhzoIrk0FhAPRB653F%2F5TlEs%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odb4d25f3310114cbb95a4d0acc4ec82c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620768&x-signature=xjeJHxeut%2FhxHy%2BHEwWYgPtcwNA%3D",
           "url": "https://fanqienovel.com/page/7663396925902703640"
         },
         {
           "title": "穿成汪少主，九门全员舍不得杀我",
           "author": "十字星的月亮",
-          "reads": "4.6万",
+          "reads": "4.5万",
           "intro": "【开分大吉，刚刚开分，会涨的】当代苦逼打工人穿越，喜提汪家少主身份+满身实验针孔，绑定爱唠嗑吐槽系统。 荒郊被二月红捡走，本想低调苟活，不料汪家身份藏不住。 掉马后，九门众人一边忌惮他的身份，一边又舍不得伤他分毫，爱恨拉扯没完没了。 躲过地底百年沉睡，闯遍各大古墓，最后反手收服汪家，平衡张家与九门。 别人闯盗墓世界寻长生，只有他：被迫卷入千年博弈，顺带收获一摊子剪不断的温柔与纠葛，系统天天在线吐槽宿主倒霉一生。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o60fbd24510c3c3930e473faf1539e0cd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534288&x-signature=QMcvI%2BDLtaXYMESvZNOVv6LGv9w%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o60fbd24510c3c3930e473faf1539e0cd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620768&x-signature=Ip1i2v6dvKVy5t7W3TUtwgK8qMc%3D",
           "url": "https://fanqienovel.com/page/7670048886643231806"
         },
         {
           "title": "沙海：大美人想过普通生活",
           "author": "激情鸽子",
-          "reads": "4.5万",
+          "reads": "4万",
           "intro": "【女主all向+修罗场+回箭头晚+后期强制爱（非挖心挖肝，是请你强制爱我吧，上位者低头）+ooc+有私设】 一个准大一新生，除了好看亿点点，在一次乐于助人后，被带入沙漠冒险，打开新世界大门，想要回归普通生活，被人死死抓着，最后没招了的故事。 * 男嘉宾排名不分先后，人数不定。 xx（怎么两清） ：别害怕，如果我死了，一定会把你一起带走，你不会孤单的。 ：事情不好办但可以处理……她在做什么呢，这件事派谁合适，头点疼，她睡了吗？ xx（轻薄桃花逐水流） ：你问我解开皮带干嘛，当然啦。 ：死时的头颅如果不能滚到爱人脚下，就是负担，拿好这把刀吧，小姑娘。 xx（天秤两端） ：我是个生意人，就当完成一次交易，关小姐，应付一个和应付一群，这个选择不难做。 ：如果你会像东流的河水一样，义无反顾，流向我么？ xx（骑马倚斜桥） ：她存在于自己的过去，现在，和必然的将来。 ：你可以不喜欢我，你可以恨我打扰了你的安宁生活，你居然和我说都过去了？我讨厌你，我最讨厌你！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2ace6e46d182346e212440261927cab1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534288&x-signature=BnFKWEPumyAJlH5S%2FaPm0W8O6uo%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2ace6e46d182346e212440261927cab1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620768&x-signature=trTRFTPb4sHUinfCHqCaZFFFWYk%3D",
           "url": "https://fanqienovel.com/page/7665663141824433176"
-        },
-        {
-          "title": "盗墓：好消息穿成张家人了",
-          "author": "姚瑶42412831",
-          "reads": "3.8万",
-          "intro": "家人们，出张起灵的COS因为黑古金刀不能进地铁打滴滴上国道了，坏消息死了！好消息穿了！！！ 一睁眼就有人要杀我，叮当保命系统激活… 只要见证名场面就能获得积分复活，系统先别介绍了，要死了，挖槽他要割我大动脉！救命救命救命救命 虽然很想帮忙振兴张家，但是也没说需要我的小命啊，好不容易被系统选中了能再活一次，上线就送大砍刀吗？？？OOC致歉 哦哦 OOC道歉，",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0698d332217ecd7aaddd8b28f4638a7c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534288&x-signature=cPIua5ST2DJJ8jFQhP6j%2FIS8Lf4%3D",
-          "url": "https://fanqienovel.com/page/7554407075334327358"
-        },
-        {
-          "title": "盗墓：我只是一个伙计啊",
-          "author": "66滴",
-          "reads": "3.8万",
-          "intro": "［盗笔+南部档案+all+十二符咒+微万人迷+ooc］ 在一场沙尘暴里，沈渡睁开眼时什么都不记得了。 还好他有系统给的金手指十二生肖符咒，什么！符咒要靠自己倒霉才能换！ 系统给沈渡画大饼，十二生肖符咒魅力四射，这点倒霉程度不算什么！ 身为阿宁队伍里默默无闻的伙计，沈渡在墓里一边大喊着不要咬我啊一边用自己的细瘦的胳膊徒手撕大蛇。 一边被石头绊倒一边迅速爬起来以人类不可达之速跑的飞快。 一边善良的人格躲在吴邪众人身边嘤嘤嘤求保护，一边邪恶人格就要炸掉墓穴与怪物同归于尽。 沈渡在失去记忆后给自己找了好多好朋友，但是好朋友总是往危险的地方钻怎么办，没办法，沈渡这么善良的人当然要保护他们啦！ 只是为什么好朋友们看他的眼神怎么越来越怪啊。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o11dd54d6f8926ddbaf8493af346162ce~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534288&x-signature=%2BrA6eCFLx7cdG3FUzcszeuO%2F4hI%3D",
-          "url": "https://fanqienovel.com/page/7667160428958452798"
-        },
-        {
-          "title": "盗墓麒麟崽怎么又又又倒霉了",
-          "author": "闹心巴拉的",
-          "reads": "3.8万",
-          "intro": "【无cp＋友情＋团宠＋搞笑＋系统？＋后面会变小麒麟】 路归只是去趟厕所的功夫，再出来就被带到了盗墓世界。 还绑定了个985系统，要他加入主角团。 说是让他改变每个人未来悲惨的命运走向？ 他只是个普通人啊！！ 主角团那都是何许人也？！一个个的都是能喜提一套银手镯套餐的狠人，他一个小卡拉米不得送菜去。 无邪开心:“我们都是小卡拉米。” 张起灵慈爱:是小可爱，我家的。 黑瞎子扶额:“真是个没长大的小崽子。” 王胖子笑成花:“快来吃饭。” 解雨臣霸气十足:“拿去刷。”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc7799742c736925e831c353bf9e98cb8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534288&x-signature=aoFB3DUSuC8eBDFDzHGmAdU34bw%3D",
-          "url": "https://fanqienovel.com/page/7648908738077658137"
         },
         {
           "title": "诡异文里当路人，邪神竟是我老公",
           "author": "小仙咕咕",
-          "reads": "3.7万",
+          "reads": "3.8万",
           "intro": "【刚开分低】【1V1】【情感拉扯】【今天也没能和邪神老公离婚】 姜窈穿书后决定当一个路人，在恐怖文里脱离主角一行人，保住自己小命 为此她不但从京市辞职，去了一个小城市，还火速相亲结婚 就请问，谁家喜欢男主的炮灰路人会闪婚啊？！ 而且这个便宜老公她老满意了！ 长相帅气，但职业平常，生活偶而白痴，但胜在身强力壮 但渐渐的，她发现自己老公有点不对劲 他买的食材奇奇怪怪从来没见过，但异常鲜美 身体过度冰凉，极度黏人，没有没有正确的是非观 偶尔半夜惊醒，一抬眸就会看见他专注的眼神 像盯着猎物 姜窈觉得不对劲，非常不对劲 直到有一天，她看见老实人老公脚踩S级异常，把男主按在地上打 姜窈当场就被吓跑了！ 破案了家人们，她老公真的不是人！ 离、离婚！这、这婚必须得离！ 姜窈决定向国家求助 平时还要装作一切正常，忍着害怕和怪物老公贴贴 她以为自己装得很好，某天回家却看见怪物拿着“离婚协议书”满脸阴沉 他偏过头看着她：[当时你都看见了？是吗？] 姜窈当场就被吓晕了 醒过来发现自己被无数腕足紧紧捆在床上 漆黑的夜色里，他低下头，用那双始终平静的黑眸看着她 [我不离婚] 半人半怪物的青年苍白着脸，吐出冷冷的四个字 路人女主X装人类好难·真阴湿·邪神男主",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8a15ffc615b8a8c82652f99e7bbb37b6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534288&x-signature=Dcw0Rdiy7ADwgGh7xvLZL8geFO8%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8a15ffc615b8a8c82652f99e7bbb37b6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620768&x-signature=hqz8CscZNcg9H4WDQFctudknmOI%3D",
           "url": "https://fanqienovel.com/page/7660196544301239321"
+        },
+        {
+          "title": "盗墓：好消息穿成张家人了",
+          "author": "姚瑶42412831",
+          "reads": "3.4万",
+          "intro": "家人们，出张起灵的COS因为黑古金刀不能进地铁打滴滴上国道了，坏消息死了！好消息穿了！！！ 一睁眼就有人要杀我，叮当保命系统激活… 只要见证名场面就能获得积分复活，系统先别介绍了，要死了，挖槽他要割我大动脉！救命救命救命救命 虽然很想帮忙振兴张家，但是也没说需要我的小命啊，好不容易被系统选中了能再活一次，上线就送大砍刀吗？？？OOC致歉 哦哦 OOC道歉，",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0698d332217ecd7aaddd8b28f4638a7c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620768&x-signature=K7B%2BireLMWqXF4ePh1syEvLtwjE%3D",
+          "url": "https://fanqienovel.com/page/7554407075334327358"
+        },
+        {
+          "title": "盗墓麒麟崽怎么又又又倒霉了",
+          "author": "闹心巴拉的",
+          "reads": "3.7万",
+          "intro": "【无cp＋友情＋团宠＋搞笑＋系统？＋后面会变小麒麟】 路归只是去趟厕所的功夫，再出来就被带到了盗墓世界。 还绑定了个985系统，要他加入主角团。 说是让他改变每个人未来悲惨的命运走向？ 他只是个普通人啊！！ 主角团那都是何许人也？！一个个的都是能喜提一套银手镯套餐的狠人，他一个小卡拉米不得送菜去。 无邪开心:“我们都是小卡拉米。” 张起灵慈爱:是小可爱，我家的。 黑瞎子扶额:“真是个没长大的小崽子。” 王胖子笑成花:“快来吃饭。” 解雨臣霸气十足:“拿去刷。”",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc7799742c736925e831c353bf9e98cb8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620768&x-signature=%2BebWbaKVI8cml1OWYp6fWqU1PD8%3D",
+          "url": "https://fanqienovel.com/page/7648908738077658137"
+        },
+        {
+          "title": "盗墓：我只是一个伙计啊",
+          "author": "66滴",
+          "reads": "4万",
+          "intro": "［盗笔+南部档案+all+十二符咒+微万人迷+ooc］ 在一场沙尘暴里，沈渡睁开眼时什么都不记得了。 还好他有系统给的金手指十二生肖符咒，什么！符咒要靠自己倒霉才能换！ 系统给沈渡画大饼，十二生肖符咒魅力四射，这点倒霉程度不算什么！ 身为阿宁队伍里默默无闻的伙计，沈渡在墓里一边大喊着不要咬我啊一边用自己的细瘦的胳膊徒手撕大蛇。 一边被石头绊倒一边迅速爬起来以人类不可达之速跑的飞快。 一边善良的人格躲在吴邪众人身边嘤嘤嘤求保护，一边邪恶人格就要炸掉墓穴与怪物同归于尽。 沈渡在失去记忆后给自己找了好多好朋友，但是好朋友总是往危险的地方钻怎么办，没办法，沈渡这么善良的人当然要保护他们啦！ 只是为什么好朋友们看他的眼神怎么越来越怪啊。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o11dd54d6f8926ddbaf8493af346162ce~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620768&x-signature=L0D%2FHIF3cME6pewJQKK%2BX0pAUPU%3D",
+          "url": "https://fanqienovel.com/page/7667160428958452798"
         },
         {
           "title": "无限回档：他们都以为我是预言家",
           "author": "尹白水",
-          "reads": "2.7万",
+          "reads": "2.6万",
           "intro": "评分刚出，后面会涨的 【女强+无CP+诡异+直播+回档+伪预言家】 【天命】恐怖游戏降临地球，全世界沦为炼狱。 易予白不幸被选入游戏，更加不幸的是，由于系统的错误分配，她开局直接死亡。 但万幸，她获得了SSS级异能——无限回档。 从此，她便成了所有人眼中那个神秘莫测的【预言家】。 预知危机，预知生死。 中世纪石屋、血色戏台、深山古村、废弃病院、幽灵旅馆…… 每一个副本，都是一场精心策划的死局。 万人奔逃，百鬼齐哭。 唯独她立于原地，与深渊对视。 【神说——】 【此时此地——】 【便应——】 【破！晓！】 小剧场 龙国观众：“你怎么知道我们易神又通关了呀？” 龙国观众：“你怎么知道易神是我们龙国的呀？” 龙国观众：“你怎么知道我们国家没污染了呀？” 龙国观众：“你怎么知道……” 其他国家：“……”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obfbcf87359471bfdae318d798d968e02~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534288&x-signature=x2C3UZpYD3RNdXpEci6y%2BV1WSII%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obfbcf87359471bfdae318d798d968e02~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620768&x-signature=hn2EjjyuCfmOIAOeljFuxBhSFMs%3D",
           "url": "https://fanqienovel.com/page/7633005137966926910"
         },
         {
           "title": "盗笔：神算她专收杀神做保镖！",
           "author": "则易之",
-          "reads": "2.5万",
+          "reads": "2.6万",
           "intro": "（评分刚出，后边应该……会涨的，欢迎阅读～） 江忍，一个大三在读学生，家里有祖传的怪病，但奇怪的是她从来没见妈妈和奶奶发过病。 二十二岁那年迟到的系统找上门，江忍才知道，原来她还是个穿n代。 第一天穿越，江忍以为自己来到的是抗战时期的华国，在不知道任务的情况下，江忍努力赚钱，用金钱支援抗战，但谁能告诉她，张大佛爷什么鬼？系统给她干哪来了？ 知道真相的江忍眼泪留下来，这可是民国，加上盗墓笔记世界观，危险等级一升再升。 为了搞清楚任务，江忍靠每日三问靠近主角团。 为了苟住小命，多活一段时间，江忍开始踏上找保镖的征程。 陈皮？盗墓笔记里出了名的杀神，收了。 南部档案黑虾？这简直太棒了，有脑子会用枪！ 这还犹豫什么，收了！ （作者没有定cp，大家自由阅读，可以自行组cp，但是磕到的时候记得把作者带上，作者也想磕～） （本文系统是打酱油的工具统，主要作用只是带女主穿越以及帮女主遮掩天道，女主有特殊的能力，但特殊能力是家里传下来的。 避雷点：女主到民国会受伤，非爽文，也不会一直跟着九门的行动走，底色善良会有帮助别人的时候，也有被伤害的时候。文中的逻辑可能不是那么的严密，小作者接受批评。）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o26ce214e9bb00f50aedadeeee5784007~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534288&x-signature=D5XsL%2FMNSaMfCP10wOOXSg5hbqI%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o26ce214e9bb00f50aedadeeee5784007~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620768&x-signature=pBzxj4RHGHmvqP5babvV8m0hx6s%3D",
           "url": "https://fanqienovel.com/page/7656657995232709694"
         },
         {
           "title": "我和顶头boss成诡了",
           "author": "冰淇凌红茶不含冰",
-          "reads": "2.4万",
+          "reads": "2.3万",
           "intro": "双男主｜双洁｜诡异立场｜恋爱脑的双向奔赴 一对穷凶极恶的诡异双子星，至死都是彼此的恋爱脑。我和顶头 boss 死后成为诡异，我们开了好多夫妻店小副本，玩家误上断头台～ 强推第八卷：他分明是祥瑞（暴君妖妃风味） “建仁，哥只是有病，没啥正常三观，但哥又不是傻。真喜欢一个人，不知道怎么去爱，还能不知道啥日子过的舒服？” 也是，当年没捅破那窗户纸，没意识到自己爱上了对方。 但荣哥给钱给权给地位给自由，还得偷偷给我留后路。当然，我也留了。 可惜，都没用上，准确来说，是我们都不想用。 胡建仁把笔拿起来又放下：“现在外面世界的爱，已经到了我们都理解不了的程度了吗？你说他们是不是不懂什么叫爱？” “你看看那四个傀儡，不是被关、就是被抽血、或者被恨、被当空气。她们身上的标签全是‘惨’” “爱又不是把自己搞得越惨就越真。爱一个人，是会让他过得好的。” 周荣哼了一声：“所以真正的答案不在那四个人里面。真正的答案，应该是那个让被爱的人过得最好的人。”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6608965a01186312691917705f947ea5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534288&x-signature=CzXqh2FHSwvTscpuKUhre5CCaN8%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6608965a01186312691917705f947ea5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620768&x-signature=40SE%2BY500dOfciCMIY%2BeHLGwtHU%3D",
           "url": "https://fanqienovel.com/page/7657438469932715033"
         },
         {
@@ -368,31 +368,23 @@
           "author": "子桑翡",
           "reads": "2.4万",
           "intro": "明想嫁给谢均，结婚两年，生活平淡且幸福。 可这一天，她突然看到了出现的弹幕。 【笑死，女配不会以为她会很幸福吧，嫁给了一个变态杀人狂魔】 【都不知道自己怎么死的，还在那沾沾自喜】 明想：胡说，我老公怎么可能是变态。 她不信，觉得自己产生幻觉了。 谢均从屠宰场回来，衣服上沾了不少血。 【来了来了，女配今晚会被这个变态杀死分尸，我迫不及待了！】 【终于能看到她的下场了，抢了女主的人生，该死！】 明想看向朝自己温柔笑的丈夫，拿着把刀在切菜。 她老公这么好，为了两人的小家，每天从早到晚去屠宰场杀猪，才不是什么变态。 明想坚决不相信弹幕说的。 当抛弃她的明家人找上门，对她颐指气使，骂她不孝，让她替养女去死时。 谢均站在她面前，徒手捏死了嚣张气焰的一家人，化做血雾。 弹幕空白几秒: 【不是，你告诉我这是普通的鬼夫文？女主都被杀了，反派还是惊悚副本的boss，疯了，我真是疯了！】 明想:？ 明想觉得自己精神更不正常了。 她老公才没杀人，杀的是恶人，也不是变态。 #女主眼中全是正常人，看不到诡异，甜文，1v1 #什么，你说我老公是变态，胡说，他明明就是个普通屠宰场杀猪的",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o837e2b0395f69c2922fa203c53a4ee1c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534292&x-signature=KFgADP3ECc8Q%2FoiTIlzqkF9h18s%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o837e2b0395f69c2922fa203c53a4ee1c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620771&x-signature=y9yzGurqgalIUn7jbhlBSatiwbU%3D",
           "url": "https://fanqienovel.com/page/7615733068296358974"
         },
         {
           "title": "隧夜轮回：成为白哥迷妹这件事！",
           "author": "哈奇糯米",
-          "reads": "2.3万",
+          "reads": "2.4万",
           "intro": "【隧夜轮回同人/原创梦女x白哥/CP党集中营~】 这本书只是兴趣写的，为爱发电~，原画里的人物会直接简称，或者同音字代替，各位有兴趣的，且看且珍惜吧~指不定什么时候就没了！ 这是一个关于规培版医学生夏潇潇，误入恐怖地铁，来到一个充满诡异的地方，在这里她遇到神一样的男人——，从此她以白哥作为心中的偶像，坚决不拖后腿，凭借自己的努力和智慧抢占白哥头号迷妹第一！ 通关要领就是——跟紧白哥，听白哥的，跑得快些。（微笑）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o030082283fa3e046a6fa126a66491c3c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534292&x-signature=SR9YaHQ4a18PEcNZ%2Bhwu7qrEO2I%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o030082283fa3e046a6fa126a66491c3c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620771&x-signature=runMI%2F1t1mWZC05b4%2F8h50krNTs%3D",
           "url": "https://fanqienovel.com/page/7663139825431612441"
-        },
-        {
-          "title": "盗墓：系统绑错人我进了同人剧本",
-          "author": "黑色的光辉",
-          "reads": "2.3万",
-          "intro": "【盗墓+成长型女主+智商在线+无cp+系统工具人+多世界穿越】 刚买了房的元潇还没来得及享受，就被突如其来的系统拐到另一个世界。 还以为接下来是手握金手指的爽文人生，哪知道下一刻，系统就说绑错人了？！ 啊！绑错人了！ 元潇还没讨要补偿，系统直接留下一个面板就跑路了！ 元潇：…… 好吧，至少还有个系统面板。 当元潇发现穿越的是盗墓世界后，还没来得及高兴，就发现这里是衍生世界？！ 啊？是龙傲天？！ 当穿进下一个世界后，啊？是美强惨？！ 啊？这对吗？ 接下来元潇就发现她陷入了一个没有正版的各种衍生盗墓宇宙，救赎，美强惨，动物变身，国运，禁地探险…… 各种乱入剧情眼花缭乱。 然后元潇就在这些世界里遇见各种主角团，还有他们的各种挂件，即兄弟，敌人，cp，亲友…… 元潇：…… 无邪，你的家业要被抢了，你知道吗？ 张启灵，你知道自己还有个大哥吗？ 王胖子，突然冒出来个亲妹，感觉如何？ 黑爷，那个美女想和你组cp，答应吗？ 解雨辰，有了个姐姐，是不是感觉人都轻松了？ 嫩牛五方：人生！易如反掌！ 当元潇带着一堆纪念品终于来到正版世界：“朋友们，我带着你们的强来了！” PS：所有人单身，主角独自穿越",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oef2a3549fe372750e9293271bbdef880~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534292&x-signature=XYYYa9Z%2FafexTTTmeJvhsAQIDug%3D",
-          "url": "https://fanqienovel.com/page/7642626324678331454"
         },
         {
           "title": "盗墓：好好的反派被你们养废了",
           "author": "俺是摆烂大王",
-          "reads": "2.2万",
+          "reads": "2.3万",
           "intro": "【主受+all受+盗墓+私设+系统+双男主+瓶邪黑花+张家男团+灿丧两兄弟+九门老辈子（带副官版）】 墨离的人生，自始至终只有生存二字。 当他刚想选择退休那天，“bang”撞大运了，被火焰吞噬的那一刻，他只有一个想法，这操蛋的人生，终于要结束了。 再次睁眼，竟然躺在一个四四方方的小盒子里，那既然这样，来都来了躺一会吧。 什么剧情辅助，别找我。 什么倒斗下墓，也别找我。 我只想摆烂，躺平。 有热闹凑，gogogo！ 哎哎哎，你们都离我远点啊！！！我不想搞对象！！！ 原来吃肉也需要负责吗？那是墨大炮吃的，管我墨离什么事？ 不是，我明明是个大反派哎，你们尊重一下我的职业好吗？ 再宠我我就真的要忘本了！！！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o97d881139be75c70e2c542a76dcd08dc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534292&x-signature=IHQH7yl8Az4hpO4KY0s0yHwqwec%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o97d881139be75c70e2c542a76dcd08dc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620771&x-signature=k2HvUdBv%2Fe37yfrmDQlyWGhLGeQ%3D",
           "url": "https://fanqienovel.com/page/7591575842568817688"
         },
         {
@@ -400,23 +392,31 @@
           "author": "何王黄",
           "reads": "2.2万",
           "intro": "【评分刚出，会涨的】【女强+反派女主+无CP+无限流+幕后流+副本经营+微群像】 前导演予初因为一场阴谋，身败名裂，再无执导机会。 将死之际，她主动进入无限流世界，成为一名玩家，靠着“看30秒广告原地复活”的天赋，硬生生莽穿了整个玩家界。 可这一次，她玩脱了。 跟四星副本BOSS同归于尽后，再睁眼，她成BOSS了。 没有系统面板，没有队友，只有一艘破败的帆船，和一部不断弹出消息的手机。 群聊里，五百个ID后缀，清一色挂着【BOSS】。 租赁副本、匹配玩家、设计规则、制造淘汰！ 玩家们终于发现，他们面对的不是普通的BOSS。 而是一个能预判每一步、设计每一局，把人心当棋盘的怪物。 但予初要面对的，远不止玩家。 这个世界里，有活了不知多久的资深BOSS，有对人类恨之入骨的存在。 从一星副本到排行榜巅峰，从被轻视的“新人”到无人敢小觑的“导演”。 这个由BOSS统治的世界，该换个讲故事的人了！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe29de31ea5c4ab1fed569c9bda4438fc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534292&x-signature=MOwg%2BAFmAg%2FllnB6P7yKHpofHso%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe29de31ea5c4ab1fed569c9bda4438fc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620771&x-signature=oCBX2JbILJYVPeVDk2CNF4dv9l0%3D",
           "url": "https://fanqienovel.com/page/7660195128207739929"
+        },
+        {
+          "title": "盗墓：系统绑错人我进了同人剧本",
+          "author": "黑色的光辉",
+          "reads": "2.3万",
+          "intro": "【盗墓+成长型女主+智商在线+无cp+系统工具人+多世界穿越】 刚买了房的元潇还没来得及享受，就被突如其来的系统拐到另一个世界。 还以为接下来是手握金手指的爽文人生，哪知道下一刻，系统就说绑错人了？！ 啊！绑错人了！ 元潇还没讨要补偿，系统直接留下一个面板就跑路了！ 元潇：…… 好吧，至少还有个系统面板。 当元潇发现穿越的是盗墓世界后，还没来得及高兴，就发现这里是衍生世界？！ 啊？是龙傲天？！ 当穿进下一个世界后，啊？是美强惨？！ 啊？这对吗？ 接下来元潇就发现她陷入了一个没有正版的各种衍生盗墓宇宙，救赎，美强惨，动物变身，国运，禁地探险…… 各种乱入剧情眼花缭乱。 然后元潇就在这些世界里遇见各种主角团，还有他们的各种挂件，即兄弟，敌人，cp，亲友…… 元潇：…… 无邪，你的家业要被抢了，你知道吗？ 张启灵，你知道自己还有个大哥吗？ 王胖子，突然冒出来个亲妹，感觉如何？ 黑爷，那个美女想和你组cp，答应吗？ 解雨辰，有了个姐姐，是不是感觉人都轻松了？ 嫩牛五方：人生！易如反掌！ 当元潇带着一堆纪念品终于来到正版世界：“朋友们，我带着你们的强来了！” PS：所有人单身，主角独自穿越",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oef2a3549fe372750e9293271bbdef880~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620771&x-signature=n%2BfzYyA6olmWks7MK6qWpiWtKKk%3D",
+          "url": "https://fanqienovel.com/page/7642626324678331454"
         },
         {
           "title": "老九门之九门攻略手册",
           "author": "草莓桃酥",
-          "reads": "2.2万",
+          "reads": "1.9万",
           "intro": "老九门同人续写，主写与陈皮阿四的感情线。 ——张晚湜意外穿越进了九门世界，需要完成攻略任务才能活下去的故事，整个故事贯穿九门，每个人物都会写。 情感向，盗墓向，悬疑向，日常向都有。 （简介不会写，感兴趣请进正文♥）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4f245cdd51ba30691d36a380e2e04c8f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534292&x-signature=%2FoxkuoxbwX3cXSmNYItnqVPLp1Y%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4f245cdd51ba30691d36a380e2e04c8f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620771&x-signature=ojMtmCB1LXXsQ8dnsAz%2Bt5o2rBQ%3D",
           "url": "https://fanqienovel.com/page/7672066503058934809"
         },
         {
           "title": "盗墓：魔丸麒麟为何天天修罗场？",
           "author": "朱砂酒",
-          "reads": "2.1万",
+          "reads": "1.9万",
           "intro": "【all+盗笔+九门+张家男团+汪家男团+铝三角+灿丧双子+南部档案+终极+沙海+重启+女本位+万人迷+搞笑无厘头+正文第三人称】 *脑回路清奇圣女vs被逼成男鬼的众人 汪家特大喜讯：失魂症发作后被自家拐来的麒麟圣女容昭，由于半夜火烧汪家被汪先生连人带包裹一同丢了出去。 容昭：出了汪家才知道把人当人参埋地里犯法？！该咋办！ 霸道拯救主角团之助力圣女学习常识系统：我来！！ 某昭：哈？！ 受害者采访环节… 吴邪：那天下雪，你说路不好走，把水泥地变成瓷砖，我们响的跟摔炮似的。 黑瞎子：那天我没忍住亲了你一口，你说我长大了，让粽子给我跳了一宿钢管舞！ 黎簇：那天你说你要带我回家，也没说你家是汪家…我才刚逃出来啊！ 汪灿：那天我说我爱你，你说情敌互删吧…这到底谁教你的常识？ 刘丧：那天你说想要宝宝了，我说好，结果你把我变成棉花娃娃？！ 张海盐：那天你说记得我，结果转头把我交给警察？！ 张海客：那天你说不会留我一人…结果给我留了一屋野鸡脖子！ …… 容昭：就说救没救吧，走开啊！不要恩将仇报！ * 1.玛丽苏+私设ooc 2.团宠多男主+1vn 3.无意识训狗+爽文修罗场",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o168351c2664dbd768f84c06a2e635bdd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534292&x-signature=u7Hz2GMtaNPeFYgg9o%2FccW%2FbqYk%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o168351c2664dbd768f84c06a2e635bdd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620771&x-signature=Ko15d9VEvSF0RXioeU2n9C2nyEw%3D",
           "url": "https://fanqienovel.com/page/7601080288050940990"
         },
         {
@@ -424,24 +424,24 @@
           "author": "心是心上月",
           "reads": "2万",
           "intro": "张宝珠的恋爱笔记。 　　第一篇：失忆族长在工地打工养我 　　张宝珠：路边的男人不能捡，会变得不幸！ 　　张起灵：捡我，我打工养你！ 　　第二篇：年下弟弟粘人又爱哭 　　张宝珠：打饭手抖怎么办？ 　　吴邪：宝宝，辛苦了，我给你揉揉小手～ 　　第三篇：进错房间后，二爷夜夜宠 　　张宝珠：我有男朋友，你别过来！ 　　吴二白：乖，和他分手。 　　第四篇：当老板的快乐，谁懂？ 　　张宝珠：除了按摩，你还会什么？ 　　黑瞎子：瞎子我呀，会的可就多了～ 　　第五篇：被撞后，我把肇事司机认成了男朋友 　　张宝珠：哥哥，你是我的男朋友吗？ 　　解雨臣：嗯。 　　过渡篇六：小修罗场～ 　　第七篇：我知道她很可爱，但是表哥你为什么也知道？ 　　张宝珠：你怎么又回来了？ 　　解连环：你喜欢白天的我还是晚上的我？ 　　吴三省：白天的我厉害还是晚上的我厉害？ 　　第八篇：等我想一想",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc41b22f12498a637afa9dba1bacc49c3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534292&x-signature=F6Ujo6CJFsQGriBPG%2FO8z%2B1DdTc%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc41b22f12498a637afa9dba1bacc49c3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620771&x-signature=WWSEJcXXwQ4NHQfAvlCaVx9zGhQ%3D",
           "url": "https://fanqienovel.com/page/7654802667813735486"
-        },
-        {
-          "title": "盗笔：跟马甲绝赞水仙中",
-          "author": "谏笺",
-          "reads": "1.7万",
-          "intro": "符卿，当代脆皮大学生，一觉睡醒绑定了度假系统，穿进了危机四伏的盗墓世界。 系统很贴心，开局附赠无性·俊美·武力值爆表的马甲一具，让她一人双号，无缝切换。 谁知道开局落地沙海被邪帝跟汪家监视。 符卿：6 于是—— 吴邪调查时，发现百年前的档案里真有一位姓符的神医。 多了个死皮赖脸求根治的挂件。 汪家疯狂调查，发现这个家族严丝合缝，深不可测。 符卿：嗯对，都是我啊。 起初，她只是想让这趟冒险更有趣些。 于是顺着吴邪的试探，为自己铺开一张“隐世医学大家”的网。 可布局久了，连她自己都开始沉溺。 风慕佑护着她，却也用那双冷静的眼睛，打量她纤细的脖颈，将翻涌的幽暗思绪压回心底。 她知道那不是别人，是她自己——爱自己，占有自己，在最危险的时刻，只有马甲会挡在她身前。 一人双身，互为刀鞘。 在这个遍布谜团的世界，符卿给自己造了一个家族，也给自己造了一面镜子。 只是偶尔她也会想—— 到底是她演活了符家，还是符家，本就是她灵魂里住着的另一个答案？ 【ps：会有原创剧情，不会走原著剧情预警，会改变剧情预警。】",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o080bc26c1c304edea550a00fe50446cb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534292&x-signature=svBRn3Wp90HKfBGpr4FaibD9OLA%3D",
-          "url": "https://fanqienovel.com/page/7668667301897440318"
         },
         {
           "title": "综影视之遗憾我来填补",
           "author": "云山乱而晓山青",
-          "reads": "1.7万",
+          "reads": "1.6万",
           "intro": "被疾病折磨、被家人放弃的普通女孩，在生命结束的时候绑定了一个新手系统，一边体验不同的人生，一边改变众生的遗憾，一边救赎自己。 （人和统都是小白，相互陪伴，一起成长，女主前期心理是有一点问题了，后面才会慢慢和自己和解，女主会撒谎，不是一个完美的人。）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obf3c2897642e5ea64ac7ad8d21fc096a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789534292&x-signature=QwPj9HmS5nZY5pJwWZjDATuPHMM%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obf3c2897642e5ea64ac7ad8d21fc096a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620771&x-signature=IBSLAQKUY6rFENPz7mr2Xv2BICE%3D",
           "url": "https://fanqienovel.com/page/7670651293639117886"
+        },
+        {
+          "title": "盗笔：解雨臣捡了个想死的崽",
+          "author": "淮迟栖",
+          "reads": "2.5万",
+          "intro": "顾宴安好不容易拼死考上大学，一睁眼却被系统扔回高一新生座位上——听到要再读三年书那一刻，心都死了，真心觉得这世界就是针对他 详细请看正文，不喜欢退出去，谢谢理解",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oaaa4b48d8d6fd01ea0dcf7d9b2834732~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789620771&x-signature=sFEu%2FdE6%2FPy3HyrWGXU2hsJiBvA%3D",
+          "url": "https://fanqienovel.com/page/7661673738508717080"
         }
       ]
     }

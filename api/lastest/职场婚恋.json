@@ -1,230 +1,240 @@
 {
   "type": "职场婚恋",
-  "date": "2026-09-24",
-  "prev_date": "2026-09-23",
+  "date": "2026-09-26",
+  "prev_date": "2026-09-24",
   "category": {
     "name": "职场婚恋",
     "trend": {
-      "new_count": 2,
-      "dropped_count": 2,
+      "new_count": 4,
+      "dropped_count": 4,
       "new_books": [
-        "年下男大不纯情：姐姐乖，叫哥哥",
-        "大领导我们怎么又见面了"
+        "重生后，我帮妈妈抓住迁机会暴富",
+        "炙烈",
+        "普女万人迷：都是他们自愿的",
+        "婆婆家12点开饭，千万别迟到"
       ],
       "dropped_books": [
         {
-          "title": "松萝离枝",
-          "intro": "【体制内×巨富企业家·先婚后爱】 外人眼中，裴听淞与梁颂宜是天造地设，门当户对。 刚新婚便有一子，是人人艳羡的强强联姻。 唯有梁颂宜心知，这段婚姻里，她自始至终低人一等。 满腔爱意只是她一厢情愿，冰冷"
+          "title": "我在总裁文里当助理",
+          "intro": "叶肖在这个世界生活了二十多年，有一天突然觉醒了，他才知道原来他不是土著人而是穿书的，甚至男女主跟他看的那本书也完全不一样......... 原本应该选择女主的男主把叶肖抵在了门上声音低沉地说道“叶特助"
         },
         {
-          "title": "重生后，我帮妈妈抓住迁机会暴富",
-          "intro": "言苏苏的妈妈是名幸运的倒霉蛋。 好几次拆迁、买房、做生意的机会主动送到眼前，她都能次次错过。 前世言苏苏辛苦打拼，每一次听妈妈提起这些就会忍不住感慨： 她亲爱的妈咪，但凡她要能够抓住这其中的一次机会，"
+          "title": "炙婚",
+          "intro": "程语毕业后首次相亲就遇到了自己喜欢的男人，尽管被人告知这个人的情况很复杂，但是她仍旧义无反顾的嫁给他。婚姻这件事就很有意思，谁先爱，谁就容易被“霸凌”。她从小就是一个理性的人，在一次次伤心之后，她学会"
+        },
+        {
+          "title": "向周舟",
+          "intro": "【短剧已上线】【温柔沉静女学霸VS温和专一技术咖】 斯人若彩虹，遇上方知有。因家庭变故，周舟结束驻外工作，返回H市。消息传到了如今是高新科技公司合伙人的程晏然耳中，经历了好几个晚上的辗转反侧，程晏然决"
+        },
+        {
+          "title": "大领导我们怎么又见面了",
+          "intro": "「体制内双洁 腹黑斯文大领导&明媚坚韧小职员 」 「年龄差 老房子着火 又甜又宠 上位者低头」 阮盈秋和冯定怀第一次见面时场面有些尴尬。 父母双亡的外甥女韩棠在学校把人揍了，她作为第一监护人要去向对方"
         }
       ],
       "top_risers": [
         {
-          "title": "中奖千万，我和老公回村装穷种田",
-          "change": "+3"
+          "title": "中奖一千万，我回老家开小超市",
+          "change": "+4"
         },
         {
-          "title": "画眼睛",
-          "change": "+2"
+          "title": "年下男大不纯情：姐姐乖，叫哥哥",
+          "change": "+4"
         },
         {
-          "title": "泥潭里的双花：从山野村妇到云端",
-          "change": "+2"
+          "title": "捡了个娇娇女，禁欲老中医馋疯了",
+          "change": "+1"
         }
       ],
       "top_fallers": [
         {
-          "title": "中奖一千万，我回老家开小超市",
-          "change": "-3"
+          "title": "晚年底牌",
+          "change": "-2"
         },
         {
-          "title": "捡了个娇娇女，禁欲老中医馋疯了",
-          "change": "-1"
+          "title": "泥潭里的双花：从山野村妇到云端",
+          "change": "-2"
         },
         {
-          "title": "她不是唯一的宋太太",
+          "title": "一见钟情：顾影帝高攀了",
           "change": "-1"
         }
       ],
       "reads_growth": [
         {
+          "title": "年下男大不纯情：姐姐乖，叫哥哥",
+          "growth": "+9000"
+        },
+        {
+          "title": "她不是唯一的宋太太",
+          "growth": "+6000"
+        },
+        {
           "title": "中奖千万，我和老公回村装穷种田",
-          "growth": "+7000"
-        },
-        {
-          "title": "中奖一千万，我回老家开小超市",
-          "growth": "+4000"
-        },
-        {
-          "title": "祝，如意",
-          "growth": "+4000"
+          "growth": "+5000"
         }
       ],
-      "summary": "新增2本上榜；2本掉出（《松萝离枝》、《重生后，我帮妈妈抓住迁机会暴富》）；《中奖千万，我和老公回村装穷种田》排名上升+3位；《中奖千万，我和老公回村装穷种田》阅读量+7000。"
+      "summary": "新增4本上榜；4本掉出（《我在总裁文里当助理》、《炙婚》、《向周舟》、《大领导我们怎么又见面了》）；《中奖一千万，我回老家开小超市》排名上升+4位；《年下男大不纯情：姐姐乖，叫哥哥》阅读量+9000。"
     },
     "books": [
       {
         "title": "小公主与老干部",
         "author": "馒头很好",
-        "reads": "9.9万",
+        "reads": "9.4万",
         "intro": "【魔丸小公主×沉稳老干部】 【体制内高干+双洁+年龄差16+门当户对+养成系+老干部破防追妻】 陶灵聿喜欢赵穆清，整个大院都知道。 从情窦初开起，她追着他跑过了整个少年时代。 写情书，堵门口，翻墙头，什么混账事都干过。 长辈朋友当她是小孩闹着玩，赵穆清本人更是不为所动，永远一副长辈姿态，对她只有两个字：胡闹。 直到她定向选调以双第一成绩，空降到他眼皮子底下。 所有人都等着看赵领导怎么管教这个小祖宗。 他也确实比谁都严格，毫不留情面。 可突然有一天，她不再追了。 恭恭敬敬站在他面前，认真地说：“领导，以前是我不懂事，错把崇拜当喜欢，以后不会了。” 她收回了一切越界目光，笑得礼貌又疏离。 赵穆清沉默很久，说了声“好”。 然后—— 他开始失眠。 开始在下班后“路过”她加班的办公室。 开始翻出那些年她写的情书，一封一封看到天明。 看到年轻男人送她回家，端方持重的大领导第一次品尝到嫉妒的滋味儿。 【小剧场】 发小调侃：淘淘那丫头，追她的人要排到长安街，你就不急？ 赵穆清：她一小孩儿，懂什么。 后来，某个加班深夜，他把她堵在无人的角落，咬牙切齿：小孩儿？你见过哪个小孩儿让我方寸大乱？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o831af3f93099e35f5a2d96a22712af67~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830970&x-signature=20u98%2FAqa1RLzeiw4adw9dDqmXk%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o831af3f93099e35f5a2d96a22712af67~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004208&x-signature=HNgk%2BWv97vfsAogTZr%2BDKZUPMYQ%3D",
         "url": "https://fanqienovel.com/page/7605186139690896446"
       },
       {
         "title": "离婚不离家",
         "author": "二萍",
-        "reads": "6万",
+        "reads": "4万",
         "intro": "林宇和苏蔓结婚2年多了，两个人由于性格不同，林宇心思细腻，特别爱干净，热爱生活，喜欢养植物，而妻子苏蔓却是个粗枝大叶，大大咧咧的人，生活上总是怎么舒服怎么来。两个人由于性格的种种不合，以及双方都感到心灰意冷，最终决定离婚，他们在离婚、复合、纠缠中，重新思考婚姻与爱的本质 。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6c901213815943d7855bd4ddac6af6df~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830970&x-signature=ANNpjPVahCAacRMwEspXqSx1BxM%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6c901213815943d7855bd4ddac6af6df~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004208&x-signature=76aksdtLpOapgUNErtkxOzPmfog%3D",
         "url": "https://fanqienovel.com/page/7602927739477183550"
+      },
+      {
+        "title": "中奖一千万，我回老家开小超市",
+        "author": "柠檬米米",
+        "reads": "6.7万",
+        "intro": "【乡村生活+种田+慢节奏+有CP+无极品】 金铭在想辞职的时候，好运的被公司优化了，不仅拿到了N+1，她买的彩票还中了一千万大奖。 金铭选择回老家陪伴爸妈，把家里漏雨的房子推了重建。 她买下了大伯家的宅基地，重建后开了一家小超市。 自己的好朋友因为失恋分手，把男朋友送的边牧给了金铭，于是金铭有了一条狗。 在钓鱼的时候，金铭捡到一只小猫，于是金铭猫狗双全。 在金铭刚回家时，钓鱼遇见了一个来自己老家旅居的帅哥，在奶奶的鼓励下，金铭还谈起了甜甜的恋爱，妥妥的人生赢家。 在乡下躺平的的日子，过得真是舒坦。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oda66d5e8112ed9a79147ba6c68fd5f38~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004208&x-signature=1r7XGGPNsId4qGUV%2F7veHODqC3E%3D",
+        "url": "https://fanqienovel.com/page/7676004863867636798"
       },
       {
         "title": "一见钟情：顾影帝高攀了",
         "author": "咸鱼本鱼呀",
-        "reads": "6.2万",
+        "reads": "6.6万",
         "intro": "影帝顾时言对自己的邻居阮安然一见钟情！！ 女主娃娃脸，被很多人以为是高中生。没有虐，波折很少，主打甜宠搞笑。 情景一：初见，顾时言以为又是一个私生粉。 阮安然，上下扫了一眼全副武装的顾时言？间谍？（女主搞科研的，科研成果属于保密级。） 场景二：隐婚三年意外曝光 女主掉马前 男主粉丝：到底是哪个女人拿下了我们影帝？是上辈子拯救了银河系吗？我们不同意！ 女主掉马后 顾时言粉丝：顾时言上辈子是拯救了宇宙吗？这辈子能娶到这样的媳妇？ 场景三： 女主爸妈刚开始： 我不同意，这男的一听名字就不是什么好人！食言食言，一听就没责任，没担当！ 之后： 小顾啊，这个家啊，辛苦了。 男主爸妈： 第一次看到女主照片： 顾爸和顾妈对视了一眼，然后顾爸默默的掏出了皮带。 然后得知女主成年了，而且和儿子只差一岁时，还是科研人才，上下打量了一下男主： 人家姑娘看上你哪了？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o81219c5b71b20650f28332f1b3fbda4b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830970&x-signature=%2BToF19BoY8xLlhJfjOGNt5TWFzc%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o81219c5b71b20650f28332f1b3fbda4b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004208&x-signature=49TWVX9Q0Sff%2FW8%2FEZuT0XI6owg%3D",
         "url": "https://fanqienovel.com/page/7632569473639140377"
       },
       {
         "title": "生理性喜欢：从朋友前妻开始",
         "author": "阿良要买房",
-        "reads": "5.6万",
+        "reads": "5.8万",
         "intro": "【一见钟情|生理性喜欢|甜宠双洁|体型差|年龄差 】 高冷腹黑重欲医生x 温柔老实人老板娘 走肾的幌子，走心的局。 从第一眼起，他就没打算放她走。 当了三十一年和尚清心寡欲的林医生，对一个女人一见倾心了。 朋友带着新婚妻子来机场接机，握手的三秒，他就一见钟情了。 当晚，他的梦里全是带着蜜桃味的她的身影。 从此，梦里都是她。 好消息：她离婚了。 坏消息：她不相信爱情了。 于是，林医生使出十八般本领。 为了让她不要有负担，林医生把人堵在玄关徐徐善诱：“温温，成年人各取所需，只走肾，不走心，你不用对我负责。” 她信了。 直到有次她随口说了句“室友而已”，然后某人就疯了。 林医生把人按在料理台上，眼睛通红。 “室友？谁要跟你做室友！” “乖，我要的是你！” 后来朋友后悔红着眼来砸门，门内林医生把人抵在门板上，炽热的吻让怀里的人软了身子。 他低头目光温柔地看向怀里的人，声音却是冰冷地传到门外。 “现在，她是我的。” 后来有人问他，怎么就栽了。 林医生看着蛋糕店里，操作间正在裱花的妻子，低低说了一句。 “我哪里知道，三秒钟能记一辈子。”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o26c38e2c54b913876250a55247bc4fb1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830970&x-signature=K9DIGfXaloeif5Ia5x1pLC26KWs%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o26c38e2c54b913876250a55247bc4fb1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004208&x-signature=gb7Ycv32BeH9n6pib%2F8U61O0JGc%3D",
         "url": "https://fanqienovel.com/page/7672420956123450393"
       },
       {
         "title": "中奖千万，我和老公回村装穷种田",
         "author": "提笔忘情l",
-        "reads": "5.4万",
+        "reads": "5.9万",
         "intro": "【非快节奏爽文，慢热暗爽文，智斗极品亲戚，贴合农村生活，舒适度加满】 城市套路深，我想回农村。可绝大多数人回不去，因为没钱。 但苏晓梅回去了。 　　夫妻二人带着刚中的两千万大奖，房贷车贷的结清证明，回老家装穷种地。 　　她利用“穷”作为完美护盾，彻底斩断了亲戚们借钱、攀附的念想。 　　苏晓梅深知丈夫老家那一窝吸血亲戚的德行。 　　昔日尖酸刻薄的婆婆，被她逼得怀疑人生，连夜吐出祖宅地皮； 　　一毛不拔的大哥二哥，被她道德反绑架，大出血凑钱给她盖楼房！ 　　苏晓梅披着“南方神秘大老板”的马甲，豪掷千金包下村里三百亩地搞AI现代农业！ 　　全村挤破头想给大老板打工，极品亲戚们更是跪舔巴结，却做梦也想不到，他们巴结的活财神，就是天天在他们面前喝稀饭的苏晓梅。 　　嘴上说着最服软的话，卡里躺着最硬气的钱。 　　白天，他们是普通农夫。 　　夜晚，关起门来，他们是财务自由、隐世的千万富翁！ 　　装穷，真是太爽了！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8b3385a0792c4bc8320ea3fae3ed998c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830970&x-signature=KNxWA8JDS3XGnTxmHVpuTHgZ7bY%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8b3385a0792c4bc8320ea3fae3ed998c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004208&x-signature=NLmZ7D8cBqt2UqTbKMh%2FXPzdpPI%3D",
         "url": "https://fanqienovel.com/page/7674905685196295192"
-      },
-      {
-        "title": "晚年底牌",
-        "author": "作者明月清晖",
-        "reads": "5.3万",
-        "intro": "李玉芬刚一退休就去了儿子家帮带孙子，一帮就是12年，她不但牺牲了退休后的自由，还把自己一生的积蓄包括最后卖房子的钱，都给了儿子用来结婚，买房，买车。可当她把孙子看大以后，儿媳觉得她成了家里的闲人，感觉两代人住一起不方便，便又想过河拆桥，嫌弃，排挤。屈辱绝望中的女主，不再忍受妥协，开始对自己的人生有了新的认识和醒悟，手中掌控的一笔惊人财富，也成了她晚年重启人生的最后底牌。故事撕开原生家庭的亲情凉薄，为儿女付出也要有底线，也要为自己留后路的现实内核。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa5ac7c27b6fc058bfb52068c67448bd4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830970&x-signature=%2FomdnTyQ0GzxhHi7sqPcbTUWc5M%3D",
-        "url": "https://fanqienovel.com/page/7639112428055186457"
-      },
-      {
-        "title": "中奖一千万，我回老家开小超市",
-        "author": "柠檬米米",
-        "reads": "6.4万",
-        "intro": "【乡村生活+种田+慢节奏+有CP+无极品】 金铭在想辞职的时候，好运的被公司优化了，不仅拿到了N+1，她买的彩票还中了一千万大奖。 金铭选择回老家陪伴爸妈，把家里漏雨的房子推了重建。 她买下了大伯家的宅基地，重建后开了一家小超市。 自己的好朋友因为失恋分手，把男朋友送的边牧给了金铭，于是金铭有了一条狗。 在钓鱼的时候，金铭捡到一只小猫，于是金铭猫狗双全。 在金铭刚回家时，钓鱼遇见了一个来自己老家旅居的帅哥，在奶奶的鼓励下，金铭还谈起了甜甜的恋爱，妥妥的人生赢家。 在乡下躺平的的日子，过得真是舒坦。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oda66d5e8112ed9a79147ba6c68fd5f38~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830970&x-signature=aL2AswptqbdFA%2BNXm1z7Hmy%2FJxg%3D",
-        "url": "https://fanqienovel.com/page/7676004863867636798"
       },
       {
         "title": "捡了个娇娇女，禁欲老中医馋疯了",
         "author": "五十亿",
-        "reads": "5.5万",
+        "reads": "5.7万",
         "intro": "禁欲老干部中医×娇气乖萌彩妆师 【双洁双C +甜宠1V1+细糠+爹系男友/差13岁+武术肌肉男+乖软小萌妹】 一场意外，让颜茵撞见了极其炸裂的一幕。闺蜜相恋两年的男友，竟然和另一个男人在床上…… 这重口的画面，对纯爱战士来说冲击太大，颜茵被吓出了心理阴影。 只要一想到就浑身发抖、干呕厌食。为了自救，她逃到了偏远的云昭镇散心。 结果刚到第一天，就饿晕在了一家中医馆门前。 陈励，云昭镇上清冷沉稳的“老干部”中医，兼武术世家传人。 一天清晨，他在自家门前捡到了一个面色惨白，一看到银针就吓得往他怀里钻的娇气姑娘。 “忍一忍，我轻点。” “乖，闭上眼，什么都别想，大口吞。” 一碗白粥，几根银针，一日三餐变着花样的药膳投喂。 陈大夫硬是把这个一碰就碎的小瓷人，一点点养出了鲜活的气色。 颜茵本以为自己这辈子都会对男人有心理阴影。可当她害怕扎针，八爪鱼似的抱住陈励的胳膊。 才发现这位清冷禁欲的“老干部”，浑身僵硬，喉结狂滚，连耳朵都红透了。 后来颜茵才知道，治病时稳如泰山的陈大夫，关起门来居然是个纯新手。 “茵茵，你别哭……我也紧张。” “呜……哪有亲亲不让人喘气的！” * 你是我捡来的意外，却成了我戒不掉的瘾！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob8ee984a1c5319245860485bb12aed0e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830970&x-signature=3WxMonI16cUxOTjd1TljQQFrz3Y%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob8ee984a1c5319245860485bb12aed0e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004208&x-signature=3auao8QiJ%2B6V0hzofqVPJUvM2gY%3D",
         "url": "https://fanqienovel.com/page/7673456546839284761"
+      },
+      {
+        "title": "晚年底牌",
+        "author": "作者明月清晖",
+        "reads": "4.9万",
+        "intro": "李玉芬刚一退休就去了儿子家帮带孙子，一帮就是12年，她不但牺牲了退休后的自由，还把自己一生的积蓄包括最后卖房子的钱，都给了儿子用来结婚，买房，买车。可当她把孙子看大以后，儿媳觉得她成了家里的闲人，感觉两代人住一起不方便，便又想过河拆桥，嫌弃，排挤。屈辱绝望中的女主，不再忍受妥协，开始对自己的人生有了新的认识和醒悟，手中掌控的一笔惊人财富，也成了她晚年重启人生的最后底牌。故事撕开原生家庭的亲情凉薄，为儿女付出也要有底线，也要为自己留后路的现实内核。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa5ac7c27b6fc058bfb52068c67448bd4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004208&x-signature=5UozHfsVsPVJQ489IHAZB3UbTiY%3D",
+        "url": "https://fanqienovel.com/page/7639112428055186457"
       },
       {
         "title": "揣崽穿到六年前，大佬老公忙疯了",
         "author": "软之",
-        "reads": "4.7万",
+        "reads": "4.6万",
         "intro": "（刚开分，后期会涨） 【温柔坚韧美人VS年下爹系男主+出租屋文学+我嫉妒我自己到发疯+双洁】 程霜宁一觉醒来，发现自己揣崽穿到六年前，高冷的商界大佬老公，还是穷学生。 没有身份证，没有钱，她找到老公校门口，拦住他：“我怀孕了。” 大佬一脸震惊：“我没抽烟。” 程霜宁：“你的孩子。” 大佬：“？？？” 亲子鉴定结果出来，大佬疯了。 戒了游戏戒了烟，一天打三份工养老婆孩子。 功成名就那天，记者采访：“祁先生，您是怎么在短短三年内，成为商业精英的？” 祁宿舟：“孩子要喝奶粉买尿布上幼儿园，穷不起。” - 男主视角： 六年后的漂亮老婆带着孩子空降，可爱温柔好想亲。 梦里的男人凭什么抱他老婆？ 嫉妒到扭曲发疯。 老婆只能是他一个人的，只能被他一个人占有。 - 立意： 童话世界的公主走出城堡，踏入血淋淋的现实世界，不断成长磨砺成参天大树。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0ffc30a03872b1a5dfb698ba73a4f7cc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830970&x-signature=vhTaJd1a1wWLNeTiXr7sjasChX8%3D",
+        "cover": "https://p9-reading-sign.fqnovelpic.com/novel-pic/p2o0ffc30a03872b1a5dfb698ba73a4f7cc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004208&x-signature=RfTAXzOAPqYXaYh5u1SquMzCKUM%3D",
         "url": "https://fanqienovel.com/page/7662223431215107096"
       },
       {
         "title": "祝，如意",
         "author": "和青岑",
-        "reads": "3.8万",
+        "reads": "4.3万",
         "intro": "祝如意拿着二十万、一辆车和九年感情走出民政局的时候，并不知道小半年后，会有人在十一辆车连环追尾的现场，当众对着她那辆变形的车说：“这是我老婆的车。” 一个因遗传病风险被离婚的女人 一个年长、有威望、单身的书记 他们之间发生了许多真实且接地气的日常 好的爱情不一定是第一次就能遇到，而是那个人退了又回来，你还愿意等他",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc44b2af4cd4de2baf2375f6251f5770c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830970&x-signature=iSDRdWdtDlQdwR9X9hoVb1ZE1c8%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc44b2af4cd4de2baf2375f6251f5770c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004208&x-signature=17ZBInd8IkotAAP%2Frgv9iSlmUng%3D",
         "url": "https://fanqienovel.com/page/7675603338850749464"
       },
       {
         "title": "你妹真甜",
         "author": "凡几几",
-        "reads": "3.7万",
+        "reads": "4.2万",
         "intro": "【表面乖巧实则撩精美妆博主 VS 表面糙汉实则爹系刑侦队长】 哥哥的好兄弟 、近水楼台 、双向暗恋、双向奔赴、体型差 冷面阎王 vs 钓系甜妹 * 梁子弈一直以为，严绪青是个清心寡欲的硬汉铁树。 直到有一天，他敏锐地察觉到妹妹梁子衿似乎恋爱了。 “这小子要是敢欺负你，哪怕他是干警察的，我也非打断他的腿！”梁子弈一拍桌子，转头看向对门的好兄弟，“老严，你刑侦队长反侦察能力强，帮我查查是哪个小兔崽子拱了我家白菜。” 严绪青面不改色地抿了口茶，掩饰住身体的紧绷。 桌底下，一只白皙的脚丫正不安分地顺着他的小腿往上蹭。 他稳稳给梁子弈倒了杯水，沉声道：“行，我帮你调查。” * 当晚，严绪青将那只不安分的小白兔堵在楼道死角，嗓音低哑：“听说，我要被打断腿了？” 梁子衿勾住他的脖子，笑得像个小狐狸：“严队长怕了吗？” “怕？”严绪青低头狠狠吻住她的唇，“我只怕你哥下班太早。” * 地下恋/哥哥的死党/先走肾后走心/极限拉扯",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2a18b2110c65e4814d04f896822dc6eb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830974&x-signature=N3I4Rckugf25XH21nN5IrNR5D10%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2a18b2110c65e4814d04f896822dc6eb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004212&x-signature=%2Bkgyv2%2Bqn2URbWit9ES7wjrqiHA%3D",
         "url": "https://fanqienovel.com/page/7659625648037579800"
       },
       {
         "title": "长夜雾尽",
         "author": "轻飏",
-        "reads": "2.6万",
-        "intro": "【女性成长+职场言情＋上下级+熟男熟女】 　　那年深秋，褚诤结束纽约任期回到国内，接手诺森中国区业务。 　　他上任后的第一件事，就是亲手否决了周泗安转入并购组的申请。 　　不会模型，不懂估值，也没有任何交易经验。 　　在褚诤看来，她的能力远远撑不起那份野心。 　　周泗安不甘心，追到他的私人饭局，为自己争取第二次机会。 　　- 　　诺森上下都说，褚诤公私分明，从不和公司里的女员工纠缠。 　　只有周泗安知道，这个人有多虚伪，又有多么表里不一，一个下流无耻的烂人。 　　- 　　周泗安谈恋爱，褚诤讥讽她眼光太差。 　　乍暖还寒时节，她恢复单身，倒让他一语成谶。 　　褚诤高热未退，一言不发地跟了她一路。 　　周泗安忍无可忍，停下来问他：“你到底有完没完？” 　　他只问：“分手了没有？” 　　“跟你有什么关系嘛。”周泗安讥诮地挑起眉，“褚总这么不依不饶，怎么，我没分手你还准备当第三者？” 　　褚诤抿紧薄唇。高热在他眼底烧出晦暗的红，他始终没有移开目光，更没有像她预想中否认。 . 　　“雾散时，远山、长路与来处都有了名字。”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3013b51bd309a45719b1ae8c20541def~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830974&x-signature=XqIExl0VtyHXySuYWKnMS9xP7jY%3D",
-        "url": "https://fanqienovel.com/page/7667368927869013054"
-      },
-      {
-        "title": "画眼睛",
-        "author": "道之光",
         "reads": "2.5万",
-        "intro": "世人多是眼盲心瞎，只认衣裳不认人，只看得见利益却看不清因果。 眼瞎的人，固执又愚昧。 谁来给众生画眼睛？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o96bdc28eb2d11fd69d4c08fbcc1a69d5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830974&x-signature=SvtYBU6BAcUFyTxhxV5UYobgybE%3D",
-        "url": "https://fanqienovel.com/page/7513623524011936793"
-      },
-      {
-        "title": "泥潭里的双花：从山野村妇到云端",
-        "author": "不爱吃烤五花",
-        "reads": "2.4万",
-        "intro": "范蝶与吴怡是一同长大的姐妹，抱着摆脱穷命的念头，从山村一路闯到了城市深处。 当底牌被彻底掀开，宗族的非议、世俗的审判汹涌而至。那些所谓的风光，如同泡沫般一戳就碎。 姐妹二人的浮沉际遇，道尽了底层人在贫穷与欲望夹缝中的两难。也警醒着世人：人生从来没有凭空而来的逆袭，捷径的尽头往往是悬崖。唯有守住本心、踏实度日，方能在风雨里站得稳、走得远。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8fae0d7cde47d1ad72fc4f2d0b6c96e3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830974&x-signature=Vdoduf6Eob2csydmcUB6nyjxBKs%3D",
-        "url": "https://fanqienovel.com/page/7674157637205773336"
-      },
-      {
-        "title": "她不是唯一的宋太太",
-        "author": "月亮的花花",
-        "reads": "2.7万",
-        "intro": "十年朝夕，梁小希以为拥有外人眼中的完美人生，她以为既得一人心，白首不相离，不料却从一个拉布布玩偶挂件里撕开了婚姻华丽的假象。 丈夫家外有家，可悲的是她还不是原配。 那个她交付了全部信任的挚友，从一开始，就是当年引她踏入这场荒诞“高端局”的牵线人。 当深情被践踏，当完美成笑话。 情到此尽，寸利必争。 ……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9c71e0aa66f987ee98ac141db2a2755c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830974&x-signature=JT%2B35KEF8G7rKdqV%2FMuguHxEnR4%3D",
-        "url": "https://fanqienovel.com/page/7660824926907026456"
-      },
-      {
-        "title": "我在总裁文里当助理",
-        "author": "番茄酱里的小兔子",
-        "reads": "2万",
-        "intro": "叶肖在这个世界生活了二十多年，有一天突然觉醒了，他才知道原来他不是土著人而是穿书的，甚至男女主跟他看的那本书也完全不一样......... 原本应该选择女主的男主把叶肖抵在了门上声音低沉地说道“叶特助刚才看谁呢？” 双男主 【 顾谨言v叶肖】双洁，甜宠文，霸道占有欲强爱吃醋的攻，工作能力强，爱钱的受 副CP 姚泽V李维西 追妻火葬场 齐景轩V林枫 疯狂宠妻模式",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocadb5069326a6ddc923d1b2d1664d6a1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830974&x-signature=KjjasAgFwUDXwSKyV0WXqw3ZbCM%3D",
-        "url": "https://fanqienovel.com/page/7472651990569339929"
+        "intro": "【女性成长+职场言情＋上下级+熟男熟女】 　　那年深秋，褚诤结束纽约任期回到国内，接手诺森中国区业务。 　　他上任后的第一件事，就是亲手否决了周泗安转入并购组的申请。 　　不会模型，不懂估值，也没有任何交易经验。 　　在褚诤看来，她的能力远远撑不起那份野心。 　　周泗安不甘心，追到他的私人饭局，为自己争取第二次机会。 　　- 　　诺森上下都说，褚诤公私分明，从不和公司里的女员工纠缠。 　　只有周泗安知道，这个人有多虚伪，又有多么表里不一，一个下流无耻的烂人。 　　- 　　周泗安谈恋爱，褚诤讥讽她眼光太差。 　　乍暖还寒时节，她恢复单身，倒让他一语成谶。 　　褚诤高热未退，一言不发地跟了她一路。 　　周泗安忍无可忍，停下来问他：“你到底有完没完？” 　　他只问：“分手了没有？” 　　“跟你有什么关系嘛。”周泗安讥诮地挑起眉，“褚总这么不依不饶，怎么，我没分手你还准备当第三者？” 　　褚诤抿紧薄唇。高热在他眼底烧出晦暗的红，他始终没有移开目光，更没有像她预想中否认。 . 　　“雾散时，远山、长路与来处都有了名字。”",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3013b51bd309a45719b1ae8c20541def~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004212&x-signature=K8nXFZf%2FZ63vJPV%2B8KNgJvc9dp0%3D",
+        "url": "https://fanqienovel.com/page/7667368927869013054"
       },
       {
         "title": "年下男大不纯情：姐姐乖，叫哥哥",
         "author": "细雨逍遥",
-        "reads": "2.1万",
+        "reads": "3万",
         "intro": "美貌、离异、平静疯感大白花VS冷傲腹黑、有一点嘴毒、狼性年下小奶狗 离异后又被家人赶出门的乔茵北漂住在合租的公寓里。 一次意外她和刚搬进来不久的高冷学霸男大沈昱川一夜荒唐。 而且还是她主动抛出的橄榄枝。 秉承着“各取所需”的原则，事后他们各回各屋。 食髓知味后，白天各自做着自己的工作，晚上又成了世上距离最近的人。 乔茵一直认为他们的关系就是：只求一时，不谈将来。 沈昱川最初也是这么认为的，可是慢慢的，他不干了。 他想能在每个早上睁开眼时就能看见乔茵。 从不喜欢任何人的他第一次意识到一件事——他喜欢她。 “我是男人，我得为自己的行为负责。” 乔茵拒绝的干脆：“我们只是各取所需，不用负责。“ 于是人前冷傲禁欲的沈昱川化身可怜奶狗，开始步步为营，连哄带骗又撩，势必把她这个外人变成内人。 乔茵终是心软，但是…… “我离过婚。” “我就喜欢少妇。” “我不能生。“ “那我们就领养一个。” 反正他自己就是被领养来的。 乔茵：“你家人他们不会同意。” 沈昱川：“喜欢你的是我，要和你过一辈子的也是我，无关他人。”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7218d7af08f691017c63c0cfd9d633ad~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830974&x-signature=2Hg69GFSFDySB199C6SagHosAMI%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7218d7af08f691017c63c0cfd9d633ad~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004212&x-signature=bjU1Nlhl5uJ5Vy7292WB4pWa058%3D",
         "url": "https://fanqienovel.com/page/7678605721591630910"
       },
       {
-        "title": "炙婚",
-        "author": "时非晚",
-        "reads": "1.9万",
-        "intro": "程语毕业后首次相亲就遇到了自己喜欢的男人，尽管被人告知这个人的情况很复杂，但是她仍旧义无反顾的嫁给他。婚姻这件事就很有意思，谁先爱，谁就容易被“霸凌”。她从小就是一个理性的人，在一次次伤心之后，她学会了给自己的婚姻做减法，她是老师，这是她最擅长的部分。 商昀不明白，两人好端端的婚姻，怎么就到了这种地步。他们是夫妻，不是仇人，怎么就到了相看两厌的地步了？说好的信任呢？他们怎么自己就把自己逼到了这种地步。 既然两人都无法理解对方，那这婚姻还有存续下去的意义吗？ 人给自己找伴侣，不能给自己找麻烦！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc4bb9bea6dd509c595266a43fb0ef5c5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830974&x-signature=0szRKmNN1EM1Bcc2HvVDmqZJX7Q%3D",
-        "url": "https://fanqienovel.com/page/7669627334898502680"
+        "title": "画眼睛",
+        "author": "道之光",
+        "reads": "2.6万",
+        "intro": "世人多是眼盲心瞎，只认衣裳不认人，只看得见利益却看不清因果。 眼瞎的人，固执又愚昧。 谁来给众生画眼睛？",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o96bdc28eb2d11fd69d4c08fbcc1a69d5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004212&x-signature=0wwg%2FayHJryFUGqaUhol60nsTtI%3D",
+        "url": "https://fanqienovel.com/page/7513623524011936793"
       },
       {
-        "title": "向周舟",
-        "author": "俞叶早",
+        "title": "她不是唯一的宋太太",
+        "author": "月亮的花花",
+        "reads": "3.3万",
+        "intro": "十年朝夕，梁小希以为拥有外人眼中的完美人生，她以为既得一人心，白首不相离，不料却从一个拉布布玩偶挂件里撕开了婚姻华丽的假象。 丈夫家外有家，可悲的是她还不是原配。 那个她交付了全部信任的挚友，从一开始，就是当年引她踏入这场荒诞“高端局”的牵线人。 当深情被践踏，当完美成笑话。 情到此尽，寸利必争。 ……",
+        "cover": "https://p9-reading-sign.fqnovelpic.com/novel-pic/p2o9c71e0aa66f987ee98ac141db2a2755c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004212&x-signature=U222DJf%2FBt9uHeT3gB9I1fNY72o%3D",
+        "url": "https://fanqienovel.com/page/7660824926907026456"
+      },
+      {
+        "title": "泥潭里的双花：从山野村妇到云端",
+        "author": "不爱吃烤五花",
+        "reads": "2.1万",
+        "intro": "范蝶与吴怡是一同长大的姐妹，抱着摆脱穷命的念头，从山村一路闯到了城市深处。 当底牌被彻底掀开，宗族的非议、世俗的审判汹涌而至。那些所谓的风光，如同泡沫般一戳就碎。 姐妹二人的浮沉际遇，道尽了底层人在贫穷与欲望夹缝中的两难。也警醒着世人：人生从来没有凭空而来的逆袭，捷径的尽头往往是悬崖。唯有守住本心、踏实度日，方能在风雨里站得稳、走得远。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8fae0d7cde47d1ad72fc4f2d0b6c96e3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004212&x-signature=GLBh1AANdkPes6kyaKi7X36K80w%3D",
+        "url": "https://fanqienovel.com/page/7674157637205773336"
+      },
+      {
+        "title": "重生后，我帮妈妈抓住迁机会暴富",
+        "author": "佳奇",
+        "reads": "2.5万",
+        "intro": "言苏苏的妈妈是名幸运的倒霉蛋。 好几次拆迁、买房、做生意的机会主动送到眼前，她都能次次错过。 前世言苏苏辛苦打拼，每一次听妈妈提起这些就会忍不住感慨： 她亲爱的妈咪，但凡她要能够抓住这其中的一次机会，别说为她混个富二代出身了。 就是她言老板的身份也妥妥的了。 一朝重生，言苏苏回到舅舅干妈家的村子拆迁前的两个月。 耳边，正响起舅妈那满是嫌弃的声音。 带着上辈记忆的言苏苏知晓，前世舅舅就是因为错过了这个拆迁机缘。 不只失去了送到眼前的财富，还严重影响了夫妻感情。 睡眼朦胧间，言苏苏坚定的声音响了起来：“买，这房子不管怎么样都要买！” 同样心中颇为嫌弃的言妈妈，听到女儿的话眼前一黑…… 可她不知道，以后这样的情况，还多了！ 而那时，她却成了名符其实的女儿吹！ 但凡是女儿说要买的，说让做的！ 言妈妈绝对不会有二话……",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od0f91d02bfa3772f12fd4fe7f4a1a33f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004212&x-signature=nhxCO%2BoueqBg9GnEOeHRbNWBFVk%3D",
+        "url": "https://fanqienovel.com/page/7670348417893141528"
+      },
+      {
+        "title": "炙烈",
+        "author": "纠纠猫",
+        "reads": "2.1万",
+        "intro": "【短剧已上线·已签实体待上市·曾用名《炙烈》】 【女律师×民宿男老板·甜宠·异地情缘】 【熟男熟女·互相吸引·暧昧推拉·1v1】 - 温绪因为原则性问题离开律所，去了港岛旅居。 在那里，她看上了民宿老板，她明撩暗撩有一天终于在台风夜那个晚上被反撩，然后她怂了。 男人将她抵在走廊上，扳过她脸，耐人寻味的问：“知道继续下去会发生什么吗？” - 后来有一天，路过“喜帖街”一家临街古董婚纱店时，温绪心血来潮走进去，直买下试穿的复古婚纱，抱着周烈的腰，来了场浪漫机车出逃。 那成了温绪一段刻骨的记忆。 - 重遇那天，是大雪纷飞的傍晚。 周烈好整以暇的看她，笑，“温律师，你不想负责了吗？” 温绪恍如做梦，“你怎么来了……” 即将落泪时，她被猛地拥入怀中，头顶清晰响起那万分想念的声音，他说，“因为想你了。” - “你不来，那只能我去寻你” “有人夜里看海，有人凌晨无眠，我的意思是，我想你。” - 仅有一次的人生，当然要炙烈的去爱。 爱情的开始，也可以是一次旅居。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oaa422dbb3e03f591a1372f21ec1767d1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004212&x-signature=daEoUOBvl5f44pD2A0cTWrYHZHw%3D",
+        "url": "https://fanqienovel.com/page/7222682500487711779"
+      },
+      {
+        "title": "普女万人迷：都是他们自愿的",
+        "author": "窝趣蚊忙",
+        "reads": "2.2万",
+        "intro": "刚开分会涨｜【真普女·雄竞·男c·高洁党慎入】 23岁的明夷在一家私企做策划，刚毕业不会谈薪，干了一年依旧到手四千，扣掉房租水电每个月底还要心惊胆战地刷信用卡。 职场失意情场得意，在明夷不主动不拒绝的方针下，身边依旧消遣不断。 还能怎么办？只能忍痛承受了。毕竟，就算让她多受点道德谴责也舍不得辜负男人们的一片痴心啊！ 妈系邻居/狐狸精主播/高岭之花甲方/白切黑阴湿艺术家/弯掰直富二代… 咸鱼翻身之钱性恋普女薪酬四千向上社交拿到大结果的来时路。 注： 1.低精力咸鱼牛马心态，钱下班时间从男人身上捞，不让公司赚差价； 2.现代童话，女主导，会倒追攻略但不受委屈； 3.非大女主，回避型且小市民心理、超高配得感、道德有瑕，私下什么都来； 4.感到任何不适请第一时间退出以防二次被创。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o210ad0cd1d169c4f8082021143e9a6f5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004212&x-signature=GGVG3zhOqyVHegeE9DGdIlS9jEg%3D",
+        "url": "https://fanqienovel.com/page/7677014333989063742"
+      },
+      {
+        "title": "婆婆家12点开饭，千万别迟到",
+        "author": "溢群",
         "reads": "1.8万",
-        "intro": "【短剧已上线】【温柔沉静女学霸VS温和专一技术咖】 斯人若彩虹，遇上方知有。因家庭变故，周舟结束驻外工作，返回H市。消息传到了如今是高新科技公司合伙人的程晏然耳中，经历了好几个晚上的辗转反侧，程晏然决定搏一把，主动添加了微信，理由是卖车! 一段长达十多年的暗恋修成正果，一个从头甜到尾的故事……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4e9d9bc3ad5f823295a9cf7b7c5da124~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830974&x-signature=B00yCFUXXfk7GZ12YLLCf32rq0w%3D",
-        "url": "https://fanqienovel.com/page/7438239758670646296"
-      },
-      {
-        "title": "大领导我们怎么又见面了",
-        "author": "卢小久",
-        "reads": "1.7万",
-        "intro": "「体制内双洁 腹黑斯文大领导&明媚坚韧小职员 」 「年龄差 老房子着火 又甜又宠 上位者低头」 阮盈秋和冯定怀第一次见面时场面有些尴尬。 父母双亡的外甥女韩棠在学校把人揍了，她作为第一监护人要去向对方家长赔礼道歉。然后，冯定怀就是学生家长。 也就是这次见面，开启了两人那剪不断理还乱的新篇章。 所以后来阮盈秋时不时就会想。 如果那次，韩棠打的是别人，那她和冯定怀还有交集？还有以后吗？ 冯定怀给的答案是否定的，他说： “命运安排你走向我，肯定不会只安排一次，他会一次次把你推到我身边，任我守着分寸，也躲不开这份命中注定。” “秋秋，你就该是我的。”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa0ffbd05adb040f332fa98d9b0674061~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830974&x-signature=z3niEYjWqKPhKh8yckceBtgrZeA%3D",
-        "url": "https://fanqienovel.com/page/7625043105279904792"
+        "intro": "婆婆家有个怪异的铁律，12点准时开饭。 所有人对这条铁律无比敬畏，严格遵守。 外市刚搬回来的我，不小心打破了这条铁律。 于是，我受到了严厉，且离了大谱的惩罚。 最后，这条离了大谱的家规直接导致了整个家庭四分五裂， 而制定这条家规的人，也终于了孤家寡人。 想知道这到底是怎样的一条家规吗？",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6b457c23565deea437b52f996d156f59~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004212&x-signature=Qe8mhsRtvNvtqdsTNUOOSiOROwA%3D",
+        "url": "https://fanqienovel.com/page/7676751997772499992"
       }
     ]
   },
@@ -232,226 +242,236 @@
     {
       "name": "职场婚恋",
       "trend": {
-        "new_count": 2,
-        "dropped_count": 2,
+        "new_count": 4,
+        "dropped_count": 4,
         "new_books": [
-          "年下男大不纯情：姐姐乖，叫哥哥",
-          "大领导我们怎么又见面了"
+          "重生后，我帮妈妈抓住迁机会暴富",
+          "炙烈",
+          "普女万人迷：都是他们自愿的",
+          "婆婆家12点开饭，千万别迟到"
         ],
         "dropped_books": [
           {
-            "title": "松萝离枝",
-            "intro": "【体制内×巨富企业家·先婚后爱】 外人眼中，裴听淞与梁颂宜是天造地设，门当户对。 刚新婚便有一子，是人人艳羡的强强联姻。 唯有梁颂宜心知，这段婚姻里，她自始至终低人一等。 满腔爱意只是她一厢情愿，冰冷"
+            "title": "我在总裁文里当助理",
+            "intro": "叶肖在这个世界生活了二十多年，有一天突然觉醒了，他才知道原来他不是土著人而是穿书的，甚至男女主跟他看的那本书也完全不一样......... 原本应该选择女主的男主把叶肖抵在了门上声音低沉地说道“叶特助"
           },
           {
-            "title": "重生后，我帮妈妈抓住迁机会暴富",
-            "intro": "言苏苏的妈妈是名幸运的倒霉蛋。 好几次拆迁、买房、做生意的机会主动送到眼前，她都能次次错过。 前世言苏苏辛苦打拼，每一次听妈妈提起这些就会忍不住感慨： 她亲爱的妈咪，但凡她要能够抓住这其中的一次机会，"
+            "title": "炙婚",
+            "intro": "程语毕业后首次相亲就遇到了自己喜欢的男人，尽管被人告知这个人的情况很复杂，但是她仍旧义无反顾的嫁给他。婚姻这件事就很有意思，谁先爱，谁就容易被“霸凌”。她从小就是一个理性的人，在一次次伤心之后，她学会"
+          },
+          {
+            "title": "向周舟",
+            "intro": "【短剧已上线】【温柔沉静女学霸VS温和专一技术咖】 斯人若彩虹，遇上方知有。因家庭变故，周舟结束驻外工作，返回H市。消息传到了如今是高新科技公司合伙人的程晏然耳中，经历了好几个晚上的辗转反侧，程晏然决"
+          },
+          {
+            "title": "大领导我们怎么又见面了",
+            "intro": "「体制内双洁 腹黑斯文大领导&明媚坚韧小职员 」 「年龄差 老房子着火 又甜又宠 上位者低头」 阮盈秋和冯定怀第一次见面时场面有些尴尬。 父母双亡的外甥女韩棠在学校把人揍了，她作为第一监护人要去向对方"
           }
         ],
         "top_risers": [
           {
-            "title": "中奖千万，我和老公回村装穷种田",
-            "change": "+3"
+            "title": "中奖一千万，我回老家开小超市",
+            "change": "+4"
           },
           {
-            "title": "画眼睛",
-            "change": "+2"
+            "title": "年下男大不纯情：姐姐乖，叫哥哥",
+            "change": "+4"
           },
           {
-            "title": "泥潭里的双花：从山野村妇到云端",
-            "change": "+2"
+            "title": "捡了个娇娇女，禁欲老中医馋疯了",
+            "change": "+1"
           }
         ],
         "top_fallers": [
           {
-            "title": "中奖一千万，我回老家开小超市",
-            "change": "-3"
+            "title": "晚年底牌",
+            "change": "-2"
           },
           {
-            "title": "捡了个娇娇女，禁欲老中医馋疯了",
-            "change": "-1"
+            "title": "泥潭里的双花：从山野村妇到云端",
+            "change": "-2"
           },
           {
-            "title": "她不是唯一的宋太太",
+            "title": "一见钟情：顾影帝高攀了",
             "change": "-1"
           }
         ],
         "reads_growth": [
           {
+            "title": "年下男大不纯情：姐姐乖，叫哥哥",
+            "growth": "+9000"
+          },
+          {
+            "title": "她不是唯一的宋太太",
+            "growth": "+6000"
+          },
+          {
             "title": "中奖千万，我和老公回村装穷种田",
-            "growth": "+7000"
-          },
-          {
-            "title": "中奖一千万，我回老家开小超市",
-            "growth": "+4000"
-          },
-          {
-            "title": "祝，如意",
-            "growth": "+4000"
+            "growth": "+5000"
           }
         ],
-        "summary": "新增2本上榜；2本掉出（《松萝离枝》、《重生后，我帮妈妈抓住迁机会暴富》）；《中奖千万，我和老公回村装穷种田》排名上升+3位；《中奖千万，我和老公回村装穷种田》阅读量+7000。"
+        "summary": "新增4本上榜；4本掉出（《我在总裁文里当助理》、《炙婚》、《向周舟》、《大领导我们怎么又见面了》）；《中奖一千万，我回老家开小超市》排名上升+4位；《年下男大不纯情：姐姐乖，叫哥哥》阅读量+9000。"
       },
       "books": [
         {
           "title": "小公主与老干部",
           "author": "馒头很好",
-          "reads": "9.9万",
+          "reads": "9.4万",
           "intro": "【魔丸小公主×沉稳老干部】 【体制内高干+双洁+年龄差16+门当户对+养成系+老干部破防追妻】 陶灵聿喜欢赵穆清，整个大院都知道。 从情窦初开起，她追着他跑过了整个少年时代。 写情书，堵门口，翻墙头，什么混账事都干过。 长辈朋友当她是小孩闹着玩，赵穆清本人更是不为所动，永远一副长辈姿态，对她只有两个字：胡闹。 直到她定向选调以双第一成绩，空降到他眼皮子底下。 所有人都等着看赵领导怎么管教这个小祖宗。 他也确实比谁都严格，毫不留情面。 可突然有一天，她不再追了。 恭恭敬敬站在他面前，认真地说：“领导，以前是我不懂事，错把崇拜当喜欢，以后不会了。” 她收回了一切越界目光，笑得礼貌又疏离。 赵穆清沉默很久，说了声“好”。 然后—— 他开始失眠。 开始在下班后“路过”她加班的办公室。 开始翻出那些年她写的情书，一封一封看到天明。 看到年轻男人送她回家，端方持重的大领导第一次品尝到嫉妒的滋味儿。 【小剧场】 发小调侃：淘淘那丫头，追她的人要排到长安街，你就不急？ 赵穆清：她一小孩儿，懂什么。 后来，某个加班深夜，他把她堵在无人的角落，咬牙切齿：小孩儿？你见过哪个小孩儿让我方寸大乱？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o831af3f93099e35f5a2d96a22712af67~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830970&x-signature=20u98%2FAqa1RLzeiw4adw9dDqmXk%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o831af3f93099e35f5a2d96a22712af67~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004208&x-signature=HNgk%2BWv97vfsAogTZr%2BDKZUPMYQ%3D",
           "url": "https://fanqienovel.com/page/7605186139690896446"
         },
         {
           "title": "离婚不离家",
           "author": "二萍",
-          "reads": "6万",
+          "reads": "4万",
           "intro": "林宇和苏蔓结婚2年多了，两个人由于性格不同，林宇心思细腻，特别爱干净，热爱生活，喜欢养植物，而妻子苏蔓却是个粗枝大叶，大大咧咧的人，生活上总是怎么舒服怎么来。两个人由于性格的种种不合，以及双方都感到心灰意冷，最终决定离婚，他们在离婚、复合、纠缠中，重新思考婚姻与爱的本质 。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6c901213815943d7855bd4ddac6af6df~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830970&x-signature=ANNpjPVahCAacRMwEspXqSx1BxM%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6c901213815943d7855bd4ddac6af6df~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004208&x-signature=76aksdtLpOapgUNErtkxOzPmfog%3D",
           "url": "https://fanqienovel.com/page/7602927739477183550"
+        },
+        {
+          "title": "中奖一千万，我回老家开小超市",
+          "author": "柠檬米米",
+          "reads": "6.7万",
+          "intro": "【乡村生活+种田+慢节奏+有CP+无极品】 金铭在想辞职的时候，好运的被公司优化了，不仅拿到了N+1，她买的彩票还中了一千万大奖。 金铭选择回老家陪伴爸妈，把家里漏雨的房子推了重建。 她买下了大伯家的宅基地，重建后开了一家小超市。 自己的好朋友因为失恋分手，把男朋友送的边牧给了金铭，于是金铭有了一条狗。 在钓鱼的时候，金铭捡到一只小猫，于是金铭猫狗双全。 在金铭刚回家时，钓鱼遇见了一个来自己老家旅居的帅哥，在奶奶的鼓励下，金铭还谈起了甜甜的恋爱，妥妥的人生赢家。 在乡下躺平的的日子，过得真是舒坦。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oda66d5e8112ed9a79147ba6c68fd5f38~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004208&x-signature=1r7XGGPNsId4qGUV%2F7veHODqC3E%3D",
+          "url": "https://fanqienovel.com/page/7676004863867636798"
         },
         {
           "title": "一见钟情：顾影帝高攀了",
           "author": "咸鱼本鱼呀",
-          "reads": "6.2万",
+          "reads": "6.6万",
           "intro": "影帝顾时言对自己的邻居阮安然一见钟情！！ 女主娃娃脸，被很多人以为是高中生。没有虐，波折很少，主打甜宠搞笑。 情景一：初见，顾时言以为又是一个私生粉。 阮安然，上下扫了一眼全副武装的顾时言？间谍？（女主搞科研的，科研成果属于保密级。） 场景二：隐婚三年意外曝光 女主掉马前 男主粉丝：到底是哪个女人拿下了我们影帝？是上辈子拯救了银河系吗？我们不同意！ 女主掉马后 顾时言粉丝：顾时言上辈子是拯救了宇宙吗？这辈子能娶到这样的媳妇？ 场景三： 女主爸妈刚开始： 我不同意，这男的一听名字就不是什么好人！食言食言，一听就没责任，没担当！ 之后： 小顾啊，这个家啊，辛苦了。 男主爸妈： 第一次看到女主照片： 顾爸和顾妈对视了一眼，然后顾爸默默的掏出了皮带。 然后得知女主成年了，而且和儿子只差一岁时，还是科研人才，上下打量了一下男主： 人家姑娘看上你哪了？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o81219c5b71b20650f28332f1b3fbda4b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830970&x-signature=%2BToF19BoY8xLlhJfjOGNt5TWFzc%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o81219c5b71b20650f28332f1b3fbda4b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004208&x-signature=49TWVX9Q0Sff%2FW8%2FEZuT0XI6owg%3D",
           "url": "https://fanqienovel.com/page/7632569473639140377"
         },
         {
           "title": "生理性喜欢：从朋友前妻开始",
           "author": "阿良要买房",
-          "reads": "5.6万",
+          "reads": "5.8万",
           "intro": "【一见钟情|生理性喜欢|甜宠双洁|体型差|年龄差 】 高冷腹黑重欲医生x 温柔老实人老板娘 走肾的幌子，走心的局。 从第一眼起，他就没打算放她走。 当了三十一年和尚清心寡欲的林医生，对一个女人一见倾心了。 朋友带着新婚妻子来机场接机，握手的三秒，他就一见钟情了。 当晚，他的梦里全是带着蜜桃味的她的身影。 从此，梦里都是她。 好消息：她离婚了。 坏消息：她不相信爱情了。 于是，林医生使出十八般本领。 为了让她不要有负担，林医生把人堵在玄关徐徐善诱：“温温，成年人各取所需，只走肾，不走心，你不用对我负责。” 她信了。 直到有次她随口说了句“室友而已”，然后某人就疯了。 林医生把人按在料理台上，眼睛通红。 “室友？谁要跟你做室友！” “乖，我要的是你！” 后来朋友后悔红着眼来砸门，门内林医生把人抵在门板上，炽热的吻让怀里的人软了身子。 他低头目光温柔地看向怀里的人，声音却是冰冷地传到门外。 “现在，她是我的。” 后来有人问他，怎么就栽了。 林医生看着蛋糕店里，操作间正在裱花的妻子，低低说了一句。 “我哪里知道，三秒钟能记一辈子。”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o26c38e2c54b913876250a55247bc4fb1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830970&x-signature=K9DIGfXaloeif5Ia5x1pLC26KWs%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o26c38e2c54b913876250a55247bc4fb1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004208&x-signature=gb7Ycv32BeH9n6pib%2F8U61O0JGc%3D",
           "url": "https://fanqienovel.com/page/7672420956123450393"
         },
         {
           "title": "中奖千万，我和老公回村装穷种田",
           "author": "提笔忘情l",
-          "reads": "5.4万",
+          "reads": "5.9万",
           "intro": "【非快节奏爽文，慢热暗爽文，智斗极品亲戚，贴合农村生活，舒适度加满】 城市套路深，我想回农村。可绝大多数人回不去，因为没钱。 但苏晓梅回去了。 　　夫妻二人带着刚中的两千万大奖，房贷车贷的结清证明，回老家装穷种地。 　　她利用“穷”作为完美护盾，彻底斩断了亲戚们借钱、攀附的念想。 　　苏晓梅深知丈夫老家那一窝吸血亲戚的德行。 　　昔日尖酸刻薄的婆婆，被她逼得怀疑人生，连夜吐出祖宅地皮； 　　一毛不拔的大哥二哥，被她道德反绑架，大出血凑钱给她盖楼房！ 　　苏晓梅披着“南方神秘大老板”的马甲，豪掷千金包下村里三百亩地搞AI现代农业！ 　　全村挤破头想给大老板打工，极品亲戚们更是跪舔巴结，却做梦也想不到，他们巴结的活财神，就是天天在他们面前喝稀饭的苏晓梅。 　　嘴上说着最服软的话，卡里躺着最硬气的钱。 　　白天，他们是普通农夫。 　　夜晚，关起门来，他们是财务自由、隐世的千万富翁！ 　　装穷，真是太爽了！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8b3385a0792c4bc8320ea3fae3ed998c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830970&x-signature=KNxWA8JDS3XGnTxmHVpuTHgZ7bY%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8b3385a0792c4bc8320ea3fae3ed998c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004208&x-signature=NLmZ7D8cBqt2UqTbKMh%2FXPzdpPI%3D",
           "url": "https://fanqienovel.com/page/7674905685196295192"
-        },
-        {
-          "title": "晚年底牌",
-          "author": "作者明月清晖",
-          "reads": "5.3万",
-          "intro": "李玉芬刚一退休就去了儿子家帮带孙子，一帮就是12年，她不但牺牲了退休后的自由，还把自己一生的积蓄包括最后卖房子的钱，都给了儿子用来结婚，买房，买车。可当她把孙子看大以后，儿媳觉得她成了家里的闲人，感觉两代人住一起不方便，便又想过河拆桥，嫌弃，排挤。屈辱绝望中的女主，不再忍受妥协，开始对自己的人生有了新的认识和醒悟，手中掌控的一笔惊人财富，也成了她晚年重启人生的最后底牌。故事撕开原生家庭的亲情凉薄，为儿女付出也要有底线，也要为自己留后路的现实内核。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa5ac7c27b6fc058bfb52068c67448bd4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830970&x-signature=%2FomdnTyQ0GzxhHi7sqPcbTUWc5M%3D",
-          "url": "https://fanqienovel.com/page/7639112428055186457"
-        },
-        {
-          "title": "中奖一千万，我回老家开小超市",
-          "author": "柠檬米米",
-          "reads": "6.4万",
-          "intro": "【乡村生活+种田+慢节奏+有CP+无极品】 金铭在想辞职的时候，好运的被公司优化了，不仅拿到了N+1，她买的彩票还中了一千万大奖。 金铭选择回老家陪伴爸妈，把家里漏雨的房子推了重建。 她买下了大伯家的宅基地，重建后开了一家小超市。 自己的好朋友因为失恋分手，把男朋友送的边牧给了金铭，于是金铭有了一条狗。 在钓鱼的时候，金铭捡到一只小猫，于是金铭猫狗双全。 在金铭刚回家时，钓鱼遇见了一个来自己老家旅居的帅哥，在奶奶的鼓励下，金铭还谈起了甜甜的恋爱，妥妥的人生赢家。 在乡下躺平的的日子，过得真是舒坦。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oda66d5e8112ed9a79147ba6c68fd5f38~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830970&x-signature=aL2AswptqbdFA%2BNXm1z7Hmy%2FJxg%3D",
-          "url": "https://fanqienovel.com/page/7676004863867636798"
         },
         {
           "title": "捡了个娇娇女，禁欲老中医馋疯了",
           "author": "五十亿",
-          "reads": "5.5万",
+          "reads": "5.7万",
           "intro": "禁欲老干部中医×娇气乖萌彩妆师 【双洁双C +甜宠1V1+细糠+爹系男友/差13岁+武术肌肉男+乖软小萌妹】 一场意外，让颜茵撞见了极其炸裂的一幕。闺蜜相恋两年的男友，竟然和另一个男人在床上…… 这重口的画面，对纯爱战士来说冲击太大，颜茵被吓出了心理阴影。 只要一想到就浑身发抖、干呕厌食。为了自救，她逃到了偏远的云昭镇散心。 结果刚到第一天，就饿晕在了一家中医馆门前。 陈励，云昭镇上清冷沉稳的“老干部”中医，兼武术世家传人。 一天清晨，他在自家门前捡到了一个面色惨白，一看到银针就吓得往他怀里钻的娇气姑娘。 “忍一忍，我轻点。” “乖，闭上眼，什么都别想，大口吞。” 一碗白粥，几根银针，一日三餐变着花样的药膳投喂。 陈大夫硬是把这个一碰就碎的小瓷人，一点点养出了鲜活的气色。 颜茵本以为自己这辈子都会对男人有心理阴影。可当她害怕扎针，八爪鱼似的抱住陈励的胳膊。 才发现这位清冷禁欲的“老干部”，浑身僵硬，喉结狂滚，连耳朵都红透了。 后来颜茵才知道，治病时稳如泰山的陈大夫，关起门来居然是个纯新手。 “茵茵，你别哭……我也紧张。” “呜……哪有亲亲不让人喘气的！” * 你是我捡来的意外，却成了我戒不掉的瘾！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob8ee984a1c5319245860485bb12aed0e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830970&x-signature=3WxMonI16cUxOTjd1TljQQFrz3Y%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob8ee984a1c5319245860485bb12aed0e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004208&x-signature=3auao8QiJ%2B6V0hzofqVPJUvM2gY%3D",
           "url": "https://fanqienovel.com/page/7673456546839284761"
+        },
+        {
+          "title": "晚年底牌",
+          "author": "作者明月清晖",
+          "reads": "4.9万",
+          "intro": "李玉芬刚一退休就去了儿子家帮带孙子，一帮就是12年，她不但牺牲了退休后的自由，还把自己一生的积蓄包括最后卖房子的钱，都给了儿子用来结婚，买房，买车。可当她把孙子看大以后，儿媳觉得她成了家里的闲人，感觉两代人住一起不方便，便又想过河拆桥，嫌弃，排挤。屈辱绝望中的女主，不再忍受妥协，开始对自己的人生有了新的认识和醒悟，手中掌控的一笔惊人财富，也成了她晚年重启人生的最后底牌。故事撕开原生家庭的亲情凉薄，为儿女付出也要有底线，也要为自己留后路的现实内核。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa5ac7c27b6fc058bfb52068c67448bd4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004208&x-signature=5UozHfsVsPVJQ489IHAZB3UbTiY%3D",
+          "url": "https://fanqienovel.com/page/7639112428055186457"
         },
         {
           "title": "揣崽穿到六年前，大佬老公忙疯了",
           "author": "软之",
-          "reads": "4.7万",
+          "reads": "4.6万",
           "intro": "（刚开分，后期会涨） 【温柔坚韧美人VS年下爹系男主+出租屋文学+我嫉妒我自己到发疯+双洁】 程霜宁一觉醒来，发现自己揣崽穿到六年前，高冷的商界大佬老公，还是穷学生。 没有身份证，没有钱，她找到老公校门口，拦住他：“我怀孕了。” 大佬一脸震惊：“我没抽烟。” 程霜宁：“你的孩子。” 大佬：“？？？” 亲子鉴定结果出来，大佬疯了。 戒了游戏戒了烟，一天打三份工养老婆孩子。 功成名就那天，记者采访：“祁先生，您是怎么在短短三年内，成为商业精英的？” 祁宿舟：“孩子要喝奶粉买尿布上幼儿园，穷不起。” - 男主视角： 六年后的漂亮老婆带着孩子空降，可爱温柔好想亲。 梦里的男人凭什么抱他老婆？ 嫉妒到扭曲发疯。 老婆只能是他一个人的，只能被他一个人占有。 - 立意： 童话世界的公主走出城堡，踏入血淋淋的现实世界，不断成长磨砺成参天大树。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0ffc30a03872b1a5dfb698ba73a4f7cc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830970&x-signature=vhTaJd1a1wWLNeTiXr7sjasChX8%3D",
+          "cover": "https://p9-reading-sign.fqnovelpic.com/novel-pic/p2o0ffc30a03872b1a5dfb698ba73a4f7cc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004208&x-signature=RfTAXzOAPqYXaYh5u1SquMzCKUM%3D",
           "url": "https://fanqienovel.com/page/7662223431215107096"
         },
         {
           "title": "祝，如意",
           "author": "和青岑",
-          "reads": "3.8万",
+          "reads": "4.3万",
           "intro": "祝如意拿着二十万、一辆车和九年感情走出民政局的时候，并不知道小半年后，会有人在十一辆车连环追尾的现场，当众对着她那辆变形的车说：“这是我老婆的车。” 一个因遗传病风险被离婚的女人 一个年长、有威望、单身的书记 他们之间发生了许多真实且接地气的日常 好的爱情不一定是第一次就能遇到，而是那个人退了又回来，你还愿意等他",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc44b2af4cd4de2baf2375f6251f5770c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830970&x-signature=iSDRdWdtDlQdwR9X9hoVb1ZE1c8%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc44b2af4cd4de2baf2375f6251f5770c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004208&x-signature=17ZBInd8IkotAAP%2Frgv9iSlmUng%3D",
           "url": "https://fanqienovel.com/page/7675603338850749464"
         },
         {
           "title": "你妹真甜",
           "author": "凡几几",
-          "reads": "3.7万",
+          "reads": "4.2万",
           "intro": "【表面乖巧实则撩精美妆博主 VS 表面糙汉实则爹系刑侦队长】 哥哥的好兄弟 、近水楼台 、双向暗恋、双向奔赴、体型差 冷面阎王 vs 钓系甜妹 * 梁子弈一直以为，严绪青是个清心寡欲的硬汉铁树。 直到有一天，他敏锐地察觉到妹妹梁子衿似乎恋爱了。 “这小子要是敢欺负你，哪怕他是干警察的，我也非打断他的腿！”梁子弈一拍桌子，转头看向对门的好兄弟，“老严，你刑侦队长反侦察能力强，帮我查查是哪个小兔崽子拱了我家白菜。” 严绪青面不改色地抿了口茶，掩饰住身体的紧绷。 桌底下，一只白皙的脚丫正不安分地顺着他的小腿往上蹭。 他稳稳给梁子弈倒了杯水，沉声道：“行，我帮你调查。” * 当晚，严绪青将那只不安分的小白兔堵在楼道死角，嗓音低哑：“听说，我要被打断腿了？” 梁子衿勾住他的脖子，笑得像个小狐狸：“严队长怕了吗？” “怕？”严绪青低头狠狠吻住她的唇，“我只怕你哥下班太早。” * 地下恋/哥哥的死党/先走肾后走心/极限拉扯",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2a18b2110c65e4814d04f896822dc6eb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830974&x-signature=N3I4Rckugf25XH21nN5IrNR5D10%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2a18b2110c65e4814d04f896822dc6eb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004212&x-signature=%2Bkgyv2%2Bqn2URbWit9ES7wjrqiHA%3D",
           "url": "https://fanqienovel.com/page/7659625648037579800"
         },
         {
           "title": "长夜雾尽",
           "author": "轻飏",
-          "reads": "2.6万",
-          "intro": "【女性成长+职场言情＋上下级+熟男熟女】 　　那年深秋，褚诤结束纽约任期回到国内，接手诺森中国区业务。 　　他上任后的第一件事，就是亲手否决了周泗安转入并购组的申请。 　　不会模型，不懂估值，也没有任何交易经验。 　　在褚诤看来，她的能力远远撑不起那份野心。 　　周泗安不甘心，追到他的私人饭局，为自己争取第二次机会。 　　- 　　诺森上下都说，褚诤公私分明，从不和公司里的女员工纠缠。 　　只有周泗安知道，这个人有多虚伪，又有多么表里不一，一个下流无耻的烂人。 　　- 　　周泗安谈恋爱，褚诤讥讽她眼光太差。 　　乍暖还寒时节，她恢复单身，倒让他一语成谶。 　　褚诤高热未退，一言不发地跟了她一路。 　　周泗安忍无可忍，停下来问他：“你到底有完没完？” 　　他只问：“分手了没有？” 　　“跟你有什么关系嘛。”周泗安讥诮地挑起眉，“褚总这么不依不饶，怎么，我没分手你还准备当第三者？” 　　褚诤抿紧薄唇。高热在他眼底烧出晦暗的红，他始终没有移开目光，更没有像她预想中否认。 . 　　“雾散时，远山、长路与来处都有了名字。”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3013b51bd309a45719b1ae8c20541def~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830974&x-signature=XqIExl0VtyHXySuYWKnMS9xP7jY%3D",
-          "url": "https://fanqienovel.com/page/7667368927869013054"
-        },
-        {
-          "title": "画眼睛",
-          "author": "道之光",
           "reads": "2.5万",
-          "intro": "世人多是眼盲心瞎，只认衣裳不认人，只看得见利益却看不清因果。 眼瞎的人，固执又愚昧。 谁来给众生画眼睛？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o96bdc28eb2d11fd69d4c08fbcc1a69d5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830974&x-signature=SvtYBU6BAcUFyTxhxV5UYobgybE%3D",
-          "url": "https://fanqienovel.com/page/7513623524011936793"
-        },
-        {
-          "title": "泥潭里的双花：从山野村妇到云端",
-          "author": "不爱吃烤五花",
-          "reads": "2.4万",
-          "intro": "范蝶与吴怡是一同长大的姐妹，抱着摆脱穷命的念头，从山村一路闯到了城市深处。 当底牌被彻底掀开，宗族的非议、世俗的审判汹涌而至。那些所谓的风光，如同泡沫般一戳就碎。 姐妹二人的浮沉际遇，道尽了底层人在贫穷与欲望夹缝中的两难。也警醒着世人：人生从来没有凭空而来的逆袭，捷径的尽头往往是悬崖。唯有守住本心、踏实度日，方能在风雨里站得稳、走得远。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8fae0d7cde47d1ad72fc4f2d0b6c96e3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830974&x-signature=Vdoduf6Eob2csydmcUB6nyjxBKs%3D",
-          "url": "https://fanqienovel.com/page/7674157637205773336"
-        },
-        {
-          "title": "她不是唯一的宋太太",
-          "author": "月亮的花花",
-          "reads": "2.7万",
-          "intro": "十年朝夕，梁小希以为拥有外人眼中的完美人生，她以为既得一人心，白首不相离，不料却从一个拉布布玩偶挂件里撕开了婚姻华丽的假象。 丈夫家外有家，可悲的是她还不是原配。 那个她交付了全部信任的挚友，从一开始，就是当年引她踏入这场荒诞“高端局”的牵线人。 当深情被践踏，当完美成笑话。 情到此尽，寸利必争。 ……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9c71e0aa66f987ee98ac141db2a2755c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830974&x-signature=JT%2B35KEF8G7rKdqV%2FMuguHxEnR4%3D",
-          "url": "https://fanqienovel.com/page/7660824926907026456"
-        },
-        {
-          "title": "我在总裁文里当助理",
-          "author": "番茄酱里的小兔子",
-          "reads": "2万",
-          "intro": "叶肖在这个世界生活了二十多年，有一天突然觉醒了，他才知道原来他不是土著人而是穿书的，甚至男女主跟他看的那本书也完全不一样......... 原本应该选择女主的男主把叶肖抵在了门上声音低沉地说道“叶特助刚才看谁呢？” 双男主 【 顾谨言v叶肖】双洁，甜宠文，霸道占有欲强爱吃醋的攻，工作能力强，爱钱的受 副CP 姚泽V李维西 追妻火葬场 齐景轩V林枫 疯狂宠妻模式",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocadb5069326a6ddc923d1b2d1664d6a1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830974&x-signature=KjjasAgFwUDXwSKyV0WXqw3ZbCM%3D",
-          "url": "https://fanqienovel.com/page/7472651990569339929"
+          "intro": "【女性成长+职场言情＋上下级+熟男熟女】 　　那年深秋，褚诤结束纽约任期回到国内，接手诺森中国区业务。 　　他上任后的第一件事，就是亲手否决了周泗安转入并购组的申请。 　　不会模型，不懂估值，也没有任何交易经验。 　　在褚诤看来，她的能力远远撑不起那份野心。 　　周泗安不甘心，追到他的私人饭局，为自己争取第二次机会。 　　- 　　诺森上下都说，褚诤公私分明，从不和公司里的女员工纠缠。 　　只有周泗安知道，这个人有多虚伪，又有多么表里不一，一个下流无耻的烂人。 　　- 　　周泗安谈恋爱，褚诤讥讽她眼光太差。 　　乍暖还寒时节，她恢复单身，倒让他一语成谶。 　　褚诤高热未退，一言不发地跟了她一路。 　　周泗安忍无可忍，停下来问他：“你到底有完没完？” 　　他只问：“分手了没有？” 　　“跟你有什么关系嘛。”周泗安讥诮地挑起眉，“褚总这么不依不饶，怎么，我没分手你还准备当第三者？” 　　褚诤抿紧薄唇。高热在他眼底烧出晦暗的红，他始终没有移开目光，更没有像她预想中否认。 . 　　“雾散时，远山、长路与来处都有了名字。”",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3013b51bd309a45719b1ae8c20541def~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004212&x-signature=K8nXFZf%2FZ63vJPV%2B8KNgJvc9dp0%3D",
+          "url": "https://fanqienovel.com/page/7667368927869013054"
         },
         {
           "title": "年下男大不纯情：姐姐乖，叫哥哥",
           "author": "细雨逍遥",
-          "reads": "2.1万",
+          "reads": "3万",
           "intro": "美貌、离异、平静疯感大白花VS冷傲腹黑、有一点嘴毒、狼性年下小奶狗 离异后又被家人赶出门的乔茵北漂住在合租的公寓里。 一次意外她和刚搬进来不久的高冷学霸男大沈昱川一夜荒唐。 而且还是她主动抛出的橄榄枝。 秉承着“各取所需”的原则，事后他们各回各屋。 食髓知味后，白天各自做着自己的工作，晚上又成了世上距离最近的人。 乔茵一直认为他们的关系就是：只求一时，不谈将来。 沈昱川最初也是这么认为的，可是慢慢的，他不干了。 他想能在每个早上睁开眼时就能看见乔茵。 从不喜欢任何人的他第一次意识到一件事——他喜欢她。 “我是男人，我得为自己的行为负责。” 乔茵拒绝的干脆：“我们只是各取所需，不用负责。“ 于是人前冷傲禁欲的沈昱川化身可怜奶狗，开始步步为营，连哄带骗又撩，势必把她这个外人变成内人。 乔茵终是心软，但是…… “我离过婚。” “我就喜欢少妇。” “我不能生。“ “那我们就领养一个。” 反正他自己就是被领养来的。 乔茵：“你家人他们不会同意。” 沈昱川：“喜欢你的是我，要和你过一辈子的也是我，无关他人。”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7218d7af08f691017c63c0cfd9d633ad~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830974&x-signature=2Hg69GFSFDySB199C6SagHosAMI%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7218d7af08f691017c63c0cfd9d633ad~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004212&x-signature=bjU1Nlhl5uJ5Vy7292WB4pWa058%3D",
           "url": "https://fanqienovel.com/page/7678605721591630910"
         },
         {
-          "title": "炙婚",
-          "author": "时非晚",
-          "reads": "1.9万",
-          "intro": "程语毕业后首次相亲就遇到了自己喜欢的男人，尽管被人告知这个人的情况很复杂，但是她仍旧义无反顾的嫁给他。婚姻这件事就很有意思，谁先爱，谁就容易被“霸凌”。她从小就是一个理性的人，在一次次伤心之后，她学会了给自己的婚姻做减法，她是老师，这是她最擅长的部分。 商昀不明白，两人好端端的婚姻，怎么就到了这种地步。他们是夫妻，不是仇人，怎么就到了相看两厌的地步了？说好的信任呢？他们怎么自己就把自己逼到了这种地步。 既然两人都无法理解对方，那这婚姻还有存续下去的意义吗？ 人给自己找伴侣，不能给自己找麻烦！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc4bb9bea6dd509c595266a43fb0ef5c5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830974&x-signature=0szRKmNN1EM1Bcc2HvVDmqZJX7Q%3D",
-          "url": "https://fanqienovel.com/page/7669627334898502680"
+          "title": "画眼睛",
+          "author": "道之光",
+          "reads": "2.6万",
+          "intro": "世人多是眼盲心瞎，只认衣裳不认人，只看得见利益却看不清因果。 眼瞎的人，固执又愚昧。 谁来给众生画眼睛？",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o96bdc28eb2d11fd69d4c08fbcc1a69d5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004212&x-signature=0wwg%2FayHJryFUGqaUhol60nsTtI%3D",
+          "url": "https://fanqienovel.com/page/7513623524011936793"
         },
         {
-          "title": "向周舟",
-          "author": "俞叶早",
+          "title": "她不是唯一的宋太太",
+          "author": "月亮的花花",
+          "reads": "3.3万",
+          "intro": "十年朝夕，梁小希以为拥有外人眼中的完美人生，她以为既得一人心，白首不相离，不料却从一个拉布布玩偶挂件里撕开了婚姻华丽的假象。 丈夫家外有家，可悲的是她还不是原配。 那个她交付了全部信任的挚友，从一开始，就是当年引她踏入这场荒诞“高端局”的牵线人。 当深情被践踏，当完美成笑话。 情到此尽，寸利必争。 ……",
+          "cover": "https://p9-reading-sign.fqnovelpic.com/novel-pic/p2o9c71e0aa66f987ee98ac141db2a2755c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004212&x-signature=U222DJf%2FBt9uHeT3gB9I1fNY72o%3D",
+          "url": "https://fanqienovel.com/page/7660824926907026456"
+        },
+        {
+          "title": "泥潭里的双花：从山野村妇到云端",
+          "author": "不爱吃烤五花",
+          "reads": "2.1万",
+          "intro": "范蝶与吴怡是一同长大的姐妹，抱着摆脱穷命的念头，从山村一路闯到了城市深处。 当底牌被彻底掀开，宗族的非议、世俗的审判汹涌而至。那些所谓的风光，如同泡沫般一戳就碎。 姐妹二人的浮沉际遇，道尽了底层人在贫穷与欲望夹缝中的两难。也警醒着世人：人生从来没有凭空而来的逆袭，捷径的尽头往往是悬崖。唯有守住本心、踏实度日，方能在风雨里站得稳、走得远。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8fae0d7cde47d1ad72fc4f2d0b6c96e3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004212&x-signature=GLBh1AANdkPes6kyaKi7X36K80w%3D",
+          "url": "https://fanqienovel.com/page/7674157637205773336"
+        },
+        {
+          "title": "重生后，我帮妈妈抓住迁机会暴富",
+          "author": "佳奇",
+          "reads": "2.5万",
+          "intro": "言苏苏的妈妈是名幸运的倒霉蛋。 好几次拆迁、买房、做生意的机会主动送到眼前，她都能次次错过。 前世言苏苏辛苦打拼，每一次听妈妈提起这些就会忍不住感慨： 她亲爱的妈咪，但凡她要能够抓住这其中的一次机会，别说为她混个富二代出身了。 就是她言老板的身份也妥妥的了。 一朝重生，言苏苏回到舅舅干妈家的村子拆迁前的两个月。 耳边，正响起舅妈那满是嫌弃的声音。 带着上辈记忆的言苏苏知晓，前世舅舅就是因为错过了这个拆迁机缘。 不只失去了送到眼前的财富，还严重影响了夫妻感情。 睡眼朦胧间，言苏苏坚定的声音响了起来：“买，这房子不管怎么样都要买！” 同样心中颇为嫌弃的言妈妈，听到女儿的话眼前一黑…… 可她不知道，以后这样的情况，还多了！ 而那时，她却成了名符其实的女儿吹！ 但凡是女儿说要买的，说让做的！ 言妈妈绝对不会有二话……",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od0f91d02bfa3772f12fd4fe7f4a1a33f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004212&x-signature=nhxCO%2BoueqBg9GnEOeHRbNWBFVk%3D",
+          "url": "https://fanqienovel.com/page/7670348417893141528"
+        },
+        {
+          "title": "炙烈",
+          "author": "纠纠猫",
+          "reads": "2.1万",
+          "intro": "【短剧已上线·已签实体待上市·曾用名《炙烈》】 【女律师×民宿男老板·甜宠·异地情缘】 【熟男熟女·互相吸引·暧昧推拉·1v1】 - 温绪因为原则性问题离开律所，去了港岛旅居。 在那里，她看上了民宿老板，她明撩暗撩有一天终于在台风夜那个晚上被反撩，然后她怂了。 男人将她抵在走廊上，扳过她脸，耐人寻味的问：“知道继续下去会发生什么吗？” - 后来有一天，路过“喜帖街”一家临街古董婚纱店时，温绪心血来潮走进去，直买下试穿的复古婚纱，抱着周烈的腰，来了场浪漫机车出逃。 那成了温绪一段刻骨的记忆。 - 重遇那天，是大雪纷飞的傍晚。 周烈好整以暇的看她，笑，“温律师，你不想负责了吗？” 温绪恍如做梦，“你怎么来了……” 即将落泪时，她被猛地拥入怀中，头顶清晰响起那万分想念的声音，他说，“因为想你了。” - “你不来，那只能我去寻你” “有人夜里看海，有人凌晨无眠，我的意思是，我想你。” - 仅有一次的人生，当然要炙烈的去爱。 爱情的开始，也可以是一次旅居。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oaa422dbb3e03f591a1372f21ec1767d1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004212&x-signature=daEoUOBvl5f44pD2A0cTWrYHZHw%3D",
+          "url": "https://fanqienovel.com/page/7222682500487711779"
+        },
+        {
+          "title": "普女万人迷：都是他们自愿的",
+          "author": "窝趣蚊忙",
+          "reads": "2.2万",
+          "intro": "刚开分会涨｜【真普女·雄竞·男c·高洁党慎入】 23岁的明夷在一家私企做策划，刚毕业不会谈薪，干了一年依旧到手四千，扣掉房租水电每个月底还要心惊胆战地刷信用卡。 职场失意情场得意，在明夷不主动不拒绝的方针下，身边依旧消遣不断。 还能怎么办？只能忍痛承受了。毕竟，就算让她多受点道德谴责也舍不得辜负男人们的一片痴心啊！ 妈系邻居/狐狸精主播/高岭之花甲方/白切黑阴湿艺术家/弯掰直富二代… 咸鱼翻身之钱性恋普女薪酬四千向上社交拿到大结果的来时路。 注： 1.低精力咸鱼牛马心态，钱下班时间从男人身上捞，不让公司赚差价； 2.现代童话，女主导，会倒追攻略但不受委屈； 3.非大女主，回避型且小市民心理、超高配得感、道德有瑕，私下什么都来； 4.感到任何不适请第一时间退出以防二次被创。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o210ad0cd1d169c4f8082021143e9a6f5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004212&x-signature=GGVG3zhOqyVHegeE9DGdIlS9jEg%3D",
+          "url": "https://fanqienovel.com/page/7677014333989063742"
+        },
+        {
+          "title": "婆婆家12点开饭，千万别迟到",
+          "author": "溢群",
           "reads": "1.8万",
-          "intro": "【短剧已上线】【温柔沉静女学霸VS温和专一技术咖】 斯人若彩虹，遇上方知有。因家庭变故，周舟结束驻外工作，返回H市。消息传到了如今是高新科技公司合伙人的程晏然耳中，经历了好几个晚上的辗转反侧，程晏然决定搏一把，主动添加了微信，理由是卖车! 一段长达十多年的暗恋修成正果，一个从头甜到尾的故事……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4e9d9bc3ad5f823295a9cf7b7c5da124~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830974&x-signature=B00yCFUXXfk7GZ12YLLCf32rq0w%3D",
-          "url": "https://fanqienovel.com/page/7438239758670646296"
-        },
-        {
-          "title": "大领导我们怎么又见面了",
-          "author": "卢小久",
-          "reads": "1.7万",
-          "intro": "「体制内双洁 腹黑斯文大领导&明媚坚韧小职员 」 「年龄差 老房子着火 又甜又宠 上位者低头」 阮盈秋和冯定怀第一次见面时场面有些尴尬。 父母双亡的外甥女韩棠在学校把人揍了，她作为第一监护人要去向对方家长赔礼道歉。然后，冯定怀就是学生家长。 也就是这次见面，开启了两人那剪不断理还乱的新篇章。 所以后来阮盈秋时不时就会想。 如果那次，韩棠打的是别人，那她和冯定怀还有交集？还有以后吗？ 冯定怀给的答案是否定的，他说： “命运安排你走向我，肯定不会只安排一次，他会一次次把你推到我身边，任我守着分寸，也躲不开这份命中注定。” “秋秋，你就该是我的。”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa0ffbd05adb040f332fa98d9b0674061~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1790830974&x-signature=z3niEYjWqKPhKh8yckceBtgrZeA%3D",
-          "url": "https://fanqienovel.com/page/7625043105279904792"
+          "intro": "婆婆家有个怪异的铁律，12点准时开饭。 所有人对这条铁律无比敬畏，严格遵守。 外市刚搬回来的我，不小心打破了这条铁律。 于是，我受到了严厉，且离了大谱的惩罚。 最后，这条离了大谱的家规直接导致了整个家庭四分五裂， 而制定这条家规的人，也终于了孤家寡人。 想知道这到底是怎样的一条家规吗？",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6b457c23565deea437b52f996d156f59~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791004212&x-signature=Qe8mhsRtvNvtqdsTNUOOSiOROwA%3D",
+          "url": "https://fanqienovel.com/page/7676751997772499992"
         }
       ]
     }

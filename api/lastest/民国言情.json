@@ -1,225 +1,225 @@
 {
   "type": "民国言情",
-  "date": "2026-10-06",
-  "prev_date": "2026-10-05",
+  "date": "2026-10-07",
+  "prev_date": "2026-10-06",
   "category": {
     "name": "民国言情",
     "trend": {
       "new_count": 1,
       "dropped_count": 1,
       "new_books": [
-        "身穿老九门，恶犬她要贴身驯养"
+        "民国佳人"
       ],
       "dropped_books": [
         {
-          "title": "九门：橘子皮他偏为我臣服",
-          "intro": "【九门同人｜私设OOC预警！人物性格、剧情均二次改编，请勿带入原著】 归雁门唐昭禾，一身红衣劲装，腰间悬一对赤红短双刀，是九门之外的第十门。 人人都说陈皮性情乖戾，狠绝难驯，是九门之中惹不起的煞神，本"
+          "title": "身穿老九门，恶犬她要贴身驯养",
+          "intro": "（全文完）盗墓衍生CP陈皮非传统女强文 系统 团宠 OOC警告（部分人物有出入），私设较多，介意误入（男主只能爱女主，陈皮江柚为官配） 江柚cp陈皮 道上的二月红突然收下两个徒弟听说还是两个外乡人，里"
         }
       ],
       "top_risers": [
         {
-          "title": "一朝落难，我成为他府四姨太",
-          "change": "+2"
-        },
-        {
-          "title": "快穿：不择手段也要得到白月",
-          "change": "+2"
+          "title": "潜伏：涯畔有春湄",
+          "change": "+3"
         },
         {
           "title": "惹她干嘛？三岁奶团扛大炮灭敌",
-          "change": "+2"
+          "change": "+3"
+        },
+        {
+          "title": "谍战：双重身份被曝光",
+          "change": "+1"
         }
       ],
       "top_fallers": [
+        {
+          "title": "柏林之外",
+          "change": "-3"
+        },
         {
           "title": "乱世逃荒：带弟妹搬空敌库闯南美",
           "change": "-3"
         },
         {
-          "title": "乱世中的卧龙凤雏",
-          "change": "-1"
-        },
-        {
-          "title": "【民国女尊】浪子回头",
-          "change": "-1"
+          "title": "1937谍海惊鸿：百变三姨太",
+          "change": "-2"
         }
       ],
       "reads_growth": [
         {
           "title": "潜伏：涯畔有春湄",
-          "growth": "+1983"
+          "growth": "+2097"
         },
         {
           "title": "哑女救下少帅后，他求我开口",
           "growth": "+1000"
         },
         {
-          "title": "谍战：双重身份被曝光",
-          "growth": "+253"
+          "title": "盗笔：大力出奇迹强制爱理想型",
+          "growth": "+1000"
         }
       ],
-      "summary": "新增1本上榜；1本掉出（《九门：橘子皮他偏为我臣服》）；《一朝落难，我成为他府四姨太》排名上升+2位；《潜伏：涯畔有春湄》阅读量+1983。"
+      "summary": "新增1本上榜；1本掉出（《身穿老九门，恶犬她要贴身驯养》）；《潜伏：涯畔有春湄》排名上升+3位；《潜伏：涯畔有春湄》阅读量+2097。"
     },
     "books": [
       {
         "title": "穿越之我在民国当魔丸",
         "author": "三种星盘",
-        "reads": "5.3万",
+        "reads": "5万",
         "intro": "段承望穿越了。 好消息：开局穿越成军阀段家的嫡孙，爷爷是北洋系权贵大佬一枚，有兵有地有旧部。 坏消息：绑定的金手指叫「情绪爆宝箱系统」，只有使人情绪大幅度波动，才能掉宝箱。 段承望：…… 没有废物的系统，只有血压不够高的爷爷。 谁说把爷爷气炸就不能走上人生巅峰了？ 爷爷段绍廷：“这钱借得倒是容易，可惜还得还” 段承望大惊失色：“哪有借钱的事？老子凭实力借的钱，凭什么要还啊？” 段承望寻思，这不是他卖老爷子信用的钱么？ 段绍廷：…… 段绍廷：“倘若谋划泄露，舆论沸腾，举世攻讦，该如何化解？” 段承望嘿嘿一笑：“到时候，您直接体面退位，换我上台嘛！” 段绍廷：？？？ 段绍廷：“小小年纪，就开始觊觎老子的基业了？” 段承望理直气壮：“什么你的我的，家国基业，暂时交给爷爷你代为保管而已！” 段绍廷：…… 【穿越 + 架空民国 +沙雕+ 搞笑系统流 + 祖孙互坑 + 轻喜剧年代文 + 无CP】 本书又名：《我在民国当魔丸》《民国：军阀爷爷，您要注意情绪》《北洋末年：反派嫡孙他反了天了》",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o53aebf63be9f10f64e479423c498c9cf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873166&x-signature=Um5CIqTHCx%2FyGxD63papICiWyG8%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o53aebf63be9f10f64e479423c498c9cf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958307&x-signature=H3AxMDJysFBeCQX2Xt1zWXVKERg%3D",
         "url": "https://fanqienovel.com/page/7656417656664230936"
       },
       {
         "title": "哑女救下少帅后，他求我开口",
         "author": "富而千万",
-        "reads": "1.4万",
+        "reads": "1.5万",
         "intro": "宁清烟是天庵镇任人欺凌的哑女。 六岁失声，双亲离世，寄人篱下十三年，剩饭果腹，柴房栖身。 狠心姑妈为换钱财，竟要将她卖给半百地主做填房。 深秋拂晓，她于乌溪河捞起一名身中枪伤的重伤男人，彻夜悉心照料。 谁料她救下的，是津甯谢家独子、靖安军团长谢云峥。 一命换一程，谢云峥带她逃离天庵镇，斩断荒唐婚约，陪她寻访失联母族。 随着陈年旧案层层揭开，苏家灭门惨案、谢云峥被迫背负的罪名、致命伏击，所有阴谋都指向同一个幕后黑手！ 津甯城中皆知，谢云峥冷厉寡情，向来不近女色。 宴会上江家公子仅是替宁清烟递了条披肩，他当即面色沉寒，直接将人带走。 宁清烟尚在恢复期，只能吐出零星字句，被逼得眼眶泛红，磕磕绊绊轻唤： “谢...云...峥。” 汹涌醋意瞬间烟消云散。 谢云峥俯身攥住她的手，冷硬棱角尽数软化，低声缱绻纠缠： “柠柠，再叫一次。” 少女红着脸轻轻摇头。 他不肯放开，耐心哄诱： “就一次。” 【隐忍哑女 × 霸道军阀团长｜民国言情｜追妻甜宠】",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of9865f6a37f91c86eec49b9403884c02~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873166&x-signature=IalUCy89zKEMTnY9tMoqVufOwKY%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of9865f6a37f91c86eec49b9403884c02~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958307&x-signature=Ha0AbZFkrpd2hZ5SJ%2BKTLZtgsnk%3D",
         "url": "https://fanqienovel.com/page/7665358062294666265"
       },
       {
         "title": "盗笔：大力出奇迹强制爱理想型",
         "author": "要长高呀",
-        "reads": "1.2万",
+        "reads": "1.3万",
         "intro": "「粘人乐观爱演作精入室抢劫的女主+生理性喜欢+CP张起灵」 温知宜死了又活了。 以为是自己死后的臆想，地府给的福利，愣是没想到自己能活，遇上了个哪哪都看顺眼的男人！！ 在她的臆想幻境之中她就是老大，她做主，人生不过须臾，食色性也，人之本色。 遇上了，他就跑不了了。 一句，“美人，你跑不掉了。” 就此中药的张起灵与刚恢复健康想要就要得到的沈知宜命运交织在一起了。 起初的张起灵被小祖宗给缠上。 恨透了那些给他下药的人，这是他的报应。 结婚有什么好处至今没感觉到！！ 变成了小祖宗很爱粘人，特别喜欢把他的身体当滑梯…… 还喜欢亲他，经常糊他一脸口水。 虽然娇气爱作但……有点可爱。 害怕的有很多还爱带他去体验各种新奇的体验。 包括但不限于爱演戏他出门直接上演负心汉抛弃妻子的情节，他有点接不住。 “我怀孕了！！” 张起灵：那个是胃。 山上采蘑菇，虽然吃到了毒蘑菇，但是没关系缓缓还能活…… 沈知宜想体验密室逃脱，张起灵表示小case，随便找个墓就可以体验，结果全程她闭着眼八爪鱼般抱着他，但这样不就没有体验？他不太明白，但他会执行 ooc！！突发奇想的灵感，当清冷孤独小哥遇上入室抢劫般黏人精女主。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o846d5e88d18bc1d8ba50ea7492dd5fdc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873166&x-signature=un8CO0qhR%2FGFdAlDQVJ8Twz%2BLaU%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o846d5e88d18bc1d8ba50ea7492dd5fdc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958307&x-signature=viHdkUkeXgvnolpbfTjZkJY6ckU%3D",
         "url": "https://fanqienovel.com/page/7674592207512275993"
       },
       {
-        "title": "柏林之外",
-        "author": "99个钟头",
-        "reads": "9622",
-        "intro": "【架空ww2＋中德恋＋求生＋双洁＋世界和平】 排雷：非穿越，女主只是个普通留德女孩，无上帝视角，会胆小会冲动，有虐的部分。 留德女学生×国防军军官（男1）×党卫队军官（男2） 柏林的狂热，波兰的鲜血，巴黎的夜色，北非的陨落，东线的沉寂，毁掉的家庭…战争留下的是无声的泪水。 我的爱人，我们从不曾遗忘彼此，你何时能够回到我的身边？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2390990323440f55c5faa1fd995a7d43~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873166&x-signature=vOrcIqRA%2BdsvIOockckvk32qn14%3D",
-        "url": "https://fanqienovel.com/page/7665685123857140760"
+        "title": "潜伏：涯畔有春湄",
+        "author": "圆榴榴",
+        "reads": "1.1万",
+        "intro": "潜伏同人文：李涯自潜伏延安后天津站任职，突然有一天年少时的妹妹找上保密局，说奉了死去的父母之命要来与他成婚……",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o46fbd73986fd38128c0b59e3e2e22e7c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958307&x-signature=wEDh9ZbGHAzkdFp%2FEgf0RMITsOg%3D",
+        "url": "https://fanqienovel.com/page/7682276377415912510"
       },
       {
         "title": "九岁匪女，我为父仇踏东北",
         "author": "巴黎花街的冷",
-        "reads": "9592",
+        "reads": "9790",
         "intro": "（年代女强+民国言情+辽西匪寨+为父报仇） 清朝末年，辽西大土匪杜立三被张作霖诱杀后，全家尽数被清兵屠戮殆尽，只留下了他唯一的女儿杜念英被奶娘所救。 从此，九岁的小女孩儿杜念英，开始流落于这白山黑水之间的各个山寨，沦为辽西这一代的女中豪杰。 她一生只有一个信念，那就是为父报仇。 最终因张作霖在奉天皇姑屯被炸身亡之后，她算是彻底的放下了心中的仇恨，从此以身报国，成了一个在抗日战场上的急先锋。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of2f707119979dd58e358741e2cf585ed~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873166&x-signature=xnSV%2BKEJMFCSKC93w3EFk3kpkPM%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of2f707119979dd58e358741e2cf585ed~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958307&x-signature=wZ3rh4ErR9S5AwQ%2F%2BlvzeSIeHp8%3D",
         "url": "https://fanqienovel.com/page/7673070405334076440"
       },
       {
         "title": "乱世中的卧龙凤雏",
         "author": "渝爱二顺渝可",
-        "reads": "9520",
+        "reads": "9494",
         "intro": "生在民国乱世，有一万种活法。同时，也有一万种死法。 乱世中的人就像蛋一样，滚来滚去，被皮鞋践踏，被子弹洞穿…… 与此同时，有些蛋比较幸运，得到破壳而出的机会。然后，有的蛋变成龙凤，有的蛋变成翱翔的鹰，有的蛋变成乌鸦，有的蛋变成百灵鸟，有的蛋变成鸡鸭鹅…… 在远东第一大国际都市——上海，在东方小巴黎的暖风中，有一个五口之家正在干饭，干饭，干饭…… 他们管不了谁当大总统、谁复辟、谁倒台那些狗屁事……因为活着不易。 邻居闻到辣椒炒肉的香气，就恨恨地说：“隔壁的假洋鬼子又吃肉了！” 亲爷爷也骂：“混球，非要给孩子取三个外国名字，崇洋媚外！” 亲爹在背后骂爷爷：“暴君！昏君！跟不上新时代！” 在林朱迪眼里，这是个混乱的年代，而自己只是一个卖报纸的小童工…… “卖报啦！卖报啦！” “有大消息！” “先生！买报纸吗？” “优雅的姐姐，买份报纸吧？” …… 每天把最后一份报纸留给自己看，这是她攀登上流生活的阶梯。 什么是上流生活呢？是那些长着四个轮子的洋车吗？是租界里的花园洋房吗？是夜上海的花天酒地吗？是一块又一块的大洋吗？ …… 或者，是更高远的东西？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3f6089bf7e6231eb25bc833e183731ef~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873166&x-signature=O1AlCOt4pPyg%2FxRPrFGk13DHg50%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3f6089bf7e6231eb25bc833e183731ef~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958307&x-signature=6UovKN2pRxvv4I%2F93R3qWlUXJm4%3D",
         "url": "https://fanqienovel.com/page/7670191137000262681"
       },
       {
-        "title": "潜伏：涯畔有春湄",
-        "author": "圆榴榴",
-        "reads": "8903",
-        "intro": "潜伏同人文：李涯自潜伏延安后天津站任职，突然有一天年少时的妹妹找上保密局，说奉了死去的父母之命要来与他成婚……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o46fbd73986fd38128c0b59e3e2e22e7c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873166&x-signature=%2B6nGGkBtRZ%2BrNdP25t5mDYZk9oo%3D",
-        "url": "https://fanqienovel.com/page/7682276377415912510"
+        "title": "柏林之外",
+        "author": "99个钟头",
+        "reads": "9422",
+        "intro": "【架空ww2＋中德恋＋求生＋双洁＋世界和平】 排雷：非穿越，女主只是个普通留德女孩，无上帝视角，会胆小会冲动，有虐的部分。 留德女学生×国防军军官（男1）×党卫队军官（男2） 柏林的狂热，波兰的鲜血，巴黎的夜色，北非的陨落，东线的沉寂，毁掉的家庭…战争留下的是无声的泪水。 我的爱人，我们从不曾遗忘彼此，你何时能够回到我的身边？",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2390990323440f55c5faa1fd995a7d43~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958307&x-signature=ZkKNN1R%2BmioINLz24S%2FozyiCzgo%3D",
+        "url": "https://fanqienovel.com/page/7665685123857140760"
       },
       {
         "title": "血肉纠缠",
         "author": "暮色浪人",
-        "reads": "6471",
+        "reads": "6238",
         "intro": "千辛万苦中，他攥着她，攥出骨头混着血 一路上人在江湖身不由己，苦也好，累也好，一双手从没有松开过 生是他的人，死是他的鬼",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o484012a3c0257301929e8c150d375eb1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873166&x-signature=S%2BqWuv4TUtmfMiZrGkiQ2s5nLP0%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o484012a3c0257301929e8c150d375eb1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958307&x-signature=7GlN0RdkquqYvj2qMKUUhNFhfUk%3D",
         "url": "https://fanqienovel.com/page/7672301788787133465"
       },
       {
         "title": "潜伏：烧香晋佛",
         "author": "李涯的高级内线1",
-        "reads": "5490",
+        "reads": "5547",
         "intro": "假如陈秋平没有死 但还是她的姐姐去做了余则成的假太太 假如陈秋平在延安的时候就认识了佛龛冯剑 他们之间会擦出怎样的火花 陈秋平 × 李涯，这两个从未在剧中真正交手的“完美特工” 一个信仰坚定的女同志，与一个同样信仰坚定的敌方卧底，在延安的黄土高坡上相遇，彼此试探、相互吸引、最终不得不刀兵相见。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o96fee97381da640d88f9dad56871ce51~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873166&x-signature=SVDmiYb7moyiYVmVDXjX6THlgD8%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o96fee97381da640d88f9dad56871ce51~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958307&x-signature=3RX9sKBC0bf75hu8bVkLPPiLVZI%3D",
         "url": "https://fanqienovel.com/page/7671574539809115198"
       },
       {
         "title": "一朝落难，我成为他府四姨太",
         "author": "三月有点暖",
-        "reads": "4704",
+        "reads": "4977",
         "intro": "“等我学成归来，定风风光光娶你。”曾经的诺言犹在耳畔。 一场祸事，苏家大厦倾颓。 为救双亲，苏晚凝坐上素轿，入沪上席府，成了四姨太。 旧爱未归，新情渐生。 可同时，重重算计也扑面而来。 困在深宅里的落魄千金，到底该何去何从？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o42b4652eec93ba3f73390a1963a175ed~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873166&x-signature=0Q9QOcC61QOhPPw5BxziGWHZ76k%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o42b4652eec93ba3f73390a1963a175ed~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958307&x-signature=5tvR%2BH1Bh2J8ZH23zizT6j75TIE%3D",
         "url": "https://fanqienovel.com/page/7683712438864186392"
       },
       {
         "title": "快穿：不择手段也要得到白月",
         "author": "春粥尺",
-        "reads": "4394",
+        "reads": "4402",
         "intro": "闻年尚在少女懵懂时期，便被委以重任，来到神主身边。那位是神坛上的雪莲，似乎世间万物也不能让他动容半分。可是却只有神自己知道，千万年前，自己不过是深渊泥泞里一只苟且偷生的魔。 爱意、觊觎和求而不得让他曾无数次濒临崩溃。为得到少女回眸，他不惜将真魂作为饵料投入人间，只待猎物入围。而在少女踏入人间的第一步时，青年骨节清晰的手指便已掐住她下颚。 神已俯首，一遍遍祈求。 ——别不要我。 临裘终其半生坐上万人之上，受人景仰。但血污里开出的这朵莲终究堕落，从山间急坠，粉身碎骨，也要握住指尖朱砂。 都说春秋荒唐无处寻，可他愿生生世世赶朝暮",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe296ff7633b8fd66f5d3b483a00a427f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873169&x-signature=EYEzJrEKEB2AA08Zos8bgf0AkR8%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe296ff7633b8fd66f5d3b483a00a427f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958311&x-signature=2OeL%2B32N0uLlavVA4qX76CaTDGM%3D",
         "url": "https://fanqienovel.com/page/7673073304101456920"
       },
       {
         "title": "【民国女尊】浪子回头",
         "author": "辛西娅158",
-        "reads": "4366",
+        "reads": "4086",
         "intro": "【民国女尊+开局满级爽文+结局1v1过程非+女非男c+死遁+破镜重圆+身份差+无追夫火葬场he】 明璎，明家大少君，人称宁城第一纨绔。 别的豪门贵子要么掌兵权、要么控商会、要么走仕途，她却偏偏整日忙着设计珠宝和衣服。 她风流不羁，阅美无数，换枕边人的速度比换季还快。直到遇见郁湲。 初见时，他在台上唱《锁南枝》，水袖翻飞，眼波流转。她一眼就动了心思。 他不贪财，不好名，她便用最廉价的东西——真心，把他骗到了手。 她怜他，爱他，却从来没想过，真的娶他过门。 本性难移。她还是那个风流的大少君，身边从来不缺新欢。 郁湲看在眼里，一次次原谅，一次次失望，直到那颗心被伤透了，再也拼不回来。他终于决定要走。 明璎这才发现，原来他和所有人都不一样。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5dd54ece86a3191105ec97767ac36436~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873169&x-signature=ZoAZU7BrQFnYx2LTV6bye8%2BeL4c%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5dd54ece86a3191105ec97767ac36436~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958311&x-signature=kWGAM9S2hPOxRkrOPs%2FkckV5hBk%3D",
         "url": "https://fanqienovel.com/page/7677049947392314392"
-      },
-      {
-        "title": "乱世逃荒：带弟妹搬空敌库闯南美",
-        "author": "儿时心雨",
-        "reads": "4013",
-        "intro": "【乱世+逃荒+单女主+空间+种田+带娃+发家致富】 林穗一睁眼，穿成了战乱年代一个十一岁的小丫头。 爹被抓了壮丁，活不见人死不见尸；娘难产死了，留下她和八岁的妹妹、五岁的弟弟。奶奶收了张家两斗麦子，要把她卖给傻子当童养媳。 跑。必须跑。 她手上有枚黑戒指，里面藏着半亩黑土地、一口灵泉井，还有个唠叨抠门的小老头管家。 别人逃荒啃树皮，她空间里红薯土豆吃不完；别人逃难病死路边，她灵泉水包治百病；别人被抢被杀，她搬空恶人的库房，一路向南。 从北方小村到县城，从租界到橡港，从橡港到南美，她带着弟妹，一路逃，一路囤，一路把日子过红火。 什么救国，什么历史大势，她不管。 她只是个小人物，只想让弟妹吃饱穿暖，在没有仗的地方，建一座属于自己的庄园。 避雷说明：不参与历史，偶尔帮帮忙，只带弟妹跑路；架空年代，不对应真实历史。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8195929d574b170516ee05a22dc692e9~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873169&x-signature=ncxQhVSsCi32jLJ3ZnawM6TXPsA%3D",
-        "url": "https://fanqienovel.com/page/7679678107908852798"
       },
       {
         "title": "谍战：双重身份被曝光",
         "author": "猛男绿裤衩",
-        "reads": "3688",
+        "reads": "3825",
         "intro": "新作品出炉，欢迎大家前往番茄小说阅读我的作品，希望大家能够喜欢，你们的关注是我写作的动力，我会努力讲好每个故事！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa4272cf381dbbbb82b0741e6daa69cb5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873169&x-signature=SjwKruN%2BsRMCgZOp9PcsvO3KuBs%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa4272cf381dbbbb82b0741e6daa69cb5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958311&x-signature=Zq7LcaVRaHmX2g79aXCzUR%2BCSD8%3D",
         "url": "https://fanqienovel.com/page/7685587279099726910"
-      },
-      {
-        "title": "1937谍海惊鸿：百变三姨太",
-        "author": "阿冬书房",
-        "reads": "3422",
-        "intro": "现代特战女教官隋秋雨魂穿至1937年，成为即将被粮商家主献给日军司令小野真一的三姨太。她凭借“百变”伪装金手指化解初次献祭危机，并与中共地下党李尚忠对接，代号“惊鸿”。潜伏九年间，她将闺蜜沈明贤、二姨太封华玉、厨子程福田及丈夫宋本昌发展为四维情报网络，实现军部渗透与物资暗援，与多疑的小野真一展开高智商周旋。在抗战反攻前夕，她遭遇致命怀疑后巧计金蝉脱壳归队，为最终决战提供核心情报，并在受降仪式上见证敌军战败与各方觉醒救赎，功成身退做回真实的自己。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8e656c2973ede432cca4ff46cba147c3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873169&x-signature=PDND5%2BrBWiQ%2Ffek3EX%2BEv4cU4R4%3D",
-        "url": "https://fanqienovel.com/page/7678176967333530648"
-      },
-      {
-        "title": "南部档案：师姐老想退休了",
-        "author": "火旺土生",
-        "reads": "3413",
-        "intro": "（不是爽文，不后宫，部分情节和原著有出入，女主本相蝴蝶，CP张海侠。） 张海梦也是在南安号上牺牲的探员之一，她的尸体被张海琪带回了厦门，下葬之前，她的尸体上布满了大大小小的蝴蝶，再一恍惚，蝴蝶连带尸体都不见了，在张海琪眼皮子底下消失了。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8bb67e05039deacf611af5b11cc245ab~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873169&x-signature=D9yQaALSNEktVYCv%2FYx2VYjfBtY%3D",
-        "url": "https://fanqienovel.com/page/7658487361486982206"
       },
       {
         "title": "惹她干嘛？三岁奶团扛大炮灭敌",
         "author": "绪山Mahiro",
-        "reads": "3376",
+        "reads": "3524",
         "intro": "大雍朝三岁半的小炼丹师小穗，穿到了1938年的太行山根据地。 原身是个刚断奶的受气包遗孤，连里战士们啃树皮、打空枪，敌人的包围圈越来越紧。 就在连长准备带着最后一颗子弹拼命时，小穗捡起地上的锈弹壳塞进了伴生炼丹空间。 【投喂废弃生铁，空间触发“炼器熔炼”：产出压缩饼干十箱。】 小穗大眼睛一亮，又捡了一颗变形的子弹头塞进去。 【不同型号杂质融合，空间判定为“暴击开炉”：产出牛肉罐头一百箱、崭新莫辛纳甘两百杆！】 小穗悟了：空间根本不认得现代热武器，只要往里塞“废铁”，它就会当成炼丹失败补偿海量口粮与神兵！ 于是抗日战场上多了一个迈着小短腿捡破烂的奶团子。 别人打扫战场抬伤员，她在鬼子战壕里疯狂捡弹壳、废刺刀、破铁桶。 八路军后勤部彻底懵了：怎么小丫头走过的地方，山洞里堆满了万吨精面、急救药品，甚至还有全新的山炮？！ 而小穗发现：如果把鬼子丢掉的铁王八坦克推进去，空间好像要卡死崩出个“东风快递”？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofec11592e0cc2bdf0fe4d3e0bd4baf09~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873169&x-signature=AStGhR%2Bh72L5%2F2IUIJ4k4yRUlmo%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofec11592e0cc2bdf0fe4d3e0bd4baf09~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958311&x-signature=lEveNvSdGOB3c4TakibSNbWbmiE%3D",
         "url": "https://fanqienovel.com/page/7681695303736495128"
+      },
+      {
+        "title": "南部档案：师姐老想退休了",
+        "author": "火旺土生",
+        "reads": "3456",
+        "intro": "（不是爽文，不后宫，部分情节和原著有出入，女主本相蝴蝶，CP张海侠。） 张海梦也是在南安号上牺牲的探员之一，她的尸体被张海琪带回了厦门，下葬之前，她的尸体上布满了大大小小的蝴蝶，再一恍惚，蝴蝶连带尸体都不见了，在张海琪眼皮子底下消失了。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8bb67e05039deacf611af5b11cc245ab~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958311&x-signature=sF6VQr75FaeTk1vOG4jQukmp0Xc%3D",
+        "url": "https://fanqienovel.com/page/7658487361486982206"
+      },
+      {
+        "title": "乱世逃荒：带弟妹搬空敌库闯南美",
+        "author": "儿时心雨",
+        "reads": "3429",
+        "intro": "【乱世+逃荒+单女主+空间+种田+带娃+发家致富】 林穗一睁眼，穿成了战乱年代一个十一岁的小丫头。 爹被抓了壮丁，活不见人死不见尸；娘难产死了，留下她和八岁的妹妹、五岁的弟弟。奶奶收了张家两斗麦子，要把她卖给傻子当童养媳。 跑。必须跑。 她手上有枚黑戒指，里面藏着半亩黑土地、一口灵泉井，还有个唠叨抠门的小老头管家。 别人逃荒啃树皮，她空间里红薯土豆吃不完；别人逃难病死路边，她灵泉水包治百病；别人被抢被杀，她搬空恶人的库房，一路向南。 从北方小村到县城，从租界到橡港，从橡港到南美，她带着弟妹，一路逃，一路囤，一路把日子过红火。 什么救国，什么历史大势，她不管。 她只是个小人物，只想让弟妹吃饱穿暖，在没有仗的地方，建一座属于自己的庄园。 避雷说明：不参与历史，偶尔帮帮忙，只带弟妹跑路；架空年代，不对应真实历史。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8195929d574b170516ee05a22dc692e9~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958311&x-signature=Y4wnHlEazGX6ZIAr%2B4ultKpverM%3D",
+        "url": "https://fanqienovel.com/page/7679678107908852798"
+      },
+      {
+        "title": "1937谍海惊鸿：百变三姨太",
+        "author": "阿冬书房",
+        "reads": "3270",
+        "intro": "现代特战女教官隋秋雨魂穿至1937年，成为即将被粮商家主献给日军司令小野真一的三姨太。她凭借“百变”伪装金手指化解初次献祭危机，并与中共地下党李尚忠对接，代号“惊鸿”。潜伏九年间，她将闺蜜沈明贤、二姨太封华玉、厨子程福田及丈夫宋本昌发展为四维情报网络，实现军部渗透与物资暗援，与多疑的小野真一展开高智商周旋。在抗战反攻前夕，她遭遇致命怀疑后巧计金蝉脱壳归队，为最终决战提供核心情报，并在受降仪式上见证敌军战败与各方觉醒救赎，功成身退做回真实的自己。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8e656c2973ede432cca4ff46cba147c3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958311&x-signature=rnj3ZemPgcMFtXgCg%2FXHDZuTRDc%3D",
+        "url": "https://fanqienovel.com/page/7678176967333530648"
       },
       {
         "title": "张日山，除了你谁都配不我",
         "author": "离荩",
-        "reads": "3202",
+        "reads": "3182",
         "intro": "她是张启山的亲妹妹，却因为一场误会，消失了七年，七年后再出现，她已经是令人闻之生畏的“张姑娘” 她是张家的大小姐，而他只是一个副官，他又怎么配得上她，可是于她而言，除了张日山，又有谁能配得上她？ 张日山，七年了，你还不肯承认吗？ 大小姐，这不合规矩…",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o37a8942ce14d6d4c807093819cca8e3f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873169&x-signature=maliRduX10EAGgaPcGurE2a8NwU%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o37a8942ce14d6d4c807093819cca8e3f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958311&x-signature=VhfAkK7xuMLUMpkNkldRAmtFPGU%3D",
         "url": "https://fanqienovel.com/page/7682859405171231806"
+      },
+      {
+        "title": "民国佳人",
+        "author": "今天断更",
+        "reads": "3076",
+        "intro": "【双洁・强娶豪夺・民国乱世・家国大义】 留洋千金被父亲骗回国，沦为家族交易的棋子。 她暗中布局只为逃走，却在酒会上被铁血陆少将一眼看中。 他用尽手段阻断她所有退路，强行将她囚在自己身边。 她奋力反抗，他步步紧逼。 烽火燃遍山河，爱恨裹挟家国大义。 对立的两人放下私怨，并肩浴血抗敌。 熬过乱世颠沛，他们终于守得属于彼此的圆满。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o004c13a8a593e70244ed6a001088d165~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958311&x-signature=Fg6aEGEv%2Br0gt7AAf72G2I%2B4ZjI%3D",
+        "url": "https://fanqienovel.com/page/7661079024998812697"
       },
       {
         "title": "穿入潜伏：本命李涯把我抓了",
         "author": "开心何包蛋",
-        "reads": "3081",
+        "reads": "2975",
         "intro": "熬夜刷完剧的何微一觉睡醒，就直接穿越到了四十年代的天津。 身上还套着那件粉乎乎的连体兔子睡衣。 本以为是沉浸式美梦，结果转角撞破特务行动，迎面又撞上了剧中那个偏执又悲剧的李涯。 脑子一热，伸手捏了一把对方的胸肌。 美梦瞬间破碎。 “带回保密局，大刑伺候！” 五花大绑，手绢堵嘴，她这个追剧的局外人，一头栽进波诡云谲的谍战漩涡。 她心疼李涯的悲剧，却绝不会认同他的信仰。 熟知所有人的结局，可身处乱世，每一步都如履薄冰。 当屏幕前的观众，跌进了真实的枪火乱世，她该如何活下去？ （宝子们，俺是萌新同人女，本文纯属是为爱发电，自割腿肉。 我写的是我心目中的李涯，可能和你们所理解的有些不一样。 毕竟一千个读者心中就有一千个哈姆雷特。 如果看到不合适，不合理的地方，礼貌提出来，我会贼听劝，保准修改的。 但是恶意差评，你就给我退退退吧！ 令令令申申申申申，吃饭就别骂厨子，免费饭你觉得不好吃，是我对不起你，我向你道歉。 但求你别因为我做饭不好吃，就无缘无故的骂我，无缘无故的给我恶评吧。 在此，再次谢谢那些觉得我饭做的不好吃，又礼貌划走的读者了。）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od08268f5d3bba9a558a974c9a4ce241d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873169&x-signature=NfLKx9ERe19u4MlLFY9N8JYdIIE%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od08268f5d3bba9a558a974c9a4ce241d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958311&x-signature=xJtVn2JEcZgXEpDOz0UT1YV6WBc%3D",
         "url": "https://fanqienovel.com/page/7672970381455526937"
-      },
-      {
-        "title": "身穿老九门，恶犬她要贴身驯养",
-        "author": "春挽秋",
-        "reads": "2993",
-        "intro": "（全文完）盗墓衍生CP陈皮非传统女强文 系统 团宠 OOC警告（部分人物有出入），私设较多，介意误入（男主只能爱女主，陈皮江柚为官配） 江柚cp陈皮 道上的二月红突然收下两个徒弟听说还是两个外乡人，里面居然有女子，还认了齐八爷为干亲。 江柚从天而降 陈皮早期:留在身边观察 陈皮呼吸后:想来是上天对我惩恶扬善的奖赏 江柚:“陈皮你别死!我给你一百文你不死好不好?” 陈皮:她想买下我的命和我同生共死。 江柚:呼吸 陈皮:会不会进展有点太快",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofb63d96670019da07c77647d7c919dbc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873169&x-signature=HJlMNhv%2BRb0HN%2BINxFe4GBWtccw%3D",
-        "url": "https://fanqienovel.com/page/7654637620693060633"
       }
     ]
   },
@@ -230,218 +230,218 @@
         "new_count": 1,
         "dropped_count": 1,
         "new_books": [
-          "身穿老九门，恶犬她要贴身驯养"
+          "民国佳人"
         ],
         "dropped_books": [
           {
-            "title": "九门：橘子皮他偏为我臣服",
-            "intro": "【九门同人｜私设OOC预警！人物性格、剧情均二次改编，请勿带入原著】 归雁门唐昭禾，一身红衣劲装，腰间悬一对赤红短双刀，是九门之外的第十门。 人人都说陈皮性情乖戾，狠绝难驯，是九门之中惹不起的煞神，本"
+            "title": "身穿老九门，恶犬她要贴身驯养",
+            "intro": "（全文完）盗墓衍生CP陈皮非传统女强文 系统 团宠 OOC警告（部分人物有出入），私设较多，介意误入（男主只能爱女主，陈皮江柚为官配） 江柚cp陈皮 道上的二月红突然收下两个徒弟听说还是两个外乡人，里"
           }
         ],
         "top_risers": [
           {
-            "title": "一朝落难，我成为他府四姨太",
-            "change": "+2"
-          },
-          {
-            "title": "快穿：不择手段也要得到白月",
-            "change": "+2"
+            "title": "潜伏：涯畔有春湄",
+            "change": "+3"
           },
           {
             "title": "惹她干嘛？三岁奶团扛大炮灭敌",
-            "change": "+2"
+            "change": "+3"
+          },
+          {
+            "title": "谍战：双重身份被曝光",
+            "change": "+1"
           }
         ],
         "top_fallers": [
+          {
+            "title": "柏林之外",
+            "change": "-3"
+          },
           {
             "title": "乱世逃荒：带弟妹搬空敌库闯南美",
             "change": "-3"
           },
           {
-            "title": "乱世中的卧龙凤雏",
-            "change": "-1"
-          },
-          {
-            "title": "【民国女尊】浪子回头",
-            "change": "-1"
+            "title": "1937谍海惊鸿：百变三姨太",
+            "change": "-2"
           }
         ],
         "reads_growth": [
           {
             "title": "潜伏：涯畔有春湄",
-            "growth": "+1983"
+            "growth": "+2097"
           },
           {
             "title": "哑女救下少帅后，他求我开口",
             "growth": "+1000"
           },
           {
-            "title": "谍战：双重身份被曝光",
-            "growth": "+253"
+            "title": "盗笔：大力出奇迹强制爱理想型",
+            "growth": "+1000"
           }
         ],
-        "summary": "新增1本上榜；1本掉出（《九门：橘子皮他偏为我臣服》）；《一朝落难，我成为他府四姨太》排名上升+2位；《潜伏：涯畔有春湄》阅读量+1983。"
+        "summary": "新增1本上榜；1本掉出（《身穿老九门，恶犬她要贴身驯养》）；《潜伏：涯畔有春湄》排名上升+3位；《潜伏：涯畔有春湄》阅读量+2097。"
       },
       "books": [
         {
           "title": "穿越之我在民国当魔丸",
           "author": "三种星盘",
-          "reads": "5.3万",
+          "reads": "5万",
           "intro": "段承望穿越了。 好消息：开局穿越成军阀段家的嫡孙，爷爷是北洋系权贵大佬一枚，有兵有地有旧部。 坏消息：绑定的金手指叫「情绪爆宝箱系统」，只有使人情绪大幅度波动，才能掉宝箱。 段承望：…… 没有废物的系统，只有血压不够高的爷爷。 谁说把爷爷气炸就不能走上人生巅峰了？ 爷爷段绍廷：“这钱借得倒是容易，可惜还得还” 段承望大惊失色：“哪有借钱的事？老子凭实力借的钱，凭什么要还啊？” 段承望寻思，这不是他卖老爷子信用的钱么？ 段绍廷：…… 段绍廷：“倘若谋划泄露，舆论沸腾，举世攻讦，该如何化解？” 段承望嘿嘿一笑：“到时候，您直接体面退位，换我上台嘛！” 段绍廷：？？？ 段绍廷：“小小年纪，就开始觊觎老子的基业了？” 段承望理直气壮：“什么你的我的，家国基业，暂时交给爷爷你代为保管而已！” 段绍廷：…… 【穿越 + 架空民国 +沙雕+ 搞笑系统流 + 祖孙互坑 + 轻喜剧年代文 + 无CP】 本书又名：《我在民国当魔丸》《民国：军阀爷爷，您要注意情绪》《北洋末年：反派嫡孙他反了天了》",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o53aebf63be9f10f64e479423c498c9cf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873166&x-signature=Um5CIqTHCx%2FyGxD63papICiWyG8%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o53aebf63be9f10f64e479423c498c9cf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958307&x-signature=H3AxMDJysFBeCQX2Xt1zWXVKERg%3D",
           "url": "https://fanqienovel.com/page/7656417656664230936"
         },
         {
           "title": "哑女救下少帅后，他求我开口",
           "author": "富而千万",
-          "reads": "1.4万",
+          "reads": "1.5万",
           "intro": "宁清烟是天庵镇任人欺凌的哑女。 六岁失声，双亲离世，寄人篱下十三年，剩饭果腹，柴房栖身。 狠心姑妈为换钱财，竟要将她卖给半百地主做填房。 深秋拂晓，她于乌溪河捞起一名身中枪伤的重伤男人，彻夜悉心照料。 谁料她救下的，是津甯谢家独子、靖安军团长谢云峥。 一命换一程，谢云峥带她逃离天庵镇，斩断荒唐婚约，陪她寻访失联母族。 随着陈年旧案层层揭开，苏家灭门惨案、谢云峥被迫背负的罪名、致命伏击，所有阴谋都指向同一个幕后黑手！ 津甯城中皆知，谢云峥冷厉寡情，向来不近女色。 宴会上江家公子仅是替宁清烟递了条披肩，他当即面色沉寒，直接将人带走。 宁清烟尚在恢复期，只能吐出零星字句，被逼得眼眶泛红，磕磕绊绊轻唤： “谢...云...峥。” 汹涌醋意瞬间烟消云散。 谢云峥俯身攥住她的手，冷硬棱角尽数软化，低声缱绻纠缠： “柠柠，再叫一次。” 少女红着脸轻轻摇头。 他不肯放开，耐心哄诱： “就一次。” 【隐忍哑女 × 霸道军阀团长｜民国言情｜追妻甜宠】",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of9865f6a37f91c86eec49b9403884c02~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873166&x-signature=IalUCy89zKEMTnY9tMoqVufOwKY%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of9865f6a37f91c86eec49b9403884c02~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958307&x-signature=Ha0AbZFkrpd2hZ5SJ%2BKTLZtgsnk%3D",
           "url": "https://fanqienovel.com/page/7665358062294666265"
         },
         {
           "title": "盗笔：大力出奇迹强制爱理想型",
           "author": "要长高呀",
-          "reads": "1.2万",
+          "reads": "1.3万",
           "intro": "「粘人乐观爱演作精入室抢劫的女主+生理性喜欢+CP张起灵」 温知宜死了又活了。 以为是自己死后的臆想，地府给的福利，愣是没想到自己能活，遇上了个哪哪都看顺眼的男人！！ 在她的臆想幻境之中她就是老大，她做主，人生不过须臾，食色性也，人之本色。 遇上了，他就跑不了了。 一句，“美人，你跑不掉了。” 就此中药的张起灵与刚恢复健康想要就要得到的沈知宜命运交织在一起了。 起初的张起灵被小祖宗给缠上。 恨透了那些给他下药的人，这是他的报应。 结婚有什么好处至今没感觉到！！ 变成了小祖宗很爱粘人，特别喜欢把他的身体当滑梯…… 还喜欢亲他，经常糊他一脸口水。 虽然娇气爱作但……有点可爱。 害怕的有很多还爱带他去体验各种新奇的体验。 包括但不限于爱演戏他出门直接上演负心汉抛弃妻子的情节，他有点接不住。 “我怀孕了！！” 张起灵：那个是胃。 山上采蘑菇，虽然吃到了毒蘑菇，但是没关系缓缓还能活…… 沈知宜想体验密室逃脱，张起灵表示小case，随便找个墓就可以体验，结果全程她闭着眼八爪鱼般抱着他，但这样不就没有体验？他不太明白，但他会执行 ooc！！突发奇想的灵感，当清冷孤独小哥遇上入室抢劫般黏人精女主。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o846d5e88d18bc1d8ba50ea7492dd5fdc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873166&x-signature=un8CO0qhR%2FGFdAlDQVJ8Twz%2BLaU%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o846d5e88d18bc1d8ba50ea7492dd5fdc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958307&x-signature=viHdkUkeXgvnolpbfTjZkJY6ckU%3D",
           "url": "https://fanqienovel.com/page/7674592207512275993"
         },
         {
-          "title": "柏林之外",
-          "author": "99个钟头",
-          "reads": "9622",
-          "intro": "【架空ww2＋中德恋＋求生＋双洁＋世界和平】 排雷：非穿越，女主只是个普通留德女孩，无上帝视角，会胆小会冲动，有虐的部分。 留德女学生×国防军军官（男1）×党卫队军官（男2） 柏林的狂热，波兰的鲜血，巴黎的夜色，北非的陨落，东线的沉寂，毁掉的家庭…战争留下的是无声的泪水。 我的爱人，我们从不曾遗忘彼此，你何时能够回到我的身边？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2390990323440f55c5faa1fd995a7d43~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873166&x-signature=vOrcIqRA%2BdsvIOockckvk32qn14%3D",
-          "url": "https://fanqienovel.com/page/7665685123857140760"
+          "title": "潜伏：涯畔有春湄",
+          "author": "圆榴榴",
+          "reads": "1.1万",
+          "intro": "潜伏同人文：李涯自潜伏延安后天津站任职，突然有一天年少时的妹妹找上保密局，说奉了死去的父母之命要来与他成婚……",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o46fbd73986fd38128c0b59e3e2e22e7c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958307&x-signature=wEDh9ZbGHAzkdFp%2FEgf0RMITsOg%3D",
+          "url": "https://fanqienovel.com/page/7682276377415912510"
         },
         {
           "title": "九岁匪女，我为父仇踏东北",
           "author": "巴黎花街的冷",
-          "reads": "9592",
+          "reads": "9790",
           "intro": "（年代女强+民国言情+辽西匪寨+为父报仇） 清朝末年，辽西大土匪杜立三被张作霖诱杀后，全家尽数被清兵屠戮殆尽，只留下了他唯一的女儿杜念英被奶娘所救。 从此，九岁的小女孩儿杜念英，开始流落于这白山黑水之间的各个山寨，沦为辽西这一代的女中豪杰。 她一生只有一个信念，那就是为父报仇。 最终因张作霖在奉天皇姑屯被炸身亡之后，她算是彻底的放下了心中的仇恨，从此以身报国，成了一个在抗日战场上的急先锋。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of2f707119979dd58e358741e2cf585ed~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873166&x-signature=xnSV%2BKEJMFCSKC93w3EFk3kpkPM%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of2f707119979dd58e358741e2cf585ed~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958307&x-signature=wZ3rh4ErR9S5AwQ%2F%2BlvzeSIeHp8%3D",
           "url": "https://fanqienovel.com/page/7673070405334076440"
         },
         {
           "title": "乱世中的卧龙凤雏",
           "author": "渝爱二顺渝可",
-          "reads": "9520",
+          "reads": "9494",
           "intro": "生在民国乱世，有一万种活法。同时，也有一万种死法。 乱世中的人就像蛋一样，滚来滚去，被皮鞋践踏，被子弹洞穿…… 与此同时，有些蛋比较幸运，得到破壳而出的机会。然后，有的蛋变成龙凤，有的蛋变成翱翔的鹰，有的蛋变成乌鸦，有的蛋变成百灵鸟，有的蛋变成鸡鸭鹅…… 在远东第一大国际都市——上海，在东方小巴黎的暖风中，有一个五口之家正在干饭，干饭，干饭…… 他们管不了谁当大总统、谁复辟、谁倒台那些狗屁事……因为活着不易。 邻居闻到辣椒炒肉的香气，就恨恨地说：“隔壁的假洋鬼子又吃肉了！” 亲爷爷也骂：“混球，非要给孩子取三个外国名字，崇洋媚外！” 亲爹在背后骂爷爷：“暴君！昏君！跟不上新时代！” 在林朱迪眼里，这是个混乱的年代，而自己只是一个卖报纸的小童工…… “卖报啦！卖报啦！” “有大消息！” “先生！买报纸吗？” “优雅的姐姐，买份报纸吧？” …… 每天把最后一份报纸留给自己看，这是她攀登上流生活的阶梯。 什么是上流生活呢？是那些长着四个轮子的洋车吗？是租界里的花园洋房吗？是夜上海的花天酒地吗？是一块又一块的大洋吗？ …… 或者，是更高远的东西？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3f6089bf7e6231eb25bc833e183731ef~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873166&x-signature=O1AlCOt4pPyg%2FxRPrFGk13DHg50%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3f6089bf7e6231eb25bc833e183731ef~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958307&x-signature=6UovKN2pRxvv4I%2F93R3qWlUXJm4%3D",
           "url": "https://fanqienovel.com/page/7670191137000262681"
         },
         {
-          "title": "潜伏：涯畔有春湄",
-          "author": "圆榴榴",
-          "reads": "8903",
-          "intro": "潜伏同人文：李涯自潜伏延安后天津站任职，突然有一天年少时的妹妹找上保密局，说奉了死去的父母之命要来与他成婚……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o46fbd73986fd38128c0b59e3e2e22e7c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873166&x-signature=%2B6nGGkBtRZ%2BrNdP25t5mDYZk9oo%3D",
-          "url": "https://fanqienovel.com/page/7682276377415912510"
+          "title": "柏林之外",
+          "author": "99个钟头",
+          "reads": "9422",
+          "intro": "【架空ww2＋中德恋＋求生＋双洁＋世界和平】 排雷：非穿越，女主只是个普通留德女孩，无上帝视角，会胆小会冲动，有虐的部分。 留德女学生×国防军军官（男1）×党卫队军官（男2） 柏林的狂热，波兰的鲜血，巴黎的夜色，北非的陨落，东线的沉寂，毁掉的家庭…战争留下的是无声的泪水。 我的爱人，我们从不曾遗忘彼此，你何时能够回到我的身边？",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2390990323440f55c5faa1fd995a7d43~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958307&x-signature=ZkKNN1R%2BmioINLz24S%2FozyiCzgo%3D",
+          "url": "https://fanqienovel.com/page/7665685123857140760"
         },
         {
           "title": "血肉纠缠",
           "author": "暮色浪人",
-          "reads": "6471",
+          "reads": "6238",
           "intro": "千辛万苦中，他攥着她，攥出骨头混着血 一路上人在江湖身不由己，苦也好，累也好，一双手从没有松开过 生是他的人，死是他的鬼",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o484012a3c0257301929e8c150d375eb1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873166&x-signature=S%2BqWuv4TUtmfMiZrGkiQ2s5nLP0%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o484012a3c0257301929e8c150d375eb1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958307&x-signature=7GlN0RdkquqYvj2qMKUUhNFhfUk%3D",
           "url": "https://fanqienovel.com/page/7672301788787133465"
         },
         {
           "title": "潜伏：烧香晋佛",
           "author": "李涯的高级内线1",
-          "reads": "5490",
+          "reads": "5547",
           "intro": "假如陈秋平没有死 但还是她的姐姐去做了余则成的假太太 假如陈秋平在延安的时候就认识了佛龛冯剑 他们之间会擦出怎样的火花 陈秋平 × 李涯，这两个从未在剧中真正交手的“完美特工” 一个信仰坚定的女同志，与一个同样信仰坚定的敌方卧底，在延安的黄土高坡上相遇，彼此试探、相互吸引、最终不得不刀兵相见。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o96fee97381da640d88f9dad56871ce51~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873166&x-signature=SVDmiYb7moyiYVmVDXjX6THlgD8%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o96fee97381da640d88f9dad56871ce51~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958307&x-signature=3RX9sKBC0bf75hu8bVkLPPiLVZI%3D",
           "url": "https://fanqienovel.com/page/7671574539809115198"
         },
         {
           "title": "一朝落难，我成为他府四姨太",
           "author": "三月有点暖",
-          "reads": "4704",
+          "reads": "4977",
           "intro": "“等我学成归来，定风风光光娶你。”曾经的诺言犹在耳畔。 一场祸事，苏家大厦倾颓。 为救双亲，苏晚凝坐上素轿，入沪上席府，成了四姨太。 旧爱未归，新情渐生。 可同时，重重算计也扑面而来。 困在深宅里的落魄千金，到底该何去何从？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o42b4652eec93ba3f73390a1963a175ed~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873166&x-signature=0Q9QOcC61QOhPPw5BxziGWHZ76k%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o42b4652eec93ba3f73390a1963a175ed~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958307&x-signature=5tvR%2BH1Bh2J8ZH23zizT6j75TIE%3D",
           "url": "https://fanqienovel.com/page/7683712438864186392"
         },
         {
           "title": "快穿：不择手段也要得到白月",
           "author": "春粥尺",
-          "reads": "4394",
+          "reads": "4402",
           "intro": "闻年尚在少女懵懂时期，便被委以重任，来到神主身边。那位是神坛上的雪莲，似乎世间万物也不能让他动容半分。可是却只有神自己知道，千万年前，自己不过是深渊泥泞里一只苟且偷生的魔。 爱意、觊觎和求而不得让他曾无数次濒临崩溃。为得到少女回眸，他不惜将真魂作为饵料投入人间，只待猎物入围。而在少女踏入人间的第一步时，青年骨节清晰的手指便已掐住她下颚。 神已俯首，一遍遍祈求。 ——别不要我。 临裘终其半生坐上万人之上，受人景仰。但血污里开出的这朵莲终究堕落，从山间急坠，粉身碎骨，也要握住指尖朱砂。 都说春秋荒唐无处寻，可他愿生生世世赶朝暮",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe296ff7633b8fd66f5d3b483a00a427f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873169&x-signature=EYEzJrEKEB2AA08Zos8bgf0AkR8%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe296ff7633b8fd66f5d3b483a00a427f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958311&x-signature=2OeL%2B32N0uLlavVA4qX76CaTDGM%3D",
           "url": "https://fanqienovel.com/page/7673073304101456920"
         },
         {
           "title": "【民国女尊】浪子回头",
           "author": "辛西娅158",
-          "reads": "4366",
+          "reads": "4086",
           "intro": "【民国女尊+开局满级爽文+结局1v1过程非+女非男c+死遁+破镜重圆+身份差+无追夫火葬场he】 明璎，明家大少君，人称宁城第一纨绔。 别的豪门贵子要么掌兵权、要么控商会、要么走仕途，她却偏偏整日忙着设计珠宝和衣服。 她风流不羁，阅美无数，换枕边人的速度比换季还快。直到遇见郁湲。 初见时，他在台上唱《锁南枝》，水袖翻飞，眼波流转。她一眼就动了心思。 他不贪财，不好名，她便用最廉价的东西——真心，把他骗到了手。 她怜他，爱他，却从来没想过，真的娶他过门。 本性难移。她还是那个风流的大少君，身边从来不缺新欢。 郁湲看在眼里，一次次原谅，一次次失望，直到那颗心被伤透了，再也拼不回来。他终于决定要走。 明璎这才发现，原来他和所有人都不一样。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5dd54ece86a3191105ec97767ac36436~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873169&x-signature=ZoAZU7BrQFnYx2LTV6bye8%2BeL4c%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5dd54ece86a3191105ec97767ac36436~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958311&x-signature=kWGAM9S2hPOxRkrOPs%2FkckV5hBk%3D",
           "url": "https://fanqienovel.com/page/7677049947392314392"
-        },
-        {
-          "title": "乱世逃荒：带弟妹搬空敌库闯南美",
-          "author": "儿时心雨",
-          "reads": "4013",
-          "intro": "【乱世+逃荒+单女主+空间+种田+带娃+发家致富】 林穗一睁眼，穿成了战乱年代一个十一岁的小丫头。 爹被抓了壮丁，活不见人死不见尸；娘难产死了，留下她和八岁的妹妹、五岁的弟弟。奶奶收了张家两斗麦子，要把她卖给傻子当童养媳。 跑。必须跑。 她手上有枚黑戒指，里面藏着半亩黑土地、一口灵泉井，还有个唠叨抠门的小老头管家。 别人逃荒啃树皮，她空间里红薯土豆吃不完；别人逃难病死路边，她灵泉水包治百病；别人被抢被杀，她搬空恶人的库房，一路向南。 从北方小村到县城，从租界到橡港，从橡港到南美，她带着弟妹，一路逃，一路囤，一路把日子过红火。 什么救国，什么历史大势，她不管。 她只是个小人物，只想让弟妹吃饱穿暖，在没有仗的地方，建一座属于自己的庄园。 避雷说明：不参与历史，偶尔帮帮忙，只带弟妹跑路；架空年代，不对应真实历史。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8195929d574b170516ee05a22dc692e9~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873169&x-signature=ncxQhVSsCi32jLJ3ZnawM6TXPsA%3D",
-          "url": "https://fanqienovel.com/page/7679678107908852798"
         },
         {
           "title": "谍战：双重身份被曝光",
           "author": "猛男绿裤衩",
-          "reads": "3688",
+          "reads": "3825",
           "intro": "新作品出炉，欢迎大家前往番茄小说阅读我的作品，希望大家能够喜欢，你们的关注是我写作的动力，我会努力讲好每个故事！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa4272cf381dbbbb82b0741e6daa69cb5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873169&x-signature=SjwKruN%2BsRMCgZOp9PcsvO3KuBs%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa4272cf381dbbbb82b0741e6daa69cb5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958311&x-signature=Zq7LcaVRaHmX2g79aXCzUR%2BCSD8%3D",
           "url": "https://fanqienovel.com/page/7685587279099726910"
-        },
-        {
-          "title": "1937谍海惊鸿：百变三姨太",
-          "author": "阿冬书房",
-          "reads": "3422",
-          "intro": "现代特战女教官隋秋雨魂穿至1937年，成为即将被粮商家主献给日军司令小野真一的三姨太。她凭借“百变”伪装金手指化解初次献祭危机，并与中共地下党李尚忠对接，代号“惊鸿”。潜伏九年间，她将闺蜜沈明贤、二姨太封华玉、厨子程福田及丈夫宋本昌发展为四维情报网络，实现军部渗透与物资暗援，与多疑的小野真一展开高智商周旋。在抗战反攻前夕，她遭遇致命怀疑后巧计金蝉脱壳归队，为最终决战提供核心情报，并在受降仪式上见证敌军战败与各方觉醒救赎，功成身退做回真实的自己。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8e656c2973ede432cca4ff46cba147c3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873169&x-signature=PDND5%2BrBWiQ%2Ffek3EX%2BEv4cU4R4%3D",
-          "url": "https://fanqienovel.com/page/7678176967333530648"
-        },
-        {
-          "title": "南部档案：师姐老想退休了",
-          "author": "火旺土生",
-          "reads": "3413",
-          "intro": "（不是爽文，不后宫，部分情节和原著有出入，女主本相蝴蝶，CP张海侠。） 张海梦也是在南安号上牺牲的探员之一，她的尸体被张海琪带回了厦门，下葬之前，她的尸体上布满了大大小小的蝴蝶，再一恍惚，蝴蝶连带尸体都不见了，在张海琪眼皮子底下消失了。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8bb67e05039deacf611af5b11cc245ab~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873169&x-signature=D9yQaALSNEktVYCv%2FYx2VYjfBtY%3D",
-          "url": "https://fanqienovel.com/page/7658487361486982206"
         },
         {
           "title": "惹她干嘛？三岁奶团扛大炮灭敌",
           "author": "绪山Mahiro",
-          "reads": "3376",
+          "reads": "3524",
           "intro": "大雍朝三岁半的小炼丹师小穗，穿到了1938年的太行山根据地。 原身是个刚断奶的受气包遗孤，连里战士们啃树皮、打空枪，敌人的包围圈越来越紧。 就在连长准备带着最后一颗子弹拼命时，小穗捡起地上的锈弹壳塞进了伴生炼丹空间。 【投喂废弃生铁，空间触发“炼器熔炼”：产出压缩饼干十箱。】 小穗大眼睛一亮，又捡了一颗变形的子弹头塞进去。 【不同型号杂质融合，空间判定为“暴击开炉”：产出牛肉罐头一百箱、崭新莫辛纳甘两百杆！】 小穗悟了：空间根本不认得现代热武器，只要往里塞“废铁”，它就会当成炼丹失败补偿海量口粮与神兵！ 于是抗日战场上多了一个迈着小短腿捡破烂的奶团子。 别人打扫战场抬伤员，她在鬼子战壕里疯狂捡弹壳、废刺刀、破铁桶。 八路军后勤部彻底懵了：怎么小丫头走过的地方，山洞里堆满了万吨精面、急救药品，甚至还有全新的山炮？！ 而小穗发现：如果把鬼子丢掉的铁王八坦克推进去，空间好像要卡死崩出个“东风快递”？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofec11592e0cc2bdf0fe4d3e0bd4baf09~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873169&x-signature=AStGhR%2Bh72L5%2F2IUIJ4k4yRUlmo%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofec11592e0cc2bdf0fe4d3e0bd4baf09~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958311&x-signature=lEveNvSdGOB3c4TakibSNbWbmiE%3D",
           "url": "https://fanqienovel.com/page/7681695303736495128"
+        },
+        {
+          "title": "南部档案：师姐老想退休了",
+          "author": "火旺土生",
+          "reads": "3456",
+          "intro": "（不是爽文，不后宫，部分情节和原著有出入，女主本相蝴蝶，CP张海侠。） 张海梦也是在南安号上牺牲的探员之一，她的尸体被张海琪带回了厦门，下葬之前，她的尸体上布满了大大小小的蝴蝶，再一恍惚，蝴蝶连带尸体都不见了，在张海琪眼皮子底下消失了。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8bb67e05039deacf611af5b11cc245ab~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958311&x-signature=sF6VQr75FaeTk1vOG4jQukmp0Xc%3D",
+          "url": "https://fanqienovel.com/page/7658487361486982206"
+        },
+        {
+          "title": "乱世逃荒：带弟妹搬空敌库闯南美",
+          "author": "儿时心雨",
+          "reads": "3429",
+          "intro": "【乱世+逃荒+单女主+空间+种田+带娃+发家致富】 林穗一睁眼，穿成了战乱年代一个十一岁的小丫头。 爹被抓了壮丁，活不见人死不见尸；娘难产死了，留下她和八岁的妹妹、五岁的弟弟。奶奶收了张家两斗麦子，要把她卖给傻子当童养媳。 跑。必须跑。 她手上有枚黑戒指，里面藏着半亩黑土地、一口灵泉井，还有个唠叨抠门的小老头管家。 别人逃荒啃树皮，她空间里红薯土豆吃不完；别人逃难病死路边，她灵泉水包治百病；别人被抢被杀，她搬空恶人的库房，一路向南。 从北方小村到县城，从租界到橡港，从橡港到南美，她带着弟妹，一路逃，一路囤，一路把日子过红火。 什么救国，什么历史大势，她不管。 她只是个小人物，只想让弟妹吃饱穿暖，在没有仗的地方，建一座属于自己的庄园。 避雷说明：不参与历史，偶尔帮帮忙，只带弟妹跑路；架空年代，不对应真实历史。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8195929d574b170516ee05a22dc692e9~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958311&x-signature=Y4wnHlEazGX6ZIAr%2B4ultKpverM%3D",
+          "url": "https://fanqienovel.com/page/7679678107908852798"
+        },
+        {
+          "title": "1937谍海惊鸿：百变三姨太",
+          "author": "阿冬书房",
+          "reads": "3270",
+          "intro": "现代特战女教官隋秋雨魂穿至1937年，成为即将被粮商家主献给日军司令小野真一的三姨太。她凭借“百变”伪装金手指化解初次献祭危机，并与中共地下党李尚忠对接，代号“惊鸿”。潜伏九年间，她将闺蜜沈明贤、二姨太封华玉、厨子程福田及丈夫宋本昌发展为四维情报网络，实现军部渗透与物资暗援，与多疑的小野真一展开高智商周旋。在抗战反攻前夕，她遭遇致命怀疑后巧计金蝉脱壳归队，为最终决战提供核心情报，并在受降仪式上见证敌军战败与各方觉醒救赎，功成身退做回真实的自己。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8e656c2973ede432cca4ff46cba147c3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958311&x-signature=rnj3ZemPgcMFtXgCg%2FXHDZuTRDc%3D",
+          "url": "https://fanqienovel.com/page/7678176967333530648"
         },
         {
           "title": "张日山，除了你谁都配不我",
           "author": "离荩",
-          "reads": "3202",
+          "reads": "3182",
           "intro": "她是张启山的亲妹妹，却因为一场误会，消失了七年，七年后再出现，她已经是令人闻之生畏的“张姑娘” 她是张家的大小姐，而他只是一个副官，他又怎么配得上她，可是于她而言，除了张日山，又有谁能配得上她？ 张日山，七年了，你还不肯承认吗？ 大小姐，这不合规矩…",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o37a8942ce14d6d4c807093819cca8e3f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873169&x-signature=maliRduX10EAGgaPcGurE2a8NwU%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o37a8942ce14d6d4c807093819cca8e3f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958311&x-signature=VhfAkK7xuMLUMpkNkldRAmtFPGU%3D",
           "url": "https://fanqienovel.com/page/7682859405171231806"
+        },
+        {
+          "title": "民国佳人",
+          "author": "今天断更",
+          "reads": "3076",
+          "intro": "【双洁・强娶豪夺・民国乱世・家国大义】 留洋千金被父亲骗回国，沦为家族交易的棋子。 她暗中布局只为逃走，却在酒会上被铁血陆少将一眼看中。 他用尽手段阻断她所有退路，强行将她囚在自己身边。 她奋力反抗，他步步紧逼。 烽火燃遍山河，爱恨裹挟家国大义。 对立的两人放下私怨，并肩浴血抗敌。 熬过乱世颠沛，他们终于守得属于彼此的圆满。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o004c13a8a593e70244ed6a001088d165~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958311&x-signature=Fg6aEGEv%2Br0gt7AAf72G2I%2B4ZjI%3D",
+          "url": "https://fanqienovel.com/page/7661079024998812697"
         },
         {
           "title": "穿入潜伏：本命李涯把我抓了",
           "author": "开心何包蛋",
-          "reads": "3081",
+          "reads": "2975",
           "intro": "熬夜刷完剧的何微一觉睡醒，就直接穿越到了四十年代的天津。 身上还套着那件粉乎乎的连体兔子睡衣。 本以为是沉浸式美梦，结果转角撞破特务行动，迎面又撞上了剧中那个偏执又悲剧的李涯。 脑子一热，伸手捏了一把对方的胸肌。 美梦瞬间破碎。 “带回保密局，大刑伺候！” 五花大绑，手绢堵嘴，她这个追剧的局外人，一头栽进波诡云谲的谍战漩涡。 她心疼李涯的悲剧，却绝不会认同他的信仰。 熟知所有人的结局，可身处乱世，每一步都如履薄冰。 当屏幕前的观众，跌进了真实的枪火乱世，她该如何活下去？ （宝子们，俺是萌新同人女，本文纯属是为爱发电，自割腿肉。 我写的是我心目中的李涯，可能和你们所理解的有些不一样。 毕竟一千个读者心中就有一千个哈姆雷特。 如果看到不合适，不合理的地方，礼貌提出来，我会贼听劝，保准修改的。 但是恶意差评，你就给我退退退吧！ 令令令申申申申申，吃饭就别骂厨子，免费饭你觉得不好吃，是我对不起你，我向你道歉。 但求你别因为我做饭不好吃，就无缘无故的骂我，无缘无故的给我恶评吧。 在此，再次谢谢那些觉得我饭做的不好吃，又礼貌划走的读者了。）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od08268f5d3bba9a558a974c9a4ce241d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873169&x-signature=NfLKx9ERe19u4MlLFY9N8JYdIIE%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od08268f5d3bba9a558a974c9a4ce241d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791958311&x-signature=xJtVn2JEcZgXEpDOz0UT1YV6WBc%3D",
           "url": "https://fanqienovel.com/page/7672970381455526937"
-        },
-        {
-          "title": "身穿老九门，恶犬她要贴身驯养",
-          "author": "春挽秋",
-          "reads": "2993",
-          "intro": "（全文完）盗墓衍生CP陈皮非传统女强文 系统 团宠 OOC警告（部分人物有出入），私设较多，介意误入（男主只能爱女主，陈皮江柚为官配） 江柚cp陈皮 道上的二月红突然收下两个徒弟听说还是两个外乡人，里面居然有女子，还认了齐八爷为干亲。 江柚从天而降 陈皮早期:留在身边观察 陈皮呼吸后:想来是上天对我惩恶扬善的奖赏 江柚:“陈皮你别死!我给你一百文你不死好不好?” 陈皮:她想买下我的命和我同生共死。 江柚:呼吸 陈皮:会不会进展有点太快",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofb63d96670019da07c77647d7c919dbc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1791873169&x-signature=HJlMNhv%2BRb0HN%2BINxFe4GBWtccw%3D",
-          "url": "https://fanqienovel.com/page/7654637620693060633"
         }
       ]
     }

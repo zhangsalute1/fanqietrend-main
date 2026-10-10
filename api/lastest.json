@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-09",
-  "prev_date": "2026-10-08",
+  "date": "2026-10-10",
+  "prev_date": "2026-10-09",
   "types": [
     {
       "type": "all",
       "url": "api/lastest/all.json",
       "category_count": 18,
-      "book_count": 320
+      "book_count": 360
     },
     {
       "type": "古风世情",
@@ -46,7 +46,7 @@
     {
       "type": "现言脑洞",
       "url": "api/lastest/%E7%8E%B0%E8%A8%80%E8%84%91%E6%B4%9E.json",
-      "book_count": 0
+      "book_count": 20
     },
     {
       "type": "宫斗宅斗",
@@ -56,7 +56,7 @@
     {
       "type": "悬疑脑洞",
       "url": "api/lastest/%E6%82%AC%E7%96%91%E8%84%91%E6%B4%9E.json",
-      "book_count": 0
+      "book_count": 20
     },
     {
       "type": "古言脑洞",

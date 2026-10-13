@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-12",
-  "prev_date": "2026-10-11",
+  "date": "2026-10-13",
+  "prev_date": "2026-10-12",
   "types": [
     {
       "type": "all",
       "url": "api/lastest/all.json",
       "category_count": 18,
-      "book_count": 330
+      "book_count": 290
     },
     {
       "type": "古风世情",
       "url": "api/lastest/%E5%8F%A4%E9%A3%8E%E4%B8%96%E6%83%85.json",
-      "book_count": 10
+      "book_count": 20
     },
     {
       "type": "科幻末世",
@@ -26,12 +26,12 @@
     {
       "type": "女频衍生",
       "url": "api/lastest/%E5%A5%B3%E9%A2%91%E8%A1%8D%E7%94%9F.json",
-      "book_count": 20
+      "book_count": 0
     },
     {
       "type": "玄幻言情",
       "url": "api/lastest/%E7%8E%84%E5%B9%BB%E8%A8%80%E6%83%85.json",
-      "book_count": 20
+      "book_count": 10
     },
     {
       "type": "种田",
@@ -46,12 +46,12 @@
     {
       "type": "现言脑洞",
       "url": "api/lastest/%E7%8E%B0%E8%A8%80%E8%84%91%E6%B4%9E.json",
-      "book_count": 20
+      "book_count": 0
     },
     {
       "type": "宫斗宅斗",
       "url": "api/lastest/%E5%AE%AB%E6%96%97%E5%AE%85%E6%96%97.json",
-      "book_count": 20
+      "book_count": 0
     },
     {
       "type": "悬疑脑洞",
@@ -71,7 +71,7 @@
     {
       "type": "青春甜宠",
       "url": "api/lastest/%E9%9D%92%E6%98%A5%E7%94%9C%E5%AE%A0.json",
-      "book_count": 0
+      "book_count": 20
     },
     {
       "type": "星光璀璨",

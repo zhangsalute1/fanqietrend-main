@@ -1,235 +1,225 @@
 {
   "type": "星光璀璨",
-  "date": "2026-10-20",
-  "prev_date": "2026-10-19",
+  "date": "2026-10-21",
+  "prev_date": "2026-10-20",
   "category": {
     "name": "星光璀璨",
     "trend": {
-      "new_count": 3,
-      "dropped_count": 3,
+      "new_count": 1,
+      "dropped_count": 1,
       "new_books": [
-        "团播塌房后，我靠一张脸杀疯了",
-        "养成系：天资是一种残忍的东西",
-        "团播神颜：神豪打赏竟是我自己"
+        "团播：神豪系统是我榜一"
       ],
       "dropped_books": [
         {
-          "title": "当高考状元穿成娱乐圈黑红女星",
-          "intro": "【顶级魅魔and顶级醋王】 【娱乐圈顶流女星x京圈恋爱脑霸总】 【爽文+娱乐圈+穿书+打脸+综艺+双强+超级甜文】 许听鱼作为全国高考状元，在赶去庆功宴的路上被一辆大货车创飞了。 一醒来就变成了自己看"
-        },
-        {
-          "title": "从韩娱练习生开始成为巨星",
-          "intro": "[韩娱+缺德女团学+论坛体乐子人+文抄公] 郁怀薇高中三大面试全过，却被父母阻挠，只得乖乖读书工作当码农，等下班后唱歌跳舞当网红。 某次加班后，她翻跳某团新歌猝死，被巨星梦想系统绑架穿成十四岁刚到南韩"
-        },
-        {
-          "title": "穿成直播文路人，她直播爆火了",
-          "intro": "【前期团播+后期个播+多才多艺+万人迷爽文+1v1】 ps：纯无脑文，女主火得特快，女主最美的那种。 因为一场意外，苏意羡穿越到了另外一个世界，据说这个世界由一本小说衍化而成，她替代了一个没有出现过的"
+          "title": "惊！娱乐圈糊咖老公是神秘大佬",
+          "intro": "【1V1+隐婚+SC+年龄差6岁+严肃沉稳大领导VS表面温婉实际内心戏超多的笨蛋美人】 木星瑶娱乐圈摸爬滚打近十年，归来仍是素人。 长了一张绝美的脸，却因不肯接受潜规则，沦为无人问津的小透明。 一次次"
         }
       ],
       "top_risers": [
         {
-          "title": "直播：清冷美人他是万人迷",
-          "change": "+6"
+          "title": "养成系：天资是一种残忍的东西",
+          "change": "+4"
         },
         {
-          "title": "栀香入怀",
-          "change": "+3"
+          "title": "主播跑路三年回归？神豪在没意外",
+          "change": "+2"
         },
         {
-          "title": "神颜降临：顶流今天也不想营业",
+          "title": "团播塌房后，我靠一张脸杀疯了",
           "change": "+2"
         }
       ],
       "top_fallers": [
         {
-          "title": "呆系主播：神豪求饲养",
+          "title": "乖软萌宝拿捏豪门影帝爹",
           "change": "-3"
         },
         {
-          "title": "乖软萌宝拿捏豪门影帝爹",
+          "title": "栀香入怀",
           "change": "-2"
         },
         {
-          "title": "颜值主播，她身后全是魔王护！",
+          "title": "呆系主播：神豪求饲养",
           "change": "-2"
         }
       ],
       "reads_growth": [
         {
           "title": "神颜降临：顶流今天也不想营业",
-          "growth": "+1.0万"
-        },
-        {
-          "title": "榜一大哥转身后",
-          "growth": "+6000"
+          "growth": "+1.1万"
         },
         {
           "title": "主播跑路三年回归？神豪在没意外",
-          "growth": "+5000"
+          "growth": "+7000"
+        },
+        {
+          "title": "榜一大哥转身后",
+          "growth": "+4000"
         }
       ],
-      "summary": "新增3本上榜；3本掉出（《当高考状元穿成娱乐圈黑红女星》、《从韩娱练习生开始成为巨星》、《穿成直播文路人，她直播爆火了》）；《直播：清冷美人他是万人迷》排名上升+6位；《神颜降临：顶流今天也不想营业》阅读量+1.0万。"
+      "summary": "新增1本上榜；1本掉出（《惊！娱乐圈糊咖老公是神秘大佬》）；《养成系：天资是一种残忍的东西》排名上升+4位；《神颜降临：顶流今天也不想营业》阅读量+1.1万。"
     },
     "books": [
       {
         "title": "缺德女爱豆今天也在作死吗？",
         "author": "Decha",
-        "reads": "9.7万",
+        "reads": "9.2万",
         "intro": "新书，评分刚开了没多久。 【架空韩娱+神颜+腥风血雨体质+大量缺德论坛体+天然撩+修罗场大混战】 　　全雪潾，粉丝嘴里的“活着就行” 系爱豆。 　　如果要用一个词来形容她的爱豆生涯，那就是:drama。 　　—— 　　济州岛旅游被星探狂追三条街，直接靠脸空降出道组。 　　好不容易出道了，又被扒出来出道前嘴前辈，和顶流制作人合影手居然直接放人腰上…… 　　各种古早黑料一出，韩网论坛直接炸了，黑帖盖了无数层，路人群嘲，说她们团出道即废品。 　　结果，概念照一公开，那张“废墟神女”照片水灵灵出圈了。 　　路人：但话又说回来了…… 　　—— 　　出道三周，粉丝名都没定呢就和世界级男爱豆传绯闻，评论区一片腥风血雨。 　　要别人就安分道歉了，结果这姐居然亲自下场手撕黑粉。 　　她：“没有攻击力的谩骂，和撒娇有什么区别?” 　　她：“嘬嘬嘬，我的小狗狗们怎么不说话了?” 　　黑粉：??? 　　黑粉：不是，合着我们骂你，你在这儿把我们当狗玩儿呢?!! 　　出道不到一年，各种绯闻争议事件能绕地球两圈。 　　所有人都在疑惑：这姐怎么还没糊，反而越骂越红?",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob7b5673cd08bf491b45e053c63afd2e4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077276&x-signature=7QlQGvtc7Et3K8G9YB7%2FtOn4M74%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob7b5673cd08bf491b45e053c63afd2e4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163621&x-signature=UKHzkRXgzG9dR9V%2BPB6kdjmr8Mw%3D",
         "url": "https://fanqienovel.com/page/7681389146711002174"
       },
       {
         "title": "榜一大哥转身后",
         "author": "景小红是我妈",
-        "reads": "6.4万",
-        "intro": "评分刚开，给这个月月一点时间涨分 【非1v1，不谈爱情纯薅票，本文无男主。所以男刷客基本都有雷，不要以男主身份要求】 林檐月刚直播就拥有了全网羡慕的榜一大哥，赚了好多好多钱，可惜没多久，大哥转身爱上了别人，她也停播了。 但是钱花得太快了，没钱了只能复播，在忐忑中没想到又有了新的大哥，还不止一个。 偏现实（我流的现实），如果自己看现实主播，完全爽文，唯一主角林檐月。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5ce2d3e4191f89ec16d5b55186abe072~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077276&x-signature=YXZLWVfxufetr7bAe%2Fw2DhReeu4%3D",
+        "reads": "6.8万",
+        "intro": "评分刚开，给这个月月一点时间涨分。 林檐月刚直播就拥有了全网羡慕的榜一大哥，赚了好多好多钱，可惜没多久，大哥转身爱上了别人，她也顺势停播。 但是钱花得太快了，没钱了只能复播，在忐忑中又有了新的大哥，竟然比之前的榜一更能刷，还不止一个。 偏现实（我流的现实），如果自己看现实主播，完全爽文，唯一主角林檐月。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5ce2d3e4191f89ec16d5b55186abe072~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163621&x-signature=P16%2BqUFrbJE3f2%2BCe3b%2Fip5oz8U%3D",
         "url": "https://fanqienovel.com/page/7667574393756716094"
-      },
-      {
-        "title": "神颜路人甲觉醒后靠蹭热度爆红啦",
-        "author": "凤枝上有个凰",
-        "reads": "5.8万",
-        "intro": "【评分新出，无CP，男主绝美，万人迷修罗场，事业一路飞升，小市民心理，事业脑】 高考结束，张书翰揣着梦想勇闯横店，却撞了个头破血流。 本想告别横店黄袍加身，投身外卖大业。 却不曾想一场中暑，直接改写命运。 昏迷中，他被迫看完一本娱乐圈甜宠小说，惊觉自己竟是连名字都没有的路人甲。 唯一作用是把原著男主带进圈。 张书翰：？？？凭什么？ 世界意识觉察到他的觉醒，决定将他抹杀。 危机时刻，蹭热度系统上线。 想保住意识，就进娱乐圈，和原著角色不断产生交集，赚热度值。 热度清零，意识抹除。 为了活下去，他被迫踏入娱乐圈。 路人光环一碎，那张神颜再也藏不住。 第一个角色路透疯狂刷屏，剪辑霸占各大平台，热搜屠榜，硬生生压过男女主。 后来，场面微微有些失控。资本反派大小姐为他砸钱，高冷三金影帝为他破例，命运坎坷的原著男主为他失控……修罗场越滚越大。 张书翰：别爱我，没结果。 我只想搞钱、搞事业、搞热度。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o89c9504994e19f11261194d633df7f90~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077276&x-signature=bPhj6ilwx4O043yWrIFbQxz5imk%3D",
-        "url": "https://fanqienovel.com/page/7672426304100109336"
       },
       {
         "title": "神颜降临：顶流今天也不想营业",
         "author": "我喜欢你也喜欢我",
-        "reads": "5.2万",
+        "reads": "6.3万",
         "intro": "林屿雾18岁离开家乡到京都求学。 在此之前，他从不知道美貌能带来什么好处，直到路人在咖啡店拍了张他的照片，仅一个侧脸，就在大眼上被疯狂转发了上百万次。无良老板莫名其妙给他涨了工资，星探堵到便利店门口，选秀导演追着他签合同。 林屿雾的人生像被按了快进键：顶奢代言、时尚杂志、影视合约、国际奖项，一样接一样砸了过来。 他就这样，被推着走上了神坛。 林屿雾：……不知道啊，他们叫着什么神颜啊天使啊就冲过来了。 网友：纳尼？！哥你是不是不知道自己长得有多好看啊？！！ 无脑练笔文｜成长流｜慢节奏｜美就完事了",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe815eb5f660aa561c93dfb9bca961e9c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077276&x-signature=RKrxkXfF1xNCcyOy9YJpc3u3UMg%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe815eb5f660aa561c93dfb9bca961e9c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163621&x-signature=OI2csJAUpa%2BlDjId23fLDsUaXVM%3D",
         "url": "https://fanqienovel.com/page/7681365478450662425"
+      },
+      {
+        "title": "神颜路人甲觉醒后靠蹭热度爆红啦",
+        "author": "凤枝上有个凰",
+        "reads": "6.1万",
+        "intro": "【评分新出，无CP，男主绝美，万人迷修罗场，事业一路飞升，小市民心理，事业脑】 高考结束，张书翰揣着梦想勇闯横店，却撞了个头破血流。 本想告别横店黄袍加身，投身外卖大业。 却不曾想一场中暑，直接改写命运。 昏迷中，他被迫看完一本娱乐圈甜宠小说，惊觉自己竟是连名字都没有的路人甲。 唯一作用是把原著男主带进圈。 张书翰：？？？凭什么？ 世界意识觉察到他的觉醒，决定将他抹杀。 危机时刻，蹭热度系统上线。 想保住意识，就进娱乐圈，和原著角色不断产生交集，赚热度值。 热度清零，意识抹除。 为了活下去，他被迫踏入娱乐圈。 路人光环一碎，那张神颜再也藏不住。 第一个角色路透疯狂刷屏，剪辑霸占各大平台，热搜屠榜，硬生生压过男女主。 后来，场面微微有些失控。资本反派大小姐为他砸钱，高冷三金影帝为他破例，命运坎坷的原著男主为他失控……修罗场越滚越大。 张书翰：别爱我，没结果。 我只想搞钱、搞事业、搞热度。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o89c9504994e19f11261194d633df7f90~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163621&x-signature=y3P1E4Go0NY6XW7KlIX%2B%2Fs%2BjvBY%3D",
+        "url": "https://fanqienovel.com/page/7672426304100109336"
+      },
+      {
+        "title": "主播跑路三年回归？神豪在没意外",
+        "author": "穿拖鞋的公主",
+        "reads": "4.6万",
+        "intro": "【直播+复播+主团播微个播+多哥姐+1v1+甜宠】 听说番茄初代个播电母跑路三年后，空降了团播直播间？ “空心跑路咖回归，还能有票？” “哥姐又不是M，能等她三年？” “脸皮真厚，这样还敢回来？” …… 后来。 “想看大特效，去鱼刺直播间啊！” “什么比赛不比赛的，你鱼刺姐还没张嘴就拿下了！” “团播界过得最爽的女人！” “骗你的，你以为她个播的时候就过得不爽了吗？” 一个只是为了赚点小钱尝试团播，然后收获了很多很多爱的小女孩的故事。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o119b8a0719de6d131ae6d046a92f0126~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163621&x-signature=veTeNxsqvcuy%2BZVhAPX2t1Y24nk%3D",
+        "url": "https://fanqienovel.com/page/7690840694763572286"
       },
       {
         "title": "重生韩娱：我打造的团体全登顶！",
         "author": "晴天天雨蒙蒙",
-        "reads": "4.7万",
+        "reads": "4.6万",
         "intro": "评分刚出【文抄公+全员事业脑+无cp+大量论坛体毒舌发言+韩娱知识科普】 苏寒重生来到文娱高度内卷的平行韩娱。 这里偶像行业空前繁盛，男女团批量出道，新歌源源不断，打歌舞台遍地开花，各大公司厮杀不断，每一年都有大批新人涌入赛道。 可繁华之下有着致命的短板。 编舞敷衍粗糙、妆造审美落后、摄像镜头僵硬固化，没有成熟4K专业舞台体系。 直拍文化，舞蹈挑战challenge，氛围感进行曲这些通通都没有。 业内只会比拼外貌与歌曲旋律，舞台随便敷衍了事。 好在苏寒绑定全能造星系统，携带前世所有爆款金曲、顶级舞台模板、成熟偶像养成公式。 他白手起家创立小型企划，招募未被发现的潜力练习生，亲手缔造封神级现象女团，横扫各大音源榜单，包揽年末所有重磅大赏。 拿下韩娱顶峰之后，再度进军日本、欧美市场，登顶全球乐坛。 女团传奇尘埃落定，他转头雕琢顶配男团，强势碾压五代、六代所有竞争者。 全网震撼：这人写的歌、排的舞台，凭什么首首爆火、全员神颜神实力！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obe2bdd61aeb2a8a2999731af160f4da8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077276&x-signature=f%2F9ZiFaRdMw5XiiNeTLbfWtpRxU%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obe2bdd61aeb2a8a2999731af160f4da8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163621&x-signature=%2BIXLqQzbBaw4VurNKxNLO5KL76Q%3D",
         "url": "https://fanqienovel.com/page/7660025577805450264"
       },
       {
         "title": "文娱荒漠，我的剧本火爆全球",
         "author": "闪闪咪发光芒",
-        "reads": "4万",
+        "reads": "4.1万",
         "intro": "【穿越+无CP+编剧+娱乐圈+事业线】 编剧温岚患癌多年一朝穿越，来到了大家急需影视作品，娱乐圈却并没有很多好作品的时空，什么穿越，仙侠古偶，重生复仇，真假千金，无限流这里通通都没有。 开局惨遭软封杀，得罪了娱乐圈当红炸子鸡又怎么了，她凭协议恋爱，穿越，宫斗在娱乐圈闯出自己的天地。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7c1e530cf95c66d66d6ed6efb194e052~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077276&x-signature=1i6%2FQH76la2cTevkD8Xrbaplie8%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7c1e530cf95c66d66d6ed6efb194e052~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163621&x-signature=QYs%2FS4QLzO8iJuzuNX4kmrR%2Bu8Q%3D",
         "url": "https://fanqienovel.com/page/7545754098558045246"
-      },
-      {
-        "title": "主播跑路三年回归？神豪在没意外",
-        "author": "穿拖鞋的公主",
-        "reads": "3.9万",
-        "intro": "【直播+复播+主团播微个播+多哥姐+1v1+甜宠】 听说番茄初代个播电母跑路三年后，空降了团播直播间？ “空心跑路咖回归，还能有票？” “哥姐又不是M，能等她三年？” “脸皮真厚，这样还敢回来？” …… 后来。 “想看大特效，去鱼刺直播间啊！” “什么比赛不比赛的，你鱼刺姐还没张嘴就拿下了！” “团播界过得最爽的女人！” “骗你的，你以为她个播的时候就过得不爽了吗？” 一个只是为了赚点小钱尝试团播，然后收获了很多很多爱的小女孩的故事。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o119b8a0719de6d131ae6d046a92f0126~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077276&x-signature=86hUlLxDrXGG4aJFYL4Q1Mmo4HI%3D",
-        "url": "https://fanqienovel.com/page/7690840694763572286"
       },
       {
         "title": "被亲姐扔到娃综后反被娃带",
         "author": "柒糖吹泡泡",
-        "reads": "3万",
+        "reads": "2.9万",
         "intro": "【舅侄日常文+娱乐圈+主角无cp】 沈驰野被亲姐沈知杳连带着她儿子一起打包扔进了《和萌宝一起旅游吧》的综艺里。 沈驰野挣扎，沈驰野反抗，沈驰野屈服！ 没办法，他姐给的实在太多了...... 于是，沈驰野和沈星逾的直播间开始画风突变: “这俩到底谁是长辈啊？” “我感觉他们的身份可能反了。” “驰神私底下竟是个这种哈基米！” ...... 一家子三人全是美强惨！ 【娃综+日常五五分】 求五星好评！！！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o914b73f25c78eda4c76871b74305f7e5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077276&x-signature=zgZLN5rAMlMJ6Tc9dCOPkJzUQqA%3D",
+        "cover": "https://p9-reading-sign.fqnovelpic.com/novel-pic/p2o914b73f25c78eda4c76871b74305f7e5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163621&x-signature=mmG2NHasymLpMI%2F2QUqp7ZeunqQ%3D",
         "url": "https://fanqienovel.com/page/7632851183014530110"
       },
       {
         "title": "直播：清冷美人他是万人迷",
         "author": "篱落灯明",
-        "reads": "2.6万",
+        "reads": "2.8万",
         "intro": "【男主清冷大美人+正文无cp+男主万人迷】 家里突发变故后，林清予一度颓废。 在好友的劝说下，他开始直播，却没想到，这份偶然的尝试，为他换来了无数粉丝的喜爱和一群大哥大姐的真心宠溺。 一路跌跌撞撞，他竟成了顶流网红。 避雷：文笔寡淡慢热，不喜勿入。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o53a2f0b4748bd6e309237a6ea973ea93~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077276&x-signature=mf%2Fqk5Ldz29%2BkIrKh0CUaDUuOZU%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o53a2f0b4748bd6e309237a6ea973ea93~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163621&x-signature=Lyy2O%2BdWLhsPuD7biGZ7qMzSRoM%3D",
         "url": "https://fanqienovel.com/page/7507272944234548249"
       },
       {
         "title": "我是男团EON共享白月光",
         "author": "CC小沛沛",
-        "reads": "2.5万",
+        "reads": "2.7万",
         "intro": "团名叫EON。中文名，曜纪。 他们耀眼又热血。他们的出现，像是在内娱荒芜已久的男团市场里，亲手点燃了一个新的纪元。 七个风格迥异的少年入住EON宿舍，团内日常欢乐温馨，打打闹闹，却又彼此支撑。他们都无法抵抗门面温叙白的魅力，对这个病弱漂亮，性格温柔治愈的小美人疯狂偏爱…… —————————————————————— 【轻松团宠群像 + 轻喜剧 + 万人迷病弱白月光门面 + 无CP + 男团勇敢追梦事业线】 —————————————————————— 沈执：爹系贵公子队长 x 软糯柔弱小白兔 迟野：黑皮体育生小狼狗 × 顺毛小美人 江凛：天才学霸清冷毒舌Rapper × 乖软小笨蛋主唱 陆听澜：狐系魅惑国风大美人 × 兔系软萌病弱小乖乖 许照：年下朝气小太阳 × 娇软病弱美人哥哥 闻砚：阴郁厌世低音炮 x 治愈系温柔白月光",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o108917dac283dbf3da3708bca4b95c21~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077276&x-signature=qSEqVk2ML7xG2Hm51qA8o1NuqH4%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o108917dac283dbf3da3708bca4b95c21~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163621&x-signature=s0s%2FFIwjFnN%2FVgy1I%2F9piVuph7Q%3D",
         "url": "https://fanqienovel.com/page/7663744045054708761"
+      },
+      {
+        "title": "养成系：天资是一种残忍的东西",
+        "author": "青灯俞",
+        "reads": "2.6万",
+        "intro": "[养成系+娱乐圈升级流+无CP+野心家] “在娱乐圈混，天资是一个残忍的东西。” 11岁，黎问签约成为一名养成系练习生。 从公开那天起，他就没有back的命。 15岁成团出道，年少成名，热单，票房，高奢，他全都收入囊中。 都说了，他没有back的命。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9efd0ced5d6bc41a215cca4d46f27ef2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163625&x-signature=rWvYFBQ%2B%2F%2BYwjYuDU%2BYt7Xg22Oo%3D",
+        "url": "https://fanqienovel.com/page/7689833549175737369"
+      },
+      {
+        "title": "团播塌房后，我靠一张脸杀疯了",
+        "author": "关兔牙什么事",
+        "reads": "2.5万",
+        "intro": "【顶级美貌➕团播个播➕多神豪➕含论坛体➕雄竞➕苏爽文】 洛南姒生来便是天之骄女，万千宠爱，万事尽有。 机缘巧合误入团播，一跃成为观众口中的皇太女。 开播没几天就吸到大哥大姐，一句话概括：我顺极了。 一朝风波塌房，全网坐等看她笑话。 谁知反转炸穿全网： 旧榜一批神秘人回来兜底，各路新神豪空降，新大姐豪横出手，周赛千万登顶！ 全网哗然。 众人懵了：怎么塌房之后，洛南姒反而更红更风光？ 女主第一美 避雷：前期黑料节奏不断，女主腥风血雨体质。 女主前期因为维护女消塌房，不喜欢这点的可以直接退出，或者再看看，手下留情。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od762ca2283b663acdecb30278663acdd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163625&x-signature=K7sbZxuSDc03nq32BN6nNOD4Tcg%3D",
+        "url": "https://fanqienovel.com/page/7636923385296997400"
       },
       {
         "title": "栀香入怀",
         "author": "是猪猪猪猪啊",
-        "reads": "2.3万",
+        "reads": "2.4万",
         "intro": "【1V1+双洁+暧昧拉扯+熟男熟女 +双向奔赴 +一见钟情+娱乐圈+综艺直播】 【矜贵禁欲顶流大佬 × 清冷旗袍民宿老板娘】 雨夜迷情，年闻栀误打误撞和国民影帝沈砚辞一夜疯狂。 天亮抽身，连名字都没留下，只当一场成年人的消遣。 再重逢，他作为综艺嘉宾空降小镇，对她蓄意诱引，步步紧逼。 镜头前：他恪守距离，是万人敬仰的高岭之花。 镜头后：他深夜敲响她的门，步步紧逼，嗓音低哑—— “想翻篇？没那么容易！” 她装傻、后退、划清界限。 他偏执、试探、不肯放手。 直到综艺直播现场，她当众晕倒。 素来冷静克制的影帝彻底失控，当着亿万网友的镜头，弯腰将她打横抱起，冲破人群狂奔医院。 医生一句“怀孕六周”，弹幕彻底炸穿—— 病房里，他红着眼眶单膝跪地： “那一夜远远不够，我想要的，是和你一辈子。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob89d13b5e4090440dac4cd8f9f99a2e1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077279&x-signature=ZY5EHZtpkBIkaJAMgjXd83ClhlM%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob89d13b5e4090440dac4cd8f9f99a2e1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163625&x-signature=FF%2FBTlDWokq5RzEt9rfFwydHgZ8%3D",
         "url": "https://fanqienovel.com/page/7682661892493413401"
-      },
-      {
-        "title": "乖软萌宝拿捏豪门影帝爹",
-        "author": "颍州雪",
-        "reads": "2.3万",
-        "intro": "小年糕两岁半那年母亲去世，她被送到从未见过的生父身边，从此过上作威作福，拿捏影帝爸爸的幸福生活。 爸爸手心热热的，可以暖脚。 爸爸胸膛宽宽的，可以睡觉。 爸爸衣服大大的，可以披披。 爸爸名声挺大的，可以上娃综。 爸爸粉丝多多的，可以有好多哥哥姐姐、叔叔阿姨、爷爷奶奶哄。 小年糕就这般在沈砚初的羽翼下成长。 沈砚初，北城第一家沈家三子，年纪轻轻拿下影视大满贯，除了催婚，没别的烦恼，直到遇到小年糕，一步到位，婚是没结的，孩子是两岁半的。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o069e5cdbd22c119a82d4d71b30329664~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077279&x-signature=Jj%2FgLALvoalbJYvWqGSw2rLTzRQ%3D",
-        "url": "https://fanqienovel.com/page/7605504214663449662"
       },
       {
         "title": "颜值主播，她身后全是魔王护！",
         "author": "别不理",
         "reads": "2.3万",
         "intro": "【直播+神颜+神豪+开局超神+含少量论坛体+大哥大姐多+正文无cp】 搬迁到新平台后，自带两个魔王护的林浅开播第一天就关注度空前，吸引到了个神豪乐子人，后面大家庭的人越来越多，林浅才意识到了不对…… 歪？说好的不上班呢？怎么天天催她加班？ “老公粉怎么了？我这么优秀，喜欢我不是一件很正常的事情吗？” 在爱里浸泡长大的孩子，同样也懂得接受别人的爱。于是……番音老公粉最多的直播间，不仅没有挡住外面的人，甚至想融入的更多了。 林浅：打起来打起来~ 话少可靠的第一个姐姐；陪伴最久的年下弟弟；入室抢劫般的天降乐乐；开小号反被拿捏的隐藏大佬……后续敬请期待",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2793fe9d0b1e26f3880b8b10c1911847~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077279&x-signature=0BjK0lulMNygnfSibGafnfKb3VA%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2793fe9d0b1e26f3880b8b10c1911847~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163625&x-signature=eWNO50UdfaARXYnoK6bLUyxvnko%3D",
         "url": "https://fanqienovel.com/page/7676900783018740760"
       },
       {
-        "title": "团播塌房后，我靠一张脸杀疯了",
-        "author": "关兔牙什么事",
+        "title": "乖软萌宝拿捏豪门影帝爹",
+        "author": "颍州雪",
         "reads": "2.2万",
-        "intro": "【顶级美貌➕团播个播➕多神豪➕含论坛体➕雄竞➕苏爽文】 洛南姒生来便是天之骄女，万千宠爱，万事尽有。 机缘巧合误入团播，一跃成为观众口中的皇太女。 开播没几天就吸到大哥大姐，一句话概括：我顺极了。 一朝风波塌房，全网坐等看她笑话。 谁知反转炸穿全网： 旧榜一批神秘人回来兜底，各路新神豪空降，新大姐豪横出手，周赛千万登顶！ 全网哗然。 众人懵了：怎么塌房之后，洛南姒反而更红更风光？ 女主第一美 避雷：前期黑料节奏不断，女主腥风血雨体质。 女主前期因为维护女消塌房，不喜欢这点的可以直接退出，或者再看看，手下留情。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od762ca2283b663acdecb30278663acdd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077279&x-signature=JVKQDHxd7NxJ3JOg79KKAJGTKTU%3D",
-        "url": "https://fanqienovel.com/page/7636923385296997400"
+        "intro": "小年糕两岁半那年母亲去世，她被送到从未见过的生父身边，从此过上作威作福，拿捏影帝爸爸的幸福生活。 爸爸手心热热的，可以暖脚。 爸爸胸膛宽宽的，可以睡觉。 爸爸衣服大大的，可以披披。 爸爸名声挺大的，可以上娃综。 爸爸粉丝多多的，可以有好多哥哥姐姐、叔叔阿姨、爷爷奶奶哄。 小年糕就这般在沈砚初的羽翼下成长。 沈砚初，北城第一家沈家三子，年纪轻轻拿下影视大满贯，除了催婚，没别的烦恼，直到遇到小年糕，一步到位，婚是没结的，孩子是两岁半的。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o069e5cdbd22c119a82d4d71b30329664~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163625&x-signature=kc8L3kWJ6cZffPuIkU2D2Giq714%3D",
+        "url": "https://fanqienovel.com/page/7605504214663449662"
       },
       {
-        "title": "养成系：天资是一种残忍的东西",
-        "author": "青灯俞",
+        "title": "团播：神豪系统是我榜一",
+        "author": "金樊",
         "reads": "2.2万",
-        "intro": "[养成系+娱乐圈升级流+无CP+野心家] “在娱乐圈混，天资是一个残忍的东西。” 11岁，黎问签约成为一名养成系练习生。 从公开那天起，他就没有back的命。 15岁成团出道，年少成名，热单，票房，高奢，他全都收入囊中。 都说了，他没有back的命。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9efd0ced5d6bc41a215cca4d46f27ef2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077279&x-signature=41bq%2B4TtKAh8xAWwNm92XfqePV8%3D",
-        "url": "https://fanqienovel.com/page/7689833549175737369"
-      },
-      {
-        "title": "呆系主播：神豪求饲养",
-        "author": "麒麟小邪不会累",
-        "reads": "2.1万",
-        "intro": "[团播+个播+多神豪+日常多+一点点修罗场] 荔只是一只有点呆呆的魅妖，别的魅妖已经凭自己的本事吸取了大量精气活的滋润无比，而这只呆比小猪还在依靠食物获得能量，每天饿的肚子痛。 直到有天她的成人礼来了不能依靠族里的帮助，只能踏出房门赚钱养自己。 最开始只想每月在团播摸鱼拿保底，结果得知月考要是拿不到名次只能被解雇。吓的小猪立刻使劲浑身解数“勾引”榜上神豪大佬们。 一勾一个准，一勾一个准。不小心成了月考第三，又不小心坐上了第一的宝座。 神豪一：这只猪明明最爱我，你看她给我发过这种视频。 神豪二：不一定，我也有啊 神豪三：我怎么也有？ 神豪四：这只猪，要这么多人也不知道吃不吃的下！（咬牙切齿） 神豪五、神豪六、神豪七……总之神豪多多 前期团播中间穿插个播，后期个播。穿插一些小猪身世但不多主要为了认识更多神豪吃饱肚子。（不会放弃直播）慢节奏，注意：日常较多，土味一见钟情。 主角是魅妖，大家懂得都懂。 全文主角最美，男主都是年上。老男人会疼人。 正文无CP。 荔只是真呆真人机，请大家多多关心吧。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/8644b7d8d8ff1035e0efbd6664756be6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077279&x-signature=Wn5x%2FnFoneq8MNjSyd1Eu9L2I6Y%3D",
-        "url": "https://fanqienovel.com/page/7607818509606718488"
+        "intro": "【神豪系统+超多大哥大姐+最终无cp】 　　【前期主写团播，公会赛后个播】 　　猫妖芙芙被系统007误绑后，成为律动团播的一名小主播。 　　只是，原来接管这具身体的是个人工智障，姜芙刚一穿越就发现事情不太对劲—— 　　原主工作摆烂，跳舞稀烂，且身陷抢队友大哥风波。 　　被大姐质问依然死不悔改，导致大家长们集体跑路。堪称地狱开局。 　　更要命的是，她绑定还是最强主播养成系统，要求每天完成一定打赏任务，否则就会一直处在饥饿状态。 　　姜芙：= = 　　007：QAQ 　　007：猫猫放心，我一定会养好你的！ 　　转头绑定神豪系统，打脸不怀好意的队友大哥，擂台赛中神挡杀神，公会赛豪掷万金，让芙芙一举成名。 　　也吸引来众多粉丝，和各大神豪为芙芙保驾护航。 　　工作超忙需要吸猫疗愈的大姐一号/全网刷重度颜控后独宠芙芙大姐二号/前跑路后回归嘴硬心软大姐三号…… 　　以及，N位爱情梦男大哥。 　　但无论他们怎样竞争，从低谷到巅峰，从无人在意到星光璀璨，007的名字始终居于榜首，没人能够动摇。 　　正如它在公会赛中所说—— 　　【未来大主播芙芙你好，我是你永远的榜一】",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/abe10194cecec10a98a2e2714f9151e1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163625&x-signature=mqMrU5su4xpBFrTs%2FkHOn0BIiMM%3D",
+        "url": "https://fanqienovel.com/page/7546829927018941465"
       },
       {
         "title": "团播神颜：神豪打赏竟是我自己",
         "author": "一点不困呢",
         "reads": "2.1万",
         "intro": "团播+个播+神豪系统+论坛体 宁一亦觉醒神豪系统的那一刻，才惊觉自己是一本团播文里的路人对照组，注定陪跑垫脚，衬托女主风光。 而现在宁一亦手握神豪系统，系统在手，刷礼物、冲榜单，她靠自己登顶团播之巅！ 直播靠别人撑腰？不，她自己就是顶级神豪！系统就是她的最强后盾！ 女主主控｜多男主+雄竞，开放结局正文完结后有if线 前期团播，后期个播，团播期无男女主暧昧 所有上桌男主身心双洁，女主全程顺爽",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7cbbbe5f23fa4b8070e707c9bc68a4fa~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077279&x-signature=p%2BuSvwiOdJTOlYdMRshtyehyv2U%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7cbbbe5f23fa4b8070e707c9bc68a4fa~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163625&x-signature=%2BCY43Nhvq3k33zZr3uLT8cpaZ6Q%3D",
         "url": "https://fanqienovel.com/page/7685513559521905689"
       },
       {
-        "title": "惊！娱乐圈糊咖老公是神秘大佬",
-        "author": "壹只汤圆",
-        "reads": "2.1万",
-        "intro": "【1V1+隐婚+SC+年龄差6岁+严肃沉稳大领导VS表面温婉实际内心戏超多的笨蛋美人】 木星瑶娱乐圈摸爬滚打近十年，归来仍是素人。 长了一张绝美的脸，却因不肯接受潜规则，沦为无人问津的小透明。 一次次无奈的应酬与碰壁，让她心生退意。 因一次意外与云市背景神秘的程书记相遇。 男人身居高位，沉稳内敛，却一次次为她破例。 几番交集之后，他们选择低调隐婚。 —— 一次日常直播，木星瑶正和粉丝分享最近淘到的家居好物，突然一道低沉慵懒的男声传入手机，“老婆，明天采访我穿哪套衣服？” 弹幕沸腾，木星瑶光速下播。 全网舆论哗然。 【爆！某刚提视后的知名女星已婚！】 【这声音我爱了，老公我在这！】 【各位不觉得这个声音很像前段时间因为颜值出圈的某书记？】 【楼上，只有你觉得，别给你主子脸上贴金，她配？】 黑粉狂喜，纷纷下场。 几日后，一则新闻采访花絮露出。 “程书记，听闻您很爱您太太，但好像没有人见过您二位同框？” 坐在主位的男人长腿随意舒展，脸带笑意，“是的，我很爱我太太，我太太是演员......",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o639511399ac171eb1bc7bc6b0efc572a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077279&x-signature=E6SeJ6TS1SPGYC4TgKSS6bVWT9E%3D",
-        "url": "https://fanqienovel.com/page/7529017373790063678"
+        "title": "呆系主播：神豪求饲养",
+        "author": "麒麟小邪不会累",
+        "reads": "2万",
+        "intro": "[团播+个播+多神豪+日常多+一点点修罗场] 荔只是一只有点呆呆的魅妖，别的魅妖已经凭自己的本事吸取了大量精气活的滋润无比，而这只呆比小猪还在依靠食物获得能量，每天饿的肚子痛。 直到有天她的成人礼来了不能依靠族里的帮助，只能踏出房门赚钱养自己。 最开始只想每月在团播摸鱼拿保底，结果得知月考要是拿不到名次只能被解雇。吓的小猪立刻使劲浑身解数“勾引”榜上神豪大佬们。 一勾一个准，一勾一个准。不小心成了月考第三，又不小心坐上了第一的宝座。 神豪一：这只猪明明最爱我，你看她给我发过这种视频。 神豪二：不一定，我也有啊 神豪三：我怎么也有？ 神豪四：这只猪，要这么多人也不知道吃不吃的下！（咬牙切齿） 神豪五、神豪六、神豪七……总之神豪多多 前期团播中间穿插个播，后期个播。穿插一些小猪身世但不多主要为了认识更多神豪吃饱肚子。（不会放弃直播）慢节奏，注意：日常较多，土味一见钟情。 主角是魅妖，大家懂得都懂。 全文主角最美，男主都是年上。老男人会疼人。 正文无CP。 荔只是真呆真人机，请大家多多关心吧。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/8644b7d8d8ff1035e0efbd6664756be6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163625&x-signature=2u8yJ9v5qsuwiDP4G3eD%2BdlPebc%3D",
+        "url": "https://fanqienovel.com/page/7607818509606718488"
+      },
+      {
+        "title": "热搜女星她重生了",
+        "author": "鹅是幸运鹅",
+        "reads": "2万",
+        "intro": "当一切噩梦清零，她回到了所有故事的起点。 2009年的夏天，《流星雨》在芒果台上线，开播即爆。 这一次，她不想再辜负那些爱着她的人。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob3b8b34af592b0fc89db7c53e6237e69~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163625&x-signature=GnL7oJxBU4qi2NAh3SNdyJDfKz0%3D",
+        "url": "https://fanqienovel.com/page/7688931280506850329"
       },
       {
         "title": "心动9，直球导演和他的i人甜妹",
         "author": "我不能太暖",
         "reads": "2万",
         "intro": "恋综甜宠文，温柔文艺片导演的直球和他的慢热i人甜妹小默契。 江叙白看到她的第一眼，就希望能让这个一眼美好的女孩所有的美好。 于是在节目中总会默默的关注着她的小情绪，在姐姐星星的撮合下，思思也敢于在众人面前坚定的向他走去。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o150edc7b0817778001de14263553439a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077279&x-signature=YWzRUaIJjLHZSMilyM2lmtZF7qg%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o150edc7b0817778001de14263553439a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163625&x-signature=C2cHf%2BckQ35Saik6mSLPj%2BiD9ig%3D",
         "url": "https://fanqienovel.com/page/7676936573065104446"
-      },
-      {
-        "title": "热搜女星她重生了",
-        "author": "鹅是幸运鹅",
-        "reads": "1.9万",
-        "intro": "当一切噩梦清零，她回到了所有故事的起点。 2009年的夏天，《流星雨》在芒果台上线，开播即爆。 这一次，她不想再辜负那些爱着她的人。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob3b8b34af592b0fc89db7c53e6237e69~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077279&x-signature=tU4FqG0slP7oQQkPlgdpbTPwp%2F8%3D",
-        "url": "https://fanqienovel.com/page/7688931280506850329"
       }
     ]
   },
@@ -237,231 +227,221 @@
     {
       "name": "星光璀璨",
       "trend": {
-        "new_count": 3,
-        "dropped_count": 3,
+        "new_count": 1,
+        "dropped_count": 1,
         "new_books": [
-          "团播塌房后，我靠一张脸杀疯了",
-          "养成系：天资是一种残忍的东西",
-          "团播神颜：神豪打赏竟是我自己"
+          "团播：神豪系统是我榜一"
         ],
         "dropped_books": [
           {
-            "title": "当高考状元穿成娱乐圈黑红女星",
-            "intro": "【顶级魅魔and顶级醋王】 【娱乐圈顶流女星x京圈恋爱脑霸总】 【爽文+娱乐圈+穿书+打脸+综艺+双强+超级甜文】 许听鱼作为全国高考状元，在赶去庆功宴的路上被一辆大货车创飞了。 一醒来就变成了自己看"
-          },
-          {
-            "title": "从韩娱练习生开始成为巨星",
-            "intro": "[韩娱+缺德女团学+论坛体乐子人+文抄公] 郁怀薇高中三大面试全过，却被父母阻挠，只得乖乖读书工作当码农，等下班后唱歌跳舞当网红。 某次加班后，她翻跳某团新歌猝死，被巨星梦想系统绑架穿成十四岁刚到南韩"
-          },
-          {
-            "title": "穿成直播文路人，她直播爆火了",
-            "intro": "【前期团播+后期个播+多才多艺+万人迷爽文+1v1】 ps：纯无脑文，女主火得特快，女主最美的那种。 因为一场意外，苏意羡穿越到了另外一个世界，据说这个世界由一本小说衍化而成，她替代了一个没有出现过的"
+            "title": "惊！娱乐圈糊咖老公是神秘大佬",
+            "intro": "【1V1+隐婚+SC+年龄差6岁+严肃沉稳大领导VS表面温婉实际内心戏超多的笨蛋美人】 木星瑶娱乐圈摸爬滚打近十年，归来仍是素人。 长了一张绝美的脸，却因不肯接受潜规则，沦为无人问津的小透明。 一次次"
           }
         ],
         "top_risers": [
           {
-            "title": "直播：清冷美人他是万人迷",
-            "change": "+6"
+            "title": "养成系：天资是一种残忍的东西",
+            "change": "+4"
           },
           {
-            "title": "栀香入怀",
-            "change": "+3"
+            "title": "主播跑路三年回归？神豪在没意外",
+            "change": "+2"
           },
           {
-            "title": "神颜降临：顶流今天也不想营业",
+            "title": "团播塌房后，我靠一张脸杀疯了",
             "change": "+2"
           }
         ],
         "top_fallers": [
           {
-            "title": "呆系主播：神豪求饲养",
+            "title": "乖软萌宝拿捏豪门影帝爹",
             "change": "-3"
           },
           {
-            "title": "乖软萌宝拿捏豪门影帝爹",
+            "title": "栀香入怀",
             "change": "-2"
           },
           {
-            "title": "颜值主播，她身后全是魔王护！",
+            "title": "呆系主播：神豪求饲养",
             "change": "-2"
           }
         ],
         "reads_growth": [
           {
             "title": "神颜降临：顶流今天也不想营业",
-            "growth": "+1.0万"
-          },
-          {
-            "title": "榜一大哥转身后",
-            "growth": "+6000"
+            "growth": "+1.1万"
           },
           {
             "title": "主播跑路三年回归？神豪在没意外",
-            "growth": "+5000"
+            "growth": "+7000"
+          },
+          {
+            "title": "榜一大哥转身后",
+            "growth": "+4000"
           }
         ],
-        "summary": "新增3本上榜；3本掉出（《当高考状元穿成娱乐圈黑红女星》、《从韩娱练习生开始成为巨星》、《穿成直播文路人，她直播爆火了》）；《直播：清冷美人他是万人迷》排名上升+6位；《神颜降临：顶流今天也不想营业》阅读量+1.0万。"
+        "summary": "新增1本上榜；1本掉出（《惊！娱乐圈糊咖老公是神秘大佬》）；《养成系：天资是一种残忍的东西》排名上升+4位；《神颜降临：顶流今天也不想营业》阅读量+1.1万。"
       },
       "books": [
         {
           "title": "缺德女爱豆今天也在作死吗？",
           "author": "Decha",
-          "reads": "9.7万",
+          "reads": "9.2万",
           "intro": "新书，评分刚开了没多久。 【架空韩娱+神颜+腥风血雨体质+大量缺德论坛体+天然撩+修罗场大混战】 　　全雪潾，粉丝嘴里的“活着就行” 系爱豆。 　　如果要用一个词来形容她的爱豆生涯，那就是:drama。 　　—— 　　济州岛旅游被星探狂追三条街，直接靠脸空降出道组。 　　好不容易出道了，又被扒出来出道前嘴前辈，和顶流制作人合影手居然直接放人腰上…… 　　各种古早黑料一出，韩网论坛直接炸了，黑帖盖了无数层，路人群嘲，说她们团出道即废品。 　　结果，概念照一公开，那张“废墟神女”照片水灵灵出圈了。 　　路人：但话又说回来了…… 　　—— 　　出道三周，粉丝名都没定呢就和世界级男爱豆传绯闻，评论区一片腥风血雨。 　　要别人就安分道歉了，结果这姐居然亲自下场手撕黑粉。 　　她：“没有攻击力的谩骂，和撒娇有什么区别?” 　　她：“嘬嘬嘬，我的小狗狗们怎么不说话了?” 　　黑粉：??? 　　黑粉：不是，合着我们骂你，你在这儿把我们当狗玩儿呢?!! 　　出道不到一年，各种绯闻争议事件能绕地球两圈。 　　所有人都在疑惑：这姐怎么还没糊，反而越骂越红?",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob7b5673cd08bf491b45e053c63afd2e4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077276&x-signature=7QlQGvtc7Et3K8G9YB7%2FtOn4M74%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob7b5673cd08bf491b45e053c63afd2e4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163621&x-signature=UKHzkRXgzG9dR9V%2BPB6kdjmr8Mw%3D",
           "url": "https://fanqienovel.com/page/7681389146711002174"
         },
         {
           "title": "榜一大哥转身后",
           "author": "景小红是我妈",
-          "reads": "6.4万",
-          "intro": "评分刚开，给这个月月一点时间涨分 【非1v1，不谈爱情纯薅票，本文无男主。所以男刷客基本都有雷，不要以男主身份要求】 林檐月刚直播就拥有了全网羡慕的榜一大哥，赚了好多好多钱，可惜没多久，大哥转身爱上了别人，她也停播了。 但是钱花得太快了，没钱了只能复播，在忐忑中没想到又有了新的大哥，还不止一个。 偏现实（我流的现实），如果自己看现实主播，完全爽文，唯一主角林檐月。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5ce2d3e4191f89ec16d5b55186abe072~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077276&x-signature=YXZLWVfxufetr7bAe%2Fw2DhReeu4%3D",
+          "reads": "6.8万",
+          "intro": "评分刚开，给这个月月一点时间涨分。 林檐月刚直播就拥有了全网羡慕的榜一大哥，赚了好多好多钱，可惜没多久，大哥转身爱上了别人，她也顺势停播。 但是钱花得太快了，没钱了只能复播，在忐忑中又有了新的大哥，竟然比之前的榜一更能刷，还不止一个。 偏现实（我流的现实），如果自己看现实主播，完全爽文，唯一主角林檐月。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5ce2d3e4191f89ec16d5b55186abe072~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163621&x-signature=P16%2BqUFrbJE3f2%2BCe3b%2Fip5oz8U%3D",
           "url": "https://fanqienovel.com/page/7667574393756716094"
-        },
-        {
-          "title": "神颜路人甲觉醒后靠蹭热度爆红啦",
-          "author": "凤枝上有个凰",
-          "reads": "5.8万",
-          "intro": "【评分新出，无CP，男主绝美，万人迷修罗场，事业一路飞升，小市民心理，事业脑】 高考结束，张书翰揣着梦想勇闯横店，却撞了个头破血流。 本想告别横店黄袍加身，投身外卖大业。 却不曾想一场中暑，直接改写命运。 昏迷中，他被迫看完一本娱乐圈甜宠小说，惊觉自己竟是连名字都没有的路人甲。 唯一作用是把原著男主带进圈。 张书翰：？？？凭什么？ 世界意识觉察到他的觉醒，决定将他抹杀。 危机时刻，蹭热度系统上线。 想保住意识，就进娱乐圈，和原著角色不断产生交集，赚热度值。 热度清零，意识抹除。 为了活下去，他被迫踏入娱乐圈。 路人光环一碎，那张神颜再也藏不住。 第一个角色路透疯狂刷屏，剪辑霸占各大平台，热搜屠榜，硬生生压过男女主。 后来，场面微微有些失控。资本反派大小姐为他砸钱，高冷三金影帝为他破例，命运坎坷的原著男主为他失控……修罗场越滚越大。 张书翰：别爱我，没结果。 我只想搞钱、搞事业、搞热度。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o89c9504994e19f11261194d633df7f90~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077276&x-signature=bPhj6ilwx4O043yWrIFbQxz5imk%3D",
-          "url": "https://fanqienovel.com/page/7672426304100109336"
         },
         {
           "title": "神颜降临：顶流今天也不想营业",
           "author": "我喜欢你也喜欢我",
-          "reads": "5.2万",
+          "reads": "6.3万",
           "intro": "林屿雾18岁离开家乡到京都求学。 在此之前，他从不知道美貌能带来什么好处，直到路人在咖啡店拍了张他的照片，仅一个侧脸，就在大眼上被疯狂转发了上百万次。无良老板莫名其妙给他涨了工资，星探堵到便利店门口，选秀导演追着他签合同。 林屿雾的人生像被按了快进键：顶奢代言、时尚杂志、影视合约、国际奖项，一样接一样砸了过来。 他就这样，被推着走上了神坛。 林屿雾：……不知道啊，他们叫着什么神颜啊天使啊就冲过来了。 网友：纳尼？！哥你是不是不知道自己长得有多好看啊？！！ 无脑练笔文｜成长流｜慢节奏｜美就完事了",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe815eb5f660aa561c93dfb9bca961e9c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077276&x-signature=RKrxkXfF1xNCcyOy9YJpc3u3UMg%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe815eb5f660aa561c93dfb9bca961e9c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163621&x-signature=OI2csJAUpa%2BlDjId23fLDsUaXVM%3D",
           "url": "https://fanqienovel.com/page/7681365478450662425"
+        },
+        {
+          "title": "神颜路人甲觉醒后靠蹭热度爆红啦",
+          "author": "凤枝上有个凰",
+          "reads": "6.1万",
+          "intro": "【评分新出，无CP，男主绝美，万人迷修罗场，事业一路飞升，小市民心理，事业脑】 高考结束，张书翰揣着梦想勇闯横店，却撞了个头破血流。 本想告别横店黄袍加身，投身外卖大业。 却不曾想一场中暑，直接改写命运。 昏迷中，他被迫看完一本娱乐圈甜宠小说，惊觉自己竟是连名字都没有的路人甲。 唯一作用是把原著男主带进圈。 张书翰：？？？凭什么？ 世界意识觉察到他的觉醒，决定将他抹杀。 危机时刻，蹭热度系统上线。 想保住意识，就进娱乐圈，和原著角色不断产生交集，赚热度值。 热度清零，意识抹除。 为了活下去，他被迫踏入娱乐圈。 路人光环一碎，那张神颜再也藏不住。 第一个角色路透疯狂刷屏，剪辑霸占各大平台，热搜屠榜，硬生生压过男女主。 后来，场面微微有些失控。资本反派大小姐为他砸钱，高冷三金影帝为他破例，命运坎坷的原著男主为他失控……修罗场越滚越大。 张书翰：别爱我，没结果。 我只想搞钱、搞事业、搞热度。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o89c9504994e19f11261194d633df7f90~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163621&x-signature=y3P1E4Go0NY6XW7KlIX%2B%2Fs%2BjvBY%3D",
+          "url": "https://fanqienovel.com/page/7672426304100109336"
+        },
+        {
+          "title": "主播跑路三年回归？神豪在没意外",
+          "author": "穿拖鞋的公主",
+          "reads": "4.6万",
+          "intro": "【直播+复播+主团播微个播+多哥姐+1v1+甜宠】 听说番茄初代个播电母跑路三年后，空降了团播直播间？ “空心跑路咖回归，还能有票？” “哥姐又不是M，能等她三年？” “脸皮真厚，这样还敢回来？” …… 后来。 “想看大特效，去鱼刺直播间啊！” “什么比赛不比赛的，你鱼刺姐还没张嘴就拿下了！” “团播界过得最爽的女人！” “骗你的，你以为她个播的时候就过得不爽了吗？” 一个只是为了赚点小钱尝试团播，然后收获了很多很多爱的小女孩的故事。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o119b8a0719de6d131ae6d046a92f0126~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163621&x-signature=veTeNxsqvcuy%2BZVhAPX2t1Y24nk%3D",
+          "url": "https://fanqienovel.com/page/7690840694763572286"
         },
         {
           "title": "重生韩娱：我打造的团体全登顶！",
           "author": "晴天天雨蒙蒙",
-          "reads": "4.7万",
+          "reads": "4.6万",
           "intro": "评分刚出【文抄公+全员事业脑+无cp+大量论坛体毒舌发言+韩娱知识科普】 苏寒重生来到文娱高度内卷的平行韩娱。 这里偶像行业空前繁盛，男女团批量出道，新歌源源不断，打歌舞台遍地开花，各大公司厮杀不断，每一年都有大批新人涌入赛道。 可繁华之下有着致命的短板。 编舞敷衍粗糙、妆造审美落后、摄像镜头僵硬固化，没有成熟4K专业舞台体系。 直拍文化，舞蹈挑战challenge，氛围感进行曲这些通通都没有。 业内只会比拼外貌与歌曲旋律，舞台随便敷衍了事。 好在苏寒绑定全能造星系统，携带前世所有爆款金曲、顶级舞台模板、成熟偶像养成公式。 他白手起家创立小型企划，招募未被发现的潜力练习生，亲手缔造封神级现象女团，横扫各大音源榜单，包揽年末所有重磅大赏。 拿下韩娱顶峰之后，再度进军日本、欧美市场，登顶全球乐坛。 女团传奇尘埃落定，他转头雕琢顶配男团，强势碾压五代、六代所有竞争者。 全网震撼：这人写的歌、排的舞台，凭什么首首爆火、全员神颜神实力！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obe2bdd61aeb2a8a2999731af160f4da8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077276&x-signature=f%2F9ZiFaRdMw5XiiNeTLbfWtpRxU%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obe2bdd61aeb2a8a2999731af160f4da8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163621&x-signature=%2BIXLqQzbBaw4VurNKxNLO5KL76Q%3D",
           "url": "https://fanqienovel.com/page/7660025577805450264"
         },
         {
           "title": "文娱荒漠，我的剧本火爆全球",
           "author": "闪闪咪发光芒",
-          "reads": "4万",
+          "reads": "4.1万",
           "intro": "【穿越+无CP+编剧+娱乐圈+事业线】 编剧温岚患癌多年一朝穿越，来到了大家急需影视作品，娱乐圈却并没有很多好作品的时空，什么穿越，仙侠古偶，重生复仇，真假千金，无限流这里通通都没有。 开局惨遭软封杀，得罪了娱乐圈当红炸子鸡又怎么了，她凭协议恋爱，穿越，宫斗在娱乐圈闯出自己的天地。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7c1e530cf95c66d66d6ed6efb194e052~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077276&x-signature=1i6%2FQH76la2cTevkD8Xrbaplie8%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7c1e530cf95c66d66d6ed6efb194e052~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163621&x-signature=QYs%2FS4QLzO8iJuzuNX4kmrR%2Bu8Q%3D",
           "url": "https://fanqienovel.com/page/7545754098558045246"
-        },
-        {
-          "title": "主播跑路三年回归？神豪在没意外",
-          "author": "穿拖鞋的公主",
-          "reads": "3.9万",
-          "intro": "【直播+复播+主团播微个播+多哥姐+1v1+甜宠】 听说番茄初代个播电母跑路三年后，空降了团播直播间？ “空心跑路咖回归，还能有票？” “哥姐又不是M，能等她三年？” “脸皮真厚，这样还敢回来？” …… 后来。 “想看大特效，去鱼刺直播间啊！” “什么比赛不比赛的，你鱼刺姐还没张嘴就拿下了！” “团播界过得最爽的女人！” “骗你的，你以为她个播的时候就过得不爽了吗？” 一个只是为了赚点小钱尝试团播，然后收获了很多很多爱的小女孩的故事。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o119b8a0719de6d131ae6d046a92f0126~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077276&x-signature=86hUlLxDrXGG4aJFYL4Q1Mmo4HI%3D",
-          "url": "https://fanqienovel.com/page/7690840694763572286"
         },
         {
           "title": "被亲姐扔到娃综后反被娃带",
           "author": "柒糖吹泡泡",
-          "reads": "3万",
+          "reads": "2.9万",
           "intro": "【舅侄日常文+娱乐圈+主角无cp】 沈驰野被亲姐沈知杳连带着她儿子一起打包扔进了《和萌宝一起旅游吧》的综艺里。 沈驰野挣扎，沈驰野反抗，沈驰野屈服！ 没办法，他姐给的实在太多了...... 于是，沈驰野和沈星逾的直播间开始画风突变: “这俩到底谁是长辈啊？” “我感觉他们的身份可能反了。” “驰神私底下竟是个这种哈基米！” ...... 一家子三人全是美强惨！ 【娃综+日常五五分】 求五星好评！！！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o914b73f25c78eda4c76871b74305f7e5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077276&x-signature=zgZLN5rAMlMJ6Tc9dCOPkJzUQqA%3D",
+          "cover": "https://p9-reading-sign.fqnovelpic.com/novel-pic/p2o914b73f25c78eda4c76871b74305f7e5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163621&x-signature=mmG2NHasymLpMI%2F2QUqp7ZeunqQ%3D",
           "url": "https://fanqienovel.com/page/7632851183014530110"
         },
         {
           "title": "直播：清冷美人他是万人迷",
           "author": "篱落灯明",
-          "reads": "2.6万",
+          "reads": "2.8万",
           "intro": "【男主清冷大美人+正文无cp+男主万人迷】 家里突发变故后，林清予一度颓废。 在好友的劝说下，他开始直播，却没想到，这份偶然的尝试，为他换来了无数粉丝的喜爱和一群大哥大姐的真心宠溺。 一路跌跌撞撞，他竟成了顶流网红。 避雷：文笔寡淡慢热，不喜勿入。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o53a2f0b4748bd6e309237a6ea973ea93~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077276&x-signature=mf%2Fqk5Ldz29%2BkIrKh0CUaDUuOZU%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o53a2f0b4748bd6e309237a6ea973ea93~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163621&x-signature=Lyy2O%2BdWLhsPuD7biGZ7qMzSRoM%3D",
           "url": "https://fanqienovel.com/page/7507272944234548249"
         },
         {
           "title": "我是男团EON共享白月光",
           "author": "CC小沛沛",
-          "reads": "2.5万",
+          "reads": "2.7万",
           "intro": "团名叫EON。中文名，曜纪。 他们耀眼又热血。他们的出现，像是在内娱荒芜已久的男团市场里，亲手点燃了一个新的纪元。 七个风格迥异的少年入住EON宿舍，团内日常欢乐温馨，打打闹闹，却又彼此支撑。他们都无法抵抗门面温叙白的魅力，对这个病弱漂亮，性格温柔治愈的小美人疯狂偏爱…… —————————————————————— 【轻松团宠群像 + 轻喜剧 + 万人迷病弱白月光门面 + 无CP + 男团勇敢追梦事业线】 —————————————————————— 沈执：爹系贵公子队长 x 软糯柔弱小白兔 迟野：黑皮体育生小狼狗 × 顺毛小美人 江凛：天才学霸清冷毒舌Rapper × 乖软小笨蛋主唱 陆听澜：狐系魅惑国风大美人 × 兔系软萌病弱小乖乖 许照：年下朝气小太阳 × 娇软病弱美人哥哥 闻砚：阴郁厌世低音炮 x 治愈系温柔白月光",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o108917dac283dbf3da3708bca4b95c21~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077276&x-signature=qSEqVk2ML7xG2Hm51qA8o1NuqH4%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o108917dac283dbf3da3708bca4b95c21~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163621&x-signature=s0s%2FFIwjFnN%2FVgy1I%2F9piVuph7Q%3D",
           "url": "https://fanqienovel.com/page/7663744045054708761"
+        },
+        {
+          "title": "养成系：天资是一种残忍的东西",
+          "author": "青灯俞",
+          "reads": "2.6万",
+          "intro": "[养成系+娱乐圈升级流+无CP+野心家] “在娱乐圈混，天资是一个残忍的东西。” 11岁，黎问签约成为一名养成系练习生。 从公开那天起，他就没有back的命。 15岁成团出道，年少成名，热单，票房，高奢，他全都收入囊中。 都说了，他没有back的命。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9efd0ced5d6bc41a215cca4d46f27ef2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163625&x-signature=rWvYFBQ%2B%2F%2BYwjYuDU%2BYt7Xg22Oo%3D",
+          "url": "https://fanqienovel.com/page/7689833549175737369"
+        },
+        {
+          "title": "团播塌房后，我靠一张脸杀疯了",
+          "author": "关兔牙什么事",
+          "reads": "2.5万",
+          "intro": "【顶级美貌➕团播个播➕多神豪➕含论坛体➕雄竞➕苏爽文】 洛南姒生来便是天之骄女，万千宠爱，万事尽有。 机缘巧合误入团播，一跃成为观众口中的皇太女。 开播没几天就吸到大哥大姐，一句话概括：我顺极了。 一朝风波塌房，全网坐等看她笑话。 谁知反转炸穿全网： 旧榜一批神秘人回来兜底，各路新神豪空降，新大姐豪横出手，周赛千万登顶！ 全网哗然。 众人懵了：怎么塌房之后，洛南姒反而更红更风光？ 女主第一美 避雷：前期黑料节奏不断，女主腥风血雨体质。 女主前期因为维护女消塌房，不喜欢这点的可以直接退出，或者再看看，手下留情。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od762ca2283b663acdecb30278663acdd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163625&x-signature=K7sbZxuSDc03nq32BN6nNOD4Tcg%3D",
+          "url": "https://fanqienovel.com/page/7636923385296997400"
         },
         {
           "title": "栀香入怀",
           "author": "是猪猪猪猪啊",
-          "reads": "2.3万",
+          "reads": "2.4万",
           "intro": "【1V1+双洁+暧昧拉扯+熟男熟女 +双向奔赴 +一见钟情+娱乐圈+综艺直播】 【矜贵禁欲顶流大佬 × 清冷旗袍民宿老板娘】 雨夜迷情，年闻栀误打误撞和国民影帝沈砚辞一夜疯狂。 天亮抽身，连名字都没留下，只当一场成年人的消遣。 再重逢，他作为综艺嘉宾空降小镇，对她蓄意诱引，步步紧逼。 镜头前：他恪守距离，是万人敬仰的高岭之花。 镜头后：他深夜敲响她的门，步步紧逼，嗓音低哑—— “想翻篇？没那么容易！” 她装傻、后退、划清界限。 他偏执、试探、不肯放手。 直到综艺直播现场，她当众晕倒。 素来冷静克制的影帝彻底失控，当着亿万网友的镜头，弯腰将她打横抱起，冲破人群狂奔医院。 医生一句“怀孕六周”，弹幕彻底炸穿—— 病房里，他红着眼眶单膝跪地： “那一夜远远不够，我想要的，是和你一辈子。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob89d13b5e4090440dac4cd8f9f99a2e1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077279&x-signature=ZY5EHZtpkBIkaJAMgjXd83ClhlM%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob89d13b5e4090440dac4cd8f9f99a2e1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163625&x-signature=FF%2FBTlDWokq5RzEt9rfFwydHgZ8%3D",
           "url": "https://fanqienovel.com/page/7682661892493413401"
-        },
-        {
-          "title": "乖软萌宝拿捏豪门影帝爹",
-          "author": "颍州雪",
-          "reads": "2.3万",
-          "intro": "小年糕两岁半那年母亲去世，她被送到从未见过的生父身边，从此过上作威作福，拿捏影帝爸爸的幸福生活。 爸爸手心热热的，可以暖脚。 爸爸胸膛宽宽的，可以睡觉。 爸爸衣服大大的，可以披披。 爸爸名声挺大的，可以上娃综。 爸爸粉丝多多的，可以有好多哥哥姐姐、叔叔阿姨、爷爷奶奶哄。 小年糕就这般在沈砚初的羽翼下成长。 沈砚初，北城第一家沈家三子，年纪轻轻拿下影视大满贯，除了催婚，没别的烦恼，直到遇到小年糕，一步到位，婚是没结的，孩子是两岁半的。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o069e5cdbd22c119a82d4d71b30329664~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077279&x-signature=Jj%2FgLALvoalbJYvWqGSw2rLTzRQ%3D",
-          "url": "https://fanqienovel.com/page/7605504214663449662"
         },
         {
           "title": "颜值主播，她身后全是魔王护！",
           "author": "别不理",
           "reads": "2.3万",
           "intro": "【直播+神颜+神豪+开局超神+含少量论坛体+大哥大姐多+正文无cp】 搬迁到新平台后，自带两个魔王护的林浅开播第一天就关注度空前，吸引到了个神豪乐子人，后面大家庭的人越来越多，林浅才意识到了不对…… 歪？说好的不上班呢？怎么天天催她加班？ “老公粉怎么了？我这么优秀，喜欢我不是一件很正常的事情吗？” 在爱里浸泡长大的孩子，同样也懂得接受别人的爱。于是……番音老公粉最多的直播间，不仅没有挡住外面的人，甚至想融入的更多了。 林浅：打起来打起来~ 话少可靠的第一个姐姐；陪伴最久的年下弟弟；入室抢劫般的天降乐乐；开小号反被拿捏的隐藏大佬……后续敬请期待",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2793fe9d0b1e26f3880b8b10c1911847~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077279&x-signature=0BjK0lulMNygnfSibGafnfKb3VA%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2793fe9d0b1e26f3880b8b10c1911847~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163625&x-signature=eWNO50UdfaARXYnoK6bLUyxvnko%3D",
           "url": "https://fanqienovel.com/page/7676900783018740760"
         },
         {
-          "title": "团播塌房后，我靠一张脸杀疯了",
-          "author": "关兔牙什么事",
+          "title": "乖软萌宝拿捏豪门影帝爹",
+          "author": "颍州雪",
           "reads": "2.2万",
-          "intro": "【顶级美貌➕团播个播➕多神豪➕含论坛体➕雄竞➕苏爽文】 洛南姒生来便是天之骄女，万千宠爱，万事尽有。 机缘巧合误入团播，一跃成为观众口中的皇太女。 开播没几天就吸到大哥大姐，一句话概括：我顺极了。 一朝风波塌房，全网坐等看她笑话。 谁知反转炸穿全网： 旧榜一批神秘人回来兜底，各路新神豪空降，新大姐豪横出手，周赛千万登顶！ 全网哗然。 众人懵了：怎么塌房之后，洛南姒反而更红更风光？ 女主第一美 避雷：前期黑料节奏不断，女主腥风血雨体质。 女主前期因为维护女消塌房，不喜欢这点的可以直接退出，或者再看看，手下留情。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od762ca2283b663acdecb30278663acdd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077279&x-signature=JVKQDHxd7NxJ3JOg79KKAJGTKTU%3D",
-          "url": "https://fanqienovel.com/page/7636923385296997400"
+          "intro": "小年糕两岁半那年母亲去世，她被送到从未见过的生父身边，从此过上作威作福，拿捏影帝爸爸的幸福生活。 爸爸手心热热的，可以暖脚。 爸爸胸膛宽宽的，可以睡觉。 爸爸衣服大大的，可以披披。 爸爸名声挺大的，可以上娃综。 爸爸粉丝多多的，可以有好多哥哥姐姐、叔叔阿姨、爷爷奶奶哄。 小年糕就这般在沈砚初的羽翼下成长。 沈砚初，北城第一家沈家三子，年纪轻轻拿下影视大满贯，除了催婚，没别的烦恼，直到遇到小年糕，一步到位，婚是没结的，孩子是两岁半的。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o069e5cdbd22c119a82d4d71b30329664~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163625&x-signature=kc8L3kWJ6cZffPuIkU2D2Giq714%3D",
+          "url": "https://fanqienovel.com/page/7605504214663449662"
         },
         {
-          "title": "养成系：天资是一种残忍的东西",
-          "author": "青灯俞",
+          "title": "团播：神豪系统是我榜一",
+          "author": "金樊",
           "reads": "2.2万",
-          "intro": "[养成系+娱乐圈升级流+无CP+野心家] “在娱乐圈混，天资是一个残忍的东西。” 11岁，黎问签约成为一名养成系练习生。 从公开那天起，他就没有back的命。 15岁成团出道，年少成名，热单，票房，高奢，他全都收入囊中。 都说了，他没有back的命。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9efd0ced5d6bc41a215cca4d46f27ef2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077279&x-signature=41bq%2B4TtKAh8xAWwNm92XfqePV8%3D",
-          "url": "https://fanqienovel.com/page/7689833549175737369"
-        },
-        {
-          "title": "呆系主播：神豪求饲养",
-          "author": "麒麟小邪不会累",
-          "reads": "2.1万",
-          "intro": "[团播+个播+多神豪+日常多+一点点修罗场] 荔只是一只有点呆呆的魅妖，别的魅妖已经凭自己的本事吸取了大量精气活的滋润无比，而这只呆比小猪还在依靠食物获得能量，每天饿的肚子痛。 直到有天她的成人礼来了不能依靠族里的帮助，只能踏出房门赚钱养自己。 最开始只想每月在团播摸鱼拿保底，结果得知月考要是拿不到名次只能被解雇。吓的小猪立刻使劲浑身解数“勾引”榜上神豪大佬们。 一勾一个准，一勾一个准。不小心成了月考第三，又不小心坐上了第一的宝座。 神豪一：这只猪明明最爱我，你看她给我发过这种视频。 神豪二：不一定，我也有啊 神豪三：我怎么也有？ 神豪四：这只猪，要这么多人也不知道吃不吃的下！（咬牙切齿） 神豪五、神豪六、神豪七……总之神豪多多 前期团播中间穿插个播，后期个播。穿插一些小猪身世但不多主要为了认识更多神豪吃饱肚子。（不会放弃直播）慢节奏，注意：日常较多，土味一见钟情。 主角是魅妖，大家懂得都懂。 全文主角最美，男主都是年上。老男人会疼人。 正文无CP。 荔只是真呆真人机，请大家多多关心吧。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/8644b7d8d8ff1035e0efbd6664756be6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077279&x-signature=Wn5x%2FnFoneq8MNjSyd1Eu9L2I6Y%3D",
-          "url": "https://fanqienovel.com/page/7607818509606718488"
+          "intro": "【神豪系统+超多大哥大姐+最终无cp】 　　【前期主写团播，公会赛后个播】 　　猫妖芙芙被系统007误绑后，成为律动团播的一名小主播。 　　只是，原来接管这具身体的是个人工智障，姜芙刚一穿越就发现事情不太对劲—— 　　原主工作摆烂，跳舞稀烂，且身陷抢队友大哥风波。 　　被大姐质问依然死不悔改，导致大家长们集体跑路。堪称地狱开局。 　　更要命的是，她绑定还是最强主播养成系统，要求每天完成一定打赏任务，否则就会一直处在饥饿状态。 　　姜芙：= = 　　007：QAQ 　　007：猫猫放心，我一定会养好你的！ 　　转头绑定神豪系统，打脸不怀好意的队友大哥，擂台赛中神挡杀神，公会赛豪掷万金，让芙芙一举成名。 　　也吸引来众多粉丝，和各大神豪为芙芙保驾护航。 　　工作超忙需要吸猫疗愈的大姐一号/全网刷重度颜控后独宠芙芙大姐二号/前跑路后回归嘴硬心软大姐三号…… 　　以及，N位爱情梦男大哥。 　　但无论他们怎样竞争，从低谷到巅峰，从无人在意到星光璀璨，007的名字始终居于榜首，没人能够动摇。 　　正如它在公会赛中所说—— 　　【未来大主播芙芙你好，我是你永远的榜一】",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/abe10194cecec10a98a2e2714f9151e1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163625&x-signature=mqMrU5su4xpBFrTs%2FkHOn0BIiMM%3D",
+          "url": "https://fanqienovel.com/page/7546829927018941465"
         },
         {
           "title": "团播神颜：神豪打赏竟是我自己",
           "author": "一点不困呢",
           "reads": "2.1万",
           "intro": "团播+个播+神豪系统+论坛体 宁一亦觉醒神豪系统的那一刻，才惊觉自己是一本团播文里的路人对照组，注定陪跑垫脚，衬托女主风光。 而现在宁一亦手握神豪系统，系统在手，刷礼物、冲榜单，她靠自己登顶团播之巅！ 直播靠别人撑腰？不，她自己就是顶级神豪！系统就是她的最强后盾！ 女主主控｜多男主+雄竞，开放结局正文完结后有if线 前期团播，后期个播，团播期无男女主暧昧 所有上桌男主身心双洁，女主全程顺爽",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7cbbbe5f23fa4b8070e707c9bc68a4fa~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077279&x-signature=p%2BuSvwiOdJTOlYdMRshtyehyv2U%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7cbbbe5f23fa4b8070e707c9bc68a4fa~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163625&x-signature=%2BCY43Nhvq3k33zZr3uLT8cpaZ6Q%3D",
           "url": "https://fanqienovel.com/page/7685513559521905689"
         },
         {
-          "title": "惊！娱乐圈糊咖老公是神秘大佬",
-          "author": "壹只汤圆",
-          "reads": "2.1万",
-          "intro": "【1V1+隐婚+SC+年龄差6岁+严肃沉稳大领导VS表面温婉实际内心戏超多的笨蛋美人】 木星瑶娱乐圈摸爬滚打近十年，归来仍是素人。 长了一张绝美的脸，却因不肯接受潜规则，沦为无人问津的小透明。 一次次无奈的应酬与碰壁，让她心生退意。 因一次意外与云市背景神秘的程书记相遇。 男人身居高位，沉稳内敛，却一次次为她破例。 几番交集之后，他们选择低调隐婚。 —— 一次日常直播，木星瑶正和粉丝分享最近淘到的家居好物，突然一道低沉慵懒的男声传入手机，“老婆，明天采访我穿哪套衣服？” 弹幕沸腾，木星瑶光速下播。 全网舆论哗然。 【爆！某刚提视后的知名女星已婚！】 【这声音我爱了，老公我在这！】 【各位不觉得这个声音很像前段时间因为颜值出圈的某书记？】 【楼上，只有你觉得，别给你主子脸上贴金，她配？】 黑粉狂喜，纷纷下场。 几日后，一则新闻采访花絮露出。 “程书记，听闻您很爱您太太，但好像没有人见过您二位同框？” 坐在主位的男人长腿随意舒展，脸带笑意，“是的，我很爱我太太，我太太是演员......",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o639511399ac171eb1bc7bc6b0efc572a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077279&x-signature=E6SeJ6TS1SPGYC4TgKSS6bVWT9E%3D",
-          "url": "https://fanqienovel.com/page/7529017373790063678"
+          "title": "呆系主播：神豪求饲养",
+          "author": "麒麟小邪不会累",
+          "reads": "2万",
+          "intro": "[团播+个播+多神豪+日常多+一点点修罗场] 荔只是一只有点呆呆的魅妖，别的魅妖已经凭自己的本事吸取了大量精气活的滋润无比，而这只呆比小猪还在依靠食物获得能量，每天饿的肚子痛。 直到有天她的成人礼来了不能依靠族里的帮助，只能踏出房门赚钱养自己。 最开始只想每月在团播摸鱼拿保底，结果得知月考要是拿不到名次只能被解雇。吓的小猪立刻使劲浑身解数“勾引”榜上神豪大佬们。 一勾一个准，一勾一个准。不小心成了月考第三，又不小心坐上了第一的宝座。 神豪一：这只猪明明最爱我，你看她给我发过这种视频。 神豪二：不一定，我也有啊 神豪三：我怎么也有？ 神豪四：这只猪，要这么多人也不知道吃不吃的下！（咬牙切齿） 神豪五、神豪六、神豪七……总之神豪多多 前期团播中间穿插个播，后期个播。穿插一些小猪身世但不多主要为了认识更多神豪吃饱肚子。（不会放弃直播）慢节奏，注意：日常较多，土味一见钟情。 主角是魅妖，大家懂得都懂。 全文主角最美，男主都是年上。老男人会疼人。 正文无CP。 荔只是真呆真人机，请大家多多关心吧。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/8644b7d8d8ff1035e0efbd6664756be6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163625&x-signature=2u8yJ9v5qsuwiDP4G3eD%2BdlPebc%3D",
+          "url": "https://fanqienovel.com/page/7607818509606718488"
+        },
+        {
+          "title": "热搜女星她重生了",
+          "author": "鹅是幸运鹅",
+          "reads": "2万",
+          "intro": "当一切噩梦清零，她回到了所有故事的起点。 2009年的夏天，《流星雨》在芒果台上线，开播即爆。 这一次，她不想再辜负那些爱着她的人。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob3b8b34af592b0fc89db7c53e6237e69~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163625&x-signature=GnL7oJxBU4qi2NAh3SNdyJDfKz0%3D",
+          "url": "https://fanqienovel.com/page/7688931280506850329"
         },
         {
           "title": "心动9，直球导演和他的i人甜妹",
           "author": "我不能太暖",
           "reads": "2万",
           "intro": "恋综甜宠文，温柔文艺片导演的直球和他的慢热i人甜妹小默契。 江叙白看到她的第一眼，就希望能让这个一眼美好的女孩所有的美好。 于是在节目中总会默默的关注着她的小情绪，在姐姐星星的撮合下，思思也敢于在众人面前坚定的向他走去。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o150edc7b0817778001de14263553439a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077279&x-signature=YWzRUaIJjLHZSMilyM2lmtZF7qg%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o150edc7b0817778001de14263553439a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793163625&x-signature=C2cHf%2BckQ35Saik6mSLPj%2BiD9ig%3D",
           "url": "https://fanqienovel.com/page/7676936573065104446"
-        },
-        {
-          "title": "热搜女星她重生了",
-          "author": "鹅是幸运鹅",
-          "reads": "1.9万",
-          "intro": "当一切噩梦清零，她回到了所有故事的起点。 2009年的夏天，《流星雨》在芒果台上线，开播即爆。 这一次，她不想再辜负那些爱着她的人。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob3b8b34af592b0fc89db7c53e6237e69~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793077279&x-signature=tU4FqG0slP7oQQkPlgdpbTPwp%2F8%3D",
-          "url": "https://fanqienovel.com/page/7688931280506850329"
         }
       ]
     }

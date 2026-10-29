@@ -1,217 +1,229 @@
 {
   "type": "游戏体育",
-  "date": "2026-10-28",
-  "prev_date": "2026-10-27",
+  "date": "2026-10-29",
+  "prev_date": "2026-10-28",
   "category": {
     "name": "游戏体育",
     "trend": {
-      "new_count": 0,
-      "dropped_count": 0,
-      "new_books": [],
-      "dropped_books": [],
+      "new_count": 2,
+      "dropped_count": 2,
+      "new_books": [
+        "万界游戏：知道家师是谁吗！",
+        "失业玩游戏，我暴富了"
+      ],
+      "dropped_books": [
+        {
+          "title": "公路求生，开局一辆救护车",
+          "intro": "公路求生，无CP，女主成长。 一瞬之间，地球上18到50岁的人都被拉进了公路求生游戏。栗繁星也是其中之一，幸运的是，她身下坐着的救护车也跟着一起来了。"
+        },
+        {
+          "title": "公路求生：榜一她不是好魔",
+          "intro": "【无cp＋独狼＋混沌中立＋女强 女主睚眦必报，不是好人！】 许宁从梦中醒来，自己副本失败死亡，还有半个小时，公路求生游戏就会降临。 不管这个梦是不是真的，她这次一定会活到最后。 对于常年霸占榜一的月色"
+        }
+      ],
       "top_risers": [
         {
           "title": "球台之外：国乒小天才恋上女明星",
-          "change": "+6"
+          "change": "+3"
         },
         {
-          "title": "公路求生：谁家电瓶车装导弹啊？",
-          "change": "+2"
+          "title": "禁止觊觎游戏里的美强惨团宠角色",
+          "change": "+1"
         },
         {
-          "title": "像素游戏：顶级玩家已登录",
+          "title": "公路求生：我在房车内躺平发育",
           "change": "+1"
         }
       ],
       "top_fallers": [
         {
-          "title": "公路求生，开局一辆救护车",
-          "change": "-5"
-        },
-        {
-          "title": "游戏入侵：重生后我氪穿全服",
+          "title": "康平路长公主：她的百里例无虚发",
           "change": "-2"
         },
         {
-          "title": "欧皇鼠鼠捡到的破产哥是魔王护",
+          "title": "全息游戏当神偷，偷完他的偷你的",
+          "change": "-1"
+        },
+        {
+          "title": "宇宙游戏：我成BOSS了？",
           "change": "-1"
         }
       ],
       "reads_growth": [
         {
-          "title": "像素游戏：顶级玩家已登录",
-          "growth": "+1.2万"
-        },
-        {
           "title": "球台之外：国乒小天才恋上女明星",
-          "growth": "+4741"
+          "growth": "+5000"
         },
         {
-          "title": "禁止觊觎游戏里的美强惨团宠角色",
+          "title": "像素游戏：顶级玩家已登录",
           "growth": "+3000"
+        },
+        {
+          "title": "万人嫌反派炮灰成了早逝白月光",
+          "growth": "+2000"
         }
       ],
-      "summary": "《球台之外：国乒小天才恋上女明星》排名上升+6位；《像素游戏：顶级玩家已登录》阅读量+1.2万。"
+      "summary": "新增2本上榜；2本掉出（《公路求生，开局一辆救护车》、《公路求生：榜一她不是好魔》）；《球台之外：国乒小天才恋上女明星》排名上升+3位；《球台之外：国乒小天才恋上女明星》阅读量+5000。"
     },
     "books": [
       {
         "title": "像素游戏：顶级玩家已登录",
         "author": "橙鱼悠悠",
-        "reads": "15.5万",
-        "intro": "【第四天灾+无cp+单机游戏】 重度游戏爱好者江一获得了一款单机像素游戏的内测资格，开局就欠下一万学费，自此，尘域人民迎来了属于他们的报应。 接下来登场的是： 流光一中顶级学神，天罚司第一执行官，新时代厨神，药剂大师，流光城创业大神，尘域颜霸，医者仁心的人民好大夫，最爱坐公交之人，通神商会最尊贵的客人兼打手，无罪会得不到的男人... 这里站不下这么多人！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o41cd7919b09676afc7cfdb9f731871f4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771560&x-signature=5xRJGs9hDXZsBsnjAwum2jMShEU%3D",
+        "reads": "15.8万",
+        "intro": "【第四天灾+男主无cp+单机游戏】 重度游戏爱好者江一获得了一款单机像素游戏的内测资格，开局就欠下一万学费，自此，尘域人民迎来了属于他们的报应。 接下来登场的是： 流光一中顶级学神，天罚司第一执行官，新时代厨神，药剂大师，流光城创业大神，尘域颜霸，医者仁心的人民好大夫，最爱坐公交之人，通神商会最尊贵的客人兼打手，无罪会得不到的男人... 这里站不下这么多人！",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o41cd7919b09676afc7cfdb9f731871f4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858190&x-signature=0B1%2F8w1yokAYqYLsIb7UuciFrKI%3D",
         "url": "https://fanqienovel.com/page/7681213091245198361"
       },
       {
         "title": "欧皇鼠鼠捡到的破产哥是魔王护",
         "author": "吃饱了没事做吖",
-        "reads": "14万",
+        "reads": "12.1万",
         "intro": "【鼠皇附体锦鲤妹X东部菱斑猛攻哥】 女频！女频！不是男频！女主微万人迷 【bg＋成长型＋游戏＋锦鲤体质＋轻松爽文＋1v1】 一朝醒来，沈梨安降临在一个必须去和人对枪、到处偷东西卖钱才能生存的游戏世界。 体育中考都没过及格线的某梨：……对枪？和谁？我也要对枪吗？ 【负面buff“运动废柴”生效中——体力条上限-20％】 【特殊buff“存在感”生效中——当蹲行时，对战内的中立角色会自动无视。】 体力条比人短一大截，开局根本抢不到值钱的资源点。 然而欧气附体，别人找低爆容器小绿小蓝都很难见，她把把搜垃圾出红。 价格不菲的大红门禁卡，她在脚底别人漏搜衣服里捡到了，跑几天也很难见到几次的大金，沈梨安随手从土堆里挖出来。 愣是在新手期就实现财富自由。 后来，队友全部死翘翘后她在被敌方追杀时意外遇到一个同样被追杀的大哥。 好消息好消息，大哥一穿10把敌人和BOSS全杀了！ 坏消息坏消息，大哥貌似还要来杀她！ 沈梨安灵机一动，从背包里掏出塞不进保险的大红和小金打手势：“别杀我，这些都给你，求放过。” 刚被熟人背刺破产的脸盲猛攻哥：？ ＊东部菱斑：一种响尾蛇",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc209086bcb12108c40205a578b2fe991~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771560&x-signature=eaSwA6GXBiC30Ek5ufAqC4%2Ff%2BOY%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc209086bcb12108c40205a578b2fe991~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858190&x-signature=XXPRXnqcT4Owkl8iCHFXkHWxioI%3D",
         "url": "https://fanqienovel.com/page/7677911895101148222"
       },
       {
         "title": "万人嫌反派炮灰成了早逝白月光",
         "author": "烤串梦女",
-        "reads": "6.1万",
+        "reads": "6.3万",
         "intro": "【无cp+假万人嫌真万人迷+白月光+美强惨+马甲+战损、死遁+直播弹幕】 管理局头号走狗岑厌死了。 但很可惜，他又活了。 一个自称世界意识的东西找上了他，莫名其妙要他拯救世界。 岑厌并不想拯救世界，也并不想活。 于是他干净利落的拒绝了。 世界意识：求你了，救救我吧，我死了所有人都会死的！ 岑厌：……行吧。 …… 原剧情结局世界毁灭全员be，而岑厌的任务就是拯救他们。 岑厌把这当做最后一个任务来做。 他按照前世做任务的方式。 帮主角团挡刀，为主角团赴死，替主角团承受他们承受不了痛苦。 可等到了他快死的时候，主角团却红着双眼，声音颤抖。 “你就不能为自己活一次吗？” “求你，别死……” 岑厌打出问号：？ 像他这种罪大恶极的人，死掉的话所有人都应该感到高兴吧？ 为什么他们会露出那般悲痛欲绝的眼神呢？ 不太明白呢…… …… 起初，岑厌以为所有人都想让他死。 后来，岑厌发现所有人都想让他活。 他无法理解。 ……为什么？ …… 副本一：希望二中 副本二：轮回金字塔 副本三：回廊福利院 副本四：七罪 副本五：王家村 副本六：梦境",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob22564f3049b6cb1f23edb478ac17365~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771560&x-signature=hIkYAGShckUMmpx7VvSzsjncf6A%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob22564f3049b6cb1f23edb478ac17365~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858190&x-signature=a1TsaHs5vUJwcfQlT%2Bv%2F%2B3MBmFU%3D",
         "url": "https://fanqienovel.com/page/7645267155046370366"
       },
       {
         "title": "游戏降临：欧皇的自我修养",
         "author": "雪姽",
-        "reads": "5万",
+        "reads": "4.7万",
         "intro": "（评分刚出来比较低，会涨的啦）【游戏降临现实+内测玩家+双男主+升级流+爽文+无限流副本模式】 作为一个地球Online游戏的欧皇玩家，太曦华表示人生实在是易如反掌。 就连游戏降临之后他的欧皇属性也仍旧在发力，内测资格与高级道具更是手到擒来。 就连极品长发大乃男都想入赘进来，这就是刚出新手村就遭遇顶级魅魔，倾尽全力无法抵抗吗？ 片段一 【[天照]你实话告诉我，你什么时候跟人家[暴君]搭上关系的？是不是背着我们偷偷赘入豪门了？】 裴照雪也看到了这条弹幕，他抬眸轻勾唇角，笑意盈盈。 “我倒是想入赘这个豪门，就是不知道别人给不给这个机会呢？” 片段二 太曦华仰起脸，知不知道站在你面前的可是战力排行榜榜一，远古冰凤凰的主人，肥啾饲养员，榜二暗恋之人，逐月的拥有者，尊贵的大魔导师大人，全系元素亲和之人，高数值的超标怪！ 不好意思！这里站不下这么多人！ 开的挂还挺大的来着，千万不要带脑袋看！ 没办法，平生就爱开点挂，还爱看点爽文。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob199de4fb09bf236247b68f9dabcc96c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771560&x-signature=JklJPDIxtQbBXp%2BnkXGJ8UcAfLk%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob199de4fb09bf236247b68f9dabcc96c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858190&x-signature=1oa9usYGZxbsmhMKCJ7LwvlyLhw%3D",
         "url": "https://fanqienovel.com/page/7673520339363580953"
+      },
+      {
+        "title": "禁止觊觎游戏里的美强惨团宠角色",
+        "author": "无果无过",
+        "reads": "3.1万",
+        "intro": "【美强惨冷脸萌大佬男主+非典型万人迷+穿越游戏+弹幕论坛+无cp+伪群像】 注：章节题目为任务标题 作为万千穿越者中的一员，洛叶最大的梦想就是穿回去 然而他迟迟没找到穿回去的方法，反倒把自己脑子熬出了毛病 他能看到对话框 每个人所说所想，都会在他们身边的半透明屏幕上清楚显示出来 偶尔还能碰到几个脑袋上顶着红色标签和感叹号的 ——比如他自己 就在他想彻底摆烂之际，事情出现了新的转机 玩家的集合体，探索者，闯进了他的生命 于是，他踏上了新的冒险之旅，沿途不忘处理百年来闯的祸和遇到的变态无数 只不过玩家和角色们的眼神怎么都越来越不对劲？ “请不要再为了救别人伤害自己。” 洛叶扣出一个问号 ＊ 洛叶这个角色刚在抽卡游戏《彩褪》出场的时候，所有玩家都认为他是个神秘大佬 他端坐在礁石之上，羽毛成精般的装扮，吐出冰渣子一般的语言 但后来，玩家们发现官方是会搞反差的 谁能想到这位是个听不得直球，时不时会顶着张扑克脸耳尖泛红的主？ 再后来，玩家们发现这位还真是个大佬，赤王的友人是他，幽冥乡的主人还是他 前脚还站在他们身侧科普，后脚就坐在了主座上 玩家：这么牛不早说 洛叶：年纪大了不记得这些虚名",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o605ca27c6d93711e452ae8f0e6bbbfb5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858190&x-signature=X5dgO7GzoqbiIT%2FSXn85Ed79cv0%3D",
+        "url": "https://fanqienovel.com/page/7691377823054826558"
       },
       {
         "title": "全息游戏当神偷，偷完他的偷你的",
         "author": "卫斯瑞",
         "reads": "3.1万",
         "intro": "《创世纪》开服。 时西摩拳擦掌，正准备进入游戏，大干一场。 刚进去，系统： 【恭喜玩家抽到概率0.00001％的隐藏职业。】 时西欣喜若狂。 她抽中了什么职业？ 难道她一下就拥有了牛逼哄哄的身份，拳打法师，脚踢战士，从此走上人生巅峰？ 系统： 【恭喜玩家成为一名伟大的——】 【小偷。】 时西：“？？？” 从此以后—— 其它玩家努力做任务赚金币，而时西狂偷NPC东西，一跃成为游戏里最有钱之人。 其它玩家努力刷教皇好感度，为了获得教皇的赏赐；而时西努力接近教皇，只为从他身上偷到教皇令，取而代之成为新的教皇。 神魔大战，厮杀惨烈。其他玩家为各自阵营而战，而时西浑水摸鱼，偷完天使族圣物，又去偷恶魔族至宝。双方好不容易打完，回头一看，争了半天的宝物全都不见了。 众人：“！！！” 发生了什么？！ 次日，系统通报全服： 【在玩家中有一个神偷，请大家把ta找出来吧！】 系统对时西： 【现在你已经同时得罪了正邪双方，你的阵营里只有你自己，务必不要被其他人发现身份哦～】 时西：我去，不早说：） ps：有男主，游戏名路西法",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe1df2d07215c051aac31054bb07dc615~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771560&x-signature=D67%2BeD%2Bkz%2BJuKMmLwG%2BT8dsIWd0%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe1df2d07215c051aac31054bb07dc615~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858190&x-signature=a%2BlTFXB8eS6mgQhYmZPQFW8SgO4%3D",
         "url": "https://fanqienovel.com/page/7649555417638390846"
-      },
-      {
-        "title": "禁止觊觎游戏里的美强惨团宠角色",
-        "author": "无果无过",
-        "reads": "2.9万",
-        "intro": "【美强惨冷脸萌大佬男主+非典型万人迷+穿越游戏+弹幕论坛+无cp+伪群像】 注：章节题目为任务标题 作为万千穿越者中的一员，洛叶最大的梦想就是穿回去 然而他迟迟没找到穿回去的方法，反倒把自己脑子熬出了毛病 他能看到对话框 每个人所说所想，都会在他们身边的半透明屏幕上清楚显示出来 偶尔还能碰到几个脑袋上顶着红色标签和感叹号的 ——比如他自己 就在他想彻底摆烂之际，事情出现了新的转机 玩家的集合体，探索者，闯进了他的生命 于是，他踏上了新的冒险之旅，沿途不忘处理百年来闯的祸和遇到的变态无数 只不过玩家和角色们的眼神怎么都越来越不对劲？ “请不要再为了救别人伤害自己。” 洛叶扣出一个问号 ＊ 洛叶这个角色刚在抽卡游戏《彩褪》出场的时候，所有玩家都认为他是个神秘大佬 他端坐在礁石之上，羽毛成精般的装扮，吐出冰渣子一般的语言 但后来，玩家们发现官方是会搞反差的 谁能想到这位是个听不得直球，时不时会顶着张扑克脸耳尖泛红的主？ 再后来，玩家们发现这位还真是个大佬，赤王的友人是他，幽冥乡的主人还是他 前脚还站在他们身侧科普，后脚就坐在了主座上 玩家：这么牛不早说 洛叶：年纪大了不记得这些虚名",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o605ca27c6d93711e452ae8f0e6bbbfb5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771560&x-signature=oGXSY0W77iKsrN5rpMasVdIWIOs%3D",
-        "url": "https://fanqienovel.com/page/7691377823054826558"
-      },
-      {
-        "title": "宇宙游戏：我成BOSS了？",
-        "author": "铁心鉴",
-        "reads": "2.1万",
-        "intro": "【游戏+双面角色+升级+非无脑爽+无cp】 一睁眼，江月沉被鬼牌拉到了【纸牌游戏】的牌桌上。 她是被精心挑选的祭品，只是鬼牌没想到。 江月沉临时觉醒的天赋是—— 【秒杀】 鬼牌输掉了赌局，也输掉了代表自己身份的[鬼牌]。 SSS级副本【纸牌游戏】的主人已经陨落，江月沉戴上无名氏的礼帽，拾起笑面权杖，成为了【纸牌游戏】的新主人。 与此同时，外面的世界早已变了模样。 副本，天赋，诡异宝物，神阶……这个世界变得眼花缭乱，也变得危险重重。 宇宙游戏已经开启。 玩家【暗牌】已就位。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa73f181ad5b77423890ed423ed0ca44c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771560&x-signature=eUDNk0DSpZixpAagyQR1Yf4nqTY%3D",
-        "url": "https://fanqienovel.com/page/7675467033835752472"
-      },
-      {
-        "title": "康平路长公主：她的百里例无虚发",
-        "author": "会飞的笔帽",
-        "reads": "1.6万",
-        "intro": "【团宠＋外挂＋颜值buff】 KPL新来了位女选手，不仅长得漂亮，并且——她的百里守约，例无虚发。 谁说女生打不了职业？ （主角有挂，不喜勿入）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oebad7e56677572e00f08a7845dce4a43~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771560&x-signature=wr4TrDpIK6CCS7ipI37Z3SYiRyk%3D",
-        "url": "https://fanqienovel.com/page/7618944250037668888"
-      },
-      {
-        "title": "赛博求生：假圣母宽恕谁了？",
-        "author": "本不本",
-        "reads": "1.4万",
-        "intro": "【赛博求生+无CP+升级流+序列职业】 愚善二十多年的余善一朝车祸，穿越到赛博求生游戏，觉醒天赋：宽恕，只要宽恕旁人就能拿到奖励。 然后她给自己改了个“圣母”ID，在玩家群聊—— 玩家：“你有病？” 余善：“如果这样想，能让你敏感脆弱的心好受一点，是我功德无量了。” 玩家：“…原来是这样的圣母吗……” . 小剧场： “让我们用最热烈的掌声欢迎——7号殖民区明牌卧底、黄金城的寄生虫、傲慢病人、记忆焚烧者、无相圣母、黑色月、深渊、暴君、万界归一、新世界至高主宰，余善！” 玩家：“这里站不下这么多人！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0d27c7543f074bcbfa8cb96279992751~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771560&x-signature=D3BZfCEFeHSG%2FJLfS06mJHT42pc%3D",
-        "url": "https://fanqienovel.com/page/7674658419759909913"
       },
       {
         "title": "球台之外：国乒小天才恋上女明星",
         "author": "刻舟求饭",
-        "reads": "1.4万",
+        "reads": "1.9万",
         "intro": "【不喜欢请绕路，请勿直接低分】 2013年，宋晩黎作为明星代表拍摄乒乓宣传片，走进国家队训练馆，第一次看到了林亦铮。 从此少年，再没看过别人。 他从替补变成主力。 她在资本和舆论里起起落落，保持本心。 所有人都说，他们不是一个世界的人。 可只有她知道，他每一次夺冠后，第一个看向的，从来不是奖杯。 “林亦铮，我们在一起吧。” 球台之外，他终于等到了她。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obdb86fd9431f3d5ae84b2ec55fb33e17~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771560&x-signature=Aydl0%2BlVQq4oCRmSgalIzDbJs%2Bo%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obdb86fd9431f3d5ae84b2ec55fb33e17~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858190&x-signature=fjB4R7k67snz%2Ft3b6Gocg1Ond3c%3D",
         "url": "https://fanqienovel.com/page/7680961904331721753"
       },
       {
-        "title": "游戏入侵：重生后我氪穿全服",
-        "author": "萌萌哒的哀酱",
-        "reads": "1.2万",
-        "intro": "【重生+游戏入侵+女强独美+氪金流+技能海】 《天域》公测开启，全网都在骂策划疯了。 基础技能收费，永久权限收费，连副职业都要氪。 别人嫌贵。 苏禾却只嫌自己充得不够快。 因为她知道—— 三十天后，游戏会降临现实。 新人抽取天赋，她开局拿下SSS级【万法之躯】。 剑术、魔法、治疗、炼药、炼金、锻造…… 别人只能择一而行。 她全系100%适格。 于是苏禾直接开启扫货模式。 技能，买。 权限，买。 绝版资源，全买。 直到累计充值突破一亿元—— 【全球唯一隐藏彩蛋触发！】 【第二天赋栏开启！】 【获得唯一？？？级天赋——氪金改命！】 技能可以氪满。 时间可以加速。 概率可以拉到100%。 缺失资源甚至可以直接具现。 三十天后，商城永久关闭，所有人开始为一个NPC传承抢破头。 而苏禾打开自己密密麻麻的技能栏。 忽然觉得—— 上辈子穷死，确实死得不冤。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7ed05d1ff6aaa62c693f4071c58e3a7f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771563&x-signature=a%2FIzY0bnpKQYKEb5K5iqBMfKQOg%3D",
-        "url": "https://fanqienovel.com/page/7677821890429193240"
+        "title": "宇宙游戏：我成BOSS了？",
+        "author": "铁心鉴",
+        "reads": "1.9万",
+        "intro": "【游戏+双面角色+升级+非无脑爽+无cp】 一睁眼，江月沉被鬼牌拉到了【纸牌游戏】的牌桌上。 她是被精心挑选的祭品，只是鬼牌没想到。 江月沉临时觉醒的天赋是—— 【秒杀】 鬼牌输掉了赌局，也输掉了代表自己身份的[鬼牌]。 SSS级副本【纸牌游戏】的主人已经陨落，江月沉戴上无名氏的礼帽，拾起笑面权杖，成为了【纸牌游戏】的新主人。 与此同时，外面的世界早已变了模样。 副本，天赋，诡异宝物，神阶……这个世界变得眼花缭乱，也变得危险重重。 宇宙游戏已经开启。 玩家【暗牌】已就位。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa73f181ad5b77423890ed423ed0ca44c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858190&x-signature=kk0VSuA74GpROz7RoQjDb9chioc%3D",
+        "url": "https://fanqienovel.com/page/7675467033835752472"
+      },
+      {
+        "title": "赛博求生：假圣母宽恕谁了？",
+        "author": "本不本",
+        "reads": "1.6万",
+        "intro": "【赛博求生+无CP+升级流+序列职业】 愚善二十多年的余善一朝车祸，穿越到赛博求生游戏，觉醒天赋：宽恕，只要宽恕旁人就能拿到奖励。 然后她给自己改了个“圣母”ID，在玩家群聊—— 玩家：“你有病？” 余善：“如果这样想，能让你敏感脆弱的心好受一点，是我功德无量了。” 玩家：“…原来是这样的圣母吗……” . 小剧场： “让我们用最热烈的掌声欢迎——7号殖民区明牌卧底、黄金城的寄生虫、傲慢病人、记忆焚烧者、无相圣母、黑色月、深渊、暴君、万界归一、新世界至高主宰，余善！” 玩家：“这里站不下这么多人！”",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0d27c7543f074bcbfa8cb96279992751~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858190&x-signature=72FrAcCvjgIlpJml2xuzjZMHzsM%3D",
+        "url": "https://fanqienovel.com/page/7674658419759909913"
+      },
+      {
+        "title": "康平路长公主：她的百里例无虚发",
+        "author": "会飞的笔帽",
+        "reads": "1.4万",
+        "intro": "【团宠＋外挂＋颜值buff】 KPL新来了位女选手，不仅长得漂亮，并且——她的百里守约，例无虚发。 谁说女生打不了职业？ （主角有挂，不喜勿入）",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oebad7e56677572e00f08a7845dce4a43~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858190&x-signature=Ms1zkfqBxkLX%2BPPmILjKTH1QWcQ%3D",
+        "url": "https://fanqienovel.com/page/7618944250037668888"
       },
       {
         "title": "公路求生：我在房车内躺平发育",
         "author": "一念十五",
         "reads": "1.1万",
         "intro": "万人迷女主，幸运值天花板，1V多 救命！ 期末复习熬晕后，我穿进公路求生(内测版)！ 但喜提幸运值天花板！ 开局三载具顶配开局，果断锁死SSS房车开启躺平人生，奶茶零食备齐，暖气空调拉满。 可谁能告诉我，为啥全服大佬都围着我的房车转？ 战力榜一大佬当保镖，怪物NPC主动送物资，副本天花板组队求带。 钝感力萌妹被迫成万人迷，每天都在严防死守房车：求求了，让我安安静静躺平通关行不行！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/7f0e6b785f62f21c9d4e69ce777d734c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771563&x-signature=lPmwuIqVX1H8%2BEhSqb5BzhNwLH8%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/7f0e6b785f62f21c9d4e69ce777d734c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858193&x-signature=gotgzoc6Ysq674MUg5AB3WDeqIU%3D",
         "url": "https://fanqienovel.com/page/7598053076016057368"
+      },
+      {
+        "title": "游戏入侵：重生后我氪穿全服",
+        "author": "萌萌哒的哀酱",
+        "reads": "1万",
+        "intro": "【重生+游戏入侵+女强独美+氪金流+技能海】 《天域》公测开启，全网都在骂策划疯了。 基础技能收费，永久权限收费，连副职业都要氪。 别人嫌贵。 苏禾却只嫌自己充得不够快。 因为她知道—— 三十天后，游戏会降临现实。 新人抽取天赋，她开局拿下SSS级【万法之躯】。 剑术、魔法、治疗、炼药、炼金、锻造…… 别人只能择一而行。 她全系100%适格。 于是苏禾直接开启扫货模式。 技能，买。 权限，买。 绝版资源，全买。 直到累计充值突破一亿元—— 【全球唯一隐藏彩蛋触发！】 【第二天赋栏开启！】 【获得唯一？？？级天赋——氪金改命！】 技能可以氪满。 时间可以加速。 概率可以拉到100%。 缺失资源甚至可以直接具现。 三十天后，商城永久关闭，所有人开始为一个NPC传承抢破头。 而苏禾打开自己密密麻麻的技能栏。 忽然觉得—— 上辈子穷死，确实死得不冤。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7ed05d1ff6aaa62c693f4071c58e3a7f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858193&x-signature=KJW%2BKyKuqO4Ljj%2F05W2u4vswxyI%3D",
+        "url": "https://fanqienovel.com/page/7677821890429193240"
       },
       {
         "title": "公路求生：谁家电瓶车装导弹啊？",
         "author": "彭大圆宝",
-        "reads": "9607",
+        "reads": "9805",
         "intro": "【全民公路求生】【女强】【萌宠】【有cp】【群像】【末日】【规则怪谈】【丧尸】 避雷提示：有男主，想要无cp宝子劝退哈。 全民被拉入公路求生游戏， 上一世，许夏轻信队友，相依为命的小狗，被恶魔分食，连自己也浑浑噩噩在进入公路的第三年死在路上。 这一世，许夏开局电瓶车装配导弹， 第二天就升级二级载具，获得欧皇称呼buff，开箱必得双倍物资， 神挡杀神佛挡杀佛。 三维数据涨涨涨， 再凭借上辈子的经验，渐渐混成了分区榜首。 上辈子害死她跟发财的垃圾，已经被她杀了。 她本不需要队友，可那一个个人都捧着真心相待。 罢了，又不是每个人都是垃圾。 她决定再相信一次，如果还是不行，拿导弹把她们都轰了。 可……这群人咋都这么好啊啊啊啊啊",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o289bc3127b583c9abb74d28cd90a76c6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771563&x-signature=0aZq0NuAq4tfZDw7GL0ugLU6DPg%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o289bc3127b583c9abb74d28cd90a76c6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858193&x-signature=YI6WnPjSQ8pmZuITuRskDLrKW2g%3D",
         "url": "https://fanqienovel.com/page/7684112767657200702"
       },
       {
         "title": "CS：美少女也能打职业！",
         "author": "泠安冉",
-        "reads": "9541",
+        "reads": "9538",
         "intro": "【轻松·搞笑日常·毒舌系统·无CP】 洛时昭，资深宅女，看完科隆Major Falcons夺冠NiKo圆梦之后，她感动得哭睡着了。 再一睁眼，回到了2023年. 十六岁，人在莫斯科，洛时昭准备躺平，然而脑海里响起一道毫无感情的机械音： 【叮！系统解锁成功】 【正在检验宿主数据】 【亲亲！这里建议宿主早日回家，放弃职业梦捏】 洛时昭：？？？ 不是，谁家系统一上来就劝退的？ 当全网唯一活跃在CS2一线赛场的女职业选手横空出世，所有人都觉得这是个笑话。 直到她站在领奖台上，捧起属于她的冠军奖杯，亲手打破质疑。 洛时昭：其实我只想安安静静地看比赛。 系统：【晚了。】",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7ee217d3d8bc98782c8539df82b84fba~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771563&x-signature=l4j2LHtvt2frJtVAeOt%2FnPepO1s%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7ee217d3d8bc98782c8539df82b84fba~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858193&x-signature=3hNdtarGGjvRIDev853HN3%2F9pTY%3D",
         "url": "https://fanqienovel.com/page/7669490169401052222"
       },
       {
         "title": "废土？和我的镐子说去吧！",
         "author": "谓我所求",
-        "reads": "9480",
+        "reads": "9011",
         "intro": "评分是刚出的，后面会慢慢涨！ 【废土基建+种田+经营+第四天灾+女主无cp】 清燕下载了一款名为《我的废土物语》缝合游戏。 今天心血来潮种种田，捡到NPC就压榨NPC为自己种田。 遇到喜欢的NPC直接打包回家，转头就对NPC问“你是谁，为什么在我家？” 下雨天不用浇水，那就去河边钓鱼，结果惨遭空军，一怒之下去找mod却败兴而归。 废土的居民千千万，老农民的土地也千千万。 老农民只是想要勤勤恳恳老实种地然后成为世界首富而已，老农民什么都没做错！哎！都是城里人害的！ —— 废土里来了个类人生物。 她有着黑头发黑帽子黑衣服黑鞋子，行动诡异看见什么都往嘴里塞，间歇性神经质压榨废土人，谁敢惹她就要被一镐子敲死。 骗你的，不惹她也要被击打。 但为了土豆和面包，废土人只能苦哈哈地继续被压榨了。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odd2685a97c1de250cacaad42b97b6e45~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771563&x-signature=6934gHEGnYbNrx7bE65BO4bQaCY%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odd2685a97c1de250cacaad42b97b6e45~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858193&x-signature=N9MFFD%2F75Qic%2BM4E35u8MzEgYig%3D",
         "url": "https://fanqienovel.com/page/7686168223049337880"
       },
       {
-        "title": "公路求生，开局一辆救护车",
-        "author": "黑漆漆的蛋糕",
-        "reads": "8287",
-        "intro": "公路求生，无CP，女主成长。 一瞬之间，地球上18到50岁的人都被拉进了公路求生游戏。栗繁星也是其中之一，幸运的是，她身下坐着的救护车也跟着一起来了。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3780a8d9c7cc91df79e15f745f9c095f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771563&x-signature=2Cep2XO6eHAyMjzFHJMtxkpUKtQ%3D",
-        "url": "https://fanqienovel.com/page/7678514669190925374"
+        "title": "万界游戏：知道家师是谁吗！",
+        "author": "戚弦",
+        "reads": "8770",
+        "intro": "连芙蕖从石壁上滑下来，用枪撑着地站起来，抹了一把嘴角的血。 “不玩了。” 连芙蕖把长枪往地上一插，双手结出莲花法指诀，十指翻飞。 她深吸一口气，朗声高喝。 “恭请家师三坛海会大神，中坛元帅，威灵显赫大将军，哪吒三太子！” 话音落地，恐怖威压席卷天地。 虚空火光炸裂，三昧真火倾泻而下，金色的火柱从天上直贯入界渊底部，把整个深渊照得亮如白昼。 烈火中央，少年脚踏风火轮而出，眉心一点朱砂灼灼如血，令日月无光、天地失色。 混天绫旋身盘绕，如龙蛇蛰伏。 乾坤圈悬于身后，金环震颤嗡鸣。 哪吒手一伸，火尖枪便出现在掌中，枪身真火熊熊燃烧。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o680710345c63b4c5505551d62e70b4d7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858193&x-signature=TrHPgLojymWSYlIw64pXB4gYpOc%3D",
+        "url": "https://fanqienovel.com/page/7693146928829189182"
       },
       {
         "title": "炮灰路人甲的求生游戏攻略",
         "author": "eelo",
-        "reads": "8194",
+        "reads": "8403",
         "intro": "【女主+无CP+系统+无限空间+种田+囤货】作为一个力量值只有5的“废柴”、“炮灰路人甲”，吴忧没有想到自己居然能够穿越到求生游戏世界，还好她有无限静止空间，靠着捡垃圾和种田，连个特殊职业也没有触发的吴忧，在这个求生游戏艰难地活着，看大佬们风云变幻，没有想到，苟着苟着，她居然能苟到游戏结束的那天。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odf2e01c6a8c8a1bb1a17590cd5c1de4c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771563&x-signature=ylWvmX9izH0eHC18H4lZT9UJRWc%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odf2e01c6a8c8a1bb1a17590cd5c1de4c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858193&x-signature=SBxPfoHNejy%2BPIJZc1uzmdlG2mY%3D",
         "url": "https://fanqienovel.com/page/7689296858526518334"
       },
       {
         "title": "全民求生：从每日随机宝箱开始",
         "author": "茉莉爱吃青茶",
-        "reads": "7807",
+        "reads": "7893",
         "intro": "【全民求生】【庇护所】【不圣母】【无女主】【无CP】 人在家中坐祸从天上。林安不过是在路边等车，就被一个新生小系统砸死，幸运的是小系统答应让自己去平行世界重活一次，可万万没想到，小系统传送时遇到了全民求生系统在进行超大规模传送,然后不幸的林安成为了新世界全民求生的一员。一起来看林安如何利用系统补偿在新世界活出不一样的人生。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o208df5f81dfdc7b44f484080e9e76b82~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771563&x-signature=zbCybcEcTltLshqxB5b3L2NlXeY%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o208df5f81dfdc7b44f484080e9e76b82~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858193&x-signature=X0v1C5gO10Wa8SF%2BptcZW0aQd38%3D",
         "url": "https://fanqienovel.com/page/7673494412231445529"
       },
       {
-        "title": "公路求生：榜一她不是好魔",
-        "author": "冬季不下雨",
-        "reads": "7695",
-        "intro": "【无cp＋独狼＋混沌中立＋女强 女主睚眦必报，不是好人！】 许宁从梦中醒来，自己副本失败死亡，还有半个小时，公路求生游戏就会降临。 不管这个梦是不是真的，她这次一定会活到最后。 对于常年霸占榜一的月色眠饮，有人说是魔鬼，有人骂她小人，有人钦佩她的强大… 月色眠饮你有什么想说的吗？ 我就是如此完美，多谢赞扬。 从普通玩家到暗夜魔女再到神灵，她一直不趁停下脚步。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8b4e59735026e683979d9676a8d91425~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771563&x-signature=wCsCnb5BP4t3BD%2Bt6fxIkCvlit8%3D",
-        "url": "https://fanqienovel.com/page/7687550409275100184"
+        "title": "失业玩游戏，我暴富了",
+        "author": "大琴",
+        "reads": "7742",
+        "intro": "【种田+无CP+脑洞+网游+逆袭+打脸】 元梦琪毕业即失业，在大城市里艰难求生，碰到游戏工作室招人。 给钱玩游戏？ 快吃不上饭的元梦琪果断加入！ 进入游戏，觉醒E级天赋：具象化。 游戏里种的菜在现实出现。 从此， 元梦琪一夜暴富！负债清零！ 有人问她，她成功的秘诀是什么？ 元梦琪表示，她的成功很简单，就是躺着玩游戏。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o449dc05b2d4ad8c617263f6d3b5bf36e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858193&x-signature=qNzEScJb6G3WyDu4SwDDxM0M300%3D",
+        "url": "https://fanqienovel.com/page/7662419427173878809"
       },
       {
         "title": "召唤兽无敌，我强点很合理吧？",
         "author": "氿上月",
-        "reads": "7682",
+        "reads": "7719",
         "intro": "【游戏入侵+升级流+微群像+有CP】 祝俞心穿进一本男频玄幻网游文中，成为戏耍男主的炮灰未婚妻 原书中，男主在游戏入侵后封神，一刀斩杀前来抱大腿的‘她’ 祝俞心正好穿在羞辱男主提分手现场，她当即诚恳道歉体面分手，只求保命 男主略带诧异，并没为难，反倒笑意柔和送了她一个顶配游戏舱作分手礼 * 游戏废材的祝俞心登入游戏，走狗屎运获得隐藏天赋：S级傀儡师？ 拥有战力爆表的智慧傀儡兽灵，经验共享，躺着就能升级！ 专属武器星盘银丝，击杀怪物可掠夺其属性和技能! 开局脆皮又如何？ 召唤兽冲锋，她补刀、薅资源、狂杀怪，等反应过来，已经成了六边形战士 至于阴人，顺手的事~ 玩家：“召唤师不是脆皮王吗，举报这人开挂！！” “找到了！被无数人悬赏追杀的竟是召唤师？” 男主梁以浔将她堵住，祝俞心本以为是场恶战 可他眼神恳切，辨不出真假：“看在我送你游戏舱的份上，能不能允许我抱大腿？” 祝俞心：？？？ * 游戏降临 Lv99级区域Boss炽炎天使：几根银丝，控得我放不出大招？ Boss们集体破防：该死！一个召唤师血条比战士厚十几倍？ 祝俞心淡淡一笑 她的召唤兽都无敌了，她强点怎么了？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o82fd3476903334a28e32a1628a729465~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771563&x-signature=fH%2B8ZBY4%2B9LAJnt4rEGjsGyfts4%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o82fd3476903334a28e32a1628a729465~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858193&x-signature=TAL4tHInQa7s5JivP%2Fm3gdODu9A%3D",
         "url": "https://fanqienovel.com/page/7686804456259718168"
       }
     ]
@@ -220,213 +232,225 @@
     {
       "name": "游戏体育",
       "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
+        "new_count": 2,
+        "dropped_count": 2,
+        "new_books": [
+          "万界游戏：知道家师是谁吗！",
+          "失业玩游戏，我暴富了"
+        ],
+        "dropped_books": [
+          {
+            "title": "公路求生，开局一辆救护车",
+            "intro": "公路求生，无CP，女主成长。 一瞬之间，地球上18到50岁的人都被拉进了公路求生游戏。栗繁星也是其中之一，幸运的是，她身下坐着的救护车也跟着一起来了。"
+          },
+          {
+            "title": "公路求生：榜一她不是好魔",
+            "intro": "【无cp＋独狼＋混沌中立＋女强 女主睚眦必报，不是好人！】 许宁从梦中醒来，自己副本失败死亡，还有半个小时，公路求生游戏就会降临。 不管这个梦是不是真的，她这次一定会活到最后。 对于常年霸占榜一的月色"
+          }
+        ],
         "top_risers": [
           {
             "title": "球台之外：国乒小天才恋上女明星",
-            "change": "+6"
+            "change": "+3"
           },
           {
-            "title": "公路求生：谁家电瓶车装导弹啊？",
-            "change": "+2"
+            "title": "禁止觊觎游戏里的美强惨团宠角色",
+            "change": "+1"
           },
           {
-            "title": "像素游戏：顶级玩家已登录",
+            "title": "公路求生：我在房车内躺平发育",
             "change": "+1"
           }
         ],
         "top_fallers": [
           {
-            "title": "公路求生，开局一辆救护车",
-            "change": "-5"
-          },
-          {
-            "title": "游戏入侵：重生后我氪穿全服",
+            "title": "康平路长公主：她的百里例无虚发",
             "change": "-2"
           },
           {
-            "title": "欧皇鼠鼠捡到的破产哥是魔王护",
+            "title": "全息游戏当神偷，偷完他的偷你的",
+            "change": "-1"
+          },
+          {
+            "title": "宇宙游戏：我成BOSS了？",
             "change": "-1"
           }
         ],
         "reads_growth": [
           {
-            "title": "像素游戏：顶级玩家已登录",
-            "growth": "+1.2万"
-          },
-          {
             "title": "球台之外：国乒小天才恋上女明星",
-            "growth": "+4741"
+            "growth": "+5000"
           },
           {
-            "title": "禁止觊觎游戏里的美强惨团宠角色",
+            "title": "像素游戏：顶级玩家已登录",
             "growth": "+3000"
+          },
+          {
+            "title": "万人嫌反派炮灰成了早逝白月光",
+            "growth": "+2000"
           }
         ],
-        "summary": "《球台之外：国乒小天才恋上女明星》排名上升+6位；《像素游戏：顶级玩家已登录》阅读量+1.2万。"
+        "summary": "新增2本上榜；2本掉出（《公路求生，开局一辆救护车》、《公路求生：榜一她不是好魔》）；《球台之外：国乒小天才恋上女明星》排名上升+3位；《球台之外：国乒小天才恋上女明星》阅读量+5000。"
       },
       "books": [
         {
           "title": "像素游戏：顶级玩家已登录",
           "author": "橙鱼悠悠",
-          "reads": "15.5万",
-          "intro": "【第四天灾+无cp+单机游戏】 重度游戏爱好者江一获得了一款单机像素游戏的内测资格，开局就欠下一万学费，自此，尘域人民迎来了属于他们的报应。 接下来登场的是： 流光一中顶级学神，天罚司第一执行官，新时代厨神，药剂大师，流光城创业大神，尘域颜霸，医者仁心的人民好大夫，最爱坐公交之人，通神商会最尊贵的客人兼打手，无罪会得不到的男人... 这里站不下这么多人！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o41cd7919b09676afc7cfdb9f731871f4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771560&x-signature=5xRJGs9hDXZsBsnjAwum2jMShEU%3D",
+          "reads": "15.8万",
+          "intro": "【第四天灾+男主无cp+单机游戏】 重度游戏爱好者江一获得了一款单机像素游戏的内测资格，开局就欠下一万学费，自此，尘域人民迎来了属于他们的报应。 接下来登场的是： 流光一中顶级学神，天罚司第一执行官，新时代厨神，药剂大师，流光城创业大神，尘域颜霸，医者仁心的人民好大夫，最爱坐公交之人，通神商会最尊贵的客人兼打手，无罪会得不到的男人... 这里站不下这么多人！",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o41cd7919b09676afc7cfdb9f731871f4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858190&x-signature=0B1%2F8w1yokAYqYLsIb7UuciFrKI%3D",
           "url": "https://fanqienovel.com/page/7681213091245198361"
         },
         {
           "title": "欧皇鼠鼠捡到的破产哥是魔王护",
           "author": "吃饱了没事做吖",
-          "reads": "14万",
+          "reads": "12.1万",
           "intro": "【鼠皇附体锦鲤妹X东部菱斑猛攻哥】 女频！女频！不是男频！女主微万人迷 【bg＋成长型＋游戏＋锦鲤体质＋轻松爽文＋1v1】 一朝醒来，沈梨安降临在一个必须去和人对枪、到处偷东西卖钱才能生存的游戏世界。 体育中考都没过及格线的某梨：……对枪？和谁？我也要对枪吗？ 【负面buff“运动废柴”生效中——体力条上限-20％】 【特殊buff“存在感”生效中——当蹲行时，对战内的中立角色会自动无视。】 体力条比人短一大截，开局根本抢不到值钱的资源点。 然而欧气附体，别人找低爆容器小绿小蓝都很难见，她把把搜垃圾出红。 价格不菲的大红门禁卡，她在脚底别人漏搜衣服里捡到了，跑几天也很难见到几次的大金，沈梨安随手从土堆里挖出来。 愣是在新手期就实现财富自由。 后来，队友全部死翘翘后她在被敌方追杀时意外遇到一个同样被追杀的大哥。 好消息好消息，大哥一穿10把敌人和BOSS全杀了！ 坏消息坏消息，大哥貌似还要来杀她！ 沈梨安灵机一动，从背包里掏出塞不进保险的大红和小金打手势：“别杀我，这些都给你，求放过。” 刚被熟人背刺破产的脸盲猛攻哥：？ ＊东部菱斑：一种响尾蛇",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc209086bcb12108c40205a578b2fe991~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771560&x-signature=eaSwA6GXBiC30Ek5ufAqC4%2Ff%2BOY%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc209086bcb12108c40205a578b2fe991~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858190&x-signature=XXPRXnqcT4Owkl8iCHFXkHWxioI%3D",
           "url": "https://fanqienovel.com/page/7677911895101148222"
         },
         {
           "title": "万人嫌反派炮灰成了早逝白月光",
           "author": "烤串梦女",
-          "reads": "6.1万",
+          "reads": "6.3万",
           "intro": "【无cp+假万人嫌真万人迷+白月光+美强惨+马甲+战损、死遁+直播弹幕】 管理局头号走狗岑厌死了。 但很可惜，他又活了。 一个自称世界意识的东西找上了他，莫名其妙要他拯救世界。 岑厌并不想拯救世界，也并不想活。 于是他干净利落的拒绝了。 世界意识：求你了，救救我吧，我死了所有人都会死的！ 岑厌：……行吧。 …… 原剧情结局世界毁灭全员be，而岑厌的任务就是拯救他们。 岑厌把这当做最后一个任务来做。 他按照前世做任务的方式。 帮主角团挡刀，为主角团赴死，替主角团承受他们承受不了痛苦。 可等到了他快死的时候，主角团却红着双眼，声音颤抖。 “你就不能为自己活一次吗？” “求你，别死……” 岑厌打出问号：？ 像他这种罪大恶极的人，死掉的话所有人都应该感到高兴吧？ 为什么他们会露出那般悲痛欲绝的眼神呢？ 不太明白呢…… …… 起初，岑厌以为所有人都想让他死。 后来，岑厌发现所有人都想让他活。 他无法理解。 ……为什么？ …… 副本一：希望二中 副本二：轮回金字塔 副本三：回廊福利院 副本四：七罪 副本五：王家村 副本六：梦境",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob22564f3049b6cb1f23edb478ac17365~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771560&x-signature=hIkYAGShckUMmpx7VvSzsjncf6A%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob22564f3049b6cb1f23edb478ac17365~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858190&x-signature=a1TsaHs5vUJwcfQlT%2Bv%2F%2B3MBmFU%3D",
           "url": "https://fanqienovel.com/page/7645267155046370366"
         },
         {
           "title": "游戏降临：欧皇的自我修养",
           "author": "雪姽",
-          "reads": "5万",
+          "reads": "4.7万",
           "intro": "（评分刚出来比较低，会涨的啦）【游戏降临现实+内测玩家+双男主+升级流+爽文+无限流副本模式】 作为一个地球Online游戏的欧皇玩家，太曦华表示人生实在是易如反掌。 就连游戏降临之后他的欧皇属性也仍旧在发力，内测资格与高级道具更是手到擒来。 就连极品长发大乃男都想入赘进来，这就是刚出新手村就遭遇顶级魅魔，倾尽全力无法抵抗吗？ 片段一 【[天照]你实话告诉我，你什么时候跟人家[暴君]搭上关系的？是不是背着我们偷偷赘入豪门了？】 裴照雪也看到了这条弹幕，他抬眸轻勾唇角，笑意盈盈。 “我倒是想入赘这个豪门，就是不知道别人给不给这个机会呢？” 片段二 太曦华仰起脸，知不知道站在你面前的可是战力排行榜榜一，远古冰凤凰的主人，肥啾饲养员，榜二暗恋之人，逐月的拥有者，尊贵的大魔导师大人，全系元素亲和之人，高数值的超标怪！ 不好意思！这里站不下这么多人！ 开的挂还挺大的来着，千万不要带脑袋看！ 没办法，平生就爱开点挂，还爱看点爽文。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob199de4fb09bf236247b68f9dabcc96c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771560&x-signature=JklJPDIxtQbBXp%2BnkXGJ8UcAfLk%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob199de4fb09bf236247b68f9dabcc96c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858190&x-signature=1oa9usYGZxbsmhMKCJ7LwvlyLhw%3D",
           "url": "https://fanqienovel.com/page/7673520339363580953"
+        },
+        {
+          "title": "禁止觊觎游戏里的美强惨团宠角色",
+          "author": "无果无过",
+          "reads": "3.1万",
+          "intro": "【美强惨冷脸萌大佬男主+非典型万人迷+穿越游戏+弹幕论坛+无cp+伪群像】 注：章节题目为任务标题 作为万千穿越者中的一员，洛叶最大的梦想就是穿回去 然而他迟迟没找到穿回去的方法，反倒把自己脑子熬出了毛病 他能看到对话框 每个人所说所想，都会在他们身边的半透明屏幕上清楚显示出来 偶尔还能碰到几个脑袋上顶着红色标签和感叹号的 ——比如他自己 就在他想彻底摆烂之际，事情出现了新的转机 玩家的集合体，探索者，闯进了他的生命 于是，他踏上了新的冒险之旅，沿途不忘处理百年来闯的祸和遇到的变态无数 只不过玩家和角色们的眼神怎么都越来越不对劲？ “请不要再为了救别人伤害自己。” 洛叶扣出一个问号 ＊ 洛叶这个角色刚在抽卡游戏《彩褪》出场的时候，所有玩家都认为他是个神秘大佬 他端坐在礁石之上，羽毛成精般的装扮，吐出冰渣子一般的语言 但后来，玩家们发现官方是会搞反差的 谁能想到这位是个听不得直球，时不时会顶着张扑克脸耳尖泛红的主？ 再后来，玩家们发现这位还真是个大佬，赤王的友人是他，幽冥乡的主人还是他 前脚还站在他们身侧科普，后脚就坐在了主座上 玩家：这么牛不早说 洛叶：年纪大了不记得这些虚名",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o605ca27c6d93711e452ae8f0e6bbbfb5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858190&x-signature=X5dgO7GzoqbiIT%2FSXn85Ed79cv0%3D",
+          "url": "https://fanqienovel.com/page/7691377823054826558"
         },
         {
           "title": "全息游戏当神偷，偷完他的偷你的",
           "author": "卫斯瑞",
           "reads": "3.1万",
           "intro": "《创世纪》开服。 时西摩拳擦掌，正准备进入游戏，大干一场。 刚进去，系统： 【恭喜玩家抽到概率0.00001％的隐藏职业。】 时西欣喜若狂。 她抽中了什么职业？ 难道她一下就拥有了牛逼哄哄的身份，拳打法师，脚踢战士，从此走上人生巅峰？ 系统： 【恭喜玩家成为一名伟大的——】 【小偷。】 时西：“？？？” 从此以后—— 其它玩家努力做任务赚金币，而时西狂偷NPC东西，一跃成为游戏里最有钱之人。 其它玩家努力刷教皇好感度，为了获得教皇的赏赐；而时西努力接近教皇，只为从他身上偷到教皇令，取而代之成为新的教皇。 神魔大战，厮杀惨烈。其他玩家为各自阵营而战，而时西浑水摸鱼，偷完天使族圣物，又去偷恶魔族至宝。双方好不容易打完，回头一看，争了半天的宝物全都不见了。 众人：“！！！” 发生了什么？！ 次日，系统通报全服： 【在玩家中有一个神偷，请大家把ta找出来吧！】 系统对时西： 【现在你已经同时得罪了正邪双方，你的阵营里只有你自己，务必不要被其他人发现身份哦～】 时西：我去，不早说：） ps：有男主，游戏名路西法",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe1df2d07215c051aac31054bb07dc615~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771560&x-signature=D67%2BeD%2Bkz%2BJuKMmLwG%2BT8dsIWd0%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe1df2d07215c051aac31054bb07dc615~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858190&x-signature=a%2BlTFXB8eS6mgQhYmZPQFW8SgO4%3D",
           "url": "https://fanqienovel.com/page/7649555417638390846"
-        },
-        {
-          "title": "禁止觊觎游戏里的美强惨团宠角色",
-          "author": "无果无过",
-          "reads": "2.9万",
-          "intro": "【美强惨冷脸萌大佬男主+非典型万人迷+穿越游戏+弹幕论坛+无cp+伪群像】 注：章节题目为任务标题 作为万千穿越者中的一员，洛叶最大的梦想就是穿回去 然而他迟迟没找到穿回去的方法，反倒把自己脑子熬出了毛病 他能看到对话框 每个人所说所想，都会在他们身边的半透明屏幕上清楚显示出来 偶尔还能碰到几个脑袋上顶着红色标签和感叹号的 ——比如他自己 就在他想彻底摆烂之际，事情出现了新的转机 玩家的集合体，探索者，闯进了他的生命 于是，他踏上了新的冒险之旅，沿途不忘处理百年来闯的祸和遇到的变态无数 只不过玩家和角色们的眼神怎么都越来越不对劲？ “请不要再为了救别人伤害自己。” 洛叶扣出一个问号 ＊ 洛叶这个角色刚在抽卡游戏《彩褪》出场的时候，所有玩家都认为他是个神秘大佬 他端坐在礁石之上，羽毛成精般的装扮，吐出冰渣子一般的语言 但后来，玩家们发现官方是会搞反差的 谁能想到这位是个听不得直球，时不时会顶着张扑克脸耳尖泛红的主？ 再后来，玩家们发现这位还真是个大佬，赤王的友人是他，幽冥乡的主人还是他 前脚还站在他们身侧科普，后脚就坐在了主座上 玩家：这么牛不早说 洛叶：年纪大了不记得这些虚名",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o605ca27c6d93711e452ae8f0e6bbbfb5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771560&x-signature=oGXSY0W77iKsrN5rpMasVdIWIOs%3D",
-          "url": "https://fanqienovel.com/page/7691377823054826558"
-        },
-        {
-          "title": "宇宙游戏：我成BOSS了？",
-          "author": "铁心鉴",
-          "reads": "2.1万",
-          "intro": "【游戏+双面角色+升级+非无脑爽+无cp】 一睁眼，江月沉被鬼牌拉到了【纸牌游戏】的牌桌上。 她是被精心挑选的祭品，只是鬼牌没想到。 江月沉临时觉醒的天赋是—— 【秒杀】 鬼牌输掉了赌局，也输掉了代表自己身份的[鬼牌]。 SSS级副本【纸牌游戏】的主人已经陨落，江月沉戴上无名氏的礼帽，拾起笑面权杖，成为了【纸牌游戏】的新主人。 与此同时，外面的世界早已变了模样。 副本，天赋，诡异宝物，神阶……这个世界变得眼花缭乱，也变得危险重重。 宇宙游戏已经开启。 玩家【暗牌】已就位。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa73f181ad5b77423890ed423ed0ca44c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771560&x-signature=eUDNk0DSpZixpAagyQR1Yf4nqTY%3D",
-          "url": "https://fanqienovel.com/page/7675467033835752472"
-        },
-        {
-          "title": "康平路长公主：她的百里例无虚发",
-          "author": "会飞的笔帽",
-          "reads": "1.6万",
-          "intro": "【团宠＋外挂＋颜值buff】 KPL新来了位女选手，不仅长得漂亮，并且——她的百里守约，例无虚发。 谁说女生打不了职业？ （主角有挂，不喜勿入）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oebad7e56677572e00f08a7845dce4a43~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771560&x-signature=wr4TrDpIK6CCS7ipI37Z3SYiRyk%3D",
-          "url": "https://fanqienovel.com/page/7618944250037668888"
-        },
-        {
-          "title": "赛博求生：假圣母宽恕谁了？",
-          "author": "本不本",
-          "reads": "1.4万",
-          "intro": "【赛博求生+无CP+升级流+序列职业】 愚善二十多年的余善一朝车祸，穿越到赛博求生游戏，觉醒天赋：宽恕，只要宽恕旁人就能拿到奖励。 然后她给自己改了个“圣母”ID，在玩家群聊—— 玩家：“你有病？” 余善：“如果这样想，能让你敏感脆弱的心好受一点，是我功德无量了。” 玩家：“…原来是这样的圣母吗……” . 小剧场： “让我们用最热烈的掌声欢迎——7号殖民区明牌卧底、黄金城的寄生虫、傲慢病人、记忆焚烧者、无相圣母、黑色月、深渊、暴君、万界归一、新世界至高主宰，余善！” 玩家：“这里站不下这么多人！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0d27c7543f074bcbfa8cb96279992751~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771560&x-signature=D3BZfCEFeHSG%2FJLfS06mJHT42pc%3D",
-          "url": "https://fanqienovel.com/page/7674658419759909913"
         },
         {
           "title": "球台之外：国乒小天才恋上女明星",
           "author": "刻舟求饭",
-          "reads": "1.4万",
+          "reads": "1.9万",
           "intro": "【不喜欢请绕路，请勿直接低分】 2013年，宋晩黎作为明星代表拍摄乒乓宣传片，走进国家队训练馆，第一次看到了林亦铮。 从此少年，再没看过别人。 他从替补变成主力。 她在资本和舆论里起起落落，保持本心。 所有人都说，他们不是一个世界的人。 可只有她知道，他每一次夺冠后，第一个看向的，从来不是奖杯。 “林亦铮，我们在一起吧。” 球台之外，他终于等到了她。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obdb86fd9431f3d5ae84b2ec55fb33e17~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771560&x-signature=Aydl0%2BlVQq4oCRmSgalIzDbJs%2Bo%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obdb86fd9431f3d5ae84b2ec55fb33e17~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858190&x-signature=fjB4R7k67snz%2Ft3b6Gocg1Ond3c%3D",
           "url": "https://fanqienovel.com/page/7680961904331721753"
         },
         {
-          "title": "游戏入侵：重生后我氪穿全服",
-          "author": "萌萌哒的哀酱",
-          "reads": "1.2万",
-          "intro": "【重生+游戏入侵+女强独美+氪金流+技能海】 《天域》公测开启，全网都在骂策划疯了。 基础技能收费，永久权限收费，连副职业都要氪。 别人嫌贵。 苏禾却只嫌自己充得不够快。 因为她知道—— 三十天后，游戏会降临现实。 新人抽取天赋，她开局拿下SSS级【万法之躯】。 剑术、魔法、治疗、炼药、炼金、锻造…… 别人只能择一而行。 她全系100%适格。 于是苏禾直接开启扫货模式。 技能，买。 权限，买。 绝版资源，全买。 直到累计充值突破一亿元—— 【全球唯一隐藏彩蛋触发！】 【第二天赋栏开启！】 【获得唯一？？？级天赋——氪金改命！】 技能可以氪满。 时间可以加速。 概率可以拉到100%。 缺失资源甚至可以直接具现。 三十天后，商城永久关闭，所有人开始为一个NPC传承抢破头。 而苏禾打开自己密密麻麻的技能栏。 忽然觉得—— 上辈子穷死，确实死得不冤。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7ed05d1ff6aaa62c693f4071c58e3a7f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771563&x-signature=a%2FIzY0bnpKQYKEb5K5iqBMfKQOg%3D",
-          "url": "https://fanqienovel.com/page/7677821890429193240"
+          "title": "宇宙游戏：我成BOSS了？",
+          "author": "铁心鉴",
+          "reads": "1.9万",
+          "intro": "【游戏+双面角色+升级+非无脑爽+无cp】 一睁眼，江月沉被鬼牌拉到了【纸牌游戏】的牌桌上。 她是被精心挑选的祭品，只是鬼牌没想到。 江月沉临时觉醒的天赋是—— 【秒杀】 鬼牌输掉了赌局，也输掉了代表自己身份的[鬼牌]。 SSS级副本【纸牌游戏】的主人已经陨落，江月沉戴上无名氏的礼帽，拾起笑面权杖，成为了【纸牌游戏】的新主人。 与此同时，外面的世界早已变了模样。 副本，天赋，诡异宝物，神阶……这个世界变得眼花缭乱，也变得危险重重。 宇宙游戏已经开启。 玩家【暗牌】已就位。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa73f181ad5b77423890ed423ed0ca44c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858190&x-signature=kk0VSuA74GpROz7RoQjDb9chioc%3D",
+          "url": "https://fanqienovel.com/page/7675467033835752472"
+        },
+        {
+          "title": "赛博求生：假圣母宽恕谁了？",
+          "author": "本不本",
+          "reads": "1.6万",
+          "intro": "【赛博求生+无CP+升级流+序列职业】 愚善二十多年的余善一朝车祸，穿越到赛博求生游戏，觉醒天赋：宽恕，只要宽恕旁人就能拿到奖励。 然后她给自己改了个“圣母”ID，在玩家群聊—— 玩家：“你有病？” 余善：“如果这样想，能让你敏感脆弱的心好受一点，是我功德无量了。” 玩家：“…原来是这样的圣母吗……” . 小剧场： “让我们用最热烈的掌声欢迎——7号殖民区明牌卧底、黄金城的寄生虫、傲慢病人、记忆焚烧者、无相圣母、黑色月、深渊、暴君、万界归一、新世界至高主宰，余善！” 玩家：“这里站不下这么多人！”",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0d27c7543f074bcbfa8cb96279992751~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858190&x-signature=72FrAcCvjgIlpJml2xuzjZMHzsM%3D",
+          "url": "https://fanqienovel.com/page/7674658419759909913"
+        },
+        {
+          "title": "康平路长公主：她的百里例无虚发",
+          "author": "会飞的笔帽",
+          "reads": "1.4万",
+          "intro": "【团宠＋外挂＋颜值buff】 KPL新来了位女选手，不仅长得漂亮，并且——她的百里守约，例无虚发。 谁说女生打不了职业？ （主角有挂，不喜勿入）",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oebad7e56677572e00f08a7845dce4a43~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858190&x-signature=Ms1zkfqBxkLX%2BPPmILjKTH1QWcQ%3D",
+          "url": "https://fanqienovel.com/page/7618944250037668888"
         },
         {
           "title": "公路求生：我在房车内躺平发育",
           "author": "一念十五",
           "reads": "1.1万",
           "intro": "万人迷女主，幸运值天花板，1V多 救命！ 期末复习熬晕后，我穿进公路求生(内测版)！ 但喜提幸运值天花板！ 开局三载具顶配开局，果断锁死SSS房车开启躺平人生，奶茶零食备齐，暖气空调拉满。 可谁能告诉我，为啥全服大佬都围着我的房车转？ 战力榜一大佬当保镖，怪物NPC主动送物资，副本天花板组队求带。 钝感力萌妹被迫成万人迷，每天都在严防死守房车：求求了，让我安安静静躺平通关行不行！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/7f0e6b785f62f21c9d4e69ce777d734c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771563&x-signature=lPmwuIqVX1H8%2BEhSqb5BzhNwLH8%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/7f0e6b785f62f21c9d4e69ce777d734c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858193&x-signature=gotgzoc6Ysq674MUg5AB3WDeqIU%3D",
           "url": "https://fanqienovel.com/page/7598053076016057368"
+        },
+        {
+          "title": "游戏入侵：重生后我氪穿全服",
+          "author": "萌萌哒的哀酱",
+          "reads": "1万",
+          "intro": "【重生+游戏入侵+女强独美+氪金流+技能海】 《天域》公测开启，全网都在骂策划疯了。 基础技能收费，永久权限收费，连副职业都要氪。 别人嫌贵。 苏禾却只嫌自己充得不够快。 因为她知道—— 三十天后，游戏会降临现实。 新人抽取天赋，她开局拿下SSS级【万法之躯】。 剑术、魔法、治疗、炼药、炼金、锻造…… 别人只能择一而行。 她全系100%适格。 于是苏禾直接开启扫货模式。 技能，买。 权限，买。 绝版资源，全买。 直到累计充值突破一亿元—— 【全球唯一隐藏彩蛋触发！】 【第二天赋栏开启！】 【获得唯一？？？级天赋——氪金改命！】 技能可以氪满。 时间可以加速。 概率可以拉到100%。 缺失资源甚至可以直接具现。 三十天后，商城永久关闭，所有人开始为一个NPC传承抢破头。 而苏禾打开自己密密麻麻的技能栏。 忽然觉得—— 上辈子穷死，确实死得不冤。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7ed05d1ff6aaa62c693f4071c58e3a7f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858193&x-signature=KJW%2BKyKuqO4Ljj%2F05W2u4vswxyI%3D",
+          "url": "https://fanqienovel.com/page/7677821890429193240"
         },
         {
           "title": "公路求生：谁家电瓶车装导弹啊？",
           "author": "彭大圆宝",
-          "reads": "9607",
+          "reads": "9805",
           "intro": "【全民公路求生】【女强】【萌宠】【有cp】【群像】【末日】【规则怪谈】【丧尸】 避雷提示：有男主，想要无cp宝子劝退哈。 全民被拉入公路求生游戏， 上一世，许夏轻信队友，相依为命的小狗，被恶魔分食，连自己也浑浑噩噩在进入公路的第三年死在路上。 这一世，许夏开局电瓶车装配导弹， 第二天就升级二级载具，获得欧皇称呼buff，开箱必得双倍物资， 神挡杀神佛挡杀佛。 三维数据涨涨涨， 再凭借上辈子的经验，渐渐混成了分区榜首。 上辈子害死她跟发财的垃圾，已经被她杀了。 她本不需要队友，可那一个个人都捧着真心相待。 罢了，又不是每个人都是垃圾。 她决定再相信一次，如果还是不行，拿导弹把她们都轰了。 可……这群人咋都这么好啊啊啊啊啊",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o289bc3127b583c9abb74d28cd90a76c6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771563&x-signature=0aZq0NuAq4tfZDw7GL0ugLU6DPg%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o289bc3127b583c9abb74d28cd90a76c6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858193&x-signature=YI6WnPjSQ8pmZuITuRskDLrKW2g%3D",
           "url": "https://fanqienovel.com/page/7684112767657200702"
         },
         {
           "title": "CS：美少女也能打职业！",
           "author": "泠安冉",
-          "reads": "9541",
+          "reads": "9538",
           "intro": "【轻松·搞笑日常·毒舌系统·无CP】 洛时昭，资深宅女，看完科隆Major Falcons夺冠NiKo圆梦之后，她感动得哭睡着了。 再一睁眼，回到了2023年. 十六岁，人在莫斯科，洛时昭准备躺平，然而脑海里响起一道毫无感情的机械音： 【叮！系统解锁成功】 【正在检验宿主数据】 【亲亲！这里建议宿主早日回家，放弃职业梦捏】 洛时昭：？？？ 不是，谁家系统一上来就劝退的？ 当全网唯一活跃在CS2一线赛场的女职业选手横空出世，所有人都觉得这是个笑话。 直到她站在领奖台上，捧起属于她的冠军奖杯，亲手打破质疑。 洛时昭：其实我只想安安静静地看比赛。 系统：【晚了。】",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7ee217d3d8bc98782c8539df82b84fba~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771563&x-signature=l4j2LHtvt2frJtVAeOt%2FnPepO1s%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7ee217d3d8bc98782c8539df82b84fba~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858193&x-signature=3hNdtarGGjvRIDev853HN3%2F9pTY%3D",
           "url": "https://fanqienovel.com/page/7669490169401052222"
         },
         {
           "title": "废土？和我的镐子说去吧！",
           "author": "谓我所求",
-          "reads": "9480",
+          "reads": "9011",
           "intro": "评分是刚出的，后面会慢慢涨！ 【废土基建+种田+经营+第四天灾+女主无cp】 清燕下载了一款名为《我的废土物语》缝合游戏。 今天心血来潮种种田，捡到NPC就压榨NPC为自己种田。 遇到喜欢的NPC直接打包回家，转头就对NPC问“你是谁，为什么在我家？” 下雨天不用浇水，那就去河边钓鱼，结果惨遭空军，一怒之下去找mod却败兴而归。 废土的居民千千万，老农民的土地也千千万。 老农民只是想要勤勤恳恳老实种地然后成为世界首富而已，老农民什么都没做错！哎！都是城里人害的！ —— 废土里来了个类人生物。 她有着黑头发黑帽子黑衣服黑鞋子，行动诡异看见什么都往嘴里塞，间歇性神经质压榨废土人，谁敢惹她就要被一镐子敲死。 骗你的，不惹她也要被击打。 但为了土豆和面包，废土人只能苦哈哈地继续被压榨了。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odd2685a97c1de250cacaad42b97b6e45~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771563&x-signature=6934gHEGnYbNrx7bE65BO4bQaCY%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odd2685a97c1de250cacaad42b97b6e45~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858193&x-signature=N9MFFD%2F75Qic%2BM4E35u8MzEgYig%3D",
           "url": "https://fanqienovel.com/page/7686168223049337880"
         },
         {
-          "title": "公路求生，开局一辆救护车",
-          "author": "黑漆漆的蛋糕",
-          "reads": "8287",
-          "intro": "公路求生，无CP，女主成长。 一瞬之间，地球上18到50岁的人都被拉进了公路求生游戏。栗繁星也是其中之一，幸运的是，她身下坐着的救护车也跟着一起来了。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3780a8d9c7cc91df79e15f745f9c095f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771563&x-signature=2Cep2XO6eHAyMjzFHJMtxkpUKtQ%3D",
-          "url": "https://fanqienovel.com/page/7678514669190925374"
+          "title": "万界游戏：知道家师是谁吗！",
+          "author": "戚弦",
+          "reads": "8770",
+          "intro": "连芙蕖从石壁上滑下来，用枪撑着地站起来，抹了一把嘴角的血。 “不玩了。” 连芙蕖把长枪往地上一插，双手结出莲花法指诀，十指翻飞。 她深吸一口气，朗声高喝。 “恭请家师三坛海会大神，中坛元帅，威灵显赫大将军，哪吒三太子！” 话音落地，恐怖威压席卷天地。 虚空火光炸裂，三昧真火倾泻而下，金色的火柱从天上直贯入界渊底部，把整个深渊照得亮如白昼。 烈火中央，少年脚踏风火轮而出，眉心一点朱砂灼灼如血，令日月无光、天地失色。 混天绫旋身盘绕，如龙蛇蛰伏。 乾坤圈悬于身后，金环震颤嗡鸣。 哪吒手一伸，火尖枪便出现在掌中，枪身真火熊熊燃烧。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o680710345c63b4c5505551d62e70b4d7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858193&x-signature=TrHPgLojymWSYlIw64pXB4gYpOc%3D",
+          "url": "https://fanqienovel.com/page/7693146928829189182"
         },
         {
           "title": "炮灰路人甲的求生游戏攻略",
           "author": "eelo",
-          "reads": "8194",
+          "reads": "8403",
           "intro": "【女主+无CP+系统+无限空间+种田+囤货】作为一个力量值只有5的“废柴”、“炮灰路人甲”，吴忧没有想到自己居然能够穿越到求生游戏世界，还好她有无限静止空间，靠着捡垃圾和种田，连个特殊职业也没有触发的吴忧，在这个求生游戏艰难地活着，看大佬们风云变幻，没有想到，苟着苟着，她居然能苟到游戏结束的那天。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odf2e01c6a8c8a1bb1a17590cd5c1de4c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771563&x-signature=ylWvmX9izH0eHC18H4lZT9UJRWc%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odf2e01c6a8c8a1bb1a17590cd5c1de4c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858193&x-signature=SBxPfoHNejy%2BPIJZc1uzmdlG2mY%3D",
           "url": "https://fanqienovel.com/page/7689296858526518334"
         },
         {
           "title": "全民求生：从每日随机宝箱开始",
           "author": "茉莉爱吃青茶",
-          "reads": "7807",
+          "reads": "7893",
           "intro": "【全民求生】【庇护所】【不圣母】【无女主】【无CP】 人在家中坐祸从天上。林安不过是在路边等车，就被一个新生小系统砸死，幸运的是小系统答应让自己去平行世界重活一次，可万万没想到，小系统传送时遇到了全民求生系统在进行超大规模传送,然后不幸的林安成为了新世界全民求生的一员。一起来看林安如何利用系统补偿在新世界活出不一样的人生。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o208df5f81dfdc7b44f484080e9e76b82~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771563&x-signature=zbCybcEcTltLshqxB5b3L2NlXeY%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o208df5f81dfdc7b44f484080e9e76b82~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858193&x-signature=X0v1C5gO10Wa8SF%2BptcZW0aQd38%3D",
           "url": "https://fanqienovel.com/page/7673494412231445529"
         },
         {
-          "title": "公路求生：榜一她不是好魔",
-          "author": "冬季不下雨",
-          "reads": "7695",
-          "intro": "【无cp＋独狼＋混沌中立＋女强 女主睚眦必报，不是好人！】 许宁从梦中醒来，自己副本失败死亡，还有半个小时，公路求生游戏就会降临。 不管这个梦是不是真的，她这次一定会活到最后。 对于常年霸占榜一的月色眠饮，有人说是魔鬼，有人骂她小人，有人钦佩她的强大… 月色眠饮你有什么想说的吗？ 我就是如此完美，多谢赞扬。 从普通玩家到暗夜魔女再到神灵，她一直不趁停下脚步。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8b4e59735026e683979d9676a8d91425~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771563&x-signature=wCsCnb5BP4t3BD%2Bt6fxIkCvlit8%3D",
-          "url": "https://fanqienovel.com/page/7687550409275100184"
+          "title": "失业玩游戏，我暴富了",
+          "author": "大琴",
+          "reads": "7742",
+          "intro": "【种田+无CP+脑洞+网游+逆袭+打脸】 元梦琪毕业即失业，在大城市里艰难求生，碰到游戏工作室招人。 给钱玩游戏？ 快吃不上饭的元梦琪果断加入！ 进入游戏，觉醒E级天赋：具象化。 游戏里种的菜在现实出现。 从此， 元梦琪一夜暴富！负债清零！ 有人问她，她成功的秘诀是什么？ 元梦琪表示，她的成功很简单，就是躺着玩游戏。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o449dc05b2d4ad8c617263f6d3b5bf36e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858193&x-signature=qNzEScJb6G3WyDu4SwDDxM0M300%3D",
+          "url": "https://fanqienovel.com/page/7662419427173878809"
         },
         {
           "title": "召唤兽无敌，我强点很合理吧？",
           "author": "氿上月",
-          "reads": "7682",
+          "reads": "7719",
           "intro": "【游戏入侵+升级流+微群像+有CP】 祝俞心穿进一本男频玄幻网游文中，成为戏耍男主的炮灰未婚妻 原书中，男主在游戏入侵后封神，一刀斩杀前来抱大腿的‘她’ 祝俞心正好穿在羞辱男主提分手现场，她当即诚恳道歉体面分手，只求保命 男主略带诧异，并没为难，反倒笑意柔和送了她一个顶配游戏舱作分手礼 * 游戏废材的祝俞心登入游戏，走狗屎运获得隐藏天赋：S级傀儡师？ 拥有战力爆表的智慧傀儡兽灵，经验共享，躺着就能升级！ 专属武器星盘银丝，击杀怪物可掠夺其属性和技能! 开局脆皮又如何？ 召唤兽冲锋，她补刀、薅资源、狂杀怪，等反应过来，已经成了六边形战士 至于阴人，顺手的事~ 玩家：“召唤师不是脆皮王吗，举报这人开挂！！” “找到了！被无数人悬赏追杀的竟是召唤师？” 男主梁以浔将她堵住，祝俞心本以为是场恶战 可他眼神恳切，辨不出真假：“看在我送你游戏舱的份上，能不能允许我抱大腿？” 祝俞心：？？？ * 游戏降临 Lv99级区域Boss炽炎天使：几根银丝，控得我放不出大招？ Boss们集体破防：该死！一个召唤师血条比战士厚十几倍？ 祝俞心淡淡一笑 她的召唤兽都无敌了，她强点怎么了？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o82fd3476903334a28e32a1628a729465~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793771563&x-signature=fH%2B8ZBY4%2B9LAJnt4rEGjsGyfts4%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o82fd3476903334a28e32a1628a729465~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793858193&x-signature=TAL4tHInQa7s5JivP%2Fm3gdODu9A%3D",
           "url": "https://fanqienovel.com/page/7686804456259718168"
         }
       ]

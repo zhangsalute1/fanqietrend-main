@@ -1,38 +1,38 @@
 {
   "type": "古风世情",
-  "date": "2026-10-30",
-  "prev_date": "2026-10-29",
+  "date": "2026-10-31",
+  "prev_date": "2026-10-30",
   "category": {
     "name": "古风世情",
     "trend": {
       "new_count": 1,
       "dropped_count": 1,
       "new_books": [
-        "大乾第一废柴国公府的傻世子"
+        "百万商女携八妾入侯府，世子疯了"
       ],
       "dropped_books": [
         {
-          "title": "被迫嫁给父亲宿敌，竟成了心尖宠",
-          "intro": "高冷闷骚首辅大人X佯装镇定可爱小白兔 【先婚后爱+日久生情+男主与女主父亲是宿敌+甜宠+年龄差8岁+1v1双洁】 皇帝病危，临终下了圣旨让年仅七岁的太子当皇上，提拔裴凛为一国首辅。 裴凛上任第一件事就"
+          "title": "公主刚进洞房，就被草原可汗截了",
+          "intro": "【清醒和亲公主×腹黑草原可汗，抢亲，双强，微权谋】 　　大岐五公主李昭泠，天姿国色，容冠京华，生来独得皇家盛宠。 　　初见阿史那衍那日，她为躲宫人，一头撞进酒楼雅间。那人桃花眼，珀色瞳，生的实在惹眼。"
         }
       ],
       "top_risers": [
         {
-          "title": "万人嫌太子重生摸鱼指南",
-          "change": "+1"
+          "title": "穿越春秋：公子夺我为姬",
+          "change": "+2"
+        },
+        {
+          "title": "社畜美食博主穿成大理寺掌勺",
+          "change": "+2"
         },
         {
           "title": "帝王娇宠，不做太子妃做皇后",
-          "change": "+1"
-        },
-        {
-          "title": "穿越春秋：公子夺我为姬",
           "change": "+1"
         }
       ],
       "top_fallers": [
         {
-          "title": "病娇前男友篡位登基了",
+          "title": "身穿古代，皇家权贵动心强留我",
           "change": "-2"
         },
         {
@@ -46,155 +46,155 @@
       ],
       "reads_growth": [
         {
-          "title": "万人嫌太子重生摸鱼指南",
-          "growth": "+6000"
-        },
-        {
           "title": "帝王娇宠，不做太子妃做皇后",
+          "growth": "+2.2万"
+        },
+        {
+          "title": "伪人作者穿古代，满朝文武皆素材",
           "growth": "+6000"
         },
         {
-          "title": "穿越春秋：公子夺我为姬",
-          "growth": "+6000"
+          "title": "万人嫌太子重生摸鱼指南",
+          "growth": "+4000"
         }
       ],
-      "summary": "新增1本上榜；1本掉出（《被迫嫁给父亲宿敌，竟成了心尖宠》）；《万人嫌太子重生摸鱼指南》排名上升+1位；《万人嫌太子重生摸鱼指南》阅读量+6000。"
+      "summary": "新增1本上榜；1本掉出（《公主刚进洞房，就被草原可汗截了》）；《穿越春秋：公子夺我为姬》排名上升+2位；《帝王娇宠，不做太子妃做皇后》阅读量+2.2万。"
     },
     "books": [
       {
         "title": "伪人作者穿古代，满朝文武皆素材",
         "author": "春日渐",
-        "reads": "25.2万",
+        "reads": "25.8万",
         "intro": "【伪人写手女主×喜欢看话本的纨绔子弟】 顾晚卿是柿子平台的短篇五级作家，因为情节经常虐女，被亲爱的读者亲封为“伪人”，没想到某日因为粉丝的“小礼物”意外穿至古代，开局得知自己竟然是沈家被流放到庄子上不受宠的真千金。 伪人（顾晚卿）表示：好好好，惹到我，你们算是踢到棉花啦~ 于是乎，从某一日开始，大雍百姓突然被强制塞了一口狗血，过上了精彩但如鲠在喉的日子。 大雍上到天子，下到黎民百姓，可能不知道皇上叫什么名字，但一定知道： 陆临舟（假千金未婚夫）：永远无脑的男主～ 沈明珠（假千金）：永远的恶毒女配~ 沈家大哥：永远爱而不得的男二~ 沈家二哥：永远温柔多情的男三~ 沈家小弟：永远女配身边的毒蛇狗腿子~ 沈家众人以一种意想不到的方式名声响彻整个大雍。 顾晚卿：我要用剧毒但不致命的精神攻击——小短文，重创每一个欺负我的人！ 至于素材：感谢某人提供的百官私房事。 吃瓜吃到自家臣子头上的皇帝怎么也没想到，京城中突然风起的小短文那么离谱居然还保真！ 虽然每个小短文的名字都是那几个，但看官职只要不瞎，一眼便知，皇帝时常怀疑沈家那闺女是不是每天晚上趴自家臣子床底。 百官崩溃：沈家，我真没空和你闹！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obdff80aeadee3baaa24a94c22e0b9b1d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944654&x-signature=qDwuSGVN0gDvIDOhz2ObWzoju44%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obdff80aeadee3baaa24a94c22e0b9b1d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030827&x-signature=vJ3p1fxY40CwlDhm1ZEYvUYREtA%3D",
         "url": "https://fanqienovel.com/page/7676486220452482072"
       },
       {
         "title": "溺爱成瘾：被权臣哥哥娇养",
         "author": "折腰",
-        "reads": "10.3万",
+        "reads": "10.6万",
         "intro": "【掌控欲极强、外表温润君子、实际冷戾阴湿的权臣哥哥X明媚可爱会撒娇、聪明嘴甜的小太阳妹妹】 （无血缘+养成+占有欲+甜宠//动物塑：daddy型大灰狼和假装笨蛋的小白兔） 5岁的姜音跟着母亲暂住在清远伯府，玉雪可爱的妹妹很快就讨得所有人喜欢。 娘亲一再叮嘱她尤其要哄大哥楚怀尘开心。要对他好、依赖他。 因为大哥将来会成为权倾朝野的大人物。 小小的姜音不懂，为什么娘亲会知道十年以后的事？ 虽然不明白，但她听话地每天讨大哥喜欢-- 对他撒娇，要他喂饭，非要他哄自己睡觉，做得好就亲亲他的脸。 效果当真很好，大哥开始宠她、护她、有求必应。 从胖乎可爱的小女娃到明艳动人的望京第一贵女，楚怀尘将妹妹养得人比花娇。 谁都想将首辅大人最珍视的妹妹娶回家。 谁知少女刚及笄不久，便传出了惊人的消息-- 姜姑娘与长兄首辅大人定亲了！ -- 是夜，少女的睫毛湿湿地抖着，滚落泪珠求饶： “我错了，我不喜欢他...” 位极权臣的成熟男人吻去泪水，一如往日笑得温柔缱绻，但目光却病态阴鸷。 “你五岁尿床时是我洗的裤子，十岁还缠着我要抱，十四岁来月事是我给换的...” “那些觊觎你的人都会消失。” “音音，你生来就是属于哥哥的--”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5be5bdb56626042b3072bd0e9f779a2a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944654&x-signature=pGJEB0d27ItJdyPzmzD%2B78zgBog%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5be5bdb56626042b3072bd0e9f779a2a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030827&x-signature=U4xWc2d6Xn7ia085a%2FYgu0xtrqA%3D",
         "url": "https://fanqienovel.com/page/7613387142500191294"
       },
       {
         "title": "万人嫌太子重生摸鱼指南",
         "author": "木草非人",
-        "reads": "8.2万",
+        "reads": "8.6万",
         "intro": "【男主团宠+万人嫌到万人迷+重生+部分人火葬场+偶有战损病弱，沙雕架空，小虐，整体日常风】 有可能出现现代语言，表达不通，毫无逻辑的轻松文，跟历史真实性和残酷性没有一点关系的和善世界观 以下为简介： 龙生九子，嫡长子最惹人嫌。 太子赵启珵父皇不疼母后早死贵妃不爱，自发成长，成为了一个铁面无私冷酷无情的超级惹人厌的卷王。 由于上辈子太卷了，不知不觉就开始遭遇父皇猜忌、皇亲坑害、手足相残、挚友反目、身边人死光，总之走到众叛亲离的地步，最后本人也惨遭暗杀而死。 一睁眼，懵逼的太子回到了十年前父皇询问他政见的早朝。 只见赵启珵低头苦思冥想，随后在众目睽睽之下，朗声道：“儿臣实在愚笨，毫无对策。” 皇帝：？ 众皇子：？ 大臣们：？ 从今天起，赵启珵开始了自己的全新计划。他要摸鱼摆烂凑热闹，游山玩水不务正业，最后解决隐患，喜提废黜，拥抱新生活！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocde3b5cb04968bf5e637789180da8964~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944654&x-signature=PynaKZB29d9%2BoHec7UftXpvNsnI%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocde3b5cb04968bf5e637789180da8964~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030827&x-signature=YdtdDfKJ8bAU8kSFNkQuLZEoOQU%3D",
         "url": "https://fanqienovel.com/page/7683574281887812670"
-      },
-      {
-        "title": "国公夫人",
-        "author": "席紫一",
-        "reads": "7.8万",
-        "intro": "变态强制爱+男强女弱+疯批病娇反派+男主纯坏不改 心狠手辣高位权臣vs命途坎坷貌美医女 梁臻出身低微 因生的花容月貌一跃成了高高在上的肃国公夫人 十年如一日的受宠 夫君是权势滔天的天子近臣 无姬妾通房 成婚几载后院依旧只她一人 裴凛无数次的询问自己真的宠爱梁臻吗 答案是爱的 不过不是宠爱 是喜爱 对物件的喜爱 ps：女主嫁过人有孩子 女非男洁 反派型男主 反派型男主 反派型男主 重要的事说三遍 全文强制窒息 男主不择手段 接受不了勿入！慎入！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocb373754a7b87d6830345b01d1169753~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944654&x-signature=mQ8t%2F7x4GHkt5tqQkIbc4CXyV9Y%3D",
-        "url": "https://fanqienovel.com/page/7686144898382187545"
       },
       {
         "title": "帝王娇宠，不做太子妃做皇后",
         "author": "应雪泥",
-        "reads": "5.8万",
+        "reads": "8万",
         "intro": "（评分刚出后面会涨！）【非大女主，甜宠文｜老夫少妻，微宫斗宅斗，无强取豪夺无权谋】 【温婉美人×冷硬daddy帝王】 沈静芙是太子的未婚妻，准太子妃，但太子不喜欢她，一直想方设法取消婚约。 这桩婚事是皇帝所赐，皇帝不解太子为何不懂沈静芙的好？ 他分明觉得，沈静芙简直娇嫩欲滴，令人爱不释手。 与沈静芙的第一次是阴差阳错，后面却是食髓知味，步步沦陷。 —— 太子再一次向皇帝请求解除婚约，这一回皇帝答允了。 可一个月后，太子却后悔了，他再去找沈静芙时，却在窗外看见他素来威严的父皇帝袍散落，从她房中走出。 再后来，他的前未婚妻就成了他的母后。 —— 沈静芙入宫时，并无人看好她。 曾经得宠过的淑妃对她说，你也不过是凭着年轻貌美，得了陛下一时的宠爱？往后你也会变成我。 可她们等啊等，却只等到她被帝王独宠了一辈子。 【女c男非，但有过之后只有彼此，独宠女主。】 【由于蠢作者记错了年龄差，所以本书的另一个名字上写成了差十七岁，封面也做错了，其实差二十岁，介意勿入QWQ】",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob914c11756d543e747ea68a3d3cbec60~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944654&x-signature=4wzBqPthgkiOWEBgTm8oIO%2F%2FJbM%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob914c11756d543e747ea68a3d3cbec60~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030827&x-signature=FIezFOIP%2F%2BfdebMIdV%2FsAJcAaCk%3D",
         "url": "https://fanqienovel.com/page/7680148815046773822"
+      },
+      {
+        "title": "国公夫人",
+        "author": "席紫一",
+        "reads": "6.7万",
+        "intro": "变态强制爱+男强女弱+疯批病娇反派+男主纯坏不改 心狠手辣高位权臣vs命途坎坷貌美医女 梁臻出身低微 因生的花容月貌一跃成了高高在上的肃国公夫人 十年如一日的受宠 夫君是权势滔天的天子近臣 无姬妾通房 成婚几载后院依旧只她一人 裴凛无数次的询问自己真的宠爱梁臻吗 答案是爱的 不过不是宠爱 是喜爱 对物件的喜爱 ps：女主嫁过人有孩子 女非男洁 反派型男主 反派型男主 反派型男主 重要的事说三遍 全文强制窒息 男主不择手段 接受不了勿入！慎入！",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocb373754a7b87d6830345b01d1169753~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030827&x-signature=uCk4%2B2tcFSQF95wHmWkdxVONdfE%3D",
+        "url": "https://fanqienovel.com/page/7686144898382187545"
+      },
+      {
+        "title": "穿越春秋：公子夺我为姬",
+        "author": "咖啡朱古力",
+        "reads": "5.2万",
+        "intro": "女扮男装+高岭之花+假谋士真绝色 【评分刚开】这是一个礼乐崩坏的时代，一个人命如草芥的时代，可也是一个百家齐放、思想碰撞的时代，夏容从死人堆里睁眼醒来，她该怎样在这个吃人的时代活下去？ 公子赵衡身为秦国质子，作为秦国公最不受宠的儿子，本该被遗忘在楚国蹉跎一生，可最后却以谋计顺利重返秦国，力压众兄弟登临王位，雪尽半生前耻。 夏容最初只是寻求安稳才以门客之身依附于公子衡门下，最后却不知为何演变成一场夺心的游戏…… 1️⃣：架空春秋战国背景，人物虚构无原形，一些背景为剧情服务有改，不可对标真实历史。 2️⃣：非女强大女主文 3️⃣：待定",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5f99b1b0f67e124408a9661ad82ce2ac~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030827&x-signature=b64tnlaYfuqR2YUVf53hD1GqLiQ%3D",
+        "url": "https://fanqienovel.com/page/7674518021515267134"
       },
       {
         "title": "满朝皆以为我们水火不容",
         "author": "峥河",
-        "reads": "5万",
+        "reads": "4.7万",
         "intro": "女扮男装当了六年御史，楚蘅一觉醒来，躺在死对头沈宴床上。 “你可以选择不回答。” “这么好说话？” “去大理寺答也行。” 不是。 我从你床上醒过来，你第一反应是审我。 这合理吗！ 楚蘅:“大理寺如今审案，都在床上?” 沈宴:感觉自己风评被害。 【女扮男装＋死对头＋双强探案＋朝堂权谋｜1v1双洁HE | 嘴毒犀利御史楚蘅 × 缜密克制大理寺卿沈宴】",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9a025f7fa808d307ba72dc6778432b98~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944654&x-signature=YvuarBRMv8MpDrJbtmvEf6kI0BE%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9a025f7fa808d307ba72dc6778432b98~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030827&x-signature=j%2B4keUjfpsXPhDnq7nLdDKgEfQE%3D",
         "url": "https://fanqienovel.com/page/7676131396573744153"
       },
       {
         "title": "陆大人是童养夫",
         "author": "萧方缘",
-        "reads": "4.9万",
+        "reads": "4.6万",
         "intro": "陆珩少时寄身宋家，与宋宁两小无猜，一句“童养夫”，道尽少年难堪。 科举路远，误会丛生，一朝别离，寒暑六载。 待到京城重逢，陆珩朱衣高位，宋宁悬壶行医。 旧岁情意未敢忘，前尘芥蒂尚难消。 状元郎与女医，要如何跨过流言与过往，再续年少缘分。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o345261881dea26da4c860d6ea6fd0960~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944654&x-signature=hrG0sREaK4JVPBlaA7DYLTvIsjA%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o345261881dea26da4c860d6ea6fd0960~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030827&x-signature=53AGtx4%2Feo8bDBVRYXxdOYOTrzE%3D",
         "url": "https://fanqienovel.com/page/7687985341063515161"
-      },
-      {
-        "title": "穿越春秋：公子夺我为姬",
-        "author": "咖啡朱古力",
-        "reads": "4.8万",
-        "intro": "女扮男装+高岭之花+假谋士真绝色 【评分刚开】这是一个礼乐崩坏的时代，一个人命如草芥的时代，可也是一个百家齐放、思想碰撞的时代，夏容从死人堆里睁眼醒来，她该怎样在这个吃人的时代活下去？ 公子赵衡身为秦国质子，作为秦国公最不受宠的儿子，本该被遗忘在楚国蹉跎一生，可最后却以谋计顺利重返秦国，力压众兄弟登临王位，雪尽半生前耻。 夏容最初只是寻求安稳才以门客之身依附于公子衡门下，最后却不知为何演变成一场夺心的游戏…… 1️⃣：架空春秋战国背景，人物虚构无原形，一些背景为剧情服务有改，不可对标真实历史。 2️⃣：非女强大女主文 3️⃣：待定",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5f99b1b0f67e124408a9661ad82ce2ac~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944654&x-signature=j749FSjT63JUtZEbmlqALhRRvPE%3D",
-        "url": "https://fanqienovel.com/page/7674518021515267134"
       },
       {
         "title": "废太子称帝后，日日哄我喝药",
         "author": "福娃TT",
         "reads": "4.3万",
         "intro": "【落魄多疑、步步谋局的废太子 × 隐忍聪慧、病弱坚韧的将门罪女】 【虐身不虐心！非双洁！女主身体会越来越差！介意误入！】 三年前，谢家被诬通敌，满朝文武无人敢为谢家开口，只有太子封承砚当殿质疑军粮账册有假。 谢家倾覆，父兄失踪，谢蘅月沦为掖庭最低等的宫女。 三年后，太子被废，幽禁深宫…… 谢蘅月主动请命，去了破败阴冷的西宫。 寒冬没有炭火，她拆掉自己的棉被给他御寒； 饭食被克扣，她将仅有的一碗粥留给他； 为了替他寻找药材，她被人打得浑身是血。 三皇子当众羞辱封承砚，她又替他承受五十大板，昏迷数日，险些再也醒不过来。 所有人都以为废太子早已无力翻身， 不曾想，封承砚杀回朝堂，登临帝位。 他红着眼向谢蘅月承诺：“朕余生所有的偏爱，只会给你。” 后来，满宫皆知，新帝有一位放在心尖上的病弱贤妃。 她少吃一口药，他能放下奏折亲自去哄； 她咳嗽一声，他便整夜无法安眠。 直到谢蘅月怀上皇嗣，一场来自前朝与后宫的杀局，再次悄然逼近……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of3ecb213a5ca494498ea6c4dd84ee0f4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944654&x-signature=QvuI5yLhnMwhUhO82CnnYp95h6M%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of3ecb213a5ca494498ea6c4dd84ee0f4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030827&x-signature=PWVIpRYCHYMg3z7I5OalV8y9%2BMQ%3D",
         "url": "https://fanqienovel.com/page/7685653091563097112"
       },
       {
         "title": "庶女谋嫁：翰林郎他动了心",
         "author": "二十三跃时",
-        "reads": "3.9万",
+        "reads": "4.2万",
         "intro": "（刚开分，评分会涨）沈鸢是沈家最不受宠的庶女，亲娘早逝，嫡母刻薄，父亲对她视若无物，沈家早已打好算盘，要将她许给四十岁的富商当填房，用这笔聘礼，尽数给嫡姐添备嫁妆。 谢怀瑾是谢家最端方的君子。二十三岁便官居翰林院五品学士，洁身自好，从不近女色。坊间皆传他心底藏着故人，恐要孤此一生。 一场春日雅集，沈鸢远远望见谢怀瑾，眼底掠过一丝微光。 几番相逢相遇，沈鸢一点点走近谢怀瑾心里 谢怀瑾怜她爱她，沈鸢出嫁那日，满城都在议论，一个庶女竟能攀上谢家嫡长子。 ps:男主没有白月光",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o39553aeee4339c4d7ef3cee895a6e306~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944654&x-signature=mQCf4bi15pPpYkaVA6dT5Ze84N4%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o39553aeee4339c4d7ef3cee895a6e306~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030827&x-signature=gyYwDO%2BtjEfGN5OuK51O%2BSetf%2F4%3D",
         "url": "https://fanqienovel.com/page/7686776959275125785"
-      },
-      {
-        "title": "双姝错位",
-        "author": "柒柒2026",
-        "reads": "3.4万",
-        "intro": "大梁景和年间，齐王兵变，天下纷乱。京城沈府夫人沈王氏南逃避难，途中与江南农户出身的张翠娘同宿山间破庙，二人在同一天先后诞下女婴。溃兵骤然杀至，庙中众人仓皇奔逃，产后虚弱、神志昏沉的两位母亲，竟在慌乱间抱错了襁褓，骨血就此错位。 十二年后，养在沈府的柳家之女沈清婉才名满京城，被当作沈家嫡女精心栽培，早早定下永宁侯府世子的婚约；而真正的沈家血脉柳明珠，则在江南清溪镇布庄长大，做了一个无忧无虑的商贾少女。 直到沈家长子沈砚之因公南下，偶然瞥见一张酷似母亲年少模样的少女，埋藏十二年的错位，开始浮出水面。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4bda3c032686f1558994ab5357248064~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944658&x-signature=xjQM7%2B1g4PZKfTyhWSQNIzL325U%3D",
-        "url": "https://fanqienovel.com/page/7690525076415843390"
       },
       {
         "title": "弄娇娘",
         "author": "屁屁溪",
-        "reads": "3.4万",
+        "reads": "3.2万",
         "intro": "丰腴貌美老实人妻×温润如玉的败类男主×强取豪夺撬墙角×女非男c 姜柠生得玉肤花貌……可天生有口疾。 母亲嫌她，便将她卖给隔壁村里宋玉为妻。 婚后日子依旧难挨，婆母不善，小姑子难相与。 初遇崔珩，是在一场权贵云集的小宴上。 满座衣香鬓影，觥筹交错，唯有她因不懂规矩而格格不入。 偏偏那日她不慎弄脏了裙衫，窘迫难安之际，是端坐于轮椅上的男人递来一件大氅，替她解了燃眉之急。 那时的姜柠便想，崔珩这人如同他的长相一般，芝兰玉树，不染凡尘。 以至于后来，宋玉生死未卜时，她走投无路之下，第一个想到的，竟也是去求他。 岂料那高台之上的男人一改往日和煦，满眼阴鸷的拍了拍自己的双膝：“上来？？” 男主： 崔珩此人，温润如玉，举世皆赞。 权柄在手，少有不遂心愿之事。 唯有一愿，求而不得，喜好上…他人之妻。 初见柠娘时，她执荷叶遮雨，衣裙尽湿，身姿纤弱毕现。 他难得发了善心，递衣解围，亦难得起了兴致。可惜……她已嫁作人妇。 崔珩压下欲念…… 直到她夫君站错了队，卷入死局。 1.男主人前正人君子，人后是个坏种阴湿大疯批，不太正常！！！ 2.女主与男主感情线会在女主和离之后后展开",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o97c3ea0a87bdb7bd7d851069b371da46~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944658&x-signature=%2BquROJwiHcNHBuXEQPYVBp9Go%2B8%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o97c3ea0a87bdb7bd7d851069b371da46~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030831&x-signature=mQVcIlJPvzLAuNB9CovpvK04dfA%3D",
         "url": "https://fanqienovel.com/page/7681845687301966872"
+      },
+      {
+        "title": "双姝错位",
+        "author": "柒柒2026",
+        "reads": "3.2万",
+        "intro": "大梁景和年间，齐王兵变，天下纷乱。京城沈府夫人沈王氏南逃避难，途中与江南农户出身的张翠娘同宿山间破庙，二人在同一天先后诞下女婴。溃兵骤然杀至，庙中众人仓皇奔逃，产后虚弱、神志昏沉的两位母亲，竟在慌乱间抱错了襁褓，骨血就此错位。 十二年后，养在沈府的柳家之女沈清婉才名满京城，被当作沈家嫡女精心栽培，早早定下永宁侯府世子的婚约；而真正的沈家血脉柳明珠，则在江南清溪镇布庄长大，做了一个无忧无虑的商贾少女。 直到沈家长子沈砚之因公南下，偶然瞥见一张酷似母亲年少模样的少女，埋藏十二年的错位，开始浮出水面。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4bda3c032686f1558994ab5357248064~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030831&x-signature=KLrz8BEPBttHZTik9fphBV2dEcg%3D",
+        "url": "https://fanqienovel.com/page/7690525076415843390"
       },
       {
         "title": "慢守门楣",
         "author": "罗筱奚",
-        "reads": "3.1万",
+        "reads": "3.2万",
         "intro": "十六岁的萧语微嫁进定远侯府，成了两个孩子的继母。 继子不服，继女胆小，夫君寡言，府里还有一条叫“慢慢”的狗和一只格外聒噪的鹦哥。 她没想过做什么贤妻良母，只想吃好、睡好，能躲的事尽量躲。 可日子过着过着，孩子开始叫她母亲，冷面侯爷也学会陪她吃饭，一群孩子还在西园折腾出了个“稚虎堂”。 外有谢家步步算计，朝堂风雨渐起。她原本只想安稳度日，回头才发现，自己竟一点一点守住了这一大家子的灯火。 一家人，不是突然变成一家人的，是慢慢过出来的。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe299a14b49fcff23e41465230965c3f9~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944658&x-signature=gUZNIknCPdqFrTTfcghZ7Oavk9E%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe299a14b49fcff23e41465230965c3f9~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030831&x-signature=lpKNrOtWCbeCK%2BEvWQODs7b6auw%3D",
         "url": "https://fanqienovel.com/page/7685671474140564542"
-      },
-      {
-        "title": "身穿古代，皇家权贵动心强留我",
-        "author": "右右酱",
-        "reads": "2.2万",
-        "intro": "【双洁+自我攻略男主+男主超强占有欲+细水流长+微微强制爱】 宋见微身穿古代，开局被困荒岛，荒野求生基本能力为零。 海浪冲来一个奄奄一息的古代俊美男子。 宋见微把人捡了起来。 男子命硬熬过重伤高烧活了下来。 活着的男子包揽了觅食取水打猎做饭造木船等一系列琐事，对宋见微事事照顾妥帖。 还带着她离开了荒岛。 宋见微觉得这人捡得太值了。 只是离开荒岛后，这人怎么越来越不对劲。 就连她结交新朋友，都要被他过问管束。 随着男人的身份曝光，自认是救命恩人的宋见微，打算领一笔报酬走人。 男人果然拿出满满一箱金银交到她手上。 只是，却怎么都不肯让她离开？ 后来，她问：“若是当年我执意不肯，你待如何？” 他俯身吻上她：“你不会想知道。” 他不会放她走。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5d0e155bd02980d8a10ad039e1680c5b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944658&x-signature=kdQpAj821B5RxOYjPV4Giz5aSlc%3D",
-        "url": "https://fanqienovel.com/page/7677566612181879833"
-      },
-      {
-        "title": "身为和亲棋子，竟被敌国皇子独宠",
-        "author": "辰杉菱",
-        "reads": "2万",
-        "intro": "赵灵珩本是大胤中宫嫡出的五公主，却与父母缘浅，自幼养在皇祖母膝下。 皇祖母刚薨，大胤便打了败仗。素衣未褪，和亲的嫁衣已换上。 那夜，一个黑衣少年踏着风沙推开驿站的窗，摘走她贴身的玉珠，黑眸又亮又野。 \"我是你夫君。信物收了，等着，我来娶你。\" 她要嫁的，本是传闻中温润如玉的靖王。可眼前这个\"夫君\"满身桀骜，半分也不像。 后来她才知道，靖王半路遇袭，生死不知。 而改了她终身的，正是那个夜里理直气壮说要娶她的少年，母族权倾朝野的北凛四皇子，萧聿。 世人都说，和亲公主命如浮萍，是颗任人摆布的棋子。 只有赵灵珩知道，这位嘴上没一句正经的煞神，是怎样一点点，把她从没有过的那个\"家\"，捧到了她面前。 萧聿偏要把这颗棋子，宠成他心尖上的定王妃。 【先婚后爱・和亲｜嘴欠王爷 × 通透公主｜明牌独宠・日久生情・朝堂权谋・HE】",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9066f6b865ad9429166b16825b1f3188~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944658&x-signature=WWjrSlZiLjK4koe44bgUtabHwiQ%3D",
-        "url": "https://fanqienovel.com/page/7681597645248285720"
       },
       {
         "title": "社畜美食博主穿成大理寺掌勺",
         "author": "锦葵灯",
-        "reads": "2万",
+        "reads": "2.3万",
         "intro": "温梨满这辈子最大的梦想，就是吃口好的。 　　 上辈子她是个美食博主，满山遍野追着食材跑，结果一脚踩空，当场穿越成一个刚被贵人打完板子的小宫女。御膳房的饭没吃上，倒先尝了顿板子套餐。 　　先帝薨了，她忍；新帝登基，她还忍。三年装孙子，总算熬到放出宫那天，她头也不回地跑了——宁愿在京城摆摊卖吃食，也不回那个卖女儿的家。 　　 可她大概是点了“倒霉”天赋。摊子刚支棱没两天，先是得罪地头蛇被砸了锅，后又被卷入一桩命案，直接被大理寺当嫌疑人带走。 　　 蹲大牢的时候她还在想：我这辈子，是不是就死在“吃”上了？ 　　 结果审都没审，直接被放了。临走还听说，大理寺食堂缺个掌勺——有编制，铁饭碗，管三餐。 　　 她当场报名，秒入职，从此成了大理寺最受追捧的女人。 　　 大理寺少卿沈砚舟，世家出身，断案如神，平时冷得跟冰块成精似的，谁都近了冻伤。可每到饭点，他第一个落座。 　　 起初他以为自己是来查案的。后来他发现，自己只是想来吃饭的。 　　 温梨满不破案，但她用一口锅，把大理寺上上下下的胃都收买了，顺便收了一个少卿的心。 　　 人生嘛，先吃饱，再相爱。温梨满觉得，这波不亏！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o37e43d0ae5d593d5e32e9dd70a262c43~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944658&x-signature=VLw9eqalryyniRkURBjeulR3kmQ%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o37e43d0ae5d593d5e32e9dd70a262c43~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030831&x-signature=CJWJlKAUubtahiPP8AfT66pQlNs%3D",
         "url": "https://fanqienovel.com/page/7538062872421600281"
+      },
+      {
+        "title": "身为和亲棋子，竟被敌国皇子独宠",
+        "author": "辰杉菱",
+        "reads": "2.2万",
+        "intro": "赵灵珩本是大胤中宫嫡出的五公主，却与父母缘浅，自幼养在皇祖母膝下。 皇祖母刚薨，大胤便打了败仗。素衣未褪，和亲的嫁衣已换上。 那夜，一个黑衣少年踏着风沙推开驿站的窗，摘走她贴身的玉珠，黑眸又亮又野。 \"我是你夫君。信物收了，等着，我来娶你。\" 她要嫁的，本是传闻中温润如玉的靖王。可眼前这个\"夫君\"满身桀骜，半分也不像。 后来她才知道，靖王半路遇袭，生死不知。 而改了她终身的，正是那个夜里理直气壮说要娶她的少年，母族权倾朝野的北凛四皇子，萧聿。 世人都说，和亲公主命如浮萍，是颗任人摆布的棋子。 只有赵灵珩知道，这位嘴上没一句正经的煞神，是怎样一点点，把她从没有过的那个\"家\"，捧到了她面前。 萧聿偏要把这颗棋子，宠成他心尖上的定王妃。 【先婚后爱・和亲｜嘴欠王爷 × 通透公主｜明牌独宠・日久生情・朝堂权谋・HE】",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9066f6b865ad9429166b16825b1f3188~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030831&x-signature=6Zu02fY8QI%2Fouo3Dhn27At0YayQ%3D",
+        "url": "https://fanqienovel.com/page/7681597645248285720"
+      },
+      {
+        "title": "身穿古代，皇家权贵动心强留我",
+        "author": "右右酱",
+        "reads": "2.1万",
+        "intro": "【双洁+自我攻略男主+男主超强占有欲+细水流长+微微强制爱】 宋见微身穿古代，开局被困荒岛，荒野求生基本能力为零。 海浪冲来一个奄奄一息的古代俊美男子。 宋见微把人捡了起来。 男子命硬熬过重伤高烧活了下来。 活着的男子包揽了觅食取水打猎做饭造木船等一系列琐事，对宋见微事事照顾妥帖。 还带着她离开了荒岛。 宋见微觉得这人捡得太值了。 只是离开荒岛后，这人怎么越来越不对劲。 就连她结交新朋友，都要被他过问管束。 随着男人的身份曝光，自认是救命恩人的宋见微，打算领一笔报酬走人。 男人果然拿出满满一箱金银交到她手上。 只是，却怎么都不肯让她离开？ 后来，她问：“若是当年我执意不肯，你待如何？” 他俯身吻上她：“你不会想知道。” 他不会放她走。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5d0e155bd02980d8a10ad039e1680c5b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030831&x-signature=f%2BgcI7hfmSiF2gNPpAvJrGeyvNU%3D",
+        "url": "https://fanqienovel.com/page/7677566612181879833"
       },
       {
         "title": "开局冷宫塌房，我挖地道跑路了",
         "author": "吾名卡皮巴拉丶",
-        "reads": "1.9万",
+        "reads": "2.1万",
         "intro": "【大女主+朝堂+穿越+争霸+古代+权谋+女帝+弃妃】 加班猝死的互联网社畜孟瑶，一睁眼穿越成了大周王朝最落魄的冷宫废妃。 父兄被斩、家族流放，她在阴冷的景寒宫熬了整整三年，吃不饱穿不暖，连下等奴才都敢随意欺凌，一场暴雪更是直接压塌了半间冷宫。 旁人穿越进宫，忙着争宠斗艳、攀附皇权；孟瑶穿越进宫，满脑子只有苟命跑路、搞钱谋生。 黑心当铺坑走她仅存的银簪？她转头就扯起勋贵世家的虎皮，一张寻狗告示把奸商耍得团团转，连本带利加倍收回。 什么凉薄皇帝萧承朔，什么后宫恩怨情仇，在热汤面和白花花的银子面前，通通不值一提。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odc905ed6aede1ea81362adda85000aac~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944658&x-signature=tVSBB4bMH2IexMXPS0hZPsnSP2c%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odc905ed6aede1ea81362adda85000aac~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030831&x-signature=n%2B4%2FuYaPASZDd2BwABUlxC5GKUc%3D",
         "url": "https://fanqienovel.com/page/7650063545287068734"
       },
       {
@@ -202,24 +202,24 @@
         "author": "折腰",
         "reads": "1.8万",
         "intro": "【阴湿偏执恋爱脑帝王VS 美貌清醒的大美人，很会训狗】 【破镜重圆+微强制+上位者破防+救赎+自己哄自己】 秦文珠没有等来前男友谋反失败的消息，而是他篡位成功称帝。 父亲从一品国公被贬为了九品县令，一个大家族开始分崩离析。 偏偏只有她的县主封号还保留着。 所有人都猜测新帝是在故意羞辱秦家嫡女，没理由唯独放过她一人。 秦文珠也是这样认为的，毕竟她的确出卖了他。 周廷玉从小睚眦必报、嘴毒又乖戾，不会看在两人曾热恋过的份上就轻易饶了她。 她怕这人发疯，也怕被他报复，更怕他察觉--- 她还爱他。 ... 元宵夜宴，秦文珠故意喝下一杯烈酒。 看着步步逼近的男人，女孩睁大双眸，泪流满面地看着他，颇是委屈。 然而下一刻，只见帝王当着众人的面，将醉醺醺的姑娘温柔地搂进怀里，亲手喂解酒汤。 身量高大的男人收敛一身狠厉强势，在心爱的人面前俯首低语： “秦文珠，只要你说一句你爱我，以后你骑我头上都成…小祖宗，别折磨我了行吗？”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oefd14e676b242e0e866ce1254c34e315~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944658&x-signature=Wwh%2FHFV6kPuLH8XpHfYuPOaYriE%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oefd14e676b242e0e866ce1254c34e315~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030831&x-signature=0oFx1MazL3lYA%2F7aaAUpA61PqJA%3D",
         "url": "https://fanqienovel.com/page/7650044982144814105"
+      },
+      {
+        "title": "百万商女携八妾入侯府，世子疯了",
+        "author": "一湘之江",
+        "reads": "1.8万",
+        "intro": "沈沛桐胎穿大靖行商世家，随父兄游走列囯，掌握巨额财富，好不快活。 可有一天老父亲拿着圣旨回来，“儿啊！为父为你谋了桩好姻缘，你要不回大靖都城去玩玩！” 沈沛桐好看的眉眼一抬，“不去，那地方重文轻武，重士轻商，商贾低贱，规矩繁多，有什么好玩的。” 老父亲在女儿面前一弯腰，“去吧！随便你玩，咱家有十二面金牌，再不用就要生锈啰！生锈了容易出事。” 沈沛桐笑得如牡丹花开，“真的，随便我玩。” 老父亲眼睛一眨，”十二面金牌，玩完了就没了。” 沈沛桐接过圣旨：“成交！” 魏逍洐是最全京城最潇洒的儿郎，皇后的大姐，侯爷的爹，将军的叔叔哥哥，书香门第的娘。 家世正，长得好，光靠祖荫就能几辈子不发愁。 一遭圣旨落下，五雷轰隆，取商户女，还是连个固定住址都没有的商户女，“不娶，坚决不娶，我不要面子的吗？” 可老父亲十二封亲笔书信，五百里加急谈妥了婚事细节。 魏逍洐欲哭无泪，搂着美人当着满朝勋贵公子的面，“什么低贱商女，本世子不稀罕。” 满上京城都等着看这桩荒唐姻缘的热闹，就连侯府里都准备好了替换新娘。 可九顶花轿临门是什么鬼……妖兽哦！ 最后，魏逍洐抱着被子惨兮兮，这是什么商女，怎么和他知道的不一样，她嫌他脏。 可他明明很干净啊！",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o879957a90a57acaf0c1853a243ec5930~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030831&x-signature=efFw2leIWnPrPhs7IwrwtTHjXxs%3D",
+        "url": "https://fanqienovel.com/page/7676275917223627838"
       },
       {
         "title": "大乾第一废柴国公府的傻世子",
         "author": "用户45031907",
-        "reads": "1.5万",
+        "reads": "1.6万",
         "intro": "大乾王朝，传说国公府的世子“赵晓风”，三岁能文，五岁能武，诗词歌赋信手拈来，十八般武艺样样精通，与安乐侯千金陈子涵早有婚约。然而十五岁那年被人下毒，从此痴傻五年，沦为京城人人嘲笑的“大乾第一废柴世子”。 二十岁生辰，未婚妻陈子涵已暗中勾搭丞相之子萧建仁，二人设下毒计，哄骗痴傻的赵晓风荡秋千，实则诱其上吊。当“尸体”被抬回国公府，老父赵震雄哭断肝肠，贴身丫鬟林小月泪尽血出。谁知子时三刻，赵晓风竟死而复生，五年痴傻一朝清明，往日的天骄回来了。次日，陈子涵趾高气扬前来退婚，却见赵晓风完好端坐，吓得魂飞魄散。赵晓风一改痴傻，一纸休书甩在陈子涵脸上，让她颜面扫尽。当朝女帝秦玉莹听闻废柴世子之变，微服私访，恰在街上撞见地痞纠缠，赵晓风风度翩翩出手解围。女帝芳心微动，对这“傻子”刮目相看。恰逢东瀛、西域、北辽、高丽四国使者联袂而来，文试武比咄咄逼人，满朝无人敢应。赵晓风揭下皇榜，在举国嘲讽中踏入皇宫，以惊世才华连败四国高手，一战封神。随后科举夺魁武举折桂，文武双状元加身，女帝秦玉莹倾心相许。 当四国联军压境入侵，赵晓风挂帅出征，击退外敌。最后横扫西域，征服北辽，踏平高丽，歼灭东瀛一统天下！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oeb53df64274d035236ab75c3f4e6500e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944658&x-signature=z5DhZxVSXOl3eKFibvKlj7O3kPA%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oeb53df64274d035236ab75c3f4e6500e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030831&x-signature=eyk2IqLuHU4cjoCmBXisisTKSwY%3D",
         "url": "https://fanqienovel.com/page/7670008798559341592"
-      },
-      {
-        "title": "公主刚进洞房，就被草原可汗截了",
-        "author": "晓晓梓",
-        "reads": "1.5万",
-        "intro": "【清醒和亲公主×腹黑草原可汗，抢亲，双强，微权谋】 　　大岐五公主李昭泠，天姿国色，容冠京华，生来独得皇家盛宠。 　　初见阿史那衍那日，她为躲宫人，一头撞进酒楼雅间。那人桃花眼，珀色瞳，生的实在惹眼。 　　再见是秋狝遇刺，他救她一命。她问姓名，他说“穆衍”。她许以金银权势，他皆不要，只说：“来日，我自会亲赴大岐朝堂，讨要属于我的答谢。” 　　后来乌绥犯境，指名要她和亲。洞房花烛夜，大王子私闯牙帐。 漫天火光，一道身影破帐而入。 明灭间，她又一次看见了那双珀色瞳。 　　“穆……衍？”　 　　 　　和亲作废，乌绥一夜倾覆。 　　她以为他图的是权谋算计，他却说：“我阿史那衍，愿以草原为聘，迎大岐帝女入主王庭。” 　　李昭泠不可置信：“你疯了？” 　　她随他去了草原，路上随手编了只花环。他说好看。她摘下抛给他：\"赏你了。\" 　　他接住，眉梢微挑：“公主可知，在草原上，女子送男子花环，意味着什么？” 　　李昭泠狐疑：“什么？” 　　“求娶。” 　　“……” 　　她一把抢回：\"我是大岐人，不守你们草原的规矩。\" 　　他笑了，慢悠悠跟在她身后：\"草原上的花，也只戴给心上人看。”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1d26ab7a07c7dad4d51fb5ce49d4deb5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944658&x-signature=dXA6wymxqCK%2Bc4cmhODY7Ek6yhU%3D",
-        "url": "https://fanqienovel.com/page/7688546992070331417"
       }
     ]
   },
@@ -230,31 +230,31 @@
         "new_count": 1,
         "dropped_count": 1,
         "new_books": [
-          "大乾第一废柴国公府的傻世子"
+          "百万商女携八妾入侯府，世子疯了"
         ],
         "dropped_books": [
           {
-            "title": "被迫嫁给父亲宿敌，竟成了心尖宠",
-            "intro": "高冷闷骚首辅大人X佯装镇定可爱小白兔 【先婚后爱+日久生情+男主与女主父亲是宿敌+甜宠+年龄差8岁+1v1双洁】 皇帝病危，临终下了圣旨让年仅七岁的太子当皇上，提拔裴凛为一国首辅。 裴凛上任第一件事就"
+            "title": "公主刚进洞房，就被草原可汗截了",
+            "intro": "【清醒和亲公主×腹黑草原可汗，抢亲，双强，微权谋】 　　大岐五公主李昭泠，天姿国色，容冠京华，生来独得皇家盛宠。 　　初见阿史那衍那日，她为躲宫人，一头撞进酒楼雅间。那人桃花眼，珀色瞳，生的实在惹眼。"
           }
         ],
         "top_risers": [
           {
-            "title": "万人嫌太子重生摸鱼指南",
-            "change": "+1"
+            "title": "穿越春秋：公子夺我为姬",
+            "change": "+2"
+          },
+          {
+            "title": "社畜美食博主穿成大理寺掌勺",
+            "change": "+2"
           },
           {
             "title": "帝王娇宠，不做太子妃做皇后",
-            "change": "+1"
-          },
-          {
-            "title": "穿越春秋：公子夺我为姬",
             "change": "+1"
           }
         ],
         "top_fallers": [
           {
-            "title": "病娇前男友篡位登基了",
+            "title": "身穿古代，皇家权贵动心强留我",
             "change": "-2"
           },
           {
@@ -268,155 +268,155 @@
         ],
         "reads_growth": [
           {
-            "title": "万人嫌太子重生摸鱼指南",
-            "growth": "+6000"
-          },
-          {
             "title": "帝王娇宠，不做太子妃做皇后",
+            "growth": "+2.2万"
+          },
+          {
+            "title": "伪人作者穿古代，满朝文武皆素材",
             "growth": "+6000"
           },
           {
-            "title": "穿越春秋：公子夺我为姬",
-            "growth": "+6000"
+            "title": "万人嫌太子重生摸鱼指南",
+            "growth": "+4000"
           }
         ],
-        "summary": "新增1本上榜；1本掉出（《被迫嫁给父亲宿敌，竟成了心尖宠》）；《万人嫌太子重生摸鱼指南》排名上升+1位；《万人嫌太子重生摸鱼指南》阅读量+6000。"
+        "summary": "新增1本上榜；1本掉出（《公主刚进洞房，就被草原可汗截了》）；《穿越春秋：公子夺我为姬》排名上升+2位；《帝王娇宠，不做太子妃做皇后》阅读量+2.2万。"
       },
       "books": [
         {
           "title": "伪人作者穿古代，满朝文武皆素材",
           "author": "春日渐",
-          "reads": "25.2万",
+          "reads": "25.8万",
           "intro": "【伪人写手女主×喜欢看话本的纨绔子弟】 顾晚卿是柿子平台的短篇五级作家，因为情节经常虐女，被亲爱的读者亲封为“伪人”，没想到某日因为粉丝的“小礼物”意外穿至古代，开局得知自己竟然是沈家被流放到庄子上不受宠的真千金。 伪人（顾晚卿）表示：好好好，惹到我，你们算是踢到棉花啦~ 于是乎，从某一日开始，大雍百姓突然被强制塞了一口狗血，过上了精彩但如鲠在喉的日子。 大雍上到天子，下到黎民百姓，可能不知道皇上叫什么名字，但一定知道： 陆临舟（假千金未婚夫）：永远无脑的男主～ 沈明珠（假千金）：永远的恶毒女配~ 沈家大哥：永远爱而不得的男二~ 沈家二哥：永远温柔多情的男三~ 沈家小弟：永远女配身边的毒蛇狗腿子~ 沈家众人以一种意想不到的方式名声响彻整个大雍。 顾晚卿：我要用剧毒但不致命的精神攻击——小短文，重创每一个欺负我的人！ 至于素材：感谢某人提供的百官私房事。 吃瓜吃到自家臣子头上的皇帝怎么也没想到，京城中突然风起的小短文那么离谱居然还保真！ 虽然每个小短文的名字都是那几个，但看官职只要不瞎，一眼便知，皇帝时常怀疑沈家那闺女是不是每天晚上趴自家臣子床底。 百官崩溃：沈家，我真没空和你闹！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obdff80aeadee3baaa24a94c22e0b9b1d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944654&x-signature=qDwuSGVN0gDvIDOhz2ObWzoju44%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obdff80aeadee3baaa24a94c22e0b9b1d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030827&x-signature=vJ3p1fxY40CwlDhm1ZEYvUYREtA%3D",
           "url": "https://fanqienovel.com/page/7676486220452482072"
         },
         {
           "title": "溺爱成瘾：被权臣哥哥娇养",
           "author": "折腰",
-          "reads": "10.3万",
+          "reads": "10.6万",
           "intro": "【掌控欲极强、外表温润君子、实际冷戾阴湿的权臣哥哥X明媚可爱会撒娇、聪明嘴甜的小太阳妹妹】 （无血缘+养成+占有欲+甜宠//动物塑：daddy型大灰狼和假装笨蛋的小白兔） 5岁的姜音跟着母亲暂住在清远伯府，玉雪可爱的妹妹很快就讨得所有人喜欢。 娘亲一再叮嘱她尤其要哄大哥楚怀尘开心。要对他好、依赖他。 因为大哥将来会成为权倾朝野的大人物。 小小的姜音不懂，为什么娘亲会知道十年以后的事？ 虽然不明白，但她听话地每天讨大哥喜欢-- 对他撒娇，要他喂饭，非要他哄自己睡觉，做得好就亲亲他的脸。 效果当真很好，大哥开始宠她、护她、有求必应。 从胖乎可爱的小女娃到明艳动人的望京第一贵女，楚怀尘将妹妹养得人比花娇。 谁都想将首辅大人最珍视的妹妹娶回家。 谁知少女刚及笄不久，便传出了惊人的消息-- 姜姑娘与长兄首辅大人定亲了！ -- 是夜，少女的睫毛湿湿地抖着，滚落泪珠求饶： “我错了，我不喜欢他...” 位极权臣的成熟男人吻去泪水，一如往日笑得温柔缱绻，但目光却病态阴鸷。 “你五岁尿床时是我洗的裤子，十岁还缠着我要抱，十四岁来月事是我给换的...” “那些觊觎你的人都会消失。” “音音，你生来就是属于哥哥的--”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5be5bdb56626042b3072bd0e9f779a2a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944654&x-signature=pGJEB0d27ItJdyPzmzD%2B78zgBog%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5be5bdb56626042b3072bd0e9f779a2a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030827&x-signature=U4xWc2d6Xn7ia085a%2FYgu0xtrqA%3D",
           "url": "https://fanqienovel.com/page/7613387142500191294"
         },
         {
           "title": "万人嫌太子重生摸鱼指南",
           "author": "木草非人",
-          "reads": "8.2万",
+          "reads": "8.6万",
           "intro": "【男主团宠+万人嫌到万人迷+重生+部分人火葬场+偶有战损病弱，沙雕架空，小虐，整体日常风】 有可能出现现代语言，表达不通，毫无逻辑的轻松文，跟历史真实性和残酷性没有一点关系的和善世界观 以下为简介： 龙生九子，嫡长子最惹人嫌。 太子赵启珵父皇不疼母后早死贵妃不爱，自发成长，成为了一个铁面无私冷酷无情的超级惹人厌的卷王。 由于上辈子太卷了，不知不觉就开始遭遇父皇猜忌、皇亲坑害、手足相残、挚友反目、身边人死光，总之走到众叛亲离的地步，最后本人也惨遭暗杀而死。 一睁眼，懵逼的太子回到了十年前父皇询问他政见的早朝。 只见赵启珵低头苦思冥想，随后在众目睽睽之下，朗声道：“儿臣实在愚笨，毫无对策。” 皇帝：？ 众皇子：？ 大臣们：？ 从今天起，赵启珵开始了自己的全新计划。他要摸鱼摆烂凑热闹，游山玩水不务正业，最后解决隐患，喜提废黜，拥抱新生活！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocde3b5cb04968bf5e637789180da8964~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944654&x-signature=PynaKZB29d9%2BoHec7UftXpvNsnI%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocde3b5cb04968bf5e637789180da8964~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030827&x-signature=YdtdDfKJ8bAU8kSFNkQuLZEoOQU%3D",
           "url": "https://fanqienovel.com/page/7683574281887812670"
-        },
-        {
-          "title": "国公夫人",
-          "author": "席紫一",
-          "reads": "7.8万",
-          "intro": "变态强制爱+男强女弱+疯批病娇反派+男主纯坏不改 心狠手辣高位权臣vs命途坎坷貌美医女 梁臻出身低微 因生的花容月貌一跃成了高高在上的肃国公夫人 十年如一日的受宠 夫君是权势滔天的天子近臣 无姬妾通房 成婚几载后院依旧只她一人 裴凛无数次的询问自己真的宠爱梁臻吗 答案是爱的 不过不是宠爱 是喜爱 对物件的喜爱 ps：女主嫁过人有孩子 女非男洁 反派型男主 反派型男主 反派型男主 重要的事说三遍 全文强制窒息 男主不择手段 接受不了勿入！慎入！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocb373754a7b87d6830345b01d1169753~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944654&x-signature=mQ8t%2F7x4GHkt5tqQkIbc4CXyV9Y%3D",
-          "url": "https://fanqienovel.com/page/7686144898382187545"
         },
         {
           "title": "帝王娇宠，不做太子妃做皇后",
           "author": "应雪泥",
-          "reads": "5.8万",
+          "reads": "8万",
           "intro": "（评分刚出后面会涨！）【非大女主，甜宠文｜老夫少妻，微宫斗宅斗，无强取豪夺无权谋】 【温婉美人×冷硬daddy帝王】 沈静芙是太子的未婚妻，准太子妃，但太子不喜欢她，一直想方设法取消婚约。 这桩婚事是皇帝所赐，皇帝不解太子为何不懂沈静芙的好？ 他分明觉得，沈静芙简直娇嫩欲滴，令人爱不释手。 与沈静芙的第一次是阴差阳错，后面却是食髓知味，步步沦陷。 —— 太子再一次向皇帝请求解除婚约，这一回皇帝答允了。 可一个月后，太子却后悔了，他再去找沈静芙时，却在窗外看见他素来威严的父皇帝袍散落，从她房中走出。 再后来，他的前未婚妻就成了他的母后。 —— 沈静芙入宫时，并无人看好她。 曾经得宠过的淑妃对她说，你也不过是凭着年轻貌美，得了陛下一时的宠爱？往后你也会变成我。 可她们等啊等，却只等到她被帝王独宠了一辈子。 【女c男非，但有过之后只有彼此，独宠女主。】 【由于蠢作者记错了年龄差，所以本书的另一个名字上写成了差十七岁，封面也做错了，其实差二十岁，介意勿入QWQ】",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob914c11756d543e747ea68a3d3cbec60~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944654&x-signature=4wzBqPthgkiOWEBgTm8oIO%2F%2FJbM%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob914c11756d543e747ea68a3d3cbec60~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030827&x-signature=FIezFOIP%2F%2BfdebMIdV%2FsAJcAaCk%3D",
           "url": "https://fanqienovel.com/page/7680148815046773822"
+        },
+        {
+          "title": "国公夫人",
+          "author": "席紫一",
+          "reads": "6.7万",
+          "intro": "变态强制爱+男强女弱+疯批病娇反派+男主纯坏不改 心狠手辣高位权臣vs命途坎坷貌美医女 梁臻出身低微 因生的花容月貌一跃成了高高在上的肃国公夫人 十年如一日的受宠 夫君是权势滔天的天子近臣 无姬妾通房 成婚几载后院依旧只她一人 裴凛无数次的询问自己真的宠爱梁臻吗 答案是爱的 不过不是宠爱 是喜爱 对物件的喜爱 ps：女主嫁过人有孩子 女非男洁 反派型男主 反派型男主 反派型男主 重要的事说三遍 全文强制窒息 男主不择手段 接受不了勿入！慎入！",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocb373754a7b87d6830345b01d1169753~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030827&x-signature=uCk4%2B2tcFSQF95wHmWkdxVONdfE%3D",
+          "url": "https://fanqienovel.com/page/7686144898382187545"
+        },
+        {
+          "title": "穿越春秋：公子夺我为姬",
+          "author": "咖啡朱古力",
+          "reads": "5.2万",
+          "intro": "女扮男装+高岭之花+假谋士真绝色 【评分刚开】这是一个礼乐崩坏的时代，一个人命如草芥的时代，可也是一个百家齐放、思想碰撞的时代，夏容从死人堆里睁眼醒来，她该怎样在这个吃人的时代活下去？ 公子赵衡身为秦国质子，作为秦国公最不受宠的儿子，本该被遗忘在楚国蹉跎一生，可最后却以谋计顺利重返秦国，力压众兄弟登临王位，雪尽半生前耻。 夏容最初只是寻求安稳才以门客之身依附于公子衡门下，最后却不知为何演变成一场夺心的游戏…… 1️⃣：架空春秋战国背景，人物虚构无原形，一些背景为剧情服务有改，不可对标真实历史。 2️⃣：非女强大女主文 3️⃣：待定",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5f99b1b0f67e124408a9661ad82ce2ac~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030827&x-signature=b64tnlaYfuqR2YUVf53hD1GqLiQ%3D",
+          "url": "https://fanqienovel.com/page/7674518021515267134"
         },
         {
           "title": "满朝皆以为我们水火不容",
           "author": "峥河",
-          "reads": "5万",
+          "reads": "4.7万",
           "intro": "女扮男装当了六年御史，楚蘅一觉醒来，躺在死对头沈宴床上。 “你可以选择不回答。” “这么好说话？” “去大理寺答也行。” 不是。 我从你床上醒过来，你第一反应是审我。 这合理吗！ 楚蘅:“大理寺如今审案，都在床上?” 沈宴:感觉自己风评被害。 【女扮男装＋死对头＋双强探案＋朝堂权谋｜1v1双洁HE | 嘴毒犀利御史楚蘅 × 缜密克制大理寺卿沈宴】",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9a025f7fa808d307ba72dc6778432b98~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944654&x-signature=YvuarBRMv8MpDrJbtmvEf6kI0BE%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9a025f7fa808d307ba72dc6778432b98~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030827&x-signature=j%2B4keUjfpsXPhDnq7nLdDKgEfQE%3D",
           "url": "https://fanqienovel.com/page/7676131396573744153"
         },
         {
           "title": "陆大人是童养夫",
           "author": "萧方缘",
-          "reads": "4.9万",
+          "reads": "4.6万",
           "intro": "陆珩少时寄身宋家，与宋宁两小无猜，一句“童养夫”，道尽少年难堪。 科举路远，误会丛生，一朝别离，寒暑六载。 待到京城重逢，陆珩朱衣高位，宋宁悬壶行医。 旧岁情意未敢忘，前尘芥蒂尚难消。 状元郎与女医，要如何跨过流言与过往，再续年少缘分。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o345261881dea26da4c860d6ea6fd0960~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944654&x-signature=hrG0sREaK4JVPBlaA7DYLTvIsjA%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o345261881dea26da4c860d6ea6fd0960~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030827&x-signature=53AGtx4%2Feo8bDBVRYXxdOYOTrzE%3D",
           "url": "https://fanqienovel.com/page/7687985341063515161"
-        },
-        {
-          "title": "穿越春秋：公子夺我为姬",
-          "author": "咖啡朱古力",
-          "reads": "4.8万",
-          "intro": "女扮男装+高岭之花+假谋士真绝色 【评分刚开】这是一个礼乐崩坏的时代，一个人命如草芥的时代，可也是一个百家齐放、思想碰撞的时代，夏容从死人堆里睁眼醒来，她该怎样在这个吃人的时代活下去？ 公子赵衡身为秦国质子，作为秦国公最不受宠的儿子，本该被遗忘在楚国蹉跎一生，可最后却以谋计顺利重返秦国，力压众兄弟登临王位，雪尽半生前耻。 夏容最初只是寻求安稳才以门客之身依附于公子衡门下，最后却不知为何演变成一场夺心的游戏…… 1️⃣：架空春秋战国背景，人物虚构无原形，一些背景为剧情服务有改，不可对标真实历史。 2️⃣：非女强大女主文 3️⃣：待定",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5f99b1b0f67e124408a9661ad82ce2ac~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944654&x-signature=j749FSjT63JUtZEbmlqALhRRvPE%3D",
-          "url": "https://fanqienovel.com/page/7674518021515267134"
         },
         {
           "title": "废太子称帝后，日日哄我喝药",
           "author": "福娃TT",
           "reads": "4.3万",
           "intro": "【落魄多疑、步步谋局的废太子 × 隐忍聪慧、病弱坚韧的将门罪女】 【虐身不虐心！非双洁！女主身体会越来越差！介意误入！】 三年前，谢家被诬通敌，满朝文武无人敢为谢家开口，只有太子封承砚当殿质疑军粮账册有假。 谢家倾覆，父兄失踪，谢蘅月沦为掖庭最低等的宫女。 三年后，太子被废，幽禁深宫…… 谢蘅月主动请命，去了破败阴冷的西宫。 寒冬没有炭火，她拆掉自己的棉被给他御寒； 饭食被克扣，她将仅有的一碗粥留给他； 为了替他寻找药材，她被人打得浑身是血。 三皇子当众羞辱封承砚，她又替他承受五十大板，昏迷数日，险些再也醒不过来。 所有人都以为废太子早已无力翻身， 不曾想，封承砚杀回朝堂，登临帝位。 他红着眼向谢蘅月承诺：“朕余生所有的偏爱，只会给你。” 后来，满宫皆知，新帝有一位放在心尖上的病弱贤妃。 她少吃一口药，他能放下奏折亲自去哄； 她咳嗽一声，他便整夜无法安眠。 直到谢蘅月怀上皇嗣，一场来自前朝与后宫的杀局，再次悄然逼近……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of3ecb213a5ca494498ea6c4dd84ee0f4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944654&x-signature=QvuI5yLhnMwhUhO82CnnYp95h6M%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of3ecb213a5ca494498ea6c4dd84ee0f4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030827&x-signature=PWVIpRYCHYMg3z7I5OalV8y9%2BMQ%3D",
           "url": "https://fanqienovel.com/page/7685653091563097112"
         },
         {
           "title": "庶女谋嫁：翰林郎他动了心",
           "author": "二十三跃时",
-          "reads": "3.9万",
+          "reads": "4.2万",
           "intro": "（刚开分，评分会涨）沈鸢是沈家最不受宠的庶女，亲娘早逝，嫡母刻薄，父亲对她视若无物，沈家早已打好算盘，要将她许给四十岁的富商当填房，用这笔聘礼，尽数给嫡姐添备嫁妆。 谢怀瑾是谢家最端方的君子。二十三岁便官居翰林院五品学士，洁身自好，从不近女色。坊间皆传他心底藏着故人，恐要孤此一生。 一场春日雅集，沈鸢远远望见谢怀瑾，眼底掠过一丝微光。 几番相逢相遇，沈鸢一点点走近谢怀瑾心里 谢怀瑾怜她爱她，沈鸢出嫁那日，满城都在议论，一个庶女竟能攀上谢家嫡长子。 ps:男主没有白月光",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o39553aeee4339c4d7ef3cee895a6e306~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944654&x-signature=mQCf4bi15pPpYkaVA6dT5Ze84N4%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o39553aeee4339c4d7ef3cee895a6e306~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030827&x-signature=gyYwDO%2BtjEfGN5OuK51O%2BSetf%2F4%3D",
           "url": "https://fanqienovel.com/page/7686776959275125785"
-        },
-        {
-          "title": "双姝错位",
-          "author": "柒柒2026",
-          "reads": "3.4万",
-          "intro": "大梁景和年间，齐王兵变，天下纷乱。京城沈府夫人沈王氏南逃避难，途中与江南农户出身的张翠娘同宿山间破庙，二人在同一天先后诞下女婴。溃兵骤然杀至，庙中众人仓皇奔逃，产后虚弱、神志昏沉的两位母亲，竟在慌乱间抱错了襁褓，骨血就此错位。 十二年后，养在沈府的柳家之女沈清婉才名满京城，被当作沈家嫡女精心栽培，早早定下永宁侯府世子的婚约；而真正的沈家血脉柳明珠，则在江南清溪镇布庄长大，做了一个无忧无虑的商贾少女。 直到沈家长子沈砚之因公南下，偶然瞥见一张酷似母亲年少模样的少女，埋藏十二年的错位，开始浮出水面。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4bda3c032686f1558994ab5357248064~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944658&x-signature=xjQM7%2B1g4PZKfTyhWSQNIzL325U%3D",
-          "url": "https://fanqienovel.com/page/7690525076415843390"
         },
         {
           "title": "弄娇娘",
           "author": "屁屁溪",
-          "reads": "3.4万",
+          "reads": "3.2万",
           "intro": "丰腴貌美老实人妻×温润如玉的败类男主×强取豪夺撬墙角×女非男c 姜柠生得玉肤花貌……可天生有口疾。 母亲嫌她，便将她卖给隔壁村里宋玉为妻。 婚后日子依旧难挨，婆母不善，小姑子难相与。 初遇崔珩，是在一场权贵云集的小宴上。 满座衣香鬓影，觥筹交错，唯有她因不懂规矩而格格不入。 偏偏那日她不慎弄脏了裙衫，窘迫难安之际，是端坐于轮椅上的男人递来一件大氅，替她解了燃眉之急。 那时的姜柠便想，崔珩这人如同他的长相一般，芝兰玉树，不染凡尘。 以至于后来，宋玉生死未卜时，她走投无路之下，第一个想到的，竟也是去求他。 岂料那高台之上的男人一改往日和煦，满眼阴鸷的拍了拍自己的双膝：“上来？？” 男主： 崔珩此人，温润如玉，举世皆赞。 权柄在手，少有不遂心愿之事。 唯有一愿，求而不得，喜好上…他人之妻。 初见柠娘时，她执荷叶遮雨，衣裙尽湿，身姿纤弱毕现。 他难得发了善心，递衣解围，亦难得起了兴致。可惜……她已嫁作人妇。 崔珩压下欲念…… 直到她夫君站错了队，卷入死局。 1.男主人前正人君子，人后是个坏种阴湿大疯批，不太正常！！！ 2.女主与男主感情线会在女主和离之后后展开",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o97c3ea0a87bdb7bd7d851069b371da46~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944658&x-signature=%2BquROJwiHcNHBuXEQPYVBp9Go%2B8%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o97c3ea0a87bdb7bd7d851069b371da46~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030831&x-signature=mQVcIlJPvzLAuNB9CovpvK04dfA%3D",
           "url": "https://fanqienovel.com/page/7681845687301966872"
+        },
+        {
+          "title": "双姝错位",
+          "author": "柒柒2026",
+          "reads": "3.2万",
+          "intro": "大梁景和年间，齐王兵变，天下纷乱。京城沈府夫人沈王氏南逃避难，途中与江南农户出身的张翠娘同宿山间破庙，二人在同一天先后诞下女婴。溃兵骤然杀至，庙中众人仓皇奔逃，产后虚弱、神志昏沉的两位母亲，竟在慌乱间抱错了襁褓，骨血就此错位。 十二年后，养在沈府的柳家之女沈清婉才名满京城，被当作沈家嫡女精心栽培，早早定下永宁侯府世子的婚约；而真正的沈家血脉柳明珠，则在江南清溪镇布庄长大，做了一个无忧无虑的商贾少女。 直到沈家长子沈砚之因公南下，偶然瞥见一张酷似母亲年少模样的少女，埋藏十二年的错位，开始浮出水面。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4bda3c032686f1558994ab5357248064~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030831&x-signature=KLrz8BEPBttHZTik9fphBV2dEcg%3D",
+          "url": "https://fanqienovel.com/page/7690525076415843390"
         },
         {
           "title": "慢守门楣",
           "author": "罗筱奚",
-          "reads": "3.1万",
+          "reads": "3.2万",
           "intro": "十六岁的萧语微嫁进定远侯府，成了两个孩子的继母。 继子不服，继女胆小，夫君寡言，府里还有一条叫“慢慢”的狗和一只格外聒噪的鹦哥。 她没想过做什么贤妻良母，只想吃好、睡好，能躲的事尽量躲。 可日子过着过着，孩子开始叫她母亲，冷面侯爷也学会陪她吃饭，一群孩子还在西园折腾出了个“稚虎堂”。 外有谢家步步算计，朝堂风雨渐起。她原本只想安稳度日，回头才发现，自己竟一点一点守住了这一大家子的灯火。 一家人，不是突然变成一家人的，是慢慢过出来的。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe299a14b49fcff23e41465230965c3f9~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944658&x-signature=gUZNIknCPdqFrTTfcghZ7Oavk9E%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe299a14b49fcff23e41465230965c3f9~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030831&x-signature=lpKNrOtWCbeCK%2BEvWQODs7b6auw%3D",
           "url": "https://fanqienovel.com/page/7685671474140564542"
-        },
-        {
-          "title": "身穿古代，皇家权贵动心强留我",
-          "author": "右右酱",
-          "reads": "2.2万",
-          "intro": "【双洁+自我攻略男主+男主超强占有欲+细水流长+微微强制爱】 宋见微身穿古代，开局被困荒岛，荒野求生基本能力为零。 海浪冲来一个奄奄一息的古代俊美男子。 宋见微把人捡了起来。 男子命硬熬过重伤高烧活了下来。 活着的男子包揽了觅食取水打猎做饭造木船等一系列琐事，对宋见微事事照顾妥帖。 还带着她离开了荒岛。 宋见微觉得这人捡得太值了。 只是离开荒岛后，这人怎么越来越不对劲。 就连她结交新朋友，都要被他过问管束。 随着男人的身份曝光，自认是救命恩人的宋见微，打算领一笔报酬走人。 男人果然拿出满满一箱金银交到她手上。 只是，却怎么都不肯让她离开？ 后来，她问：“若是当年我执意不肯，你待如何？” 他俯身吻上她：“你不会想知道。” 他不会放她走。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5d0e155bd02980d8a10ad039e1680c5b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944658&x-signature=kdQpAj821B5RxOYjPV4Giz5aSlc%3D",
-          "url": "https://fanqienovel.com/page/7677566612181879833"
-        },
-        {
-          "title": "身为和亲棋子，竟被敌国皇子独宠",
-          "author": "辰杉菱",
-          "reads": "2万",
-          "intro": "赵灵珩本是大胤中宫嫡出的五公主，却与父母缘浅，自幼养在皇祖母膝下。 皇祖母刚薨，大胤便打了败仗。素衣未褪，和亲的嫁衣已换上。 那夜，一个黑衣少年踏着风沙推开驿站的窗，摘走她贴身的玉珠，黑眸又亮又野。 \"我是你夫君。信物收了，等着，我来娶你。\" 她要嫁的，本是传闻中温润如玉的靖王。可眼前这个\"夫君\"满身桀骜，半分也不像。 后来她才知道，靖王半路遇袭，生死不知。 而改了她终身的，正是那个夜里理直气壮说要娶她的少年，母族权倾朝野的北凛四皇子，萧聿。 世人都说，和亲公主命如浮萍，是颗任人摆布的棋子。 只有赵灵珩知道，这位嘴上没一句正经的煞神，是怎样一点点，把她从没有过的那个\"家\"，捧到了她面前。 萧聿偏要把这颗棋子，宠成他心尖上的定王妃。 【先婚后爱・和亲｜嘴欠王爷 × 通透公主｜明牌独宠・日久生情・朝堂权谋・HE】",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9066f6b865ad9429166b16825b1f3188~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944658&x-signature=WWjrSlZiLjK4koe44bgUtabHwiQ%3D",
-          "url": "https://fanqienovel.com/page/7681597645248285720"
         },
         {
           "title": "社畜美食博主穿成大理寺掌勺",
           "author": "锦葵灯",
-          "reads": "2万",
+          "reads": "2.3万",
           "intro": "温梨满这辈子最大的梦想，就是吃口好的。 　　 上辈子她是个美食博主，满山遍野追着食材跑，结果一脚踩空，当场穿越成一个刚被贵人打完板子的小宫女。御膳房的饭没吃上，倒先尝了顿板子套餐。 　　先帝薨了，她忍；新帝登基，她还忍。三年装孙子，总算熬到放出宫那天，她头也不回地跑了——宁愿在京城摆摊卖吃食，也不回那个卖女儿的家。 　　 可她大概是点了“倒霉”天赋。摊子刚支棱没两天，先是得罪地头蛇被砸了锅，后又被卷入一桩命案，直接被大理寺当嫌疑人带走。 　　 蹲大牢的时候她还在想：我这辈子，是不是就死在“吃”上了？ 　　 结果审都没审，直接被放了。临走还听说，大理寺食堂缺个掌勺——有编制，铁饭碗，管三餐。 　　 她当场报名，秒入职，从此成了大理寺最受追捧的女人。 　　 大理寺少卿沈砚舟，世家出身，断案如神，平时冷得跟冰块成精似的，谁都近了冻伤。可每到饭点，他第一个落座。 　　 起初他以为自己是来查案的。后来他发现，自己只是想来吃饭的。 　　 温梨满不破案，但她用一口锅，把大理寺上上下下的胃都收买了，顺便收了一个少卿的心。 　　 人生嘛，先吃饱，再相爱。温梨满觉得，这波不亏！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o37e43d0ae5d593d5e32e9dd70a262c43~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944658&x-signature=VLw9eqalryyniRkURBjeulR3kmQ%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o37e43d0ae5d593d5e32e9dd70a262c43~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030831&x-signature=CJWJlKAUubtahiPP8AfT66pQlNs%3D",
           "url": "https://fanqienovel.com/page/7538062872421600281"
+        },
+        {
+          "title": "身为和亲棋子，竟被敌国皇子独宠",
+          "author": "辰杉菱",
+          "reads": "2.2万",
+          "intro": "赵灵珩本是大胤中宫嫡出的五公主，却与父母缘浅，自幼养在皇祖母膝下。 皇祖母刚薨，大胤便打了败仗。素衣未褪，和亲的嫁衣已换上。 那夜，一个黑衣少年踏着风沙推开驿站的窗，摘走她贴身的玉珠，黑眸又亮又野。 \"我是你夫君。信物收了，等着，我来娶你。\" 她要嫁的，本是传闻中温润如玉的靖王。可眼前这个\"夫君\"满身桀骜，半分也不像。 后来她才知道，靖王半路遇袭，生死不知。 而改了她终身的，正是那个夜里理直气壮说要娶她的少年，母族权倾朝野的北凛四皇子，萧聿。 世人都说，和亲公主命如浮萍，是颗任人摆布的棋子。 只有赵灵珩知道，这位嘴上没一句正经的煞神，是怎样一点点，把她从没有过的那个\"家\"，捧到了她面前。 萧聿偏要把这颗棋子，宠成他心尖上的定王妃。 【先婚后爱・和亲｜嘴欠王爷 × 通透公主｜明牌独宠・日久生情・朝堂权谋・HE】",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9066f6b865ad9429166b16825b1f3188~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030831&x-signature=6Zu02fY8QI%2Fouo3Dhn27At0YayQ%3D",
+          "url": "https://fanqienovel.com/page/7681597645248285720"
+        },
+        {
+          "title": "身穿古代，皇家权贵动心强留我",
+          "author": "右右酱",
+          "reads": "2.1万",
+          "intro": "【双洁+自我攻略男主+男主超强占有欲+细水流长+微微强制爱】 宋见微身穿古代，开局被困荒岛，荒野求生基本能力为零。 海浪冲来一个奄奄一息的古代俊美男子。 宋见微把人捡了起来。 男子命硬熬过重伤高烧活了下来。 活着的男子包揽了觅食取水打猎做饭造木船等一系列琐事，对宋见微事事照顾妥帖。 还带着她离开了荒岛。 宋见微觉得这人捡得太值了。 只是离开荒岛后，这人怎么越来越不对劲。 就连她结交新朋友，都要被他过问管束。 随着男人的身份曝光，自认是救命恩人的宋见微，打算领一笔报酬走人。 男人果然拿出满满一箱金银交到她手上。 只是，却怎么都不肯让她离开？ 后来，她问：“若是当年我执意不肯，你待如何？” 他俯身吻上她：“你不会想知道。” 他不会放她走。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5d0e155bd02980d8a10ad039e1680c5b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030831&x-signature=f%2BgcI7hfmSiF2gNPpAvJrGeyvNU%3D",
+          "url": "https://fanqienovel.com/page/7677566612181879833"
         },
         {
           "title": "开局冷宫塌房，我挖地道跑路了",
           "author": "吾名卡皮巴拉丶",
-          "reads": "1.9万",
+          "reads": "2.1万",
           "intro": "【大女主+朝堂+穿越+争霸+古代+权谋+女帝+弃妃】 加班猝死的互联网社畜孟瑶，一睁眼穿越成了大周王朝最落魄的冷宫废妃。 父兄被斩、家族流放，她在阴冷的景寒宫熬了整整三年，吃不饱穿不暖，连下等奴才都敢随意欺凌，一场暴雪更是直接压塌了半间冷宫。 旁人穿越进宫，忙着争宠斗艳、攀附皇权；孟瑶穿越进宫，满脑子只有苟命跑路、搞钱谋生。 黑心当铺坑走她仅存的银簪？她转头就扯起勋贵世家的虎皮，一张寻狗告示把奸商耍得团团转，连本带利加倍收回。 什么凉薄皇帝萧承朔，什么后宫恩怨情仇，在热汤面和白花花的银子面前，通通不值一提。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odc905ed6aede1ea81362adda85000aac~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944658&x-signature=tVSBB4bMH2IexMXPS0hZPsnSP2c%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odc905ed6aede1ea81362adda85000aac~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030831&x-signature=n%2B4%2FuYaPASZDd2BwABUlxC5GKUc%3D",
           "url": "https://fanqienovel.com/page/7650063545287068734"
         },
         {
@@ -424,24 +424,24 @@
           "author": "折腰",
           "reads": "1.8万",
           "intro": "【阴湿偏执恋爱脑帝王VS 美貌清醒的大美人，很会训狗】 【破镜重圆+微强制+上位者破防+救赎+自己哄自己】 秦文珠没有等来前男友谋反失败的消息，而是他篡位成功称帝。 父亲从一品国公被贬为了九品县令，一个大家族开始分崩离析。 偏偏只有她的县主封号还保留着。 所有人都猜测新帝是在故意羞辱秦家嫡女，没理由唯独放过她一人。 秦文珠也是这样认为的，毕竟她的确出卖了他。 周廷玉从小睚眦必报、嘴毒又乖戾，不会看在两人曾热恋过的份上就轻易饶了她。 她怕这人发疯，也怕被他报复，更怕他察觉--- 她还爱他。 ... 元宵夜宴，秦文珠故意喝下一杯烈酒。 看着步步逼近的男人，女孩睁大双眸，泪流满面地看着他，颇是委屈。 然而下一刻，只见帝王当着众人的面，将醉醺醺的姑娘温柔地搂进怀里，亲手喂解酒汤。 身量高大的男人收敛一身狠厉强势，在心爱的人面前俯首低语： “秦文珠，只要你说一句你爱我，以后你骑我头上都成…小祖宗，别折磨我了行吗？”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oefd14e676b242e0e866ce1254c34e315~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944658&x-signature=Wwh%2FHFV6kPuLH8XpHfYuPOaYriE%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oefd14e676b242e0e866ce1254c34e315~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030831&x-signature=0oFx1MazL3lYA%2F7aaAUpA61PqJA%3D",
           "url": "https://fanqienovel.com/page/7650044982144814105"
+        },
+        {
+          "title": "百万商女携八妾入侯府，世子疯了",
+          "author": "一湘之江",
+          "reads": "1.8万",
+          "intro": "沈沛桐胎穿大靖行商世家，随父兄游走列囯，掌握巨额财富，好不快活。 可有一天老父亲拿着圣旨回来，“儿啊！为父为你谋了桩好姻缘，你要不回大靖都城去玩玩！” 沈沛桐好看的眉眼一抬，“不去，那地方重文轻武，重士轻商，商贾低贱，规矩繁多，有什么好玩的。” 老父亲在女儿面前一弯腰，“去吧！随便你玩，咱家有十二面金牌，再不用就要生锈啰！生锈了容易出事。” 沈沛桐笑得如牡丹花开，“真的，随便我玩。” 老父亲眼睛一眨，”十二面金牌，玩完了就没了。” 沈沛桐接过圣旨：“成交！” 魏逍洐是最全京城最潇洒的儿郎，皇后的大姐，侯爷的爹，将军的叔叔哥哥，书香门第的娘。 家世正，长得好，光靠祖荫就能几辈子不发愁。 一遭圣旨落下，五雷轰隆，取商户女，还是连个固定住址都没有的商户女，“不娶，坚决不娶，我不要面子的吗？” 可老父亲十二封亲笔书信，五百里加急谈妥了婚事细节。 魏逍洐欲哭无泪，搂着美人当着满朝勋贵公子的面，“什么低贱商女，本世子不稀罕。” 满上京城都等着看这桩荒唐姻缘的热闹，就连侯府里都准备好了替换新娘。 可九顶花轿临门是什么鬼……妖兽哦！ 最后，魏逍洐抱着被子惨兮兮，这是什么商女，怎么和他知道的不一样，她嫌他脏。 可他明明很干净啊！",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o879957a90a57acaf0c1853a243ec5930~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030831&x-signature=efFw2leIWnPrPhs7IwrwtTHjXxs%3D",
+          "url": "https://fanqienovel.com/page/7676275917223627838"
         },
         {
           "title": "大乾第一废柴国公府的傻世子",
           "author": "用户45031907",
-          "reads": "1.5万",
+          "reads": "1.6万",
           "intro": "大乾王朝，传说国公府的世子“赵晓风”，三岁能文，五岁能武，诗词歌赋信手拈来，十八般武艺样样精通，与安乐侯千金陈子涵早有婚约。然而十五岁那年被人下毒，从此痴傻五年，沦为京城人人嘲笑的“大乾第一废柴世子”。 二十岁生辰，未婚妻陈子涵已暗中勾搭丞相之子萧建仁，二人设下毒计，哄骗痴傻的赵晓风荡秋千，实则诱其上吊。当“尸体”被抬回国公府，老父赵震雄哭断肝肠，贴身丫鬟林小月泪尽血出。谁知子时三刻，赵晓风竟死而复生，五年痴傻一朝清明，往日的天骄回来了。次日，陈子涵趾高气扬前来退婚，却见赵晓风完好端坐，吓得魂飞魄散。赵晓风一改痴傻，一纸休书甩在陈子涵脸上，让她颜面扫尽。当朝女帝秦玉莹听闻废柴世子之变，微服私访，恰在街上撞见地痞纠缠，赵晓风风度翩翩出手解围。女帝芳心微动，对这“傻子”刮目相看。恰逢东瀛、西域、北辽、高丽四国使者联袂而来，文试武比咄咄逼人，满朝无人敢应。赵晓风揭下皇榜，在举国嘲讽中踏入皇宫，以惊世才华连败四国高手，一战封神。随后科举夺魁武举折桂，文武双状元加身，女帝秦玉莹倾心相许。 当四国联军压境入侵，赵晓风挂帅出征，击退外敌。最后横扫西域，征服北辽，踏平高丽，歼灭东瀛一统天下！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oeb53df64274d035236ab75c3f4e6500e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944658&x-signature=z5DhZxVSXOl3eKFibvKlj7O3kPA%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oeb53df64274d035236ab75c3f4e6500e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794030831&x-signature=eyk2IqLuHU4cjoCmBXisisTKSwY%3D",
           "url": "https://fanqienovel.com/page/7670008798559341592"
-        },
-        {
-          "title": "公主刚进洞房，就被草原可汗截了",
-          "author": "晓晓梓",
-          "reads": "1.5万",
-          "intro": "【清醒和亲公主×腹黑草原可汗，抢亲，双强，微权谋】 　　大岐五公主李昭泠，天姿国色，容冠京华，生来独得皇家盛宠。 　　初见阿史那衍那日，她为躲宫人，一头撞进酒楼雅间。那人桃花眼，珀色瞳，生的实在惹眼。 　　再见是秋狝遇刺，他救她一命。她问姓名，他说“穆衍”。她许以金银权势，他皆不要，只说：“来日，我自会亲赴大岐朝堂，讨要属于我的答谢。” 　　后来乌绥犯境，指名要她和亲。洞房花烛夜，大王子私闯牙帐。 漫天火光，一道身影破帐而入。 明灭间，她又一次看见了那双珀色瞳。 　　“穆……衍？”　 　　 　　和亲作废，乌绥一夜倾覆。 　　她以为他图的是权谋算计，他却说：“我阿史那衍，愿以草原为聘，迎大岐帝女入主王庭。” 　　李昭泠不可置信：“你疯了？” 　　她随他去了草原，路上随手编了只花环。他说好看。她摘下抛给他：\"赏你了。\" 　　他接住，眉梢微挑：“公主可知，在草原上，女子送男子花环，意味着什么？” 　　李昭泠狐疑：“什么？” 　　“求娶。” 　　“……” 　　她一把抢回：\"我是大岐人，不守你们草原的规矩。\" 　　他笑了，慢悠悠跟在她身后：\"草原上的花，也只戴给心上人看。”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1d26ab7a07c7dad4d51fb5ce49d4deb5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1793944658&x-signature=dXA6wymxqCK%2Bc4cmhODY7Ek6yhU%3D",
-          "url": "https://fanqienovel.com/page/7688546992070331417"
         }
       ]
     }

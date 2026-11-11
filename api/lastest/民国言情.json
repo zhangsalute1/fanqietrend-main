@@ -1,44 +1,29 @@
 {
   "type": "民国言情",
-  "date": "2026-11-10",
-  "prev_date": "2026-11-08",
+  "date": "2026-11-11",
+  "prev_date": "2026-11-10",
   "category": {
     "name": "民国言情",
     "trend": {
-      "new_count": 4,
-      "dropped_count": 4,
+      "new_count": 1,
+      "dropped_count": 1,
       "new_books": [
-        "盗墓：疯批陈皮的脆皮茯苓",
-        "错宠，冷面少帅以身赎罪",
-        "蔷薇谍影",
-        "穿越僵尸有空间，鬼子全是功德包"
+        "民国烽火：海棠烬欢"
       ],
       "dropped_books": [
         {
-          "title": "军阀劫，疯批少帅每晚掐腰求名分",
-          "intro": "【残废疯批少帅的病态占有+傲娇千金用钞能力“包养”未来大帅】 督军府义子霍景深，矜贵冷酷，年少掌兵，是北平城人人敬畏的铁血少帅。 银行家千金虞晚，娇纵爱财，自幼与霍景深定有娃娃亲。 霍景深对旁人狠辣果"
-        },
-        {
-          "title": "民国烽火：海棠烬欢",
-          "intro": "民国飘摇，新旧交替的乱世，是礼教残存的桎梏，也是星火初生的序章。 沈清棠是金陵落魄世家养出的绝色闺秀，半生恪守女德，温顺克礼，被一纸童年婚约，缚住半生归途。 她的未婚夫傅闻舟，留洋归乡，心怀山河大义。"
-        },
-        {
-          "title": "夺妻入怀，囚之有道",
-          "intro": "【强取豪夺+先婚后爱+先甜后虐】 双标多疑疏冷少帅&娇软传统世家小姐 陈怨，因为出生母亲就去世了，被父亲视为眼中钉，取名单字一个“怨”。 她循规蹈矩，乖乖地努力做一个乖女儿，想要努力讨取一丝关爱。 她"
-        },
-        {
-          "title": "驭娇鸾",
-          "intro": "[架空背景/非典型he] 矜傲恶毒愚蠢满清遗孤x面冷心黑封建大家长军阀 兵荒马乱，战火纷飞。祝彰云带回了一个女子。 她愚昧，恶毒，守旧。是时代落寞的牺牲品。 祝彰云将她藏在祝公馆深处，让她成为依附于他"
+          "title": "民国：我家崽崽都是千古一帝",
+          "intro": "【母爱拯救+民国+晚年皇帝改造+救赎+各朝代直播】 ------- 大秦，晚年的始皇帝在临死前看到提示【进入1915年，成为婴儿，在母亲庇护下长大】 为了活命，嬴政参与，至于母亲他不屑一顾。 大汉，发"
         }
       ],
       "top_risers": [
         {
-          "title": "今古传奇之转房，",
-          "change": "+4"
+          "title": "蔷薇谍影",
+          "change": "+3"
         },
         {
-          "title": "潜伏：烧香晋佛",
-          "change": "+1"
+          "title": "穿越僵尸有空间，鬼子全是功德包",
+          "change": "+2"
         },
         {
           "title": "盗笔：大力出奇迹强制爱理想型",
@@ -47,49 +32,49 @@
       ],
       "top_fallers": [
         {
-          "title": "潜伏：涯畔有春湄",
-          "change": "-8"
+          "title": "空间：民国逃荒，先搬空黑心亲戚",
+          "change": "-4"
+        },
+        {
+          "title": "潜伏：烧香晋佛",
+          "change": "-1"
         },
         {
           "title": "九门：橘子皮他偏为我臣服",
-          "change": "-3"
-        },
-        {
-          "title": "空间：民国逃荒，先搬空黑心亲戚",
-          "change": "-3"
+          "change": "-1"
         }
       ],
       "reads_growth": [
         {
           "title": "1934：开局一袋精盐",
-          "growth": "+4457"
-        },
-        {
-          "title": "今古传奇之转房，",
-          "growth": "+653"
+          "growth": "+7000"
         },
         {
           "title": "民国佳人",
-          "growth": "+293"
+          "growth": "+445"
+        },
+        {
+          "title": "老九门之陈皮使用指南",
+          "growth": "+373"
         }
       ],
-      "summary": "新增4本上榜；4本掉出（《军阀劫，疯批少帅每晚掐腰求名分》、《民国烽火：海棠烬欢》、《夺妻入怀，囚之有道》、《驭娇鸾》）；《今古传奇之转房，》排名上升+4位；《1934：开局一袋精盐》阅读量+4457。"
+      "summary": "新增1本上榜；1本掉出（《民国：我家崽崽都是千古一帝》）；《蔷薇谍影》排名上升+3位；《1934：开局一袋精盐》阅读量+7000。"
     },
     "books": [
       {
         "title": "绯烬",
         "author": "许清端",
-        "reads": "3.2万",
+        "reads": "3万",
         "intro": "民国鼎新，王朝覆灭，常家失势，弃儒从商，六女皆为联姻棋子。 常依婉在家行五，既不如大姐是嫡长女，备受重视，又不如小妹母亲得势，备受宠爱。 一朝机缘，与军阀世家子弟沈砚衡有了婚约。 沈砚衡身在军阀权门，见惯利益交换，本以为这场婚事不过是寻常的政治博弈，可他看见这个被家族舍弃，温顺内里藏着清醒韧劲的女子，慢慢打破了他原本对婚姻的认知。两人相知相许，穿越烽火，携手并进，在时代的洪流中坚守信仰，最终白头偕老。 小剧场： 常依婉咬了一口他的下巴，以示不满。 “别闹，再闹，我来真的。”沈砚衡本就忍着，经不起撩拨。 常依婉委屈地抽噎了起来。 “我的祖宗，你又怎么了？” 常依婉一个转身，哭道：“男人都是这样，没指望，用得着你的时候就哄啊宠啊的，满足了就做甩手掌柜了，一点也不耐烦！” “我哪有？”沈砚衡凑过去抱她。 常依，拍开他的手，“你前后两副面孔！还不承认。” 沈砚衡笑，起身去捡地上的稠裤，“好好，我去洗。”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe513fb661a4513b268a62c4568d4799a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900642&x-signature=CXOcg%2BT%2FGoTnOdgvWEkPuTKb62A%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe513fb661a4513b268a62c4568d4799a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984108&x-signature=hJhsFXuHDSxN0AQ%2F19mIXjrQDLE%3D",
         "url": "https://fanqienovel.com/page/7687192164593306686"
       },
       {
         "title": "1934：开局一袋精盐",
         "author": "瞒瞒瞒瞒",
-        "reads": "1.3万",
+        "reads": "2万",
         "intro": "标签是错误的！高亮无cp！！！ （种田+基建+团宠+无CP+一起走长征路，女主普通人心软，前辈们慢慢攒的家底她来添砖加瓦） 江晚一睁眼，穿回了1934年的长征路上。 好消息：她绑定了一个系统商城，要什么有什么！大米、猪肉、盘尼西林、步枪、电台。 坏消息：商城不收钱，只收善意值。而她现在，一个都没。 还好，只要做好事、把东西送到别人手里，善意值就会有。 于是，南洋来的\"财神爷\"名扬十里八乡。 穷苦人家开门就能捡到米，战士们顿顿有肉吃，野战医院的盘尼西林比盐还多。 而\"财神爷\"真正的主人，此刻正骑在骡子上，跟着队伍翻雪山、过草地。 她知道历史。 重走这条路，一个都不许丢。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o10d5a0792cf1796aa956356f85fdb3af~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900642&x-signature=TK%2B1jGZabpNApbY6%2FhQJ3pKCCE4%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o10d5a0792cf1796aa956356f85fdb3af~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984108&x-signature=7%2FPvCItSkH0%2B7zI%2BQDA5YAdDG8w%3D",
         "url": "https://fanqienovel.com/page/7693526252581309464"
       },
       {
@@ -97,143 +82,143 @@
         "author": "瑜灰",
         "reads": "1.1万",
         "intro": "【原创女主+万人迷+脆皮+all+玛丽苏+盗墓+穿越+修罗场】 在智力巅峰，体力寒冬的白茯苓一朝穿越到危机四伏的民国乱世。 她虽然是个战力为零的脆皮，好在还继承了一手玄门画符的绝活，就是要偶尔吐吐血。 为了不暴露穿越者身份，她决定在这个戴墨镜的男人面前装哑巴，被拆穿之后男人捏着她的下巴： “嗓子既然没坏，跑之前，怎么不知道叫声好听的来哄哄黑爷？” 谁能告诉她，为什么一开始对她爱答不理的保镖陈皮，现在居然变成了一只护食又黏人的病娇恶犬啊？！ 漆黑的树影下，暴戾的活阎王将她死死抵在树干上，犀利的眼眸里翻涌着压抑的醋意与狂躁。 “我陈皮在你心里，和那些猫猫狗狗没区别了，是不是？！” 翻窗逃跑的白茯苓被抓了个正着，被那位向来克己守礼的张副官狠狠按在怀里。 张副官下巴抵在她发顶，声音哑得不成样子，带着近乎委屈的质问： “跑什么？他对你好，我对你就不好吗？还是说……外面的陈皮，就那么值得你连夜翻窗找他？！” 南洋来的神秘张家狂徒、算尽天机却被牵了正缘的齐八爷…… 白茯苓裹着大衣看着打成一团的九门狠人，瑟瑟发抖： “救命啊！我真的只是个一碰就倒的脆皮小符师！大佬们求求你们别卷了，再卷我又要吐血了啊！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2occ1271d26537235f9e1248a9f3a3ad2a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900642&x-signature=YNb1ApVslEK6CCkoGAT8sYgotf4%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2occ1271d26537235f9e1248a9f3a3ad2a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984108&x-signature=A4M7fnjp7POILGDTy6OXTC3%2FLYo%3D",
         "url": "https://fanqienovel.com/page/7694264029170125886"
       },
       {
         "title": "柏林之外",
         "author": "99个钟头",
-        "reads": "8160",
+        "reads": "8120",
         "intro": "【架空ww2＋中德恋＋求生＋双洁＋世界和平】 排雷：非穿越，女主只是个普通留德女孩，无上帝视角，会胆小会冲动，有虐的部分。 留德女学生×国防军军官（男1）×党卫队军官（男2） 柏林的狂热，波兰的鲜血，巴黎的夜色，北非的陨落，东线的沉寂，毁掉的家庭…战争留下的是无声的泪水。 我的爱人，我们从不曾遗忘彼此，你何时能够回到我的身边？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2390990323440f55c5faa1fd995a7d43~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900642&x-signature=Y4K5du0iHu9GWaK0VehdWjkg%2B7s%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2390990323440f55c5faa1fd995a7d43~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984108&x-signature=w3E9zOkUlmxX%2B8giQ%2BC5tg46Fdw%3D",
         "url": "https://fanqienovel.com/page/7665685123857140760"
       },
       {
         "title": "民国佳人",
         "author": "今天断更",
-        "reads": "7407",
+        "reads": "7852",
         "intro": "【双洁・强娶豪夺・先婚后爱・民国乱世・家国大义】 留洋千金 🆚 军阀少将 温知妤是温家四姨太的女儿，在美国求学，日子清净。 直到父亲一封假信，将她骗回故土，拿她做筹码，去换温家在上海的泼天富贵。 她早看透了父亲和大太太的嘴脸，索性将计就计，准备带着亲娘远走高飞。 却不料，一场酒会，她被军阀少将陆时衍盯上了。 他缠着她，追着她，非她不娶。 当山河破碎，日寇入侵，国家飘摇，陆家满门忠烈。 她从没想过，自己会和他同生共死，一起抗日，共赴这乱世烽火……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o004c13a8a593e70244ed6a001088d165~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900642&x-signature=MokVMySzjC0dDdXVT9Tsf0pyIk0%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o004c13a8a593e70244ed6a001088d165~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984108&x-signature=9WmsIU%2BQatgYMoZ2fLx%2Bt%2FHA7%2FQ%3D",
         "url": "https://fanqienovel.com/page/7661079024998812697"
       },
       {
         "title": "错宠，冷面少帅以身赎罪",
         "author": "砚底藏春",
-        "reads": "7355",
+        "reads": "7394",
         "intro": "年上，引导型恋人，年龄差九岁，双洁 少帅，不要！ 求你，不要！” “对不起……” “我会对你负责的。” 沈聿廷浑身燥热灼骨，濒临失控的紧要关头，他残存最后一丝理智猛地回笼。 ...... 他是克己复礼的少帅... 她是怯懦卑微的孤女... 一夜荒唐，尊卑殊途。 他清冷寡淡，克制疏离； 她卑微谨慎，不敢痴心。 可漫漫朝夕，乱世情深。 素来不近人情的少帅，步步沦陷、温柔沉沦。 ...... “阿阮，你是不是嫌我年纪大了。” “沈聿廷，我不要了，我好累啊。”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od25a9c12389f4bf249f2f957b4ebf05b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900642&x-signature=lAGKZUl4yMJ7xCshHugRt5Yd%2BDw%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od25a9c12389f4bf249f2f957b4ebf05b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984108&x-signature=N1mYtIXhBTyGv9HNGZSjga%2BfsxY%3D",
         "url": "https://fanqienovel.com/page/7696128612377840665"
       },
       {
         "title": "换嫁后，狼性少帅夜夜来敲门！",
         "author": "云兮希",
-        "reads": "5895",
+        "reads": "5974",
         "intro": "一睁眼，沈允禾穿成了书中和自己同名同姓的笨蛋美人，被丈夫谢景尧一碗保胎药打掉孩子的现场。 书里，原身又美又笨，和大帅府的二少爷有婚约；原身的嫡姐沈佩瑶和大帅府长子谢景尧有婚约。 沈佩瑶留洋归来的接风宴上，沈允禾和谢景尧同时被下药，被谢沈两家捉奸在床，人证物证都指向原身，是她自导自演给自己和谢景尧下的药。 沈佩瑶在捉奸现场提出解除婚约。 谢大帅提出：换娶换嫁，谢景尧娶沈允禾，二少娶沈佩瑶。 沈家两个女儿同一天嫁进了大帅府，轰动全城。 婚后，原身发现自己怀孕了。怀孕三个多月时，被谢景尧送的一碗保胎药打掉了肚子里的孩子。 原身流产，谢景尧去了前线，活不见人死不见尸。原身，被嫡姐打包卖给敌军头目做军妓，拔枪自尽。 这也太惨了吧！ 沈允禾现在的处境是刚刚流产大出血。 她要想改变剧情，为了离婚保命，沈允禾反套路操作。 可是这男人根本不听话。 沈允禾打他白月光，他递刀。 沈允禾挑拨他们兄弟关系，他点头。 沈允禾一狠心给谢景尧下药，找男人抓把柄，结果怎么把自己给坑进去了？ 沈允禾扶着腰，气急败坏，“谢景尧，你到底什么时候离婚？我不玩了。” 谢景尧轻笑，“不玩怎么生娃？继续。” “……” 沈允禾算是看明白了，这疯批就是一头狼子野心的狼狗。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocd26b52546948adff44384bb7382d3af~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900642&x-signature=kkkdxmbFa5at4cCkGrQ3c1o7%2B0g%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocd26b52546948adff44384bb7382d3af~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984108&x-signature=x%2BEMBlv%2FjYSuoaZJUK7JdHUo%2BoY%3D",
         "url": "https://fanqienovel.com/page/7693474361092607038"
       },
       {
         "title": "老九门之陈皮使用指南",
         "author": "大虎鲸王",
-        "reads": "4644",
+        "reads": "5017",
         "intro": "[身穿+陈皮bg同人+不完美女主] 陈皮味苦、辛，性温。作为一种药食同源的食材，作用良多，但性温燥，并非人人适宜，错误使用可能适得其反，甘遂毫不担心这一点，她幼年时也帮姥姥晒过陈皮泡水喝，对其不能说了解透彻，但是正常使用指南还是熟知的，她觉得橘子全是都是宝，晒干后的陈皮更是个能干的家伙。 这个名叫陈皮的小叫花子和药材陈皮也不逞多让，甘遂觉得当初叫住他简直是赚翻了！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4144c645e14d140b69a8c5a96b27d3b2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900642&x-signature=6P8IOiPbNmlV1mbOt%2FrjCQgfftk%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4144c645e14d140b69a8c5a96b27d3b2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984108&x-signature=yUo%2Fu2uh2X%2B%2FhYGg1mYR%2BsTyfM8%3D",
         "url": "https://fanqienovel.com/page/7695215704382917656"
       },
       {
         "title": "穿越民国，拥有系统的我无敌了",
         "author": "勾栏院",
-        "reads": "4589",
+        "reads": "4742",
         "intro": "【大女主】【无男主】【不嫁人】【只养老己，不养他人】 平行世界，无关历史！平行世界，无关历史！平行世界，无关历史！重要的事情说三遍！！！ 下班回家的牛马苏向晚，在亿万人之中被系统选中，灵魂送去了民国时期，重塑肉身之时，出了意外，从男身变女身。 此时正值1937，七七事变前夕，在系统的帮助下，从宛平，到淞沪，有了主角的蝴蝶翅膀煽动，又会出现怎样的结果…… 拭目以待",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o73aa43eec34b476b27c8307f243abde1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900642&x-signature=%2Fy0XRvt17oVJXfi9tOBgWRppvmg%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o73aa43eec34b476b27c8307f243abde1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984108&x-signature=YbHbhUVYqzZBgzek75EFKdRpXvo%3D",
         "url": "https://fanqienovel.com/page/7678561995536223257"
       },
       {
         "title": "今古传奇之转房，",
         "author": "蝙蝠的眼睛",
-        "reads": "4276",
+        "reads": "4648",
         "intro": "转房，又名转房婚，丈夫死后，寡妇改嫁给亡夫家的男性亲属。 民国三十六年，三弟高云浩投身革命，不久便传来战死沙场的噩耗。 新婚不久的新娘李素云，贤惠能干，舍不得离开公婆，决意守寡一辈子。 高家父母不忍她年纪轻轻独守空房，更不愿她日后外嫁、家产外流，便做主将她转房给了大伯哥高云霆。 三个月里，李素云与高云霆相敬如宾，日子渐渐有了起色。 她以为，命运终于给了她一条安稳的出路。 可就在这时，已经阵亡的高云浩，竟突然活着回来了。 一纸旧俗，两桩婚事，三个被命运困住的人。 从此，老宅里的每一扇门、每一面墙、每一声沉默，都藏着一段禁忌而又尴尬的爱恨情仇。   简介",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o193336c3e6618c5ad9a045816705c53a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900642&x-signature=G2vKanajR%2BaFYnllnpaTxiijhtw%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o193336c3e6618c5ad9a045816705c53a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984108&x-signature=%2BesijI1Jn%2BpeIyMsbT%2Bes4C4LlI%3D",
         "url": "https://fanqienovel.com/page/7647334016424627262"
-      },
-      {
-        "title": "潜伏：烧香晋佛",
-        "author": "李涯的高级内线1",
-        "reads": "3680",
-        "intro": "假如陈秋平没有死 但还是她的姐姐去做了余则成的假太太 假如陈秋平在延安的时候就认识了佛龛冯剑 他们之间会擦出怎样的火花 陈秋平 × 李涯，这两个从未在剧中真正交手的“完美特工” 一个信仰坚定的女同志，与一个同样信仰坚定的敌方卧底，在延安的黄土高坡上相遇，彼此试探、相互吸引、最终不得不刀兵相见。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o96fee97381da640d88f9dad56871ce51~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900646&x-signature=tt9nOLMyD%2BS7EyFjX8tP5VCOT4o%3D",
-        "url": "https://fanqienovel.com/page/7671574539809115198"
       },
       {
         "title": "盗笔：大力出奇迹强制爱理想型",
         "author": "要长高呀",
-        "reads": "3517",
+        "reads": "3620",
         "intro": "「粘人乐观爱演作精入室抢劫的女主+生理性喜欢+CP张起灵」 温知宜死了又活了。 以为是自己死后的臆想，地府给的福利，愣是没想到自己能活，遇上了个哪哪都看顺眼的男人！！ 在她的臆想幻境之中她就是老大，她做主，人生不过须臾，食色性也，人之本色。 遇上了，他就跑不了了。 一句，“美人，你跑不掉了。” 就此中药的张起灵与刚恢复健康想要就要得到的沈知宜命运交织在一起了。 起初的张起灵被小祖宗给缠上。 恨透了那些给他下药的人，这是他的报应。 结婚有什么好处至今没感觉到！！ 变成了小祖宗很爱粘人，特别喜欢把他的身体当滑梯…… 还喜欢亲他，经常糊他一脸口水。 虽然娇气爱作但……有点可爱。 害怕的有很多还爱带他去体验各种新奇的体验。 包括但不限于爱演戏他出门直接上演负心汉抛弃妻子的情节，他有点接不住。 “我怀孕了！！” 张起灵：那个是胃。 山上采蘑菇，虽然吃到了毒蘑菇，但是没关系缓缓还能活…… 沈知宜想体验密室逃脱，张起灵表示小case，随便找个墓就可以体验，结果全程她闭着眼八爪鱼般抱着他，但这样不就没有体验？他不太明白，但他会执行 ooc！！突发奇想的灵感，当清冷孤独小哥遇上入室抢劫般黏人精女主。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o846d5e88d18bc1d8ba50ea7492dd5fdc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900646&x-signature=D3qt2YPkCOoi1QK7K8pZht3sXFk%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o846d5e88d18bc1d8ba50ea7492dd5fdc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984112&x-signature=5DwLoj4qFUvrzMxhVqTWyzAwpK4%3D",
         "url": "https://fanqienovel.com/page/7674592207512275993"
       },
       {
-        "title": "九门：橘子皮他偏为我臣服",
-        "author": "苹果盖",
-        "reads": "3416",
-        "intro": "【九门同人｜私设OOC预警！人物性格、剧情均二次改编，请勿带入原著】 归雁门唐昭禾，一身红衣劲装，腰间悬一对赤红短双刀，是九门之外的第十门。 人人都说陈皮性情乖戾，狠绝难驯，是九门之中惹不起的煞神，本该与她互为死对头。 可那个手握九爪钩、一身戾气的男人，偏偏一次次打破立场，向她俯首。 “旁人如何我不在乎，唯独你，不一样。” 是针锋相对的博弈，也是藏不住的动心。 古墓险局，江湖风波，九门风云翻涌，他甘愿为她，放下一身桀骜。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2occ62089b39d41992acae936e593b9b49~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900646&x-signature=FBY%2FXM9npVeArXguDI2rwos63aI%3D",
-        "url": "https://fanqienovel.com/page/7390592126213442584"
-      },
-      {
-        "title": "空间：民国逃荒，先搬空黑心亲戚",
-        "author": "苒苒淇",
-        "reads": "3336",
-        "intro": "【民国+逃荒+空间种田+囤物资+手撕极品+不圣母】 战火蔓延，沦陷在即，苏晚禾带着能储物保鲜、催熟作物的灵田空间穿到了民国。 本以为最难的是天灾人祸，没想到最毒的是人心。 重男轻女的祖母扣下她的退热药给堂弟，说好带全家渡河的亲三舅，不仅私吞了救命的保工银，卷走了全家仅剩的被褥粮盐，甚至还想用亲爹的命去换他自己的船位！ 苏晚禾冷笑一声：真当老实人好欺负？ 既然你不仁，就别怪我不义。夜探货栈，她用空间把自家被骗走的物资原封不动全部搬空，顺手还拿回了本该属于自家的救命钱。 外头兵荒马乱、物价飞涨，别人吃糠咽菜，苏晚禾在空间里种地囤粮，带着一家老小吃香喝辣，一路反杀极品，逃荒路上风生水起！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o37f043d2f7b973c4134890ce145a3c96~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900646&x-signature=97wfQwc%2BRHix%2Bv6hvG8vB8hycn0%3D",
-        "url": "https://fanqienovel.com/page/7662015515384089625"
-      },
-      {
-        "title": "潜伏：涯畔有春湄",
-        "author": "圆榴榴",
-        "reads": "3055",
-        "intro": "新书已开《综影视：恶女让男神们都沦陷了》主页可看，第二个世界会是李涯。潜伏同人文：李涯自潜伏延安后天津站任职，突然有一天年少时的妹妹找上保密局，说奉了死去的父母之命要来与他成婚……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o46fbd73986fd38128c0b59e3e2e22e7c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900646&x-signature=f5TpnVD5xgL33KqfNSppdaCDK3w%3D",
-        "url": "https://fanqienovel.com/page/7682276377415912510"
+        "title": "潜伏：烧香晋佛",
+        "author": "李涯的高级内线1",
+        "reads": "3588",
+        "intro": "假如陈秋平没有死 但还是她的姐姐去做了余则成的假太太 假如陈秋平在延安的时候就认识了佛龛冯剑 他们之间会擦出怎样的火花 陈秋平 × 李涯，这两个从未在剧中真正交手的“完美特工” 一个信仰坚定的女同志，与一个同样信仰坚定的敌方卧底，在延安的黄土高坡上相遇，彼此试探、相互吸引、最终不得不刀兵相见。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o96fee97381da640d88f9dad56871ce51~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984112&x-signature=3ggxN1onT%2BJvI6iENVKhE%2FoyN%2FM%3D",
+        "url": "https://fanqienovel.com/page/7671574539809115198"
       },
       {
         "title": "蔷薇谍影",
         "author": "拾光六六",
-        "reads": "2799",
+        "reads": "2994",
         "intro": "雾锁民国，苏槿念以身入局，做游走两方的暗棋。 任务要求她提防傅寒声，可危险靠近时，克制的情愫不受控制地燃烧。 信仰是她的枷锁，相爱即是原罪。步步皆是谎言，一瞬即是真心。雨夜一别之后，再无人知晓她面具之下的模样。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7b78863562bfa12f8faaa35274b72156~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900646&x-signature=P29m2g6LMy%2FyJh6PDwPRzuBX9Vs%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7b78863562bfa12f8faaa35274b72156~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984112&x-signature=jjUOXa%2B9n%2FeDNAZ6xvZu84L35q0%3D",
         "url": "https://fanqienovel.com/page/7691362011929660441"
+      },
+      {
+        "title": "九门：橘子皮他偏为我臣服",
+        "author": "苹果盖",
+        "reads": "2840",
+        "intro": "【九门同人｜私设OOC预警！人物性格、剧情均二次改编，请勿带入原著】 归雁门唐昭禾，一身红衣劲装，腰间悬一对赤红短双刀，是九门之外的第十门。 人人都说陈皮性情乖戾，狠绝难驯，是九门之中惹不起的煞神，本该与她互为死对头。 可那个手握九爪钩、一身戾气的男人，偏偏一次次打破立场，向她俯首。 “旁人如何我不在乎，唯独你，不一样。” 是针锋相对的博弈，也是藏不住的动心。 古墓险局，江湖风波，九门风云翻涌，他甘愿为她，放下一身桀骜。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2occ62089b39d41992acae936e593b9b49~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984112&x-signature=00UdnCTtgYNKveghIiwBjruEhCo%3D",
+        "url": "https://fanqienovel.com/page/7390592126213442584"
       },
       {
         "title": "穿越僵尸有空间，鬼子全是功德包",
         "author": "水飞",
-        "reads": "2656",
+        "reads": "2711",
         "intro": "架空！穿越！异形！有空间！功德系统！搞笑！杀鬼子！复仇！ 沈婉婉带着现代商场空间好巧不巧穿越到自己前世被鬼子折磨成僵尸异形的身体里，呜呜呜，自己这是个什么玩意？ 哈！杀鬼子可以积攒功德！有可能变回人？那还说啥，必须杀啊！ 二柱子：姐姐你真帅，就是姿势丑了点！ 少帅：高人果然和正常人不一样，杀起鬼子来残暴是残暴了点，但是怎么就那么爽呢？ 富二代：仙女高人，你看我这人怎么样？ 沈婉婉：不怎么样，都不够我一口撕的！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of377f0a229fa82e321b90e6d415b730a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900646&x-signature=zoZEk5O6%2B3rSRJyelpPrXmFie54%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of377f0a229fa82e321b90e6d415b730a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984112&x-signature=dfRwQe9orjUu7ATzoVI9koR16WQ%3D",
         "url": "https://fanqienovel.com/page/7698187200449481753"
       },
       {
-        "title": "民国：我家崽崽都是千古一帝",
-        "author": "飞行团长",
-        "reads": "2641",
-        "intro": "【母爱拯救+民国+晚年皇帝改造+救赎+各朝代直播】 ------- 大秦，晚年的始皇帝在临死前看到提示【进入1915年，成为婴儿，在母亲庇护下长大】 为了活命，嬴政参与，至于母亲他不屑一顾。 大汉，发起罪己诏的晚年汉武帝看着提示【进入1915年，成为小孩，被母亲收养】 刘彻好奇，这天下何人能做自己的母亲。 1915年，爱国少女魏见星捡到了一群孩子，她并不知道这些孩子灵魂是帝王。 魏见星开始努力拯救这个时代，也成为这些戾气恶龙皇帝的母爱月光。 各朝代文臣武将，难以置信看着民国如何迈步成为一个超级大国！ 若干年后...这些帝王看着新的大国，他们终于明白母亲一生的伟大。 嬴政说：“孤要大秦立满雕像，纪念母亲，历史欠你的，朕还给你。” 刘彻说：“因为母亲，我将重新爱人间。” 刘秀说：“我将把江山送人，让母亲之名永存！” 刘邦说....李世民说...曹操说..刘备说...",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2db43914c75c91833c7fdbc592b5c9a7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900646&x-signature=jWtk1R72LC0%2BKfTR0pi3FlvkYJc%3D",
-        "url": "https://fanqienovel.com/page/7486490074557713470"
+        "title": "潜伏：涯畔有春湄",
+        "author": "圆榴榴",
+        "reads": "2648",
+        "intro": "新书已开《综影视：恶女让男神们都沦陷了》主页可看，第二个世界会是李涯。潜伏同人文：李涯自潜伏延安后天津站任职，突然有一天年少时的妹妹找上保密局，说奉了死去的父母之命要来与他成婚……",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o46fbd73986fd38128c0b59e3e2e22e7c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984112&x-signature=Wo07qFOAkWQBG%2F47YyiqKep8Eh0%3D",
+        "url": "https://fanqienovel.com/page/7682276377415912510"
+      },
+      {
+        "title": "民国烽火：海棠烬欢",
+        "author": "风抚清池",
+        "reads": "2586",
+        "intro": "民国飘摇，新旧交替的乱世，是礼教残存的桎梏，也是星火初生的序章。 沈清棠是金陵落魄世家养出的绝色闺秀，半生恪守女德，温顺克礼，被一纸童年婚约，缚住半生归途。 她的未婚夫傅闻舟，留洋归乡，心怀山河大义。 此身已许国，再难许卿。 他坦荡拒婚，不忍误她终身，亲手为她撕开封建迷雾，告诉她：女子从不是附庸，亦可自由独立，报效家国。 傅晏辞，傅家隐秘蛰伏的幼子，世人皆道他清冷寡言、不近女色。 可无人知晓，初见那日，他望着眉眼温顺、绝色惑人的沈清棠，心底贪念疯长，爱意燎原。 她是他触碰不得的禁忌，是礼教不容的奢望，是他藏在晦暗心底，毕生唯一的执念。 名分桎梏如山，世俗流言如刃。 他隐忍克制，步步蛰伏，藏起满身疯戾与占有欲，只敢暗处护她周全，默默为她扫尽风雨，在无人知晓的角落，沉沦纠缠，极致拉扯。 旧礼困她身心，乱世炼她风骨。 从前的沈清棠，以夫为天，困于深宅方寸。 后来的她，挣脱礼教枷锁，褪去闺秀怯懦，踏过烽火山河，奔赴家国理想，在乱世之中，活成独树一帜的燎原星火。 烽火烬山河，风月缠情深。 一场横跨乱世的禁忌暗恋，一段缱绻克制的极致纠缠。 以余生执念守一人，以赤诚热血护山河。 旧棠经烬火，终得新生，亦得圆满",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1415335f69c481ea4c140309b794bf8a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984112&x-signature=U%2Fjxlf6IqSCR6HV3%2FSMT43Et4M0%3D",
+        "url": "https://fanqienovel.com/page/7694605302250867737"
+      },
+      {
+        "title": "空间：民国逃荒，先搬空黑心亲戚",
+        "author": "苒苒淇",
+        "reads": "2440",
+        "intro": "【民国+逃荒+空间种田+囤物资+手撕极品+不圣母】 战火蔓延，沦陷在即，苏晚禾带着能储物保鲜、催熟作物的灵田空间穿到了民国。 本以为最难的是天灾人祸，没想到最毒的是人心。 重男轻女的祖母扣下她的退热药给堂弟，说好带全家渡河的亲三舅，不仅私吞了救命的保工银，卷走了全家仅剩的被褥粮盐，甚至还想用亲爹的命去换他自己的船位！ 苏晚禾冷笑一声：真当老实人好欺负？ 既然你不仁，就别怪我不义。夜探货栈，她用空间把自家被骗走的物资原封不动全部搬空，顺手还拿回了本该属于自家的救命钱。 外头兵荒马乱、物价飞涨，别人吃糠咽菜，苏晚禾在空间里种地囤粮，带着一家老小吃香喝辣，一路反杀极品，逃荒路上风生水起！",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o37f043d2f7b973c4134890ce145a3c96~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984112&x-signature=xjPREsW4Du2Gws4ILQGeKPtDjQc%3D",
+        "url": "https://fanqienovel.com/page/7662015515384089625"
       },
       {
         "title": "一朝落难，我成为他府四姨太",
         "author": "三月有点暖",
-        "reads": "2606",
+        "reads": "2427",
         "intro": "“等我学成归来，定风风光光娶你。”曾经的诺言犹在耳畔。 一场祸事，苏家大厦倾颓。 为救双亲，苏晚凝坐上素轿，入沪上席府，成了四姨太。 旧爱未归，新情渐生。 可同时，重重算计也扑面而来。 困在深宅里的落魄千金，到底该何去何从？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o42b4652eec93ba3f73390a1963a175ed~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900646&x-signature=E%2B0BEcKMsPmrDCxT0OLpFrT3Ltw%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o42b4652eec93ba3f73390a1963a175ed~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984112&x-signature=1K3yvKmTpTRsxfIwkClnAESIvQc%3D",
         "url": "https://fanqienovel.com/page/7683712438864186392"
       },
       {
         "title": "身穿老九门，恶犬她要贴身驯养",
         "author": "春挽秋",
-        "reads": "2558",
+        "reads": "2348",
         "intro": "（全文完）盗墓衍生CP陈皮非传统女强文 系统 团宠 OOC警告（部分人物有出入），私设较多，介意误入（男主只能爱女主，陈皮江柚为官配） 江柚cp陈皮 道上的二月红突然收下两个徒弟听说还是两个外乡人，里面居然有女子，还认了齐八爷为干亲。 江柚从天而降 陈皮早期:留在身边观察 陈皮呼吸后:想来是上天对我惩恶扬善的奖赏 江柚:“陈皮你别死!我给你一百文你不死好不好?” 陈皮:她想买下我的命和我同生共死。 江柚:呼吸 陈皮:会不会进展有点太快",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofb63d96670019da07c77647d7c919dbc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900646&x-signature=rqbupsJedFM%2F0Mq5sMWZy3cCktA%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofb63d96670019da07c77647d7c919dbc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984112&x-signature=CQHz1M9Y%2FrTX4y7W2Pr9RLNP7%2F8%3D",
         "url": "https://fanqienovel.com/page/7654637620693060633"
       }
     ]
@@ -242,40 +227,25 @@
     {
       "name": "民国言情",
       "trend": {
-        "new_count": 4,
-        "dropped_count": 4,
+        "new_count": 1,
+        "dropped_count": 1,
         "new_books": [
-          "盗墓：疯批陈皮的脆皮茯苓",
-          "错宠，冷面少帅以身赎罪",
-          "蔷薇谍影",
-          "穿越僵尸有空间，鬼子全是功德包"
+          "民国烽火：海棠烬欢"
         ],
         "dropped_books": [
           {
-            "title": "军阀劫，疯批少帅每晚掐腰求名分",
-            "intro": "【残废疯批少帅的病态占有+傲娇千金用钞能力“包养”未来大帅】 督军府义子霍景深，矜贵冷酷，年少掌兵，是北平城人人敬畏的铁血少帅。 银行家千金虞晚，娇纵爱财，自幼与霍景深定有娃娃亲。 霍景深对旁人狠辣果"
-          },
-          {
-            "title": "民国烽火：海棠烬欢",
-            "intro": "民国飘摇，新旧交替的乱世，是礼教残存的桎梏，也是星火初生的序章。 沈清棠是金陵落魄世家养出的绝色闺秀，半生恪守女德，温顺克礼，被一纸童年婚约，缚住半生归途。 她的未婚夫傅闻舟，留洋归乡，心怀山河大义。"
-          },
-          {
-            "title": "夺妻入怀，囚之有道",
-            "intro": "【强取豪夺+先婚后爱+先甜后虐】 双标多疑疏冷少帅&娇软传统世家小姐 陈怨，因为出生母亲就去世了，被父亲视为眼中钉，取名单字一个“怨”。 她循规蹈矩，乖乖地努力做一个乖女儿，想要努力讨取一丝关爱。 她"
-          },
-          {
-            "title": "驭娇鸾",
-            "intro": "[架空背景/非典型he] 矜傲恶毒愚蠢满清遗孤x面冷心黑封建大家长军阀 兵荒马乱，战火纷飞。祝彰云带回了一个女子。 她愚昧，恶毒，守旧。是时代落寞的牺牲品。 祝彰云将她藏在祝公馆深处，让她成为依附于他"
+            "title": "民国：我家崽崽都是千古一帝",
+            "intro": "【母爱拯救+民国+晚年皇帝改造+救赎+各朝代直播】 ------- 大秦，晚年的始皇帝在临死前看到提示【进入1915年，成为婴儿，在母亲庇护下长大】 为了活命，嬴政参与，至于母亲他不屑一顾。 大汉，发"
           }
         ],
         "top_risers": [
           {
-            "title": "今古传奇之转房，",
-            "change": "+4"
+            "title": "蔷薇谍影",
+            "change": "+3"
           },
           {
-            "title": "潜伏：烧香晋佛",
-            "change": "+1"
+            "title": "穿越僵尸有空间，鬼子全是功德包",
+            "change": "+2"
           },
           {
             "title": "盗笔：大力出奇迹强制爱理想型",
@@ -284,49 +254,49 @@
         ],
         "top_fallers": [
           {
-            "title": "潜伏：涯畔有春湄",
-            "change": "-8"
+            "title": "空间：民国逃荒，先搬空黑心亲戚",
+            "change": "-4"
+          },
+          {
+            "title": "潜伏：烧香晋佛",
+            "change": "-1"
           },
           {
             "title": "九门：橘子皮他偏为我臣服",
-            "change": "-3"
-          },
-          {
-            "title": "空间：民国逃荒，先搬空黑心亲戚",
-            "change": "-3"
+            "change": "-1"
           }
         ],
         "reads_growth": [
           {
             "title": "1934：开局一袋精盐",
-            "growth": "+4457"
-          },
-          {
-            "title": "今古传奇之转房，",
-            "growth": "+653"
+            "growth": "+7000"
           },
           {
             "title": "民国佳人",
-            "growth": "+293"
+            "growth": "+445"
+          },
+          {
+            "title": "老九门之陈皮使用指南",
+            "growth": "+373"
           }
         ],
-        "summary": "新增4本上榜；4本掉出（《军阀劫，疯批少帅每晚掐腰求名分》、《民国烽火：海棠烬欢》、《夺妻入怀，囚之有道》、《驭娇鸾》）；《今古传奇之转房，》排名上升+4位；《1934：开局一袋精盐》阅读量+4457。"
+        "summary": "新增1本上榜；1本掉出（《民国：我家崽崽都是千古一帝》）；《蔷薇谍影》排名上升+3位；《1934：开局一袋精盐》阅读量+7000。"
       },
       "books": [
         {
           "title": "绯烬",
           "author": "许清端",
-          "reads": "3.2万",
+          "reads": "3万",
           "intro": "民国鼎新，王朝覆灭，常家失势，弃儒从商，六女皆为联姻棋子。 常依婉在家行五，既不如大姐是嫡长女，备受重视，又不如小妹母亲得势，备受宠爱。 一朝机缘，与军阀世家子弟沈砚衡有了婚约。 沈砚衡身在军阀权门，见惯利益交换，本以为这场婚事不过是寻常的政治博弈，可他看见这个被家族舍弃，温顺内里藏着清醒韧劲的女子，慢慢打破了他原本对婚姻的认知。两人相知相许，穿越烽火，携手并进，在时代的洪流中坚守信仰，最终白头偕老。 小剧场： 常依婉咬了一口他的下巴，以示不满。 “别闹，再闹，我来真的。”沈砚衡本就忍着，经不起撩拨。 常依婉委屈地抽噎了起来。 “我的祖宗，你又怎么了？” 常依婉一个转身，哭道：“男人都是这样，没指望，用得着你的时候就哄啊宠啊的，满足了就做甩手掌柜了，一点也不耐烦！” “我哪有？”沈砚衡凑过去抱她。 常依，拍开他的手，“你前后两副面孔！还不承认。” 沈砚衡笑，起身去捡地上的稠裤，“好好，我去洗。”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe513fb661a4513b268a62c4568d4799a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900642&x-signature=CXOcg%2BT%2FGoTnOdgvWEkPuTKb62A%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe513fb661a4513b268a62c4568d4799a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984108&x-signature=hJhsFXuHDSxN0AQ%2F19mIXjrQDLE%3D",
           "url": "https://fanqienovel.com/page/7687192164593306686"
         },
         {
           "title": "1934：开局一袋精盐",
           "author": "瞒瞒瞒瞒",
-          "reads": "1.3万",
+          "reads": "2万",
           "intro": "标签是错误的！高亮无cp！！！ （种田+基建+团宠+无CP+一起走长征路，女主普通人心软，前辈们慢慢攒的家底她来添砖加瓦） 江晚一睁眼，穿回了1934年的长征路上。 好消息：她绑定了一个系统商城，要什么有什么！大米、猪肉、盘尼西林、步枪、电台。 坏消息：商城不收钱，只收善意值。而她现在，一个都没。 还好，只要做好事、把东西送到别人手里，善意值就会有。 于是，南洋来的\"财神爷\"名扬十里八乡。 穷苦人家开门就能捡到米，战士们顿顿有肉吃，野战医院的盘尼西林比盐还多。 而\"财神爷\"真正的主人，此刻正骑在骡子上，跟着队伍翻雪山、过草地。 她知道历史。 重走这条路，一个都不许丢。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o10d5a0792cf1796aa956356f85fdb3af~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900642&x-signature=TK%2B1jGZabpNApbY6%2FhQJ3pKCCE4%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o10d5a0792cf1796aa956356f85fdb3af~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984108&x-signature=7%2FPvCItSkH0%2B7zI%2BQDA5YAdDG8w%3D",
           "url": "https://fanqienovel.com/page/7693526252581309464"
         },
         {
@@ -334,143 +304,143 @@
           "author": "瑜灰",
           "reads": "1.1万",
           "intro": "【原创女主+万人迷+脆皮+all+玛丽苏+盗墓+穿越+修罗场】 在智力巅峰，体力寒冬的白茯苓一朝穿越到危机四伏的民国乱世。 她虽然是个战力为零的脆皮，好在还继承了一手玄门画符的绝活，就是要偶尔吐吐血。 为了不暴露穿越者身份，她决定在这个戴墨镜的男人面前装哑巴，被拆穿之后男人捏着她的下巴： “嗓子既然没坏，跑之前，怎么不知道叫声好听的来哄哄黑爷？” 谁能告诉她，为什么一开始对她爱答不理的保镖陈皮，现在居然变成了一只护食又黏人的病娇恶犬啊？！ 漆黑的树影下，暴戾的活阎王将她死死抵在树干上，犀利的眼眸里翻涌着压抑的醋意与狂躁。 “我陈皮在你心里，和那些猫猫狗狗没区别了，是不是？！” 翻窗逃跑的白茯苓被抓了个正着，被那位向来克己守礼的张副官狠狠按在怀里。 张副官下巴抵在她发顶，声音哑得不成样子，带着近乎委屈的质问： “跑什么？他对你好，我对你就不好吗？还是说……外面的陈皮，就那么值得你连夜翻窗找他？！” 南洋来的神秘张家狂徒、算尽天机却被牵了正缘的齐八爷…… 白茯苓裹着大衣看着打成一团的九门狠人，瑟瑟发抖： “救命啊！我真的只是个一碰就倒的脆皮小符师！大佬们求求你们别卷了，再卷我又要吐血了啊！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2occ1271d26537235f9e1248a9f3a3ad2a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900642&x-signature=YNb1ApVslEK6CCkoGAT8sYgotf4%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2occ1271d26537235f9e1248a9f3a3ad2a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984108&x-signature=A4M7fnjp7POILGDTy6OXTC3%2FLYo%3D",
           "url": "https://fanqienovel.com/page/7694264029170125886"
         },
         {
           "title": "柏林之外",
           "author": "99个钟头",
-          "reads": "8160",
+          "reads": "8120",
           "intro": "【架空ww2＋中德恋＋求生＋双洁＋世界和平】 排雷：非穿越，女主只是个普通留德女孩，无上帝视角，会胆小会冲动，有虐的部分。 留德女学生×国防军军官（男1）×党卫队军官（男2） 柏林的狂热，波兰的鲜血，巴黎的夜色，北非的陨落，东线的沉寂，毁掉的家庭…战争留下的是无声的泪水。 我的爱人，我们从不曾遗忘彼此，你何时能够回到我的身边？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2390990323440f55c5faa1fd995a7d43~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900642&x-signature=Y4K5du0iHu9GWaK0VehdWjkg%2B7s%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2390990323440f55c5faa1fd995a7d43~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984108&x-signature=w3E9zOkUlmxX%2B8giQ%2BC5tg46Fdw%3D",
           "url": "https://fanqienovel.com/page/7665685123857140760"
         },
         {
           "title": "民国佳人",
           "author": "今天断更",
-          "reads": "7407",
+          "reads": "7852",
           "intro": "【双洁・强娶豪夺・先婚后爱・民国乱世・家国大义】 留洋千金 🆚 军阀少将 温知妤是温家四姨太的女儿，在美国求学，日子清净。 直到父亲一封假信，将她骗回故土，拿她做筹码，去换温家在上海的泼天富贵。 她早看透了父亲和大太太的嘴脸，索性将计就计，准备带着亲娘远走高飞。 却不料，一场酒会，她被军阀少将陆时衍盯上了。 他缠着她，追着她，非她不娶。 当山河破碎，日寇入侵，国家飘摇，陆家满门忠烈。 她从没想过，自己会和他同生共死，一起抗日，共赴这乱世烽火……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o004c13a8a593e70244ed6a001088d165~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900642&x-signature=MokVMySzjC0dDdXVT9Tsf0pyIk0%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o004c13a8a593e70244ed6a001088d165~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984108&x-signature=9WmsIU%2BQatgYMoZ2fLx%2Bt%2FHA7%2FQ%3D",
           "url": "https://fanqienovel.com/page/7661079024998812697"
         },
         {
           "title": "错宠，冷面少帅以身赎罪",
           "author": "砚底藏春",
-          "reads": "7355",
+          "reads": "7394",
           "intro": "年上，引导型恋人，年龄差九岁，双洁 少帅，不要！ 求你，不要！” “对不起……” “我会对你负责的。” 沈聿廷浑身燥热灼骨，濒临失控的紧要关头，他残存最后一丝理智猛地回笼。 ...... 他是克己复礼的少帅... 她是怯懦卑微的孤女... 一夜荒唐，尊卑殊途。 他清冷寡淡，克制疏离； 她卑微谨慎，不敢痴心。 可漫漫朝夕，乱世情深。 素来不近人情的少帅，步步沦陷、温柔沉沦。 ...... “阿阮，你是不是嫌我年纪大了。” “沈聿廷，我不要了，我好累啊。”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od25a9c12389f4bf249f2f957b4ebf05b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900642&x-signature=lAGKZUl4yMJ7xCshHugRt5Yd%2BDw%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od25a9c12389f4bf249f2f957b4ebf05b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984108&x-signature=N1mYtIXhBTyGv9HNGZSjga%2BfsxY%3D",
           "url": "https://fanqienovel.com/page/7696128612377840665"
         },
         {
           "title": "换嫁后，狼性少帅夜夜来敲门！",
           "author": "云兮希",
-          "reads": "5895",
+          "reads": "5974",
           "intro": "一睁眼，沈允禾穿成了书中和自己同名同姓的笨蛋美人，被丈夫谢景尧一碗保胎药打掉孩子的现场。 书里，原身又美又笨，和大帅府的二少爷有婚约；原身的嫡姐沈佩瑶和大帅府长子谢景尧有婚约。 沈佩瑶留洋归来的接风宴上，沈允禾和谢景尧同时被下药，被谢沈两家捉奸在床，人证物证都指向原身，是她自导自演给自己和谢景尧下的药。 沈佩瑶在捉奸现场提出解除婚约。 谢大帅提出：换娶换嫁，谢景尧娶沈允禾，二少娶沈佩瑶。 沈家两个女儿同一天嫁进了大帅府，轰动全城。 婚后，原身发现自己怀孕了。怀孕三个多月时，被谢景尧送的一碗保胎药打掉了肚子里的孩子。 原身流产，谢景尧去了前线，活不见人死不见尸。原身，被嫡姐打包卖给敌军头目做军妓，拔枪自尽。 这也太惨了吧！ 沈允禾现在的处境是刚刚流产大出血。 她要想改变剧情，为了离婚保命，沈允禾反套路操作。 可是这男人根本不听话。 沈允禾打他白月光，他递刀。 沈允禾挑拨他们兄弟关系，他点头。 沈允禾一狠心给谢景尧下药，找男人抓把柄，结果怎么把自己给坑进去了？ 沈允禾扶着腰，气急败坏，“谢景尧，你到底什么时候离婚？我不玩了。” 谢景尧轻笑，“不玩怎么生娃？继续。” “……” 沈允禾算是看明白了，这疯批就是一头狼子野心的狼狗。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocd26b52546948adff44384bb7382d3af~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900642&x-signature=kkkdxmbFa5at4cCkGrQ3c1o7%2B0g%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocd26b52546948adff44384bb7382d3af~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984108&x-signature=x%2BEMBlv%2FjYSuoaZJUK7JdHUo%2BoY%3D",
           "url": "https://fanqienovel.com/page/7693474361092607038"
         },
         {
           "title": "老九门之陈皮使用指南",
           "author": "大虎鲸王",
-          "reads": "4644",
+          "reads": "5017",
           "intro": "[身穿+陈皮bg同人+不完美女主] 陈皮味苦、辛，性温。作为一种药食同源的食材，作用良多，但性温燥，并非人人适宜，错误使用可能适得其反，甘遂毫不担心这一点，她幼年时也帮姥姥晒过陈皮泡水喝，对其不能说了解透彻，但是正常使用指南还是熟知的，她觉得橘子全是都是宝，晒干后的陈皮更是个能干的家伙。 这个名叫陈皮的小叫花子和药材陈皮也不逞多让，甘遂觉得当初叫住他简直是赚翻了！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4144c645e14d140b69a8c5a96b27d3b2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900642&x-signature=6P8IOiPbNmlV1mbOt%2FrjCQgfftk%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4144c645e14d140b69a8c5a96b27d3b2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984108&x-signature=yUo%2Fu2uh2X%2B%2FhYGg1mYR%2BsTyfM8%3D",
           "url": "https://fanqienovel.com/page/7695215704382917656"
         },
         {
           "title": "穿越民国，拥有系统的我无敌了",
           "author": "勾栏院",
-          "reads": "4589",
+          "reads": "4742",
           "intro": "【大女主】【无男主】【不嫁人】【只养老己，不养他人】 平行世界，无关历史！平行世界，无关历史！平行世界，无关历史！重要的事情说三遍！！！ 下班回家的牛马苏向晚，在亿万人之中被系统选中，灵魂送去了民国时期，重塑肉身之时，出了意外，从男身变女身。 此时正值1937，七七事变前夕，在系统的帮助下，从宛平，到淞沪，有了主角的蝴蝶翅膀煽动，又会出现怎样的结果…… 拭目以待",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o73aa43eec34b476b27c8307f243abde1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900642&x-signature=%2Fy0XRvt17oVJXfi9tOBgWRppvmg%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o73aa43eec34b476b27c8307f243abde1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984108&x-signature=YbHbhUVYqzZBgzek75EFKdRpXvo%3D",
           "url": "https://fanqienovel.com/page/7678561995536223257"
         },
         {
           "title": "今古传奇之转房，",
           "author": "蝙蝠的眼睛",
-          "reads": "4276",
+          "reads": "4648",
           "intro": "转房，又名转房婚，丈夫死后，寡妇改嫁给亡夫家的男性亲属。 民国三十六年，三弟高云浩投身革命，不久便传来战死沙场的噩耗。 新婚不久的新娘李素云，贤惠能干，舍不得离开公婆，决意守寡一辈子。 高家父母不忍她年纪轻轻独守空房，更不愿她日后外嫁、家产外流，便做主将她转房给了大伯哥高云霆。 三个月里，李素云与高云霆相敬如宾，日子渐渐有了起色。 她以为，命运终于给了她一条安稳的出路。 可就在这时，已经阵亡的高云浩，竟突然活着回来了。 一纸旧俗，两桩婚事，三个被命运困住的人。 从此，老宅里的每一扇门、每一面墙、每一声沉默，都藏着一段禁忌而又尴尬的爱恨情仇。   简介",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o193336c3e6618c5ad9a045816705c53a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900642&x-signature=G2vKanajR%2BaFYnllnpaTxiijhtw%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o193336c3e6618c5ad9a045816705c53a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984108&x-signature=%2BesijI1Jn%2BpeIyMsbT%2Bes4C4LlI%3D",
           "url": "https://fanqienovel.com/page/7647334016424627262"
-        },
-        {
-          "title": "潜伏：烧香晋佛",
-          "author": "李涯的高级内线1",
-          "reads": "3680",
-          "intro": "假如陈秋平没有死 但还是她的姐姐去做了余则成的假太太 假如陈秋平在延安的时候就认识了佛龛冯剑 他们之间会擦出怎样的火花 陈秋平 × 李涯，这两个从未在剧中真正交手的“完美特工” 一个信仰坚定的女同志，与一个同样信仰坚定的敌方卧底，在延安的黄土高坡上相遇，彼此试探、相互吸引、最终不得不刀兵相见。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o96fee97381da640d88f9dad56871ce51~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900646&x-signature=tt9nOLMyD%2BS7EyFjX8tP5VCOT4o%3D",
-          "url": "https://fanqienovel.com/page/7671574539809115198"
         },
         {
           "title": "盗笔：大力出奇迹强制爱理想型",
           "author": "要长高呀",
-          "reads": "3517",
+          "reads": "3620",
           "intro": "「粘人乐观爱演作精入室抢劫的女主+生理性喜欢+CP张起灵」 温知宜死了又活了。 以为是自己死后的臆想，地府给的福利，愣是没想到自己能活，遇上了个哪哪都看顺眼的男人！！ 在她的臆想幻境之中她就是老大，她做主，人生不过须臾，食色性也，人之本色。 遇上了，他就跑不了了。 一句，“美人，你跑不掉了。” 就此中药的张起灵与刚恢复健康想要就要得到的沈知宜命运交织在一起了。 起初的张起灵被小祖宗给缠上。 恨透了那些给他下药的人，这是他的报应。 结婚有什么好处至今没感觉到！！ 变成了小祖宗很爱粘人，特别喜欢把他的身体当滑梯…… 还喜欢亲他，经常糊他一脸口水。 虽然娇气爱作但……有点可爱。 害怕的有很多还爱带他去体验各种新奇的体验。 包括但不限于爱演戏他出门直接上演负心汉抛弃妻子的情节，他有点接不住。 “我怀孕了！！” 张起灵：那个是胃。 山上采蘑菇，虽然吃到了毒蘑菇，但是没关系缓缓还能活…… 沈知宜想体验密室逃脱，张起灵表示小case，随便找个墓就可以体验，结果全程她闭着眼八爪鱼般抱着他，但这样不就没有体验？他不太明白，但他会执行 ooc！！突发奇想的灵感，当清冷孤独小哥遇上入室抢劫般黏人精女主。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o846d5e88d18bc1d8ba50ea7492dd5fdc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900646&x-signature=D3qt2YPkCOoi1QK7K8pZht3sXFk%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o846d5e88d18bc1d8ba50ea7492dd5fdc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984112&x-signature=5DwLoj4qFUvrzMxhVqTWyzAwpK4%3D",
           "url": "https://fanqienovel.com/page/7674592207512275993"
         },
         {
-          "title": "九门：橘子皮他偏为我臣服",
-          "author": "苹果盖",
-          "reads": "3416",
-          "intro": "【九门同人｜私设OOC预警！人物性格、剧情均二次改编，请勿带入原著】 归雁门唐昭禾，一身红衣劲装，腰间悬一对赤红短双刀，是九门之外的第十门。 人人都说陈皮性情乖戾，狠绝难驯，是九门之中惹不起的煞神，本该与她互为死对头。 可那个手握九爪钩、一身戾气的男人，偏偏一次次打破立场，向她俯首。 “旁人如何我不在乎，唯独你，不一样。” 是针锋相对的博弈，也是藏不住的动心。 古墓险局，江湖风波，九门风云翻涌，他甘愿为她，放下一身桀骜。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2occ62089b39d41992acae936e593b9b49~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900646&x-signature=FBY%2FXM9npVeArXguDI2rwos63aI%3D",
-          "url": "https://fanqienovel.com/page/7390592126213442584"
-        },
-        {
-          "title": "空间：民国逃荒，先搬空黑心亲戚",
-          "author": "苒苒淇",
-          "reads": "3336",
-          "intro": "【民国+逃荒+空间种田+囤物资+手撕极品+不圣母】 战火蔓延，沦陷在即，苏晚禾带着能储物保鲜、催熟作物的灵田空间穿到了民国。 本以为最难的是天灾人祸，没想到最毒的是人心。 重男轻女的祖母扣下她的退热药给堂弟，说好带全家渡河的亲三舅，不仅私吞了救命的保工银，卷走了全家仅剩的被褥粮盐，甚至还想用亲爹的命去换他自己的船位！ 苏晚禾冷笑一声：真当老实人好欺负？ 既然你不仁，就别怪我不义。夜探货栈，她用空间把自家被骗走的物资原封不动全部搬空，顺手还拿回了本该属于自家的救命钱。 外头兵荒马乱、物价飞涨，别人吃糠咽菜，苏晚禾在空间里种地囤粮，带着一家老小吃香喝辣，一路反杀极品，逃荒路上风生水起！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o37f043d2f7b973c4134890ce145a3c96~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900646&x-signature=97wfQwc%2BRHix%2Bv6hvG8vB8hycn0%3D",
-          "url": "https://fanqienovel.com/page/7662015515384089625"
-        },
-        {
-          "title": "潜伏：涯畔有春湄",
-          "author": "圆榴榴",
-          "reads": "3055",
-          "intro": "新书已开《综影视：恶女让男神们都沦陷了》主页可看，第二个世界会是李涯。潜伏同人文：李涯自潜伏延安后天津站任职，突然有一天年少时的妹妹找上保密局，说奉了死去的父母之命要来与他成婚……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o46fbd73986fd38128c0b59e3e2e22e7c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900646&x-signature=f5TpnVD5xgL33KqfNSppdaCDK3w%3D",
-          "url": "https://fanqienovel.com/page/7682276377415912510"
+          "title": "潜伏：烧香晋佛",
+          "author": "李涯的高级内线1",
+          "reads": "3588",
+          "intro": "假如陈秋平没有死 但还是她的姐姐去做了余则成的假太太 假如陈秋平在延安的时候就认识了佛龛冯剑 他们之间会擦出怎样的火花 陈秋平 × 李涯，这两个从未在剧中真正交手的“完美特工” 一个信仰坚定的女同志，与一个同样信仰坚定的敌方卧底，在延安的黄土高坡上相遇，彼此试探、相互吸引、最终不得不刀兵相见。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o96fee97381da640d88f9dad56871ce51~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984112&x-signature=3ggxN1onT%2BJvI6iENVKhE%2FoyN%2FM%3D",
+          "url": "https://fanqienovel.com/page/7671574539809115198"
         },
         {
           "title": "蔷薇谍影",
           "author": "拾光六六",
-          "reads": "2799",
+          "reads": "2994",
           "intro": "雾锁民国，苏槿念以身入局，做游走两方的暗棋。 任务要求她提防傅寒声，可危险靠近时，克制的情愫不受控制地燃烧。 信仰是她的枷锁，相爱即是原罪。步步皆是谎言，一瞬即是真心。雨夜一别之后，再无人知晓她面具之下的模样。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7b78863562bfa12f8faaa35274b72156~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900646&x-signature=P29m2g6LMy%2FyJh6PDwPRzuBX9Vs%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7b78863562bfa12f8faaa35274b72156~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984112&x-signature=jjUOXa%2B9n%2FeDNAZ6xvZu84L35q0%3D",
           "url": "https://fanqienovel.com/page/7691362011929660441"
+        },
+        {
+          "title": "九门：橘子皮他偏为我臣服",
+          "author": "苹果盖",
+          "reads": "2840",
+          "intro": "【九门同人｜私设OOC预警！人物性格、剧情均二次改编，请勿带入原著】 归雁门唐昭禾，一身红衣劲装，腰间悬一对赤红短双刀，是九门之外的第十门。 人人都说陈皮性情乖戾，狠绝难驯，是九门之中惹不起的煞神，本该与她互为死对头。 可那个手握九爪钩、一身戾气的男人，偏偏一次次打破立场，向她俯首。 “旁人如何我不在乎，唯独你，不一样。” 是针锋相对的博弈，也是藏不住的动心。 古墓险局，江湖风波，九门风云翻涌，他甘愿为她，放下一身桀骜。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2occ62089b39d41992acae936e593b9b49~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984112&x-signature=00UdnCTtgYNKveghIiwBjruEhCo%3D",
+          "url": "https://fanqienovel.com/page/7390592126213442584"
         },
         {
           "title": "穿越僵尸有空间，鬼子全是功德包",
           "author": "水飞",
-          "reads": "2656",
+          "reads": "2711",
           "intro": "架空！穿越！异形！有空间！功德系统！搞笑！杀鬼子！复仇！ 沈婉婉带着现代商场空间好巧不巧穿越到自己前世被鬼子折磨成僵尸异形的身体里，呜呜呜，自己这是个什么玩意？ 哈！杀鬼子可以积攒功德！有可能变回人？那还说啥，必须杀啊！ 二柱子：姐姐你真帅，就是姿势丑了点！ 少帅：高人果然和正常人不一样，杀起鬼子来残暴是残暴了点，但是怎么就那么爽呢？ 富二代：仙女高人，你看我这人怎么样？ 沈婉婉：不怎么样，都不够我一口撕的！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of377f0a229fa82e321b90e6d415b730a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900646&x-signature=zoZEk5O6%2B3rSRJyelpPrXmFie54%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of377f0a229fa82e321b90e6d415b730a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984112&x-signature=dfRwQe9orjUu7ATzoVI9koR16WQ%3D",
           "url": "https://fanqienovel.com/page/7698187200449481753"
         },
         {
-          "title": "民国：我家崽崽都是千古一帝",
-          "author": "飞行团长",
-          "reads": "2641",
-          "intro": "【母爱拯救+民国+晚年皇帝改造+救赎+各朝代直播】 ------- 大秦，晚年的始皇帝在临死前看到提示【进入1915年，成为婴儿，在母亲庇护下长大】 为了活命，嬴政参与，至于母亲他不屑一顾。 大汉，发起罪己诏的晚年汉武帝看着提示【进入1915年，成为小孩，被母亲收养】 刘彻好奇，这天下何人能做自己的母亲。 1915年，爱国少女魏见星捡到了一群孩子，她并不知道这些孩子灵魂是帝王。 魏见星开始努力拯救这个时代，也成为这些戾气恶龙皇帝的母爱月光。 各朝代文臣武将，难以置信看着民国如何迈步成为一个超级大国！ 若干年后...这些帝王看着新的大国，他们终于明白母亲一生的伟大。 嬴政说：“孤要大秦立满雕像，纪念母亲，历史欠你的，朕还给你。” 刘彻说：“因为母亲，我将重新爱人间。” 刘秀说：“我将把江山送人，让母亲之名永存！” 刘邦说....李世民说...曹操说..刘备说...",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2db43914c75c91833c7fdbc592b5c9a7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900646&x-signature=jWtk1R72LC0%2BKfTR0pi3FlvkYJc%3D",
-          "url": "https://fanqienovel.com/page/7486490074557713470"
+          "title": "潜伏：涯畔有春湄",
+          "author": "圆榴榴",
+          "reads": "2648",
+          "intro": "新书已开《综影视：恶女让男神们都沦陷了》主页可看，第二个世界会是李涯。潜伏同人文：李涯自潜伏延安后天津站任职，突然有一天年少时的妹妹找上保密局，说奉了死去的父母之命要来与他成婚……",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o46fbd73986fd38128c0b59e3e2e22e7c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984112&x-signature=Wo07qFOAkWQBG%2F47YyiqKep8Eh0%3D",
+          "url": "https://fanqienovel.com/page/7682276377415912510"
+        },
+        {
+          "title": "民国烽火：海棠烬欢",
+          "author": "风抚清池",
+          "reads": "2586",
+          "intro": "民国飘摇，新旧交替的乱世，是礼教残存的桎梏，也是星火初生的序章。 沈清棠是金陵落魄世家养出的绝色闺秀，半生恪守女德，温顺克礼，被一纸童年婚约，缚住半生归途。 她的未婚夫傅闻舟，留洋归乡，心怀山河大义。 此身已许国，再难许卿。 他坦荡拒婚，不忍误她终身，亲手为她撕开封建迷雾，告诉她：女子从不是附庸，亦可自由独立，报效家国。 傅晏辞，傅家隐秘蛰伏的幼子，世人皆道他清冷寡言、不近女色。 可无人知晓，初见那日，他望着眉眼温顺、绝色惑人的沈清棠，心底贪念疯长，爱意燎原。 她是他触碰不得的禁忌，是礼教不容的奢望，是他藏在晦暗心底，毕生唯一的执念。 名分桎梏如山，世俗流言如刃。 他隐忍克制，步步蛰伏，藏起满身疯戾与占有欲，只敢暗处护她周全，默默为她扫尽风雨，在无人知晓的角落，沉沦纠缠，极致拉扯。 旧礼困她身心，乱世炼她风骨。 从前的沈清棠，以夫为天，困于深宅方寸。 后来的她，挣脱礼教枷锁，褪去闺秀怯懦，踏过烽火山河，奔赴家国理想，在乱世之中，活成独树一帜的燎原星火。 烽火烬山河，风月缠情深。 一场横跨乱世的禁忌暗恋，一段缱绻克制的极致纠缠。 以余生执念守一人，以赤诚热血护山河。 旧棠经烬火，终得新生，亦得圆满",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1415335f69c481ea4c140309b794bf8a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984112&x-signature=U%2Fjxlf6IqSCR6HV3%2FSMT43Et4M0%3D",
+          "url": "https://fanqienovel.com/page/7694605302250867737"
+        },
+        {
+          "title": "空间：民国逃荒，先搬空黑心亲戚",
+          "author": "苒苒淇",
+          "reads": "2440",
+          "intro": "【民国+逃荒+空间种田+囤物资+手撕极品+不圣母】 战火蔓延，沦陷在即，苏晚禾带着能储物保鲜、催熟作物的灵田空间穿到了民国。 本以为最难的是天灾人祸，没想到最毒的是人心。 重男轻女的祖母扣下她的退热药给堂弟，说好带全家渡河的亲三舅，不仅私吞了救命的保工银，卷走了全家仅剩的被褥粮盐，甚至还想用亲爹的命去换他自己的船位！ 苏晚禾冷笑一声：真当老实人好欺负？ 既然你不仁，就别怪我不义。夜探货栈，她用空间把自家被骗走的物资原封不动全部搬空，顺手还拿回了本该属于自家的救命钱。 外头兵荒马乱、物价飞涨，别人吃糠咽菜，苏晚禾在空间里种地囤粮，带着一家老小吃香喝辣，一路反杀极品，逃荒路上风生水起！",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o37f043d2f7b973c4134890ce145a3c96~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984112&x-signature=xjPREsW4Du2Gws4ILQGeKPtDjQc%3D",
+          "url": "https://fanqienovel.com/page/7662015515384089625"
         },
         {
           "title": "一朝落难，我成为他府四姨太",
           "author": "三月有点暖",
-          "reads": "2606",
+          "reads": "2427",
           "intro": "“等我学成归来，定风风光光娶你。”曾经的诺言犹在耳畔。 一场祸事，苏家大厦倾颓。 为救双亲，苏晚凝坐上素轿，入沪上席府，成了四姨太。 旧爱未归，新情渐生。 可同时，重重算计也扑面而来。 困在深宅里的落魄千金，到底该何去何从？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o42b4652eec93ba3f73390a1963a175ed~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900646&x-signature=E%2B0BEcKMsPmrDCxT0OLpFrT3Ltw%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o42b4652eec93ba3f73390a1963a175ed~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984112&x-signature=1K3yvKmTpTRsxfIwkClnAESIvQc%3D",
           "url": "https://fanqienovel.com/page/7683712438864186392"
         },
         {
           "title": "身穿老九门，恶犬她要贴身驯养",
           "author": "春挽秋",
-          "reads": "2558",
+          "reads": "2348",
           "intro": "（全文完）盗墓衍生CP陈皮非传统女强文 系统 团宠 OOC警告（部分人物有出入），私设较多，介意误入（男主只能爱女主，陈皮江柚为官配） 江柚cp陈皮 道上的二月红突然收下两个徒弟听说还是两个外乡人，里面居然有女子，还认了齐八爷为干亲。 江柚从天而降 陈皮早期:留在身边观察 陈皮呼吸后:想来是上天对我惩恶扬善的奖赏 江柚:“陈皮你别死!我给你一百文你不死好不好?” 陈皮:她想买下我的命和我同生共死。 江柚:呼吸 陈皮:会不会进展有点太快",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofb63d96670019da07c77647d7c919dbc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794900646&x-signature=rqbupsJedFM%2F0Mq5sMWZy3cCktA%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofb63d96670019da07c77647d7c919dbc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1794984112&x-signature=CQHz1M9Y%2FrTX4y7W2Pr9RLNP7%2F8%3D",
           "url": "https://fanqienovel.com/page/7654637620693060633"
         }
       ]

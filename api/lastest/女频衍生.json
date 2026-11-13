@@ -1,218 +1,225 @@
 {
   "type": "女频衍生",
-  "date": "2026-11-12",
-  "prev_date": "2026-11-11",
+  "date": "2026-11-13",
+  "prev_date": "2026-11-12",
   "category": {
     "name": "女频衍生",
     "trend": {
-      "new_count": 0,
-      "dropped_count": 0,
-      "new_books": [],
-      "dropped_books": [],
+      "new_count": 1,
+      "dropped_count": 1,
+      "new_books": [
+        "被屁杀死后我在甄嬛传认真宫斗"
+      ],
+      "dropped_books": [
+        {
+          "title": "当雍正穿进甄嬛传绑定宠妃系统",
+          "intro": "雍正帝驾崩之后，一睁眼却发现自己带着全部记忆转世到了二十一世纪。 他看着那部叫作《甄嬛传》的下饭剧，嘴角抽了又抽。 那个被女人耍得团团转、动不动就被戴绿帽子的蠢皇帝，是他？ 我在位十三年，整顿吏治、摊"
+        }
+      ],
       "top_risers": [
         {
           "title": "综影视：画入尘缘",
-          "change": "+6"
-        },
-        {
-          "title": "你说霍格沃茨又来一个邓布利多？",
           "change": "+3"
         },
         {
-          "title": "综影视之从灵魂摆渡开始",
+          "title": "综影视：意外频出，但功德不断",
+          "change": "+3"
+        },
+        {
+          "title": "斩神：NPC别怕！玩家来啦！",
           "change": "+2"
         }
       ],
       "top_fallers": [
         {
+          "title": "综穿：穿成垫脚石后我干翻全世界",
+          "change": "-4"
+        },
+        {
           "title": "宜修重生天崩开局，看我逆转乾坤",
-          "change": "-5"
+          "change": "-3"
         },
         {
-          "title": "当雍正穿进甄嬛传绑定宠妃系统",
-          "change": "-5"
-        },
-        {
-          "title": "怕什么？我夫君可是哪吒三太子",
+          "title": "综影视：恶女她天生尤物",
           "change": "-2"
         }
       ],
       "reads_growth": [
         {
           "title": "王漫妮重生！这世她要做捞女",
-          "growth": "+2.6万"
+          "growth": "+5.0万"
         },
         {
           "title": "综影视：画入尘缘",
           "growth": "+5000"
         },
         {
-          "title": "综影视：过好自己的人生",
+          "title": "综影视之从灵魂摆渡开始",
           "growth": "+4000"
         }
       ],
-      "summary": "《综影视：画入尘缘》排名上升+6位；《王漫妮重生！这世她要做捞女》阅读量+2.6万。"
+      "summary": "新增1本上榜；1本掉出（《当雍正穿进甄嬛传绑定宠妃系统》）；《综影视：画入尘缘》排名上升+3位；《王漫妮重生！这世她要做捞女》阅读量+5.0万。"
     },
     "books": [
       {
         "title": "王漫妮重生！这世她要做捞女",
         "author": "豆米和安卿",
-        "reads": "20.9万",
+        "reads": "25.9万",
         "intro": "王漫妮重回一世后，她想通了，有现成的钱的为何不赚?何必那么清高拧巴呢，拿到手上的才是真的，所以这世她要做捞女多多捞钱",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4093f25663b52db0233085ba21031b87~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072857&x-signature=D6Rpg93bGO9Koh1gQzTu9sipaxU%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4093f25663b52db0233085ba21031b87~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157701&x-signature=wjvdjqV3gWVvwnTFBFuofjMirX4%3D",
         "url": "https://fanqienovel.com/page/7689406731931094078"
       },
       {
         "title": "综影视：过好自己的人生",
         "author": "花开又有时",
-        "reads": "11万",
+        "reads": "10.9万",
         "intro": "沪市普通打工人白苏，在新开的大型仓储会员店内遇上高层货架意外倒塌，为救人不幸被砸中身亡。因救人功德，她被快穿局影视部特招为任务者，专属随身空间复刻了整座商超，生鲜百货一应俱全，货品每月自动补满。带着满仓物资穿梭各个影视世界，她替原主完成遗愿，在不同人生里稳扎稳打，把日子过得风生水起。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of3b8fb8b95e6e1f8688eba3cd32e775d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072857&x-signature=A9wxAopiG9u57cSm48Pvd%2BcvRGw%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of3b8fb8b95e6e1f8688eba3cd32e775d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157701&x-signature=TD8o4SYNNcD%2BovikAqgl9lnPod4%3D",
         "url": "https://fanqienovel.com/page/7671026616268508185"
       },
       {
         "title": "综影视：惊！美疯惨成团宠万人迷",
         "author": "爱吃醋焖鲤鱼的白须",
-        "reads": "6.6万",
+        "reads": "6.7万",
         "intro": "【纯爽文，恶毒反派死不悔改，团宠万人迷，绝美】 众所周知，影视剧里有很多“美疯惨”配角，他们坏，他们疯，但他们又实在美丽。 不满剧情的他们，怨念冲破三千小世界的次元壁。 可谁来告诉他，为什么每个世界“美疯惨”那么恶劣，那么法制咖，那么不是东西，那么胆子肥嘟嘟，却偏偏成了团宠万人迷。 （主角、配角、路人都想给他当“汪汪”……） 【不一定按顺序写】 1.少歌+暗河传：萧羽 （想当本王的狗，你还不配） 2.莲花楼：李莲花（黑化吧李相夷！区区碧茶之毒，又怎么能困的住我相夷太剑）平行时空的李莲花 3.盗笔+九门： 陈皮 （盗笔还可能会写，黎簇……） 4.庆余年： 李承泽 5.陈情令： 温晁 （陈情令还可能写，聂怀桑……） 6.香蜜 ： 润玉 7.暗河传： 苏昌河 （暗河传还可能写，苏暮雨，慕白，慕词陵……） …… 【综影视同人，可能会ooc，介意勿扰。】",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of9906d21ed8bcf2c9c883937586e0f3f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072857&x-signature=bXpcvJBJFtYac5KB1Q4w77POjnM%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of9906d21ed8bcf2c9c883937586e0f3f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157701&x-signature=QIhoH%2Bb40dOjQHAYVrqtyIhHFaM%3D",
         "url": "https://fanqienovel.com/page/7690573311301930009"
       },
       {
         "title": "嫁金钗：黛娆双生，并蒂花开",
         "author": "籽籽晴",
-        "reads": "5.1万",
+        "reads": "5.3万",
         "intro": "君黛和魏娆双生姐妹，并蒂花开，一个性情乖张，天生坏种。一个腹黑算计，步步为营。两个大眼魔丸搅弄风云。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9b3181b8e80ee119186be983f6179c12~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072857&x-signature=fp04S3mmCqCwxByBAdmmvwy%2BKrI%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9b3181b8e80ee119186be983f6179c12~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157701&x-signature=Pq1aQfdJK8Ql35xKDATwVPTn3kg%3D",
         "url": "https://fanqienovel.com/page/7700418060863163417"
-      },
-      {
-        "title": "不顾他人死活的综穿之旅",
-        "author": "健忘的李哥",
-        "reads": "4.7万",
-        "intro": "评分刚开！！！会涨的！！！ 新作品出炉，欢迎大家前往番茄小说阅读我的作品，希望大家能够喜欢，你们的关注是我写作的动力，我会努力讲好每个故事！ 作者精神状态美丽，主角比较癫，喜欢创死不喜欢的角色。 二十一世纪的安安穿越到各个世界弥补主角遗憾，包括不限于清穿，综影视。主角无cp或者男宠多人（亲妈，不虐女儿）有一些如果一个cp那就是工具人没有存在感的。 1.佟佳宝珠（完结） 2.王若弗（完结） 3.弘历（完结） 4.如兰",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob484fac53b2abe905a5ab0cd9db46d1c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072857&x-signature=8ItS%2F9c1bG9uckzWvauEvzThgvE%3D",
-        "url": "https://fanqienovel.com/page/7675864894368910398"
       },
       {
         "title": "综影视白莲净世",
         "author": "三人未书",
-        "reads": "4.6万",
+        "reads": "4.9万",
         "intro": "洪荒伊始，混沌之初。 盘古开天地，混沌青莲化作众多莲台灵宝。 唯独只有一朵净世白莲觉醒灵智，化形而出。有幸拜得太清为师，得混沌珠。 凭借混沌珠到三千小世界赚取功德气运，最终成圣。万法不侵，万世不灭。 号莲宸道君。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc46bd547515215d94aa3eee86f80a8d2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072857&x-signature=%2BfqKpBX%2BZCqZJKbnaOp2Qt8uJvE%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc46bd547515215d94aa3eee86f80a8d2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157701&x-signature=Yd8rg8lFzUpSz36EhaaRjr3ztHo%3D",
         "url": "https://fanqienovel.com/page/7619203571396906009"
+      },
+      {
+        "title": "不顾他人死活的综穿之旅",
+        "author": "健忘的李哥",
+        "reads": "4.8万",
+        "intro": "评分刚开！！！会涨的！！！ 新作品出炉，欢迎大家前往番茄小说阅读我的作品，希望大家能够喜欢，你们的关注是我写作的动力，我会努力讲好每个故事！ 作者精神状态美丽，主角比较癫，喜欢创死不喜欢的角色。 二十一世纪的安安穿越到各个世界弥补主角遗憾，包括不限于清穿，综影视。主角无cp或者男宠多人（亲妈，不虐女儿）有一些如果一个cp那就是工具人没有存在感的。 1.佟佳宝珠（完结） 2.王若弗（完结） 3.弘历（完结） 4.如兰",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob484fac53b2abe905a5ab0cd9db46d1c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157701&x-signature=3btXErxHGtlejkzSLJjN3TbBESA%3D",
+        "url": "https://fanqienovel.com/page/7675864894368910398"
+      },
+      {
+        "title": "穿进西游后，我在天庭当富婆",
+        "author": "沈知月",
+        "reads": "4.6万",
+        "intro": "【女主cp哪吒+很多很多私设+非女强+ooc警告！】 连续加班一个月，赵宝珠猝死了。 猝死前她还在想：希望再睁眼能够听到父亲老钱般的笑声。 老天像是听见了她的愿望。 再睁眼，她成了财神赵公明养的一株芍药花。 赵宝珠：坏了，这位是真老钱！ 化形后的赵宝珠被财神爷认作亲闺女。 亲爹砸钱，师叔宠，就连通天教主都把她当眼珠子护。 拥有强硬后台的赵宝珠没事骚扰骚扰哪吒，看望看望孙悟空，日子过的美滋滋。 ...... 哪吒从没想过会有胆子这么大的女仙往自己身边凑，还时不时地调戏他两句，他渐渐习惯了这个声音，后来对这个小女仙上了心。 再后来，发现她满眼崇拜地看着那个死猴子。 哪吒：呵，渣女！ 有钱且咸鱼小仙女vs原高冷现醋精哪吒 (不会修复哪吒跟李靖的关系，并且会狠狠黑李靖！)",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of44a7b926cbe429d017ca6e63c32df8d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157701&x-signature=%2BBmnrqyYIp27adpcE%2FFbf0nPJBs%3D",
+        "url": "https://fanqienovel.com/page/7695378514614176793"
+      },
+      {
+        "title": "综影视之从灵魂摆渡开始",
+        "author": "爱吃榴莲塔",
+        "reads": "4.4万",
+        "intro": "不知归处，只知来路…… 她是始皇陛下最宠爱的女儿，嬴姓赵氏嬴阴嫚，那日她死了，可又活了，从那以后，她便是从坟墓中爬出来的恶鬼，魂魄混沌时，好像听到了阿父的声音，他想要她好好活着。 “阿父，别离开我！！” “儿啊，莫怕，好好替阿父看看这个世界。” 嬴阴嫚，不，她名烬凰，凤凰泥槃，浴火重生之意。 阿父让她成为了不生不死，不灭不伤之人，浑浑噩噩的活着，独自一人生活了几千年，见证过战乱，见证过短暂的和平，一直活到了科技蓬勃发展的现代。 她好像找到了阿父让她好好看看的世界，“阿父，我看到了。” 直到有一天，这个世界好像再也容不下她了，那就走吧，该去看看其他的世界…… （长生种，男主可有可无吧，主要是看你们，要是有男主的话，那就是1v1，双洁，有些设定还是比较坚持自我的，嘿嘿。 PS：相同世界来回穿的话，都当成新的世界重新开始，不然有的设定就会被框住，希望宝子们理解一下。）",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o893fbc80ac85086d8c28d6ca363e5613~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157701&x-signature=YTip6AbnvxlXRkU%2F1VJMK8Smt8A%3D",
+        "url": "https://fanqienovel.com/page/7692678777750424600"
       },
       {
         "title": "综影视：恶女她天生尤物",
         "author": "懒癌晚期怎么办",
         "reads": "4.3万",
         "intro": "评分终于出来了 感天动地【女主绝美+勾引上位无三观+虐原女主+私设如山+包甜】 【三观一扔，主打一个爽，接受不了这种别看哦，不要上升作者。】 阮玉本是集天地之灵孕育而生，存于六界之外，不死不灭的上神，谁知被天道那老阴比摆了一道，神魂被强行烙上了契约的印记。 成为了时空管理局的牛马。 在小世界里一切因她而产生的种种情绪恶念都会变成滋补她的养料，而爱意更是大补。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/c53c34477ddf10106f0ea92350eb5297~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072857&x-signature=nbsgXith0yTgJ9xwKXrn1PY4PSg%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/c53c34477ddf10106f0ea92350eb5297~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157701&x-signature=XhiaqDMusuvN0yR7cAPsMoARwv8%3D",
         "url": "https://fanqienovel.com/page/7601689574498110489"
-      },
-      {
-        "title": "穿进西游后，我在天庭当富婆",
-        "author": "沈知月",
-        "reads": "4.3万",
-        "intro": "【女主cp哪吒+很多很多私设+非女强+ooc警告！】 连续加班一个月，赵宝珠猝死了。 猝死前她还在想：希望再睁眼能够听到父亲老钱般的笑声。 老天像是听见了她的愿望。 再睁眼，她成了财神赵公明养的一株芍药花。 赵宝珠：坏了，这位是真老钱！ 化形后的赵宝珠被财神爷认作亲闺女。 亲爹砸钱，师叔宠，就连通天教主都把她当眼珠子护。 拥有强硬后台的赵宝珠没事骚扰骚扰哪吒，看望看望孙悟空，日子过的美滋滋。 ...... 哪吒从没想过会有胆子这么大的女仙往自己身边凑，还时不时地调戏他两句，他渐渐习惯了这个声音，后来对这个小女仙上了心。 再后来，发现她满眼崇拜地看着那个死猴子。 哪吒：呵，渣女！ 有钱且咸鱼小仙女vs原高冷现醋精哪吒 (不会修复哪吒跟李靖的关系，并且会狠狠黑李靖！)",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of44a7b926cbe429d017ca6e63c32df8d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072857&x-signature=FvoAeoQpcQ461wv9sXi%2Bf5St4eI%3D",
-        "url": "https://fanqienovel.com/page/7695378514614176793"
-      },
-      {
-        "title": "综影视之从灵魂摆渡开始",
-        "author": "爱吃榴莲塔",
-        "reads": "4万",
-        "intro": "不知归处，只知来路…… 她是始皇陛下最宠爱的女儿，嬴姓赵氏嬴阴嫚，那日她死了，可又活了，从那以后，她便是从坟墓中爬出来的恶鬼，魂魄混沌时，好像听到了阿父的声音，他想要她好好活着。 “阿父，别离开我！！” “儿啊，莫怕，好好替阿父看看这个世界。” 嬴阴嫚，不，她名烬凰，凤凰泥槃，浴火重生之意。 阿父让她成为了不生不死，不灭不伤之人，浑浑噩噩的活着，独自一人生活了几千年，见证过战乱，见证过短暂的和平，一直活到了科技蓬勃发展的现代。 她好像找到了阿父让她好好看看的世界，“阿父，我看到了。” 直到有一天，这个世界好像再也容不下她了，那就走吧，该去看看其他的世界…… （长生种，男主可有可无吧，主要是看你们，要是有男主的话，那就是1v1，双洁，有些设定还是比较坚持自我的，嘿嘿。 PS：相同世界来回穿的话，都当成新的世界重新开始，不然有的设定就会被框住，希望宝子们理解一下。）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o893fbc80ac85086d8c28d6ca363e5613~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072857&x-signature=R3gfiUCMwksqEK1uLVnSCIJ2lP8%3D",
-        "url": "https://fanqienovel.com/page/7692678777750424600"
-      },
-      {
-        "title": "综穿：穿成垫脚石后我干翻全世界",
-        "author": "思北洲",
-        "reads": "3.7万",
-        "intro": "谢行听说自己是仙侠剧中集深情男二、邪魅反派、终极舔狗、幕后大boss为一体的复杂合成体，修炼魔界邪门功法被天雷劈死之后，他被一个狗比系统绑定，让他一路老老实实的做垫脚石给别人踩…… 呵，被踩…… 不好意思，他最擅长干翻全世界。 1、甄嬛传—雍正『撕烂头顶的绿帽子』 2、如懿传—乾隆『整治紫禁城懿症学院』 3、八阿哥—胤禩『大清魅魔』",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5887d1dfd08f526d678d7b6d7d0dfd7f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072857&x-signature=BK%2BDkr1PkdcvqoC8Qbksj0oZrZo%3D",
-        "url": "https://fanqienovel.com/page/7420785857201720345"
-      },
-      {
-        "title": "综影视配角的逆袭人生",
-        "author": "四海长平",
-        "reads": "3.6万",
-        "intro": "在每个小世界中或多或少都会出现一些配角，而大部分配角的人生多是凄惨或者是留有各种各样的遗憾。宜真是一颗青竹中诞生出来的竹子精，机缘巧合之下，绑定了快穿系统。 这个神奇的快穿系统能够给宜真带来不少的好东西。甚至还能够让宜真终有一日得道飞升成仙的可能。 第一个世界：小巷人家吴珊珊 第二个世界：HP西奥多.诺特 第三个世界：甄嬛传安陵容 第四个世界：知否梁晗 第五个世界：长相思蓐收 第六个世界：欢乐颂樊胜美 第七个世界：如懿传叶赫那拉氏意欢 ….. 排序不定出",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2off2d7ab0e0b45a139aa69fd9d4a6b78e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072860&x-signature=UPmpywiD%2FVC0snjRzxt3AjrxWZg%3D",
-        "url": "https://fanqienovel.com/page/7694574860256693272"
-      },
-      {
-        "title": "你说霍格沃茨又来一个邓布利多？",
-        "author": "云生不结海",
-        "reads": "3.6万",
-        "intro": "【七部曲原著非影版+神动+圆梦救赎+不拆官配+日常向群像文+慢热非爽文】 1985年万圣节，红头发的小女孩在冰天雪地中出现在纽蒙迦德，歪着头看初代黑魔王：“你觉得邓布利多会为你哀悼吗？” 1989年夏天，把纽蒙迦德弄得臭气熏天的女孩露出恶劣的微笑，蛊惑道：“你难道不想去看看，邓布利多最在乎的救世主吗？” 于是，1991年—— 霍格沃茨的小动物惊然发现，新来的那个姓邓布利多的女孩，竟然是个爆破天才！ 记不住口令导致画像拦路？飞沙走石！皮皮鬼追着恶作剧？霹雳爆炸！什么？没鼻子老头要复活？火盾护——！ 邓布利多一把捏住克莱奥多拉那支仿照老魔杖制作出来的自己的“周边”，却还是没有控制住她逸散的魔力，里德尔的墓园里一只蓝色火焰组成的凤凰腾空而起。 始作俑者挥舞着魔杖快乐极了：汤姆·里德尔，这才叫艺术！ 【看似到处破坏实则到处拯救女主，正文无cp，不黑不洗任何一方，大家智商在线，会有新的冒险，私设如山，他们属于罗琳，ooc属于作者。】 【允许人犯错，允许人悔过，勇气是人类的赞歌】",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7eb9ae0b0ac88a3f3d3b11ea7576f52b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072860&x-signature=tboIdDIWRK93%2Fk2%2FvO0vC0y%2Boj8%3D",
-        "url": "https://fanqienovel.com/page/7690880053000801305"
       },
       {
         "title": "综影视：画入尘缘",
         "author": "点滴乱入",
-        "reads": "3.5万",
+        "reads": "4万",
         "intro": "轻轻是神界流入仙界的一幅美人图，受众仙追捧抢夺。紫宸帝君和魔尊因此画大打出手，一着不慎，美人图落入轮回。 【有的有cp，有的没有，有的一见钟情，有的慢慢上心，女主性格会因为原世界人物影响，也有的是原创人物。】 主打甄嬛传，如懿传 第一个世界：夏冬春",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6d230df321b7f632563ad1bd81a205d5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072860&x-signature=IGKYKtnLJUpT5lsRiWk5G2eAS0Q%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6d230df321b7f632563ad1bd81a205d5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157701&x-signature=YDIJd7fvj%2BaN0GmZetdC44GuUuU%3D",
         "url": "https://fanqienovel.com/page/7691481892385721369"
       },
       {
-        "title": "宜修重生天崩开局，看我逆转乾坤",
-        "author": "阿雯酱",
-        "reads": "3.3万",
-        "intro": "朱宜修自认从不是什么好人，但没想到老天爷连让她重生都在这样一个离谱的时间节点。一睁眼，胧月正指着她的鼻子说皇额娘推了熹娘娘。回想起前世的种种悲惨自此而始，她该如何逆转眼下的结局？如果不像前世一般激动鲁莽，皇上会否还念及旧情，给她喘息的时间？她又如何与大气已成的甄嬛争斗，获得一线生机？ 前期苟起来，后期杀起来，不洗白，衍生自剧版，根据情节发展会少量借用书版没拍的剧情。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o226393175a71117368b5efeb6da4b6d2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072860&x-signature=2LFwu1JxWhpRUkRJULuXiRP5LpA%3D",
-        "url": "https://fanqienovel.com/page/7495664873502673944"
+        "title": "你说霍格沃茨又来一个邓布利多？",
+        "author": "云生不结海",
+        "reads": "3.8万",
+        "intro": "【七部曲原著非影版+神动+圆梦救赎+不拆官配+日常向群像文+慢热非爽文】 1985年万圣节，红头发的小女孩在冰天雪地中出现在纽蒙迦德，歪着头看初代黑魔王：“你觉得邓布利多会为你哀悼吗？” 1989年夏天，把纽蒙迦德弄得臭气熏天的女孩露出恶劣的微笑，蛊惑道：“你难道不想去看看，邓布利多最在乎的救世主吗？” 于是，1991年—— 霍格沃茨的小动物惊然发现，新来的那个姓邓布利多的女孩，竟然是个爆破天才！ 记不住口令导致画像拦路？飞沙走石！皮皮鬼追着恶作剧？霹雳爆炸！什么？没鼻子老头要复活？火盾护——！ 邓布利多一把捏住克莱奥多拉那支仿照老魔杖制作出来的自己的“周边”，却还是没有控制住她逸散的魔力，里德尔的墓园里一只蓝色火焰组成的凤凰腾空而起。 始作俑者挥舞着魔杖快乐极了：汤姆·里德尔，这才叫艺术！ 【看似到处破坏实则到处拯救女主，正文无cp，不黑不洗任何一方，大家智商在线，会有新的冒险，私设如山，他们属于罗琳，ooc属于作者。】 【允许人犯错，允许人悔过，勇气是人类的赞歌】",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7eb9ae0b0ac88a3f3d3b11ea7576f52b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157705&x-signature=CbEuNso0a00d8egGcAesB4wntG4%3D",
+        "url": "https://fanqienovel.com/page/7690880053000801305"
       },
       {
-        "title": "怕什么？我夫君可是哪吒三太子",
-        "author": "明珈珈珈",
-        "reads": "3.3万",
-        "intro": "（评分刚出会涨）弄玉原本只是东海毫无存在感的小公主，父兄一朝得罪杀神哪吒，竟要把她献给大神为妻以求宽恕。 【背景西游+封神】 【恶劣三太子VS柔弱小蚌精】",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o910dc1a3a986e65ac24e190e9f30a6ef~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072860&x-signature=MWGDBdChtN2R064Jb1MHbpzh5R8%3D",
-        "url": "https://fanqienovel.com/page/7671969753749015576"
+        "title": "综影视配角的逆袭人生",
+        "author": "四海长平",
+        "reads": "3.8万",
+        "intro": "在每个小世界中或多或少都会出现一些配角，而大部分配角的人生多是凄惨或者是留有各种各样的遗憾。宜真是一颗青竹中诞生出来的竹子精，机缘巧合之下，绑定了快穿系统。 这个神奇的快穿系统能够给宜真带来不少的好东西。甚至还能够让宜真终有一日得道飞升成仙的可能。 第一个世界：小巷人家吴珊珊 第二个世界：HP西奥多.诺特 第三个世界：甄嬛传安陵容 第四个世界：知否梁晗 第五个世界：长相思蓐收 第六个世界：欢乐颂樊胜美 第七个世界：如懿传叶赫那拉氏意欢 ….. 排序不定出",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2off2d7ab0e0b45a139aa69fd9d4a6b78e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157705&x-signature=vXWsiRO20Gbkm2rsnzQw3UOuAfE%3D",
+        "url": "https://fanqienovel.com/page/7694574860256693272"
       },
       {
         "title": "综影视：意外频出，但功德不断",
         "author": "我就想往左飞",
-        "reads": "3.3万",
+        "reads": "3.4万",
         "intro": "〔原创女主+无固定CP+性格随机〕 谁说异族不能修仙的？！不过异族要想修仙，那得用功德来度过雷劫。清珏生于花果山，跟齐天大圣有着相同的境遇，但是同为石不同命啊！ 这不，吞噬倒霉系统后，清珏终于知道怎么获得功德了，那么它就不客气了！ 1、甄嬛传：四爷？你们挣吧，皇位只会是我儿子的。 2、三生三世：出场的意外，让自己有了一个兄长，横着走了！ 3、步步惊心（待定）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odefaa048a35e186cb3d94ffae4f968c7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072860&x-signature=qRL8hewRuutf3dlQlE06M47e4xQ%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odefaa048a35e186cb3d94ffae4f968c7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157705&x-signature=ADHUgr0PTmWeWy2OQIiJzESQs9E%3D",
         "url": "https://fanqienovel.com/page/7633632637575253017"
+      },
+      {
+        "title": "综穿：穿成垫脚石后我干翻全世界",
+        "author": "思北洲",
+        "reads": "3.4万",
+        "intro": "谢行听说自己是仙侠剧中集深情男二、邪魅反派、终极舔狗、幕后大boss为一体的复杂合成体，修炼魔界邪门功法被天雷劈死之后，他被一个狗比系统绑定，让他一路老老实实的做垫脚石给别人踩…… 呵，被踩…… 不好意思，他最擅长干翻全世界。 1、甄嬛传—雍正『撕烂头顶的绿帽子』 2、如懿传—乾隆『整治紫禁城懿症学院』 3、八阿哥—胤禩『大清魅魔』",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5887d1dfd08f526d678d7b6d7d0dfd7f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157705&x-signature=iIQZJQUfTmkYA9LLDu%2F8jGjFoxA%3D",
+        "url": "https://fanqienovel.com/page/7420785857201720345"
       },
       {
         "title": "斩神：NPC别怕！玩家来啦！",
         "author": "Q弹麻薯饼",
-        "reads": "3.2万",
+        "reads": "3.4万",
         "intro": "【第四天灾玩家＋万人迷＋all向＋女强＋纯玩游戏不会发现这是真实世界＋gb女攻(二周目开始大谈恋爱)＋拆原著cp】 玩家非P社战犯型玩家，比格塑玩家会搞破坏，对玩家道德要求高的就不要看了！ 全文0ai，纯手工，封面都是我自己手搓的，剩下的问题全归文笔问题，放心包不虐玩家的。 ———— 玩家的手机坏了，但是弹出来了一个游戏修复了频闪。 有机命在游戏手里，玩家开始玩游戏——《全职斩神就在你我》。 【loading......】 【欢迎玩家降临。】 结果玩家开局乱窜正面对上初级小怪鬼面人，落地成盒。 玩家:？ 愤怒的玩家当即化身肝帝，在大街小巷乱窜翻垃圾桶、接任务，誓要成为一个合格的战斗党。 136小队:怎么最近事务所怎么这么热闹？ 市民:怎么这个人怎么热情？ 林七夜:为什么她不是精神病啊？她翻垃圾桶啊！ 安卿鱼:为什么她总能在垃圾桶里找到东西？ 王免:怎么她总能在危机时刻在某个地方出现？ 夏思萌:在这一天的假期里是我过的最开心的一个月! ... 认真蘸豆爽的玩家:啊？我吗？",
-        "cover": "https://p9-reading-sign.fqnovelpic.com/novel-pic/p2o4d6342edef226ffe3a923222fa122443~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072860&x-signature=eler%2FNPUbbIwcx12j%2FAqrYK0eF4%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4d6342edef226ffe3a923222fa122443~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157705&x-signature=HAiyOButStr9H99kOMz7xFSIzLA%3D",
         "url": "https://fanqienovel.com/page/7694290710480030782"
       },
       {
-        "title": "心动9一合拍的我们",
-        "author": "面包放纸鸢",
-        "reads": "3.1万",
-        "intro": "当习惯成全所有人的陈鹤文，遇见自有节奏的音乐人苏叙，不必刻意迎合，自有同频合拍。 没有阴郁的自我封闭，只有一场松弛且势均力敌的心动。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o49b04da5bfc5705bc0f497ebfe47f0a7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072860&x-signature=129kbNwkNHnAxxyd9vvCFMITsE8%3D",
-        "url": "https://fanqienovel.com/page/7694800460103814169"
+        "title": "怕什么？我夫君可是哪吒三太子",
+        "author": "明珈珈珈",
+        "reads": "3.2万",
+        "intro": "（评分刚出会涨）弄玉原本只是东海毫无存在感的小公主，父兄一朝得罪杀神哪吒，竟要把她献给大神为妻以求宽恕。 【背景西游+封神】 【恶劣三太子VS柔弱小蚌精】",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o910dc1a3a986e65ac24e190e9f30a6ef~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157705&x-signature=nVQ73b2yb9hBa7Q2HU%2Fmm2l6QZw%3D",
+        "url": "https://fanqienovel.com/page/7671969753749015576"
       },
       {
-        "title": "当雍正穿进甄嬛传绑定宠妃系统",
-        "author": "尘一",
-        "reads": "3万",
-        "intro": "雍正帝驾崩之后，一睁眼却发现自己带着全部记忆转世到了二十一世纪。 他看着那部叫作《甄嬛传》的下饭剧，嘴角抽了又抽。 那个被女人耍得团团转、动不动就被戴绿帽子的蠢皇帝，是他？ 我在位十三年，整顿吏治、摊丁入亩、平定西北，哪个不是铁血手腕？居然把我写成个恋爱脑？ 不等他多吐槽几句，一场高烧病得他整日昏昏沉沉，再度清醒过来他竟然回到了过去，更准确地说，是剧版《甄嬛传》。 胤禛：“……” 熟悉的龙床，熟悉的养心殿，作为一个二十一世纪新青年来说，他真的不想回来啊。 牛马都没有皇帝累好吧。 “嘀——欢迎绑定宠妃系统！” 胤禛：嗯？ 宠妃系统：啊啊啊啊啊啊！怎么是个男的？！ 胤禛（眯眼）：是你在搞鬼。 宠妃系统（赔笑）：有话好好说…… 【胤禛重生+剧版剧情+宠妃系统+重用兄弟+宠安陵容+黑甄嬛沈眉庄】雷者慎入",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9f8400bec8406783fd42747ed8d29fa1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072860&x-signature=TE4fs264VGv0bo63hS2DemhTf1U%3D",
-        "url": "https://fanqienovel.com/page/7684221202218372158"
+        "title": "宜修重生天崩开局，看我逆转乾坤",
+        "author": "阿雯酱",
+        "reads": "3.1万",
+        "intro": "朱宜修自认从不是什么好人，但没想到老天爷连让她重生都在这样一个离谱的时间节点。一睁眼，胧月正指着她的鼻子说皇额娘推了熹娘娘。回想起前世的种种悲惨自此而始，她该如何逆转眼下的结局？如果不像前世一般激动鲁莽，皇上会否还念及旧情，给她喘息的时间？她又如何与大气已成的甄嬛争斗，获得一线生机？ 前期苟起来，后期杀起来，不洗白，衍生自剧版，根据情节发展会少量借用书版没拍的剧情。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o226393175a71117368b5efeb6da4b6d2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157705&x-signature=6LTtZQCGBJTmarVPJcaXP5pbinI%3D",
+        "url": "https://fanqienovel.com/page/7495664873502673944"
       },
       {
         "title": "在甄嬛传里发疯的鬼",
         "author": "涓涓爱划水",
         "reads": "2.9万",
         "intro": "死了很长时间的女鬼，为了在地府过好日子，在甄嬛传里来来回回穿，金手指从最低级开始可以升级。 对甄嬛不友好。 第一篇：老实人温实初x背后玩阴招温实初 第二篇：柔弱温宜x有的是力气的女王 第三篇: 敏感自私雍正x暴躁海盗头子 第四篇：胆大张狂余莺儿x狠辣歹毒摄政太后 第五篇：自私精明投机隆科多x荣华富贵隐形太上皇",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o20eb6e3febf97857695301183168b0a2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072860&x-signature=A2SYdPlOV%2F5ui%2FzVmlcLUuwupOE%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o20eb6e3febf97857695301183168b0a2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157705&x-signature=gOSOa2BzK9t%2FLwR7M1KnObSkYMk%3D",
         "url": "https://fanqienovel.com/page/7669412521119337497"
+      },
+      {
+        "title": "心动9一合拍的我们",
+        "author": "面包放纸鸢",
+        "reads": "2.9万",
+        "intro": "当习惯成全所有人的陈鹤文，遇见自有节奏的音乐人苏叙，不必刻意迎合，自有同频合拍。 没有阴郁的自我封闭，只有一场松弛且势均力敌的心动。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o49b04da5bfc5705bc0f497ebfe47f0a7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157705&x-signature=R8ddwfTmdyW55lcVCStSrEIRKMU%3D",
+        "url": "https://fanqienovel.com/page/7694800460103814169"
+      },
+      {
+        "title": "被屁杀死后我在甄嬛传认真宫斗",
+        "author": "青木瓜牛奶",
+        "reads": "2.8万",
+        "intro": "将离死了才知道她在公交车上哮喘叠加低血糖，被一个屁熏的一口气没上来嘎了，得知投胎要等超久，选择了去完成地府任务，抽签到甄嬛传的心愿，那就去嘛！ 丽嫔费云烟：什么华妃娘娘凤仪万千，分明是我淑妃娘娘美若天仙！ 华妃年世兰：得到我年世兰的‘爱’，就偷着乐吧！ 余莺儿：没有家世就创造家世，我要当皇后！",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe0784b0f3183ed00109bb212be93fe1f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157705&x-signature=TwK6XavX29ypeSQsueq43gGHm6g%3D",
+        "url": "https://fanqienovel.com/page/7691115425890831385"
       }
     ]
   },
@@ -220,214 +227,221 @@
     {
       "name": "女频衍生",
       "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          "被屁杀死后我在甄嬛传认真宫斗"
+        ],
+        "dropped_books": [
+          {
+            "title": "当雍正穿进甄嬛传绑定宠妃系统",
+            "intro": "雍正帝驾崩之后，一睁眼却发现自己带着全部记忆转世到了二十一世纪。 他看着那部叫作《甄嬛传》的下饭剧，嘴角抽了又抽。 那个被女人耍得团团转、动不动就被戴绿帽子的蠢皇帝，是他？ 我在位十三年，整顿吏治、摊"
+          }
+        ],
         "top_risers": [
           {
             "title": "综影视：画入尘缘",
-            "change": "+6"
-          },
-          {
-            "title": "你说霍格沃茨又来一个邓布利多？",
             "change": "+3"
           },
           {
-            "title": "综影视之从灵魂摆渡开始",
+            "title": "综影视：意外频出，但功德不断",
+            "change": "+3"
+          },
+          {
+            "title": "斩神：NPC别怕！玩家来啦！",
             "change": "+2"
           }
         ],
         "top_fallers": [
           {
+            "title": "综穿：穿成垫脚石后我干翻全世界",
+            "change": "-4"
+          },
+          {
             "title": "宜修重生天崩开局，看我逆转乾坤",
-            "change": "-5"
+            "change": "-3"
           },
           {
-            "title": "当雍正穿进甄嬛传绑定宠妃系统",
-            "change": "-5"
-          },
-          {
-            "title": "怕什么？我夫君可是哪吒三太子",
+            "title": "综影视：恶女她天生尤物",
             "change": "-2"
           }
         ],
         "reads_growth": [
           {
             "title": "王漫妮重生！这世她要做捞女",
-            "growth": "+2.6万"
+            "growth": "+5.0万"
           },
           {
             "title": "综影视：画入尘缘",
             "growth": "+5000"
           },
           {
-            "title": "综影视：过好自己的人生",
+            "title": "综影视之从灵魂摆渡开始",
             "growth": "+4000"
           }
         ],
-        "summary": "《综影视：画入尘缘》排名上升+6位；《王漫妮重生！这世她要做捞女》阅读量+2.6万。"
+        "summary": "新增1本上榜；1本掉出（《当雍正穿进甄嬛传绑定宠妃系统》）；《综影视：画入尘缘》排名上升+3位；《王漫妮重生！这世她要做捞女》阅读量+5.0万。"
       },
       "books": [
         {
           "title": "王漫妮重生！这世她要做捞女",
           "author": "豆米和安卿",
-          "reads": "20.9万",
+          "reads": "25.9万",
           "intro": "王漫妮重回一世后，她想通了，有现成的钱的为何不赚?何必那么清高拧巴呢，拿到手上的才是真的，所以这世她要做捞女多多捞钱",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4093f25663b52db0233085ba21031b87~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072857&x-signature=D6Rpg93bGO9Koh1gQzTu9sipaxU%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4093f25663b52db0233085ba21031b87~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157701&x-signature=wjvdjqV3gWVvwnTFBFuofjMirX4%3D",
           "url": "https://fanqienovel.com/page/7689406731931094078"
         },
         {
           "title": "综影视：过好自己的人生",
           "author": "花开又有时",
-          "reads": "11万",
+          "reads": "10.9万",
           "intro": "沪市普通打工人白苏，在新开的大型仓储会员店内遇上高层货架意外倒塌，为救人不幸被砸中身亡。因救人功德，她被快穿局影视部特招为任务者，专属随身空间复刻了整座商超，生鲜百货一应俱全，货品每月自动补满。带着满仓物资穿梭各个影视世界，她替原主完成遗愿，在不同人生里稳扎稳打，把日子过得风生水起。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of3b8fb8b95e6e1f8688eba3cd32e775d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072857&x-signature=A9wxAopiG9u57cSm48Pvd%2BcvRGw%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of3b8fb8b95e6e1f8688eba3cd32e775d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157701&x-signature=TD8o4SYNNcD%2BovikAqgl9lnPod4%3D",
           "url": "https://fanqienovel.com/page/7671026616268508185"
         },
         {
           "title": "综影视：惊！美疯惨成团宠万人迷",
           "author": "爱吃醋焖鲤鱼的白须",
-          "reads": "6.6万",
+          "reads": "6.7万",
           "intro": "【纯爽文，恶毒反派死不悔改，团宠万人迷，绝美】 众所周知，影视剧里有很多“美疯惨”配角，他们坏，他们疯，但他们又实在美丽。 不满剧情的他们，怨念冲破三千小世界的次元壁。 可谁来告诉他，为什么每个世界“美疯惨”那么恶劣，那么法制咖，那么不是东西，那么胆子肥嘟嘟，却偏偏成了团宠万人迷。 （主角、配角、路人都想给他当“汪汪”……） 【不一定按顺序写】 1.少歌+暗河传：萧羽 （想当本王的狗，你还不配） 2.莲花楼：李莲花（黑化吧李相夷！区区碧茶之毒，又怎么能困的住我相夷太剑）平行时空的李莲花 3.盗笔+九门： 陈皮 （盗笔还可能会写，黎簇……） 4.庆余年： 李承泽 5.陈情令： 温晁 （陈情令还可能写，聂怀桑……） 6.香蜜 ： 润玉 7.暗河传： 苏昌河 （暗河传还可能写，苏暮雨，慕白，慕词陵……） …… 【综影视同人，可能会ooc，介意勿扰。】",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of9906d21ed8bcf2c9c883937586e0f3f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072857&x-signature=bXpcvJBJFtYac5KB1Q4w77POjnM%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of9906d21ed8bcf2c9c883937586e0f3f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157701&x-signature=QIhoH%2Bb40dOjQHAYVrqtyIhHFaM%3D",
           "url": "https://fanqienovel.com/page/7690573311301930009"
         },
         {
           "title": "嫁金钗：黛娆双生，并蒂花开",
           "author": "籽籽晴",
-          "reads": "5.1万",
+          "reads": "5.3万",
           "intro": "君黛和魏娆双生姐妹，并蒂花开，一个性情乖张，天生坏种。一个腹黑算计，步步为营。两个大眼魔丸搅弄风云。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9b3181b8e80ee119186be983f6179c12~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072857&x-signature=fp04S3mmCqCwxByBAdmmvwy%2BKrI%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9b3181b8e80ee119186be983f6179c12~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157701&x-signature=Pq1aQfdJK8Ql35xKDATwVPTn3kg%3D",
           "url": "https://fanqienovel.com/page/7700418060863163417"
-        },
-        {
-          "title": "不顾他人死活的综穿之旅",
-          "author": "健忘的李哥",
-          "reads": "4.7万",
-          "intro": "评分刚开！！！会涨的！！！ 新作品出炉，欢迎大家前往番茄小说阅读我的作品，希望大家能够喜欢，你们的关注是我写作的动力，我会努力讲好每个故事！ 作者精神状态美丽，主角比较癫，喜欢创死不喜欢的角色。 二十一世纪的安安穿越到各个世界弥补主角遗憾，包括不限于清穿，综影视。主角无cp或者男宠多人（亲妈，不虐女儿）有一些如果一个cp那就是工具人没有存在感的。 1.佟佳宝珠（完结） 2.王若弗（完结） 3.弘历（完结） 4.如兰",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob484fac53b2abe905a5ab0cd9db46d1c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072857&x-signature=8ItS%2F9c1bG9uckzWvauEvzThgvE%3D",
-          "url": "https://fanqienovel.com/page/7675864894368910398"
         },
         {
           "title": "综影视白莲净世",
           "author": "三人未书",
-          "reads": "4.6万",
+          "reads": "4.9万",
           "intro": "洪荒伊始，混沌之初。 盘古开天地，混沌青莲化作众多莲台灵宝。 唯独只有一朵净世白莲觉醒灵智，化形而出。有幸拜得太清为师，得混沌珠。 凭借混沌珠到三千小世界赚取功德气运，最终成圣。万法不侵，万世不灭。 号莲宸道君。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc46bd547515215d94aa3eee86f80a8d2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072857&x-signature=%2BfqKpBX%2BZCqZJKbnaOp2Qt8uJvE%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc46bd547515215d94aa3eee86f80a8d2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157701&x-signature=Yd8rg8lFzUpSz36EhaaRjr3ztHo%3D",
           "url": "https://fanqienovel.com/page/7619203571396906009"
+        },
+        {
+          "title": "不顾他人死活的综穿之旅",
+          "author": "健忘的李哥",
+          "reads": "4.8万",
+          "intro": "评分刚开！！！会涨的！！！ 新作品出炉，欢迎大家前往番茄小说阅读我的作品，希望大家能够喜欢，你们的关注是我写作的动力，我会努力讲好每个故事！ 作者精神状态美丽，主角比较癫，喜欢创死不喜欢的角色。 二十一世纪的安安穿越到各个世界弥补主角遗憾，包括不限于清穿，综影视。主角无cp或者男宠多人（亲妈，不虐女儿）有一些如果一个cp那就是工具人没有存在感的。 1.佟佳宝珠（完结） 2.王若弗（完结） 3.弘历（完结） 4.如兰",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob484fac53b2abe905a5ab0cd9db46d1c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157701&x-signature=3btXErxHGtlejkzSLJjN3TbBESA%3D",
+          "url": "https://fanqienovel.com/page/7675864894368910398"
+        },
+        {
+          "title": "穿进西游后，我在天庭当富婆",
+          "author": "沈知月",
+          "reads": "4.6万",
+          "intro": "【女主cp哪吒+很多很多私设+非女强+ooc警告！】 连续加班一个月，赵宝珠猝死了。 猝死前她还在想：希望再睁眼能够听到父亲老钱般的笑声。 老天像是听见了她的愿望。 再睁眼，她成了财神赵公明养的一株芍药花。 赵宝珠：坏了，这位是真老钱！ 化形后的赵宝珠被财神爷认作亲闺女。 亲爹砸钱，师叔宠，就连通天教主都把她当眼珠子护。 拥有强硬后台的赵宝珠没事骚扰骚扰哪吒，看望看望孙悟空，日子过的美滋滋。 ...... 哪吒从没想过会有胆子这么大的女仙往自己身边凑，还时不时地调戏他两句，他渐渐习惯了这个声音，后来对这个小女仙上了心。 再后来，发现她满眼崇拜地看着那个死猴子。 哪吒：呵，渣女！ 有钱且咸鱼小仙女vs原高冷现醋精哪吒 (不会修复哪吒跟李靖的关系，并且会狠狠黑李靖！)",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of44a7b926cbe429d017ca6e63c32df8d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157701&x-signature=%2BBmnrqyYIp27adpcE%2FFbf0nPJBs%3D",
+          "url": "https://fanqienovel.com/page/7695378514614176793"
+        },
+        {
+          "title": "综影视之从灵魂摆渡开始",
+          "author": "爱吃榴莲塔",
+          "reads": "4.4万",
+          "intro": "不知归处，只知来路…… 她是始皇陛下最宠爱的女儿，嬴姓赵氏嬴阴嫚，那日她死了，可又活了，从那以后，她便是从坟墓中爬出来的恶鬼，魂魄混沌时，好像听到了阿父的声音，他想要她好好活着。 “阿父，别离开我！！” “儿啊，莫怕，好好替阿父看看这个世界。” 嬴阴嫚，不，她名烬凰，凤凰泥槃，浴火重生之意。 阿父让她成为了不生不死，不灭不伤之人，浑浑噩噩的活着，独自一人生活了几千年，见证过战乱，见证过短暂的和平，一直活到了科技蓬勃发展的现代。 她好像找到了阿父让她好好看看的世界，“阿父，我看到了。” 直到有一天，这个世界好像再也容不下她了，那就走吧，该去看看其他的世界…… （长生种，男主可有可无吧，主要是看你们，要是有男主的话，那就是1v1，双洁，有些设定还是比较坚持自我的，嘿嘿。 PS：相同世界来回穿的话，都当成新的世界重新开始，不然有的设定就会被框住，希望宝子们理解一下。）",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o893fbc80ac85086d8c28d6ca363e5613~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157701&x-signature=YTip6AbnvxlXRkU%2F1VJMK8Smt8A%3D",
+          "url": "https://fanqienovel.com/page/7692678777750424600"
         },
         {
           "title": "综影视：恶女她天生尤物",
           "author": "懒癌晚期怎么办",
           "reads": "4.3万",
           "intro": "评分终于出来了 感天动地【女主绝美+勾引上位无三观+虐原女主+私设如山+包甜】 【三观一扔，主打一个爽，接受不了这种别看哦，不要上升作者。】 阮玉本是集天地之灵孕育而生，存于六界之外，不死不灭的上神，谁知被天道那老阴比摆了一道，神魂被强行烙上了契约的印记。 成为了时空管理局的牛马。 在小世界里一切因她而产生的种种情绪恶念都会变成滋补她的养料，而爱意更是大补。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/c53c34477ddf10106f0ea92350eb5297~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072857&x-signature=nbsgXith0yTgJ9xwKXrn1PY4PSg%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/c53c34477ddf10106f0ea92350eb5297~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157701&x-signature=XhiaqDMusuvN0yR7cAPsMoARwv8%3D",
           "url": "https://fanqienovel.com/page/7601689574498110489"
-        },
-        {
-          "title": "穿进西游后，我在天庭当富婆",
-          "author": "沈知月",
-          "reads": "4.3万",
-          "intro": "【女主cp哪吒+很多很多私设+非女强+ooc警告！】 连续加班一个月，赵宝珠猝死了。 猝死前她还在想：希望再睁眼能够听到父亲老钱般的笑声。 老天像是听见了她的愿望。 再睁眼，她成了财神赵公明养的一株芍药花。 赵宝珠：坏了，这位是真老钱！ 化形后的赵宝珠被财神爷认作亲闺女。 亲爹砸钱，师叔宠，就连通天教主都把她当眼珠子护。 拥有强硬后台的赵宝珠没事骚扰骚扰哪吒，看望看望孙悟空，日子过的美滋滋。 ...... 哪吒从没想过会有胆子这么大的女仙往自己身边凑，还时不时地调戏他两句，他渐渐习惯了这个声音，后来对这个小女仙上了心。 再后来，发现她满眼崇拜地看着那个死猴子。 哪吒：呵，渣女！ 有钱且咸鱼小仙女vs原高冷现醋精哪吒 (不会修复哪吒跟李靖的关系，并且会狠狠黑李靖！)",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of44a7b926cbe429d017ca6e63c32df8d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072857&x-signature=FvoAeoQpcQ461wv9sXi%2Bf5St4eI%3D",
-          "url": "https://fanqienovel.com/page/7695378514614176793"
-        },
-        {
-          "title": "综影视之从灵魂摆渡开始",
-          "author": "爱吃榴莲塔",
-          "reads": "4万",
-          "intro": "不知归处，只知来路…… 她是始皇陛下最宠爱的女儿，嬴姓赵氏嬴阴嫚，那日她死了，可又活了，从那以后，她便是从坟墓中爬出来的恶鬼，魂魄混沌时，好像听到了阿父的声音，他想要她好好活着。 “阿父，别离开我！！” “儿啊，莫怕，好好替阿父看看这个世界。” 嬴阴嫚，不，她名烬凰，凤凰泥槃，浴火重生之意。 阿父让她成为了不生不死，不灭不伤之人，浑浑噩噩的活着，独自一人生活了几千年，见证过战乱，见证过短暂的和平，一直活到了科技蓬勃发展的现代。 她好像找到了阿父让她好好看看的世界，“阿父，我看到了。” 直到有一天，这个世界好像再也容不下她了，那就走吧，该去看看其他的世界…… （长生种，男主可有可无吧，主要是看你们，要是有男主的话，那就是1v1，双洁，有些设定还是比较坚持自我的，嘿嘿。 PS：相同世界来回穿的话，都当成新的世界重新开始，不然有的设定就会被框住，希望宝子们理解一下。）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o893fbc80ac85086d8c28d6ca363e5613~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072857&x-signature=R3gfiUCMwksqEK1uLVnSCIJ2lP8%3D",
-          "url": "https://fanqienovel.com/page/7692678777750424600"
-        },
-        {
-          "title": "综穿：穿成垫脚石后我干翻全世界",
-          "author": "思北洲",
-          "reads": "3.7万",
-          "intro": "谢行听说自己是仙侠剧中集深情男二、邪魅反派、终极舔狗、幕后大boss为一体的复杂合成体，修炼魔界邪门功法被天雷劈死之后，他被一个狗比系统绑定，让他一路老老实实的做垫脚石给别人踩…… 呵，被踩…… 不好意思，他最擅长干翻全世界。 1、甄嬛传—雍正『撕烂头顶的绿帽子』 2、如懿传—乾隆『整治紫禁城懿症学院』 3、八阿哥—胤禩『大清魅魔』",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5887d1dfd08f526d678d7b6d7d0dfd7f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072857&x-signature=BK%2BDkr1PkdcvqoC8Qbksj0oZrZo%3D",
-          "url": "https://fanqienovel.com/page/7420785857201720345"
-        },
-        {
-          "title": "综影视配角的逆袭人生",
-          "author": "四海长平",
-          "reads": "3.6万",
-          "intro": "在每个小世界中或多或少都会出现一些配角，而大部分配角的人生多是凄惨或者是留有各种各样的遗憾。宜真是一颗青竹中诞生出来的竹子精，机缘巧合之下，绑定了快穿系统。 这个神奇的快穿系统能够给宜真带来不少的好东西。甚至还能够让宜真终有一日得道飞升成仙的可能。 第一个世界：小巷人家吴珊珊 第二个世界：HP西奥多.诺特 第三个世界：甄嬛传安陵容 第四个世界：知否梁晗 第五个世界：长相思蓐收 第六个世界：欢乐颂樊胜美 第七个世界：如懿传叶赫那拉氏意欢 ….. 排序不定出",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2off2d7ab0e0b45a139aa69fd9d4a6b78e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072860&x-signature=UPmpywiD%2FVC0snjRzxt3AjrxWZg%3D",
-          "url": "https://fanqienovel.com/page/7694574860256693272"
-        },
-        {
-          "title": "你说霍格沃茨又来一个邓布利多？",
-          "author": "云生不结海",
-          "reads": "3.6万",
-          "intro": "【七部曲原著非影版+神动+圆梦救赎+不拆官配+日常向群像文+慢热非爽文】 1985年万圣节，红头发的小女孩在冰天雪地中出现在纽蒙迦德，歪着头看初代黑魔王：“你觉得邓布利多会为你哀悼吗？” 1989年夏天，把纽蒙迦德弄得臭气熏天的女孩露出恶劣的微笑，蛊惑道：“你难道不想去看看，邓布利多最在乎的救世主吗？” 于是，1991年—— 霍格沃茨的小动物惊然发现，新来的那个姓邓布利多的女孩，竟然是个爆破天才！ 记不住口令导致画像拦路？飞沙走石！皮皮鬼追着恶作剧？霹雳爆炸！什么？没鼻子老头要复活？火盾护——！ 邓布利多一把捏住克莱奥多拉那支仿照老魔杖制作出来的自己的“周边”，却还是没有控制住她逸散的魔力，里德尔的墓园里一只蓝色火焰组成的凤凰腾空而起。 始作俑者挥舞着魔杖快乐极了：汤姆·里德尔，这才叫艺术！ 【看似到处破坏实则到处拯救女主，正文无cp，不黑不洗任何一方，大家智商在线，会有新的冒险，私设如山，他们属于罗琳，ooc属于作者。】 【允许人犯错，允许人悔过，勇气是人类的赞歌】",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7eb9ae0b0ac88a3f3d3b11ea7576f52b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072860&x-signature=tboIdDIWRK93%2Fk2%2FvO0vC0y%2Boj8%3D",
-          "url": "https://fanqienovel.com/page/7690880053000801305"
         },
         {
           "title": "综影视：画入尘缘",
           "author": "点滴乱入",
-          "reads": "3.5万",
+          "reads": "4万",
           "intro": "轻轻是神界流入仙界的一幅美人图，受众仙追捧抢夺。紫宸帝君和魔尊因此画大打出手，一着不慎，美人图落入轮回。 【有的有cp，有的没有，有的一见钟情，有的慢慢上心，女主性格会因为原世界人物影响，也有的是原创人物。】 主打甄嬛传，如懿传 第一个世界：夏冬春",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6d230df321b7f632563ad1bd81a205d5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072860&x-signature=IGKYKtnLJUpT5lsRiWk5G2eAS0Q%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6d230df321b7f632563ad1bd81a205d5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157701&x-signature=YDIJd7fvj%2BaN0GmZetdC44GuUuU%3D",
           "url": "https://fanqienovel.com/page/7691481892385721369"
         },
         {
-          "title": "宜修重生天崩开局，看我逆转乾坤",
-          "author": "阿雯酱",
-          "reads": "3.3万",
-          "intro": "朱宜修自认从不是什么好人，但没想到老天爷连让她重生都在这样一个离谱的时间节点。一睁眼，胧月正指着她的鼻子说皇额娘推了熹娘娘。回想起前世的种种悲惨自此而始，她该如何逆转眼下的结局？如果不像前世一般激动鲁莽，皇上会否还念及旧情，给她喘息的时间？她又如何与大气已成的甄嬛争斗，获得一线生机？ 前期苟起来，后期杀起来，不洗白，衍生自剧版，根据情节发展会少量借用书版没拍的剧情。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o226393175a71117368b5efeb6da4b6d2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072860&x-signature=2LFwu1JxWhpRUkRJULuXiRP5LpA%3D",
-          "url": "https://fanqienovel.com/page/7495664873502673944"
+          "title": "你说霍格沃茨又来一个邓布利多？",
+          "author": "云生不结海",
+          "reads": "3.8万",
+          "intro": "【七部曲原著非影版+神动+圆梦救赎+不拆官配+日常向群像文+慢热非爽文】 1985年万圣节，红头发的小女孩在冰天雪地中出现在纽蒙迦德，歪着头看初代黑魔王：“你觉得邓布利多会为你哀悼吗？” 1989年夏天，把纽蒙迦德弄得臭气熏天的女孩露出恶劣的微笑，蛊惑道：“你难道不想去看看，邓布利多最在乎的救世主吗？” 于是，1991年—— 霍格沃茨的小动物惊然发现，新来的那个姓邓布利多的女孩，竟然是个爆破天才！ 记不住口令导致画像拦路？飞沙走石！皮皮鬼追着恶作剧？霹雳爆炸！什么？没鼻子老头要复活？火盾护——！ 邓布利多一把捏住克莱奥多拉那支仿照老魔杖制作出来的自己的“周边”，却还是没有控制住她逸散的魔力，里德尔的墓园里一只蓝色火焰组成的凤凰腾空而起。 始作俑者挥舞着魔杖快乐极了：汤姆·里德尔，这才叫艺术！ 【看似到处破坏实则到处拯救女主，正文无cp，不黑不洗任何一方，大家智商在线，会有新的冒险，私设如山，他们属于罗琳，ooc属于作者。】 【允许人犯错，允许人悔过，勇气是人类的赞歌】",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7eb9ae0b0ac88a3f3d3b11ea7576f52b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157705&x-signature=CbEuNso0a00d8egGcAesB4wntG4%3D",
+          "url": "https://fanqienovel.com/page/7690880053000801305"
         },
         {
-          "title": "怕什么？我夫君可是哪吒三太子",
-          "author": "明珈珈珈",
-          "reads": "3.3万",
-          "intro": "（评分刚出会涨）弄玉原本只是东海毫无存在感的小公主，父兄一朝得罪杀神哪吒，竟要把她献给大神为妻以求宽恕。 【背景西游+封神】 【恶劣三太子VS柔弱小蚌精】",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o910dc1a3a986e65ac24e190e9f30a6ef~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072860&x-signature=MWGDBdChtN2R064Jb1MHbpzh5R8%3D",
-          "url": "https://fanqienovel.com/page/7671969753749015576"
+          "title": "综影视配角的逆袭人生",
+          "author": "四海长平",
+          "reads": "3.8万",
+          "intro": "在每个小世界中或多或少都会出现一些配角，而大部分配角的人生多是凄惨或者是留有各种各样的遗憾。宜真是一颗青竹中诞生出来的竹子精，机缘巧合之下，绑定了快穿系统。 这个神奇的快穿系统能够给宜真带来不少的好东西。甚至还能够让宜真终有一日得道飞升成仙的可能。 第一个世界：小巷人家吴珊珊 第二个世界：HP西奥多.诺特 第三个世界：甄嬛传安陵容 第四个世界：知否梁晗 第五个世界：长相思蓐收 第六个世界：欢乐颂樊胜美 第七个世界：如懿传叶赫那拉氏意欢 ….. 排序不定出",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2off2d7ab0e0b45a139aa69fd9d4a6b78e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157705&x-signature=vXWsiRO20Gbkm2rsnzQw3UOuAfE%3D",
+          "url": "https://fanqienovel.com/page/7694574860256693272"
         },
         {
           "title": "综影视：意外频出，但功德不断",
           "author": "我就想往左飞",
-          "reads": "3.3万",
+          "reads": "3.4万",
           "intro": "〔原创女主+无固定CP+性格随机〕 谁说异族不能修仙的？！不过异族要想修仙，那得用功德来度过雷劫。清珏生于花果山，跟齐天大圣有着相同的境遇，但是同为石不同命啊！ 这不，吞噬倒霉系统后，清珏终于知道怎么获得功德了，那么它就不客气了！ 1、甄嬛传：四爷？你们挣吧，皇位只会是我儿子的。 2、三生三世：出场的意外，让自己有了一个兄长，横着走了！ 3、步步惊心（待定）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odefaa048a35e186cb3d94ffae4f968c7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072860&x-signature=qRL8hewRuutf3dlQlE06M47e4xQ%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odefaa048a35e186cb3d94ffae4f968c7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157705&x-signature=ADHUgr0PTmWeWy2OQIiJzESQs9E%3D",
           "url": "https://fanqienovel.com/page/7633632637575253017"
+        },
+        {
+          "title": "综穿：穿成垫脚石后我干翻全世界",
+          "author": "思北洲",
+          "reads": "3.4万",
+          "intro": "谢行听说自己是仙侠剧中集深情男二、邪魅反派、终极舔狗、幕后大boss为一体的复杂合成体，修炼魔界邪门功法被天雷劈死之后，他被一个狗比系统绑定，让他一路老老实实的做垫脚石给别人踩…… 呵，被踩…… 不好意思，他最擅长干翻全世界。 1、甄嬛传—雍正『撕烂头顶的绿帽子』 2、如懿传—乾隆『整治紫禁城懿症学院』 3、八阿哥—胤禩『大清魅魔』",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5887d1dfd08f526d678d7b6d7d0dfd7f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157705&x-signature=iIQZJQUfTmkYA9LLDu%2F8jGjFoxA%3D",
+          "url": "https://fanqienovel.com/page/7420785857201720345"
         },
         {
           "title": "斩神：NPC别怕！玩家来啦！",
           "author": "Q弹麻薯饼",
-          "reads": "3.2万",
+          "reads": "3.4万",
           "intro": "【第四天灾玩家＋万人迷＋all向＋女强＋纯玩游戏不会发现这是真实世界＋gb女攻(二周目开始大谈恋爱)＋拆原著cp】 玩家非P社战犯型玩家，比格塑玩家会搞破坏，对玩家道德要求高的就不要看了！ 全文0ai，纯手工，封面都是我自己手搓的，剩下的问题全归文笔问题，放心包不虐玩家的。 ———— 玩家的手机坏了，但是弹出来了一个游戏修复了频闪。 有机命在游戏手里，玩家开始玩游戏——《全职斩神就在你我》。 【loading......】 【欢迎玩家降临。】 结果玩家开局乱窜正面对上初级小怪鬼面人，落地成盒。 玩家:？ 愤怒的玩家当即化身肝帝，在大街小巷乱窜翻垃圾桶、接任务，誓要成为一个合格的战斗党。 136小队:怎么最近事务所怎么这么热闹？ 市民:怎么这个人怎么热情？ 林七夜:为什么她不是精神病啊？她翻垃圾桶啊！ 安卿鱼:为什么她总能在垃圾桶里找到东西？ 王免:怎么她总能在危机时刻在某个地方出现？ 夏思萌:在这一天的假期里是我过的最开心的一个月! ... 认真蘸豆爽的玩家:啊？我吗？",
-          "cover": "https://p9-reading-sign.fqnovelpic.com/novel-pic/p2o4d6342edef226ffe3a923222fa122443~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072860&x-signature=eler%2FNPUbbIwcx12j%2FAqrYK0eF4%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4d6342edef226ffe3a923222fa122443~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157705&x-signature=HAiyOButStr9H99kOMz7xFSIzLA%3D",
           "url": "https://fanqienovel.com/page/7694290710480030782"
         },
         {
-          "title": "心动9一合拍的我们",
-          "author": "面包放纸鸢",
-          "reads": "3.1万",
-          "intro": "当习惯成全所有人的陈鹤文，遇见自有节奏的音乐人苏叙，不必刻意迎合，自有同频合拍。 没有阴郁的自我封闭，只有一场松弛且势均力敌的心动。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o49b04da5bfc5705bc0f497ebfe47f0a7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072860&x-signature=129kbNwkNHnAxxyd9vvCFMITsE8%3D",
-          "url": "https://fanqienovel.com/page/7694800460103814169"
+          "title": "怕什么？我夫君可是哪吒三太子",
+          "author": "明珈珈珈",
+          "reads": "3.2万",
+          "intro": "（评分刚出会涨）弄玉原本只是东海毫无存在感的小公主，父兄一朝得罪杀神哪吒，竟要把她献给大神为妻以求宽恕。 【背景西游+封神】 【恶劣三太子VS柔弱小蚌精】",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o910dc1a3a986e65ac24e190e9f30a6ef~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157705&x-signature=nVQ73b2yb9hBa7Q2HU%2Fmm2l6QZw%3D",
+          "url": "https://fanqienovel.com/page/7671969753749015576"
         },
         {
-          "title": "当雍正穿进甄嬛传绑定宠妃系统",
-          "author": "尘一",
-          "reads": "3万",
-          "intro": "雍正帝驾崩之后，一睁眼却发现自己带着全部记忆转世到了二十一世纪。 他看着那部叫作《甄嬛传》的下饭剧，嘴角抽了又抽。 那个被女人耍得团团转、动不动就被戴绿帽子的蠢皇帝，是他？ 我在位十三年，整顿吏治、摊丁入亩、平定西北，哪个不是铁血手腕？居然把我写成个恋爱脑？ 不等他多吐槽几句，一场高烧病得他整日昏昏沉沉，再度清醒过来他竟然回到了过去，更准确地说，是剧版《甄嬛传》。 胤禛：“……” 熟悉的龙床，熟悉的养心殿，作为一个二十一世纪新青年来说，他真的不想回来啊。 牛马都没有皇帝累好吧。 “嘀——欢迎绑定宠妃系统！” 胤禛：嗯？ 宠妃系统：啊啊啊啊啊啊！怎么是个男的？！ 胤禛（眯眼）：是你在搞鬼。 宠妃系统（赔笑）：有话好好说…… 【胤禛重生+剧版剧情+宠妃系统+重用兄弟+宠安陵容+黑甄嬛沈眉庄】雷者慎入",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9f8400bec8406783fd42747ed8d29fa1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072860&x-signature=TE4fs264VGv0bo63hS2DemhTf1U%3D",
-          "url": "https://fanqienovel.com/page/7684221202218372158"
+          "title": "宜修重生天崩开局，看我逆转乾坤",
+          "author": "阿雯酱",
+          "reads": "3.1万",
+          "intro": "朱宜修自认从不是什么好人，但没想到老天爷连让她重生都在这样一个离谱的时间节点。一睁眼，胧月正指着她的鼻子说皇额娘推了熹娘娘。回想起前世的种种悲惨自此而始，她该如何逆转眼下的结局？如果不像前世一般激动鲁莽，皇上会否还念及旧情，给她喘息的时间？她又如何与大气已成的甄嬛争斗，获得一线生机？ 前期苟起来，后期杀起来，不洗白，衍生自剧版，根据情节发展会少量借用书版没拍的剧情。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o226393175a71117368b5efeb6da4b6d2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157705&x-signature=6LTtZQCGBJTmarVPJcaXP5pbinI%3D",
+          "url": "https://fanqienovel.com/page/7495664873502673944"
         },
         {
           "title": "在甄嬛传里发疯的鬼",
           "author": "涓涓爱划水",
           "reads": "2.9万",
           "intro": "死了很长时间的女鬼，为了在地府过好日子，在甄嬛传里来来回回穿，金手指从最低级开始可以升级。 对甄嬛不友好。 第一篇：老实人温实初x背后玩阴招温实初 第二篇：柔弱温宜x有的是力气的女王 第三篇: 敏感自私雍正x暴躁海盗头子 第四篇：胆大张狂余莺儿x狠辣歹毒摄政太后 第五篇：自私精明投机隆科多x荣华富贵隐形太上皇",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o20eb6e3febf97857695301183168b0a2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795072860&x-signature=A2SYdPlOV%2F5ui%2FzVmlcLUuwupOE%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o20eb6e3febf97857695301183168b0a2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157705&x-signature=gOSOa2BzK9t%2FLwR7M1KnObSkYMk%3D",
           "url": "https://fanqienovel.com/page/7669412521119337497"
+        },
+        {
+          "title": "心动9一合拍的我们",
+          "author": "面包放纸鸢",
+          "reads": "2.9万",
+          "intro": "当习惯成全所有人的陈鹤文，遇见自有节奏的音乐人苏叙，不必刻意迎合，自有同频合拍。 没有阴郁的自我封闭，只有一场松弛且势均力敌的心动。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o49b04da5bfc5705bc0f497ebfe47f0a7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157705&x-signature=R8ddwfTmdyW55lcVCStSrEIRKMU%3D",
+          "url": "https://fanqienovel.com/page/7694800460103814169"
+        },
+        {
+          "title": "被屁杀死后我在甄嬛传认真宫斗",
+          "author": "青木瓜牛奶",
+          "reads": "2.8万",
+          "intro": "将离死了才知道她在公交车上哮喘叠加低血糖，被一个屁熏的一口气没上来嘎了，得知投胎要等超久，选择了去完成地府任务，抽签到甄嬛传的心愿，那就去嘛！ 丽嫔费云烟：什么华妃娘娘凤仪万千，分明是我淑妃娘娘美若天仙！ 华妃年世兰：得到我年世兰的‘爱’，就偷着乐吧！ 余莺儿：没有家世就创造家世，我要当皇后！",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe0784b0f3183ed00109bb212be93fe1f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157705&x-signature=TwK6XavX29ypeSQsueq43gGHm6g%3D",
+          "url": "https://fanqienovel.com/page/7691115425890831385"
         }
       ]
     }

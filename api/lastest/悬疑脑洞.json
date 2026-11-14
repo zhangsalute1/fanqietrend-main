@@ -1,224 +1,217 @@
 {
   "type": "悬疑脑洞",
-  "date": "2026-11-13",
-  "prev_date": "2026-11-12",
+  "date": "2026-11-14",
+  "prev_date": "2026-11-13",
   "category": {
     "name": "悬疑脑洞",
     "trend": {
-      "new_count": 1,
-      "dropped_count": 1,
-      "new_books": [
-        "让魅魔去盗墓助人为乐"
-      ],
-      "dropped_books": [
-        {
-          "title": "一点点万男迷嬷女文学的短篇合集",
-          "intro": "鸢瓷是一个长的好看的普通人，只是有一天穿越了，然后被爱上了。 这是一个漂亮女宝进入到各种小世界被（爱）的故事合集。 注意:男主们品行不一，bad男人，作者不会牵扯除妹宝外的无辜女士！ 注意:作者严重炫"
-        }
-      ],
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
       "top_risers": [
-        {
-          "title": "诡异横行，无所谓，我的花会出手",
-          "change": "+5"
-        },
-        {
-          "title": "求生：从抢隐藏宿舍到星球至高神",
-          "change": "+2"
-        },
         {
           "title": "盗笔：我的植物没有成精",
           "change": "+2"
+        },
+        {
+          "title": "让魅魔去盗墓助人为乐",
+          "change": "+2"
+        },
+        {
+          "title": "盗墓：夜夜入梦后深陷20修罗场",
+          "change": "+1"
         }
       ],
       "top_fallers": [
         {
           "title": "我在盗墓世界绑定了美食系统",
-          "change": "-2"
+          "change": "-3"
         },
         {
-          "title": "盗墓之咸鱼欧皇降临",
-          "change": "-2"
+          "title": "无限逃生：我的邻居是瓶邪黑花胖",
+          "change": "-1"
         },
         {
-          "title": "在柯学世界被满级马甲争抢",
+          "title": "盗墓：谁家小祖宗写的日记这么野",
           "change": "-1"
         }
       ],
       "reads_growth": [
         {
           "title": "诡异横行，无所谓，我的花会出手",
-          "growth": "+4000"
+          "growth": "+6000"
         },
         {
           "title": "求生：从抢隐藏宿舍到星球至高神",
-          "growth": "+3000"
+          "growth": "+2000"
         },
         {
           "title": "盗墓：夜夜入梦后深陷20修罗场",
-          "growth": "+2000"
+          "growth": "+1000"
         }
       ],
-      "summary": "新增1本上榜；1本掉出（《一点点万男迷嬷女文学的短篇合集》）；《诡异横行，无所谓，我的花会出手》排名上升+5位；《诡异横行，无所谓，我的花会出手》阅读量+4000。"
+      "summary": "《盗笔：我的植物没有成精》排名上升+2位；《诡异横行，无所谓，我的花会出手》阅读量+6000。"
     },
     "books": [
       {
         "title": "诡异NPC：开局就当怪物妈",
         "author": "梦在他方",
-        "reads": "9.7万",
+        "reads": "9.1万",
         "intro": "（评分刚出，会涨的OTZ）【怪物幼崽+救赎治愈+万人迷魅魔型领袖】 【先攻略再横行霸道】 什么叫我扮演NPC死遁后，还要当玩家通关一次副本？ * 集团霸总和二公子争权斗法，小职员连半雪被殃及池鱼踹出公司。 来不及发火就被拉入诡异世界，养育一只嗷嗷待哺的娃。 红眼睛，青皮肤，会发出桀桀阴笑，喂不饱就要把她嚼碎的娃。 连半雪：“……” 不慌，问题不大。 后来霸总和二公子双双卷入游戏，被怪物打趴，利爪掐住喉咙。 正恐惧绝望着，他们看见连半雪款款走来，逆光中似神女下凡，轻描淡写拎起怪物崽：“不是教过你吗，别吃脏东西。”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe33ba6e68ca817ba088437885506485e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157771&x-signature=CJ5QS1sp425NXAkS6xhgocdHZ1Q%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe33ba6e68ca817ba088437885506485e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243174&x-signature=QEc1%2FmBX%2BkbGb3xIYa2GmQG26xY%3D",
         "url": "https://fanqienovel.com/page/7687219526882036760"
       },
       {
         "title": "盗笔：解雨臣捡了个想死的崽",
         "author": "淮迟栖",
-        "reads": "6.9万",
+        "reads": "6.7万",
         "intro": "顾宴安好不容易拼死考上大学，一睁眼却被系统扔回高一新生座位上——听到要再读三年书那一刻，心都死了，真心觉得这世界就是针对他 详细请看正文，不喜欢退出去，谢谢理解",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oaaa4b48d8d6fd01ea0dcf7d9b2834732~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157771&x-signature=rALa7HHdsoo2buE32lg3NiFM8GY%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oaaa4b48d8d6fd01ea0dcf7d9b2834732~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243174&x-signature=ebdLsPoBQufdCTyOmB6rKSdpIfQ%3D",
         "url": "https://fanqienovel.com/page/7661673738508717080"
-      },
-      {
-        "title": "无限逃生：我的邻居是瓶邪黑花胖",
-        "author": "风晞",
-        "reads": "5.2万",
-        "intro": "【末世 + 无限流 + 空间 + 囤货 + 同人】 林蓁蓁在末世生活了二十三年，凭一手空间异能护着妈妈、小姨和小姑杀出丧尸围城。 结果脚下一空，就被卷进了无限逃生游戏 —— 开局只有一块破木板，原世界里的八阶异能，到了游戏世界只有三级变异兽的杀伤力；空间也从几千平缩水到几十平。 白天海上求生、公路狂飙、沙漠猎兽，晚上还要抵御一波波攻击宿舍的诡异。 好在她有静止空间囤物资，运气还好到离谱。 更幸运的是，隔壁宿舍住着几位一心砍诡异的 \"活阎王\"： 有人智计无双，有人武力天花板，有人厨艺封神，有人算无遗策，有人笑面阎罗，有人一身痞气笑里藏刀。别人为一个面包和诡异拼命时，林蓁蓁已经实现美食自由了。 白天组队开宝箱，晚上串门砍诡异，载具一路升级狂飙。 只是她渐渐发现 —— 这几位队友个个狠角色，唯独运气一个比一个离谱：满值幸运的她，带得动这群 \"倒霉蛋\" 吗？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of22cf75cfb6f20ce0be9cbc11f0d7044~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157771&x-signature=DAdaDyvSbaJoOA9LDL38nyRYesE%3D",
-        "url": "https://fanqienovel.com/page/7688023396730293273"
       },
       {
         "title": "盗墓：夜夜入梦后深陷20修罗场",
         "author": "听海风的雨",
-        "reads": "5万",
+        "reads": "5.1万",
         "intro": "【盗笔同人+雄竞修罗场+入梦系统+OOC+女主不是人土著+1vN单箭头万人迷】 时间线为终极笔记。 *魅惑钓系女主vs憋到又争又抢的男主们 绑定了【欲望收集返现系统】后，身为鲛人的顾令安才知道自己的世界是一本盗墓小说。 为了能长时间生活在陆地，找到鲛族圣物，顾令安答应了绑定。 你说什么？系统任务是入梦气运之子收集情欲值？！ 系统斗志满满：【宿主我们的目标是星辰大海！】 顾令安：海二十个，对鲛人强悍的身体来说都是小意思。 梦里她勾人又魅惑，他们纷纷失控沦陷。 现实她一举一动撩人于无形，他们无时无刻不在觊觎。 —— 憋的久了，是会坏的哦。 【注意事项】 ooc预警，前期会走一点剧情，后期会有原创内容。 女主是鲛人，在她的族群和认知里多夫是正常的。 女主很强，但不是无脑强。 本文就是一个让你们快乐的轻松同人向，没有很多猜忌情节。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oafe34f3f6b9723eeb50efb74e0260879~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157771&x-signature=KK7Kzlpq0Pb%2B09TZADiNZvJyzsA%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oafe34f3f6b9723eeb50efb74e0260879~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243174&x-signature=DN%2BAoy8A0BoWOGzw9JAXE31hQ0Q%3D",
         "url": "https://fanqienovel.com/page/7683554529366789182"
       },
       {
-        "title": "盗墓：谁家小祖宗写的日记这么野",
-        "author": "楚楚楚楚",
-        "reads": "4.4万",
-        "intro": "【成长系女主+团宠无CP+微群像＋日记系统+聊天群+本传+南部档案+九门】 新书 10.12 日 开分 6.9～ 亲爹亲妈都是稻米，从出生就绑定稻米粉籍的张海棠，在参加第三届十年长白山稻米节时意外身亡，被在殡仪馆守株待兔的系统绑定，穿越到盗笔世界。 系统告诉她，只要每天写日记，就能获得奖励。 神奇的物品、技能、乃至寿命。 于是她写的发了狠，忘了情。 可是系统也没说，有人能看到她写的日记呀。 而被日记系统副本选中的几人，因为日记里透露出来的信息，人生开始鸡飞狗跳。 日记副本拥有者：青铜门卫长、熬夜失明预备役、被骗一级选手、一人赚钱五人花、古墓拆迁办主任、南洋小墨莉、张家邪恶小比格。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3b042bbe4ae62391b5d55c43ee4f3de0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157771&x-signature=OKvM3EcPMPQKdbnNkni0tS9gJjE%3D",
-        "url": "https://fanqienovel.com/page/7651917004034542617"
+        "title": "无限逃生：我的邻居是瓶邪黑花胖",
+        "author": "风晞",
+        "reads": "4.5万",
+        "intro": "【末世 + 无限流 + 空间 + 囤货 + 同人】 林蓁蓁在末世生活了二十三年，凭一手空间异能护着妈妈、小姨和小姑杀出丧尸围城。 结果脚下一空，就被卷进了无限逃生游戏 —— 开局只有一块破木板，原世界里的八阶异能，到了游戏世界只有三级变异兽的杀伤力；空间也从几千平缩水到几十平。 白天海上求生、公路狂飙、沙漠猎兽，晚上还要抵御一波波攻击宿舍的诡异。 好在她有静止空间囤物资，运气还好到离谱。 更幸运的是，隔壁宿舍住着几位一心砍诡异的 \"活阎王\"： 有人智计无双，有人武力天花板，有人厨艺封神，有人算无遗策，有人笑面阎罗，有人一身痞气笑里藏刀。别人为一个面包和诡异拼命时，林蓁蓁已经实现美食自由了。 白天组队开宝箱，晚上串门砍诡异，载具一路升级狂飙。 只是她渐渐发现 —— 这几位队友个个狠角色，唯独运气一个比一个离谱：满值幸运的她，带得动这群 \"倒霉蛋\" 吗？",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of22cf75cfb6f20ce0be9cbc11f0d7044~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243174&x-signature=S%2FCm2IqO7t8Aan9iHzUaDAUObLg%3D",
+        "url": "https://fanqienovel.com/page/7688023396730293273"
       },
       {
         "title": "宿舍求生，我能看到隐藏提示",
         "author": "温酒煮西瓜",
         "reads": "4.2万",
         "intro": "【诡异游戏+求生探索+女强+爽文+团队+有cp+躺平发育】 戚玥上一秒还在收租路上，一眨眼就被拉进了诡异求生游戏。 这里每晚九点不但要遭遇诡异袭击，还遍布隐藏规则和游戏陷阱。 想要活下去，抢占宿舍、升级大门、赚取诡币、宝箱掠夺、副本探索缺一不可。 好在戚玥开局获得隐藏提示金手指，抢占稀有道具和黑心房东身份卡！ [叮！检测到23-101号房藏有金、紫双高品道具，速来！] [检测到本楼垃圾桶惊现高价值物资，快掏快掏~] [检测到前方污染浓度爆表，深入有死亡风险......] [检测到该玩家有强烈租房意愿，房东大人，速去收租！] 靠着bug级金手指，戚玥在诡异游戏中抢占先机，常年霸榜。 玩家1：这植物都被薅秃了，你现在告诉我能整株移走？ 玩家2：为什么她每次都能规避规则陷阱，精准找到高品物资？ 玩家3：说好的一起求生，她怎么在诡异小区到处收租？！ 戚玥微笑：空置客房还剩三间，先到先得，诡异也可入住哦~",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o70921b0d9c5579b090cf3ac699e2a8c8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157771&x-signature=KmbmRPT%2FSObUtlZEYvlyOgI1jak%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o70921b0d9c5579b090cf3ac699e2a8c8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243174&x-signature=vTsyC8LiB36h%2BpXZ665bko3swAw%3D",
         "url": "https://fanqienovel.com/page/7624111692934286360"
       },
       {
-        "title": "在柯学世界被满级马甲争抢",
-        "author": "乔乔给你瞧瞧",
-        "reads": "3.8万",
-        "intro": "马甲流柯同+误解向水仙+保柯南+金手指无脑大，作者对原作所有角色均无恶意，整体好感中上，本文不黑任何角色，拒绝对立。 穿越进自己正在玩的全息游戏里，雾泽怜本以为拿的是满级大佬屠新手的剧本，但他很快发现，他穿越的好像是那个危机四伏的名侦探柯南世界，满级的两个大号还用不了，本体却是自己刚创建的小号，还是个天赋为富江体质的小号。 于是，在众人眼中，他成了行走的珍宝，精致易碎的外表下，是吸引一切极端情绪的漩涡，凶手对他滋生扭曲的爱意，好人对他燃起强烈的保护欲。 他名义上的顶流偶像兄长对他无微不至，眼神却冰冷如看私有物；传说中的绝望魔女为他扫清障碍，举止间满是偏执的保护。 红方觉得他是被邪恶觊觎需要拯救的羔羊，黑方认为他是引发强者争夺的关键钥匙，所有人都坚信，这个表面清冷的养兄和那位性格扭曲又实力强悍的魔女之间，正上演着惊心动魄的狗血戏码。 没人知道，雾泽怜正悠闲地坐在风暴眼中心，一边用获得的积分在商城兑换技能，一边操控着自己的两个满级马甲给自己铺路清理麻烦。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2affeaa310014e789efd411efc472e6d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157771&x-signature=ru85QMySfz1Akdkkuf2uRDdHvhY%3D",
-        "url": "https://fanqienovel.com/page/7597122414366968894"
+        "title": "盗墓：谁家小祖宗写的日记这么野",
+        "author": "楚楚楚楚",
+        "reads": "4.1万",
+        "intro": "【成长系女主+团宠无CP+微群像＋日记系统+聊天群+本传+南部档案+九门】 新书 10.12 日 开分 6.9～ 亲爹亲妈都是稻米，从出生就绑定稻米粉籍的张海棠，在参加第三届十年长白山稻米节时意外身亡，被在殡仪馆守株待兔的系统绑定，穿越到盗笔世界。 系统告诉她，只要每天写日记，就能获得奖励。 神奇的物品、技能、乃至寿命。 于是她写的发了狠，忘了情。 可是系统也没说，有人能看到她写的日记呀。 而被日记系统副本选中的几人，因为日记里透露出来的信息，人生开始鸡飞狗跳。 日记副本拥有者：青铜门卫长、熬夜失明预备役、被骗一级选手、一人赚钱五人花、古墓拆迁办主任、南洋小墨莉、张家邪恶小比格。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3b042bbe4ae62391b5d55c43ee4f3de0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243174&x-signature=%2BSLOyEnCFgc59iNdS5BHaEbtPC8%3D",
+        "url": "https://fanqienovel.com/page/7651917004034542617"
       },
       {
         "title": "万人迷娇气包在无限恐游里当反派",
         "author": "兽王呼呼",
-        "reads": "3.6万",
+        "reads": "3.5万",
         "intro": "【快穿｜女嬷｜万人迷｜恐怖游戏｜微惊悚｜所有人都爱女主｜男洁｜修罗场｜雄竞】 　　云芙在某一天被系统送到恐怖游戏世界，为了赚钱，她成为了一名诡异临时工。 作为临时工，她的任务就是诱惑玩家主动破坏游戏规则，让他们接受死亡惩罚。 　　可是为什么到最后，不仅是副本boss，就连这些玩家都争抢着进入她打工的世界，疯狂咬钩？ 　　—— 副本一：玫瑰庄园 　　云芙是吸血鬼boss的蝙蝠手下，负责吸食玩家血液。 　　明明她都说了，被她吸到可是会死的哦。 　　可是为什么这些玩家听后，反而还双眼放光的扒开自己衣领诱惑她？？？ 副本二：男寝中的唯一女生 请掩藏好自己男校中唯一女性的身份哦。 　　[具体副本看小标题]",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8a594e50c0adf7b83952099046f5f2aa~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157771&x-signature=UOuMCeqwgb00RLGh869g2a2yKGA%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8a594e50c0adf7b83952099046f5f2aa~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243174&x-signature=s1jVfWVjpk9OOG%2BzUvBaWuxIVgk%3D",
         "url": "https://fanqienovel.com/page/7691191766791228478"
+      },
+      {
+        "title": "在柯学世界被满级马甲争抢",
+        "author": "乔乔给你瞧瞧",
+        "reads": "3.3万",
+        "intro": "马甲流柯同+误解向水仙+保柯南+金手指无脑大，作者对原作所有角色均无恶意，整体好感中上，本文不黑任何角色，拒绝对立。 穿越进自己正在玩的全息游戏里，雾泽怜本以为拿的是满级大佬屠新手的剧本，但他很快发现，他穿越的好像是那个危机四伏的名侦探柯南世界，满级的两个大号还用不了，本体却是自己刚创建的小号，还是个天赋为富江体质的小号。 于是，在众人眼中，他成了行走的珍宝，精致易碎的外表下，是吸引一切极端情绪的漩涡，凶手对他滋生扭曲的爱意，好人对他燃起强烈的保护欲。 他名义上的顶流偶像兄长对他无微不至，眼神却冰冷如看私有物；传说中的绝望魔女为他扫清障碍，举止间满是偏执的保护。 红方觉得他是被邪恶觊觎需要拯救的羔羊，黑方认为他是引发强者争夺的关键钥匙，所有人都坚信，这个表面清冷的养兄和那位性格扭曲又实力强悍的魔女之间，正上演着惊心动魄的狗血戏码。 没人知道，雾泽怜正悠闲地坐在风暴眼中心，一边用获得的积分在商城兑换技能，一边操控着自己的两个满级马甲给自己铺路清理麻烦。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2affeaa310014e789efd411efc472e6d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243174&x-signature=zgXsoE0M0cUtuFM%2BU5GawLIJr%2Bg%3D",
+        "url": "https://fanqienovel.com/page/7597122414366968894"
       },
       {
         "title": "宿舍求生：花钱雇佣诡异后躺赢了",
         "author": "燕予猫",
-        "reads": "3.2万",
+        "reads": "3万",
         "intro": "【宿舍求生+塔防+无CP+科幻末日+游戏入侵】 时初觉得自己要完，人能倒霉成什么样，只是睡个觉就被抓去宿舍求生了。 每天刷新无数诡异，这些诡异个个都要吃人。 诡异跟人类是有很大差别的，她跑也跑不过，打也打不动 但她有脑子，冒着金光的一定是好东西，这还说什么，拿到手就跑。 成功绑定了金色传说技能卡：有亿点钱！ 但凡只要是她前一天花出去的钱，都会在午夜12点双倍返还。 这天赋能有什么用，都来宿舍求生了，难不成诡异还会为五斗米折腰。 会的，会的！ 谁能不爱钱，升级为求生世界VVVIP大客户的时初告诉你。 只要你有亿点钱，诡异当保镖，道具批发放门口。 别人辛苦求生，她手中金币一撒，养着宠物，宿舍里吃火锅，日子不要太美。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o74cf888370a172c80463c4095d5d6e18~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157771&x-signature=FjNeDdpKmJYCkfC%2BYxIeXbQq4rI%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o74cf888370a172c80463c4095d5d6e18~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243174&x-signature=2Xi7YqcU029DYDZPQ1DiktQbooM%3D",
         "url": "https://fanqienovel.com/page/7690574344589691929"
       },
       {
         "title": "游戏求生：我在诡界收租【无限】",
         "author": "棠霖雪",
-        "reads": "3.1万",
+        "reads": "3万",
         "intro": "评分刚出，后面会涨。 【无限流+微恐+全文架空+男主背景板】 没人知道，为什么【恐怖游戏】忽然降临在了她们世界。 自从这游戏降临后，年满十八周岁至五十周岁的公民都有可能被游戏随机选中，进入“诡界”，游戏通关成为玩家继续下一轮游戏，游戏失败全村吃席。 棠昭，一位热爱生命的女生，在十八年的光辉岁月中已经深谙躺平之道，没有大事绝不出门，能躺则躺，避免加大被游戏选中的概率。 然而发小蹲在酒店预备冲进去抓出轨对象，她抄了把伞出门，决定支援发小，同对面进行2v2自由搏击。 大雨倾盆，她撑着把伞站在路边，不出意外的话意外就来了…… 【欢迎来到恐怖游戏。】 棠昭闭了闭眼：不敢睁开眼，希望是我的幻觉。 2026.5.1留 排雷： 无脑爽文？？？ 男主控不要点开。 看到读者雷点有猫，不喜猫的不要点开。其它的想到再说。 【依旧放飞自我之作】",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc55f8c898a8d18902fbf8d8b1a1a5fe7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157771&x-signature=YfcmCEZoWwkgIekMj4TA8JTUyCw%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc55f8c898a8d18902fbf8d8b1a1a5fe7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243174&x-signature=ickWn9dv2k3I91lFEN7yYF0eX%2Bc%3D",
         "url": "https://fanqienovel.com/page/7634890369385122840"
-      },
-      {
-        "title": "我在盗笔世界当导游",
-        "author": "潭州伯益",
-        "reads": "2.7万",
-        "intro": "陈圆第三次穿越后被一个旅社系统绑定了，让她当导游。陈圆无语，陈圆无奈。虽然陈圆在诡秘转了学徒序列，虽然学徒序列的序列5叫旅行家，但是旅行家和导游是两码事。什么？完成任务可以奖励积分，积分可以净化魔药，还可以奖励后续序列的魔药，那还是努力一把吧！ 新手练手之作，人物ooc，不喜勿喷。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc1856f3602a8caef6acb5768add4ef8a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157774&x-signature=Lcgh0obIcGkCiTrxIXxi2N14w7w%3D",
-        "url": "https://fanqienovel.com/page/7681589029770382398"
       },
       {
         "title": "诡异横行，无所谓，我的花会出手",
         "author": "芦笋鲜子贝",
-        "reads": "2.3万",
+        "reads": "2.9万",
         "intro": "【无cp+女主迪化流】 纪棠穿进了一个诡异横行、污染遍地的废土世界。 　　好消息：她觉醒自带种花系统的金手指，吃喝不愁。 　　坏消息：她对世界真相一无所知，每天勤勤恳恳当老农民。 　　她觉得自己就是个普通花店店主，顶多花养得比别人好那么一点点。 　　直到向日葵花盘裂开，变成锁定诡异的“花籽炮台大嘴花”，康乃馨C位出道开启个花演唱会，把B级诡异唱到昏昏欲睡。 　　她以为代表着浪漫爱意的红玫瑰，谁知客人拿它送给爱人，荆棘当场把污染诡异扎成了筛子。 　　客人：……omg！你们这是正经花店吗？ 　　全球诡异肆虐末世幸存者拼死搏杀、夹缝求生，而诡异见到她的花店绕道走，她养出的花会把诡异吞得渣都不剩，就连天灾级诡异面对花店也害怕到瑟瑟发抖。 　　诡异管理局眼中的纪棠简直就是行走的危险天灾，生怕这位一个不开心刷爆废土。 　　结果没想到这位SSS级天灾诡异日常主打一个安分守己、专心开店，彻底放下戒备的官方火速变脸，主动上门跪求合作！ 　　AAA.鲜花批发·纪棠眼睛一亮：“大客户！早说啊，批发价打八折！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob22bfb06c9f3d8802d808960f373db9d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157774&x-signature=05wxfg7aBapP1WM2j1%2B5%2FABVAJ4%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob22bfb06c9f3d8802d808960f373db9d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243177&x-signature=mUOubIkN4GNRC03o0VFeuwj%2BIYQ%3D",
         "url": "https://fanqienovel.com/page/7629635955212684312"
+      },
+      {
+        "title": "我在盗笔世界当导游",
+        "author": "潭州伯益",
+        "reads": "2.8万",
+        "intro": "陈圆第三次穿越后被一个旅社系统绑定了，让她当导游。陈圆无语，陈圆无奈。虽然陈圆在诡秘转了学徒序列，虽然学徒序列的序列5叫旅行家，但是旅行家和导游是两码事。什么？完成任务可以奖励积分，积分可以净化魔药，还可以奖励后续序列的魔药，那还是努力一把吧！ 新手练手之作，人物ooc，不喜勿喷。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc1856f3602a8caef6acb5768add4ef8a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243177&x-signature=3QIdwH7d01OMQRE0DdMJ9jKSWZ0%3D",
+        "url": "https://fanqienovel.com/page/7681589029770382398"
+      },
+      {
+        "title": "求生：从抢隐藏宿舍到星球至高神",
+        "author": "史呆芬的猫",
+        "reads": "2.4万",
+        "intro": "【求生游戏+无CP女强+女主最强+爽文】 夏扶楹见鬼了。 死去多年的外公突然给她托梦了。 梦境里，外公化为恶鬼的模样，追杀、恐吓最后毫不留情的杀掉她。 烧香拜佛、驱鬼符纸，丝毫不起作用。 整整一个月，夏扶楹精神越发崩溃。 就在这时，求生游戏降临了。 面对阴森恐惧的大楼，夏扶楹表示：有什么好怕的？冲冲冲！ 于是，夏扶楹抢到了这座大楼里唯一一个藏有金色传说级别道具的宿舍。 更叫她意外的是： 别人见诡异：【警告！你的理智下降了1点。】 而夏扶楹见诡异：【警告！你的理智下降了0.5点。】 “哇哦~感谢外公在游戏降临前的脱敏训练。” 夏扶楹还能看见一个奇怪的直播间。 直播间里面的观众疑似来自宇宙里的不同文明。 【如果这个玩家运气好，说不定能发现藏在厕所里的好东西。】 正在窥屏的夏扶楹：感谢馈赠，拿下！ …… 夏扶楹先是觉醒能打的天赋【剑仙】后又觉醒死不掉的天赋【耐活王】以及能够给目标脑海植入精神烙印的【灵台客】…… 夏扶楹一路打打杀杀，最后她突然发现—— 所有人都成了她最忠诚的信徒，她成神了！",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o73038a1046994773b5d0d95fc5dd6850~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243177&x-signature=9DXrg1MvQjwgv3qinmChXaQcqck%3D",
+        "url": "https://fanqienovel.com/page/7688082721221905433"
       },
       {
         "title": "穿成漫恐主角正太私生弟弟咋办？",
         "author": "南凌风起",
         "reads": "2.2万",
         "intro": "【漫画+马甲+论坛+无cp+群像+女频】 穿越到了自己写的一本诡异游戏漫画中。 成了男主那人嫌狗厌不干人事，身高只有1米5的、天使般的脸、蛇蝎般的心、专门给对方添堵的、好坏的、反派弟弟。 好坏的弟弟阮淮舟：“…” 现在的时间段，原主该做的已经做了，他都已经准备在下次副本中做掉主角了，虽然结果会被反杀。 但现在距离自己的结局差不多就到了，主角已经知道他的计划了啊啊啊啊啊。 嗯，那个伟大的计划就是弄掉主角哥哥、继承他的一切。 阮淮舟：“……” 人在无语的时候，是会笑的。 而此时此刻，他正在垃圾桶旁边叼着糖思考接下来怎么办。 直接跑路？ 脑海中的系统全出爆鸣的尖叫声。 “请不要放弃治疗啊，身为作者的你，难道想看到自己的漫画断更吗？” 拥有强迫症的阮淮舟：“……” 这该死的系统竟然拿捏住了他的想法！ 于是乎. 爷爷对主角说：“钥匙一直都在。” 男主：“？” 阮家是一个变态占有欲超强的疯批家族，今天我挖坑，明天白刀进红刀出更是常有的事，就比如说本家的长子就是有名的精神病，经常监控自己愚蠢的弟弟。 不过这和分家没有关系，事不关己高高挂起。 直到… 【主写亲情/非传统惊悚/男频误入】",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oedf7677a06cea36f8f738a39408eaf9d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157774&x-signature=clbhwjat72S41%2FMguysOUELT8qw%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oedf7677a06cea36f8f738a39408eaf9d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243177&x-signature=HvFpfF3oYwlKstuhqflEA0Ln0y4%3D",
         "url": "https://fanqienovel.com/page/7626804996272573465"
       },
       {
-        "title": "求生：从抢隐藏宿舍到星球至高神",
-        "author": "史呆芬的猫",
-        "reads": "2.2万",
-        "intro": "【求生游戏+无CP女强+女主最强+爽文】 夏扶楹见鬼了。 死去多年的外公突然给她托梦了。 梦境里，外公化为恶鬼的模样，追杀、恐吓最后毫不留情的杀掉她。 烧香拜佛、驱鬼符纸，丝毫不起作用。 整整一个月，夏扶楹精神越发崩溃。 就在这时，求生游戏降临了。 面对阴森恐惧的大楼，夏扶楹表示：有什么好怕的？冲冲冲！ 于是，夏扶楹抢到了这座大楼里唯一一个藏有金色传说级别道具的宿舍。 更叫她意外的是： 别人见诡异：【警告！你的理智下降了1点。】 而夏扶楹见诡异：【警告！你的理智下降了0.5点。】 “哇哦~感谢外公在游戏降临前的脱敏训练。” 夏扶楹还能看见一个奇怪的直播间。 直播间里面的观众疑似来自宇宙里的不同文明。 【如果这个玩家运气好，说不定能发现藏在厕所里的好东西。】 正在窥屏的夏扶楹：感谢馈赠，拿下！ …… 夏扶楹先是觉醒能打的天赋【剑仙】后又觉醒死不掉的天赋【耐活王】以及能够给目标脑海植入精神烙印的【灵台客】…… 夏扶楹一路打打杀杀，最后她突然发现—— 所有人都成了她最忠诚的信徒，她成神了！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o73038a1046994773b5d0d95fc5dd6850~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157774&x-signature=qdcrSlkV4miajOTEXdIaRKJgCC8%3D",
-        "url": "https://fanqienovel.com/page/7688082721221905433"
+        "title": "盗笔：我的植物没有成精",
+        "author": "冉冉v587",
+        "reads": "2万",
+        "intro": "【无cp+植物大战僵尸+团宠+对九门不友好】 什么是倒霉？ 倒霉就是刚落地新世界，就对上敌方人马，然后水灵灵从这个世界的外来者变成黑户+犯罪分子。 不仅如此，自己的犯罪全过程还被一只大黑耗子全程围观，虽然那只大黑耗子也不是什么好人。 虽然出场方式不太对，但没关系，强者从不抱怨环境！ 什么妖魔鬼怪，阴谋诡计，在小爷的植物下都是纸老虎！ 诶？那是啥？唐亦安爆冲ing…… 黑瞎子：小祖宗带我一个呗～ 张起灵：心累(\"▔□▔) 无邪：危险！！！Σ(°Д°; 胖子：(°ο°)孩子真有活力啊～ 简介无力，请感兴趣的宝子们移步正文～ PS：主角在嫩牛五方面前不会隐藏能力，因为他不在意，以及有保密协议，介意者勿入～",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o587da827436aedc29186e8df8010da54~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243177&x-signature=Ndf76isysodU4V1la1N34jvdI2E%3D",
+        "url": "https://fanqienovel.com/page/7692067250475387928"
       },
       {
         "title": "盗墓：家有比格，白月光狗都不当",
         "author": "深意y",
         "reads": "2万",
         "intro": "【癫文+ooc+all+女主乐子人+南部档案开局接老九门】 别人穿越拯救意难平，努力成为对方的白月光，张久意拯救意难平，直接成为对方小叔叔 什么？女孩子不能当叔叔？凭什么？我就要当叔叔 康庄大路越走越离谱 开局顶替张瑞朴，面对前来刺杀她的张海楼和张海侠，张久意让土著追着他俩在橡胶园里狂奔。 等到他俩去调查盘花礁失踪案，张久意直接开着船，炮轰莫云高副官的船，给了他们一个震撼登场 调查瘟疫案，张久意当着他俩的面，让人把张海娇姐弟直接带走 张久意：养的明白吗你就养？拿来吧你！ 莫云高派杀手来暗杀？张久意直接躲到张海侠的屁股后：叔可忍，侄不能忍，上，弄他们。 解决完莫云高，张久意转战长沙 张瑞朴秒改张瑞桐 张久意：孙砸，爷爷来咯~ 张启山：拉出去毙了 张久意：误会，我的意思是说，张瑞桐是我爷爷，咱俩是堂兄妹 张日山：那我是谁？ 一路冲到南疆，张久意不当张瑞朴了，她摇身一变成为了莫云高 张久意：我要当师座 张久意不理解为什么当师座这么累？ 张久意被累跑到长沙混了个副官的身份，开始作威作福 张久意：还是官小轻松 所有人：佛爷啊，你管管你府上的贪官吧 张启山：她只是贪财，又不害命，你们就不能忍忍吗",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6365a87a34e0fe089c53f3ed46057027~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157774&x-signature=c2r7tQeNLYcXcKdJ5cwibGNP5ek%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6365a87a34e0fe089c53f3ed46057027~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243177&x-signature=AhibgLsfE7yXj0vuoJLQgatjdvY%3D",
         "url": "https://fanqienovel.com/page/7676366359369894936"
-      },
-      {
-        "title": "我在盗墓世界绑定了美食系统",
-        "author": "爱吃甜的小胖子",
-        "reads": "2万",
-        "intro": "苏粟加入倒斗队伍前。 众人背包标配：压缩饼干、黑驴蹄子、绳索、洛阳铲、各式武器，全副武装严阵以待。 苏粟加入队伍后。 众人背包统一升级：锅碗瓢盆加筷子，顺带揣好自己干饭的嘴。 苏粟：…… 不是说盗墓凶险，带点压缩饼干凑活就行？ 呉邪：谁说的？罚他三天不许吃苏师傅做的饭。 胖子望天吹口哨：不是我胖爷啊，别瞅我。 张启灵：……（默默吃鸡腿） 解雨臣：弯眼浅笑。 黑瞎子：啧，真香。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0ee660cd5cee5378cf06deac1cc994c9~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157774&x-signature=jujNqOuKuRHYlGKBbbjzKi4m%2FhU%3D",
-        "url": "https://fanqienovel.com/page/7688798952103087129"
-      },
-      {
-        "title": "盗笔：我的植物没有成精",
-        "author": "冉冉v587",
-        "reads": "1.9万",
-        "intro": "【无cp+植物大战僵尸+团宠+对九门不友好】 什么是倒霉？ 倒霉就是刚落地新世界，就对上敌方人马，然后水灵灵从这个世界的外来者变成黑户+犯罪分子。 不仅如此，自己的犯罪全过程还被一只大黑耗子全程围观，虽然那只大黑耗子也不是什么好人。 虽然出场方式不太对，但没关系，强者从不抱怨环境！ 什么妖魔鬼怪，阴谋诡计，在小爷的植物下都是纸老虎！ 诶？那是啥？唐亦安爆冲ing…… 黑瞎子：小祖宗带我一个呗～ 张起灵：心累(\"▔□▔) 无邪：危险！！！Σ(°Д°; 胖子：(°ο°)孩子真有活力啊～ 简介无力，请感兴趣的宝子们移步正文～ PS：主角在嫩牛五方面前不会隐藏能力，因为他不在意，以及有保密协议，介意者勿入～",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o587da827436aedc29186e8df8010da54~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157774&x-signature=845IxrW70BbiCOVuIToqoD%2FbbcM%3D",
-        "url": "https://fanqienovel.com/page/7692067250475387928"
-      },
-      {
-        "title": "盗墓：我只是一个伙计啊",
-        "author": "66滴",
-        "reads": "1.8万",
-        "intro": "［盗笔+南部档案+all+十二符咒+微万人迷+ooc］ (女频文女频文，盗笔同人，盗笔时期不是纯爽文！！不是纯爽文！！爱好不同不要看求你们了，标签系统给的我也改不了) 在一场沙尘暴里，沈渡睁开眼时什么都不记得了。 还好他有系统给的金手指十二生肖符咒，什么！符咒要靠自己倒霉才能换！ 系统给沈渡画大饼，十二生肖符咒魅力四射，这点倒霉程度不算什么！ 身为阿宁队伍里默默无闻的伙计，沈渡在墓里一边大喊着不要咬我啊一边用自己的细瘦的胳膊徒手撕大蛇。 一边被石头绊倒一边迅速爬起来以人类不可达之速跑的飞快。 一边善良的人格躲在吴邪众人身边嘤嘤嘤求保护，一边邪恶人格就要炸掉墓穴与怪物同归于尽。 沈渡在失去记忆后给自己找了好多好朋友，但是好朋友总是往危险的地方钻怎么办，没办法，沈渡这么善良的人当然要保护他们啦！ 只是为什么好朋友们看他的眼神怎么越来越怪啊。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o11dd54d6f8926ddbaf8493af346162ce~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157774&x-signature=fjjl1fCrEcHCxH%2B%2FTTXw55Djd6M%3D",
-        "url": "https://fanqienovel.com/page/7667160428958452798"
       },
       {
         "title": "让魅魔去盗墓助人为乐",
         "author": "青椒小鱼",
-        "reads": "1.8万",
+        "reads": "1.9万",
         "intro": "【魅魔体质女主+心机男主+all+1vn+助人为乐系统】 叮，前方发现颜值80分以上美人，需要帮助！ 助人为乐？ 不，是系统给得多。 女主自杀的时候被助人为乐系统绑定，她以为是穿越，没想到是回到过去，只可惜这个过去没有姑奶奶。 黑瞎子：哟，老刘家的人！ 刘岁岁：……你认错人了。 吳邪：刘岁是我请的向导，是我兄弟。 刘岁岁：对对，你说的对。 小哥：她不能走。 刘岁岁：切，那那么多规矩，想走就走。 小花：佣金发给你了。 刘岁岁：好嘞老板，这就给你带路。 张海客：九门给你多少，我张家出双倍。 汪灿：张家给你多少，我汪家出双倍。 刘岁岁：有系统挂爹在，你们都是弟弟。 刘丧：……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o370ceea8c5e1b0a05c55c79a79e2315f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157774&x-signature=6D2RA33lSNy%2FCBfaaiiaIQK3nVs%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o370ceea8c5e1b0a05c55c79a79e2315f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243177&x-signature=vvqZNuhSckDfX5zyacPRN2ELWvU%3D",
         "url": "https://fanqienovel.com/page/7702667432489405502"
+      },
+      {
+        "title": "盗墓：我只是一个伙计啊",
+        "author": "66滴",
+        "reads": "1.9万",
+        "intro": "［盗笔+南部档案+all+十二符咒+微万人迷+ooc］ (女频文女频文，盗笔同人，盗笔时期不是纯爽文！！不是纯爽文！！爱好不同不要看求你们了，标签系统给的我也改不了) 在一场沙尘暴里，沈渡睁开眼时什么都不记得了。 还好他有系统给的金手指十二生肖符咒，什么！符咒要靠自己倒霉才能换！ 系统给沈渡画大饼，十二生肖符咒魅力四射，这点倒霉程度不算什么！ 身为阿宁队伍里默默无闻的伙计，沈渡在墓里一边大喊着不要咬我啊一边用自己的细瘦的胳膊徒手撕大蛇。 一边被石头绊倒一边迅速爬起来以人类不可达之速跑的飞快。 一边善良的人格躲在吴邪众人身边嘤嘤嘤求保护，一边邪恶人格就要炸掉墓穴与怪物同归于尽。 沈渡在失去记忆后给自己找了好多好朋友，但是好朋友总是往危险的地方钻怎么办，没办法，沈渡这么善良的人当然要保护他们啦！ 只是为什么好朋友们看他的眼神怎么越来越怪啊。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o11dd54d6f8926ddbaf8493af346162ce~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243177&x-signature=SrRtPKYfvr9a%2Bb1Q%2FmI5mMcEhN0%3D",
+        "url": "https://fanqienovel.com/page/7667160428958452798"
+      },
+      {
+        "title": "我在盗墓世界绑定了美食系统",
+        "author": "爱吃甜的小胖子",
+        "reads": "1.8万",
+        "intro": "苏粟加入倒斗队伍前。 众人背包标配：压缩饼干、黑驴蹄子、绳索、洛阳铲、各式武器，全副武装严阵以待。 苏粟加入队伍后。 众人背包统一升级：锅碗瓢盆加筷子，顺带揣好自己干饭的嘴。 苏粟：…… 不是说盗墓凶险，带点压缩饼干凑活就行？ 呉邪：谁说的？罚他三天不许吃苏师傅做的饭。 胖子望天吹口哨：不是我胖爷啊，别瞅我。 张启灵：……（默默吃鸡腿） 解雨臣：弯眼浅笑。 黑瞎子：啧，真香。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0ee660cd5cee5378cf06deac1cc994c9~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243177&x-signature=9yVIIBI9%2FAjNw6edg0N7HF2te6Y%3D",
+        "url": "https://fanqienovel.com/page/7688798952103087129"
       },
       {
         "title": "盗墓之咸鱼欧皇降临",
         "author": "南意到梦洲",
         "reads": "1.7万",
         "intro": "盗墓同人，ooc预警 林青柚是一个非常幸运的人，从小到大都是这样，想要什么基本都会得到，就像小说里面的主角一样，仿佛有什么气运环绕着他。 幸运到极致后，他穿越了。 什么？拯救主角？ 什么？还要穿越平行世界拯救主角？ 他只是一个平平无奇、幸运至极且摆烂的小咸鱼罢了。 怎么光逮着他一个人薅啊？ 还有主角，不要围着他啊！这些都是任务！任务！ 其他人：嗯，你说的都对。 （避雷：大概率无cp或者aII！！！人物ooc！！！）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocbc0745e7906f655e5b10d6239fbb5cd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157774&x-signature=q%2B6SsL02sCyHMnuTW2hza7tt4Qw%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocbc0745e7906f655e5b10d6239fbb5cd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243177&x-signature=bwTSY1%2BUr5bYQMEb2WPrIMsi4uU%3D",
         "url": "https://fanqienovel.com/page/7618604368241101848"
       }
     ]
@@ -227,220 +220,213 @@
     {
       "name": "悬疑脑洞",
       "trend": {
-        "new_count": 1,
-        "dropped_count": 1,
-        "new_books": [
-          "让魅魔去盗墓助人为乐"
-        ],
-        "dropped_books": [
-          {
-            "title": "一点点万男迷嬷女文学的短篇合集",
-            "intro": "鸢瓷是一个长的好看的普通人，只是有一天穿越了，然后被爱上了。 这是一个漂亮女宝进入到各种小世界被（爱）的故事合集。 注意:男主们品行不一，bad男人，作者不会牵扯除妹宝外的无辜女士！ 注意:作者严重炫"
-          }
-        ],
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
         "top_risers": [
-          {
-            "title": "诡异横行，无所谓，我的花会出手",
-            "change": "+5"
-          },
-          {
-            "title": "求生：从抢隐藏宿舍到星球至高神",
-            "change": "+2"
-          },
           {
             "title": "盗笔：我的植物没有成精",
             "change": "+2"
+          },
+          {
+            "title": "让魅魔去盗墓助人为乐",
+            "change": "+2"
+          },
+          {
+            "title": "盗墓：夜夜入梦后深陷20修罗场",
+            "change": "+1"
           }
         ],
         "top_fallers": [
           {
             "title": "我在盗墓世界绑定了美食系统",
-            "change": "-2"
+            "change": "-3"
           },
           {
-            "title": "盗墓之咸鱼欧皇降临",
-            "change": "-2"
+            "title": "无限逃生：我的邻居是瓶邪黑花胖",
+            "change": "-1"
           },
           {
-            "title": "在柯学世界被满级马甲争抢",
+            "title": "盗墓：谁家小祖宗写的日记这么野",
             "change": "-1"
           }
         ],
         "reads_growth": [
           {
             "title": "诡异横行，无所谓，我的花会出手",
-            "growth": "+4000"
+            "growth": "+6000"
           },
           {
             "title": "求生：从抢隐藏宿舍到星球至高神",
-            "growth": "+3000"
+            "growth": "+2000"
           },
           {
             "title": "盗墓：夜夜入梦后深陷20修罗场",
-            "growth": "+2000"
+            "growth": "+1000"
           }
         ],
-        "summary": "新增1本上榜；1本掉出（《一点点万男迷嬷女文学的短篇合集》）；《诡异横行，无所谓，我的花会出手》排名上升+5位；《诡异横行，无所谓，我的花会出手》阅读量+4000。"
+        "summary": "《盗笔：我的植物没有成精》排名上升+2位；《诡异横行，无所谓，我的花会出手》阅读量+6000。"
       },
       "books": [
         {
           "title": "诡异NPC：开局就当怪物妈",
           "author": "梦在他方",
-          "reads": "9.7万",
+          "reads": "9.1万",
           "intro": "（评分刚出，会涨的OTZ）【怪物幼崽+救赎治愈+万人迷魅魔型领袖】 【先攻略再横行霸道】 什么叫我扮演NPC死遁后，还要当玩家通关一次副本？ * 集团霸总和二公子争权斗法，小职员连半雪被殃及池鱼踹出公司。 来不及发火就被拉入诡异世界，养育一只嗷嗷待哺的娃。 红眼睛，青皮肤，会发出桀桀阴笑，喂不饱就要把她嚼碎的娃。 连半雪：“……” 不慌，问题不大。 后来霸总和二公子双双卷入游戏，被怪物打趴，利爪掐住喉咙。 正恐惧绝望着，他们看见连半雪款款走来，逆光中似神女下凡，轻描淡写拎起怪物崽：“不是教过你吗，别吃脏东西。”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe33ba6e68ca817ba088437885506485e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157771&x-signature=CJ5QS1sp425NXAkS6xhgocdHZ1Q%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe33ba6e68ca817ba088437885506485e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243174&x-signature=QEc1%2FmBX%2BkbGb3xIYa2GmQG26xY%3D",
           "url": "https://fanqienovel.com/page/7687219526882036760"
         },
         {
           "title": "盗笔：解雨臣捡了个想死的崽",
           "author": "淮迟栖",
-          "reads": "6.9万",
+          "reads": "6.7万",
           "intro": "顾宴安好不容易拼死考上大学，一睁眼却被系统扔回高一新生座位上——听到要再读三年书那一刻，心都死了，真心觉得这世界就是针对他 详细请看正文，不喜欢退出去，谢谢理解",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oaaa4b48d8d6fd01ea0dcf7d9b2834732~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157771&x-signature=rALa7HHdsoo2buE32lg3NiFM8GY%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oaaa4b48d8d6fd01ea0dcf7d9b2834732~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243174&x-signature=ebdLsPoBQufdCTyOmB6rKSdpIfQ%3D",
           "url": "https://fanqienovel.com/page/7661673738508717080"
-        },
-        {
-          "title": "无限逃生：我的邻居是瓶邪黑花胖",
-          "author": "风晞",
-          "reads": "5.2万",
-          "intro": "【末世 + 无限流 + 空间 + 囤货 + 同人】 林蓁蓁在末世生活了二十三年，凭一手空间异能护着妈妈、小姨和小姑杀出丧尸围城。 结果脚下一空，就被卷进了无限逃生游戏 —— 开局只有一块破木板，原世界里的八阶异能，到了游戏世界只有三级变异兽的杀伤力；空间也从几千平缩水到几十平。 白天海上求生、公路狂飙、沙漠猎兽，晚上还要抵御一波波攻击宿舍的诡异。 好在她有静止空间囤物资，运气还好到离谱。 更幸运的是，隔壁宿舍住着几位一心砍诡异的 \"活阎王\"： 有人智计无双，有人武力天花板，有人厨艺封神，有人算无遗策，有人笑面阎罗，有人一身痞气笑里藏刀。别人为一个面包和诡异拼命时，林蓁蓁已经实现美食自由了。 白天组队开宝箱，晚上串门砍诡异，载具一路升级狂飙。 只是她渐渐发现 —— 这几位队友个个狠角色，唯独运气一个比一个离谱：满值幸运的她，带得动这群 \"倒霉蛋\" 吗？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of22cf75cfb6f20ce0be9cbc11f0d7044~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157771&x-signature=DAdaDyvSbaJoOA9LDL38nyRYesE%3D",
-          "url": "https://fanqienovel.com/page/7688023396730293273"
         },
         {
           "title": "盗墓：夜夜入梦后深陷20修罗场",
           "author": "听海风的雨",
-          "reads": "5万",
+          "reads": "5.1万",
           "intro": "【盗笔同人+雄竞修罗场+入梦系统+OOC+女主不是人土著+1vN单箭头万人迷】 时间线为终极笔记。 *魅惑钓系女主vs憋到又争又抢的男主们 绑定了【欲望收集返现系统】后，身为鲛人的顾令安才知道自己的世界是一本盗墓小说。 为了能长时间生活在陆地，找到鲛族圣物，顾令安答应了绑定。 你说什么？系统任务是入梦气运之子收集情欲值？！ 系统斗志满满：【宿主我们的目标是星辰大海！】 顾令安：海二十个，对鲛人强悍的身体来说都是小意思。 梦里她勾人又魅惑，他们纷纷失控沦陷。 现实她一举一动撩人于无形，他们无时无刻不在觊觎。 —— 憋的久了，是会坏的哦。 【注意事项】 ooc预警，前期会走一点剧情，后期会有原创内容。 女主是鲛人，在她的族群和认知里多夫是正常的。 女主很强，但不是无脑强。 本文就是一个让你们快乐的轻松同人向，没有很多猜忌情节。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oafe34f3f6b9723eeb50efb74e0260879~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157771&x-signature=KK7Kzlpq0Pb%2B09TZADiNZvJyzsA%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oafe34f3f6b9723eeb50efb74e0260879~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243174&x-signature=DN%2BAoy8A0BoWOGzw9JAXE31hQ0Q%3D",
           "url": "https://fanqienovel.com/page/7683554529366789182"
         },
         {
-          "title": "盗墓：谁家小祖宗写的日记这么野",
-          "author": "楚楚楚楚",
-          "reads": "4.4万",
-          "intro": "【成长系女主+团宠无CP+微群像＋日记系统+聊天群+本传+南部档案+九门】 新书 10.12 日 开分 6.9～ 亲爹亲妈都是稻米，从出生就绑定稻米粉籍的张海棠，在参加第三届十年长白山稻米节时意外身亡，被在殡仪馆守株待兔的系统绑定，穿越到盗笔世界。 系统告诉她，只要每天写日记，就能获得奖励。 神奇的物品、技能、乃至寿命。 于是她写的发了狠，忘了情。 可是系统也没说，有人能看到她写的日记呀。 而被日记系统副本选中的几人，因为日记里透露出来的信息，人生开始鸡飞狗跳。 日记副本拥有者：青铜门卫长、熬夜失明预备役、被骗一级选手、一人赚钱五人花、古墓拆迁办主任、南洋小墨莉、张家邪恶小比格。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3b042bbe4ae62391b5d55c43ee4f3de0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157771&x-signature=OKvM3EcPMPQKdbnNkni0tS9gJjE%3D",
-          "url": "https://fanqienovel.com/page/7651917004034542617"
+          "title": "无限逃生：我的邻居是瓶邪黑花胖",
+          "author": "风晞",
+          "reads": "4.5万",
+          "intro": "【末世 + 无限流 + 空间 + 囤货 + 同人】 林蓁蓁在末世生活了二十三年，凭一手空间异能护着妈妈、小姨和小姑杀出丧尸围城。 结果脚下一空，就被卷进了无限逃生游戏 —— 开局只有一块破木板，原世界里的八阶异能，到了游戏世界只有三级变异兽的杀伤力；空间也从几千平缩水到几十平。 白天海上求生、公路狂飙、沙漠猎兽，晚上还要抵御一波波攻击宿舍的诡异。 好在她有静止空间囤物资，运气还好到离谱。 更幸运的是，隔壁宿舍住着几位一心砍诡异的 \"活阎王\"： 有人智计无双，有人武力天花板，有人厨艺封神，有人算无遗策，有人笑面阎罗，有人一身痞气笑里藏刀。别人为一个面包和诡异拼命时，林蓁蓁已经实现美食自由了。 白天组队开宝箱，晚上串门砍诡异，载具一路升级狂飙。 只是她渐渐发现 —— 这几位队友个个狠角色，唯独运气一个比一个离谱：满值幸运的她，带得动这群 \"倒霉蛋\" 吗？",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of22cf75cfb6f20ce0be9cbc11f0d7044~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243174&x-signature=S%2FCm2IqO7t8Aan9iHzUaDAUObLg%3D",
+          "url": "https://fanqienovel.com/page/7688023396730293273"
         },
         {
           "title": "宿舍求生，我能看到隐藏提示",
           "author": "温酒煮西瓜",
           "reads": "4.2万",
           "intro": "【诡异游戏+求生探索+女强+爽文+团队+有cp+躺平发育】 戚玥上一秒还在收租路上，一眨眼就被拉进了诡异求生游戏。 这里每晚九点不但要遭遇诡异袭击，还遍布隐藏规则和游戏陷阱。 想要活下去，抢占宿舍、升级大门、赚取诡币、宝箱掠夺、副本探索缺一不可。 好在戚玥开局获得隐藏提示金手指，抢占稀有道具和黑心房东身份卡！ [叮！检测到23-101号房藏有金、紫双高品道具，速来！] [检测到本楼垃圾桶惊现高价值物资，快掏快掏~] [检测到前方污染浓度爆表，深入有死亡风险......] [检测到该玩家有强烈租房意愿，房东大人，速去收租！] 靠着bug级金手指，戚玥在诡异游戏中抢占先机，常年霸榜。 玩家1：这植物都被薅秃了，你现在告诉我能整株移走？ 玩家2：为什么她每次都能规避规则陷阱，精准找到高品物资？ 玩家3：说好的一起求生，她怎么在诡异小区到处收租？！ 戚玥微笑：空置客房还剩三间，先到先得，诡异也可入住哦~",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o70921b0d9c5579b090cf3ac699e2a8c8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157771&x-signature=KmbmRPT%2FSObUtlZEYvlyOgI1jak%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o70921b0d9c5579b090cf3ac699e2a8c8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243174&x-signature=vTsyC8LiB36h%2BpXZ665bko3swAw%3D",
           "url": "https://fanqienovel.com/page/7624111692934286360"
         },
         {
-          "title": "在柯学世界被满级马甲争抢",
-          "author": "乔乔给你瞧瞧",
-          "reads": "3.8万",
-          "intro": "马甲流柯同+误解向水仙+保柯南+金手指无脑大，作者对原作所有角色均无恶意，整体好感中上，本文不黑任何角色，拒绝对立。 穿越进自己正在玩的全息游戏里，雾泽怜本以为拿的是满级大佬屠新手的剧本，但他很快发现，他穿越的好像是那个危机四伏的名侦探柯南世界，满级的两个大号还用不了，本体却是自己刚创建的小号，还是个天赋为富江体质的小号。 于是，在众人眼中，他成了行走的珍宝，精致易碎的外表下，是吸引一切极端情绪的漩涡，凶手对他滋生扭曲的爱意，好人对他燃起强烈的保护欲。 他名义上的顶流偶像兄长对他无微不至，眼神却冰冷如看私有物；传说中的绝望魔女为他扫清障碍，举止间满是偏执的保护。 红方觉得他是被邪恶觊觎需要拯救的羔羊，黑方认为他是引发强者争夺的关键钥匙，所有人都坚信，这个表面清冷的养兄和那位性格扭曲又实力强悍的魔女之间，正上演着惊心动魄的狗血戏码。 没人知道，雾泽怜正悠闲地坐在风暴眼中心，一边用获得的积分在商城兑换技能，一边操控着自己的两个满级马甲给自己铺路清理麻烦。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2affeaa310014e789efd411efc472e6d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157771&x-signature=ru85QMySfz1Akdkkuf2uRDdHvhY%3D",
-          "url": "https://fanqienovel.com/page/7597122414366968894"
+          "title": "盗墓：谁家小祖宗写的日记这么野",
+          "author": "楚楚楚楚",
+          "reads": "4.1万",
+          "intro": "【成长系女主+团宠无CP+微群像＋日记系统+聊天群+本传+南部档案+九门】 新书 10.12 日 开分 6.9～ 亲爹亲妈都是稻米，从出生就绑定稻米粉籍的张海棠，在参加第三届十年长白山稻米节时意外身亡，被在殡仪馆守株待兔的系统绑定，穿越到盗笔世界。 系统告诉她，只要每天写日记，就能获得奖励。 神奇的物品、技能、乃至寿命。 于是她写的发了狠，忘了情。 可是系统也没说，有人能看到她写的日记呀。 而被日记系统副本选中的几人，因为日记里透露出来的信息，人生开始鸡飞狗跳。 日记副本拥有者：青铜门卫长、熬夜失明预备役、被骗一级选手、一人赚钱五人花、古墓拆迁办主任、南洋小墨莉、张家邪恶小比格。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3b042bbe4ae62391b5d55c43ee4f3de0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243174&x-signature=%2BSLOyEnCFgc59iNdS5BHaEbtPC8%3D",
+          "url": "https://fanqienovel.com/page/7651917004034542617"
         },
         {
           "title": "万人迷娇气包在无限恐游里当反派",
           "author": "兽王呼呼",
-          "reads": "3.6万",
+          "reads": "3.5万",
           "intro": "【快穿｜女嬷｜万人迷｜恐怖游戏｜微惊悚｜所有人都爱女主｜男洁｜修罗场｜雄竞】 　　云芙在某一天被系统送到恐怖游戏世界，为了赚钱，她成为了一名诡异临时工。 作为临时工，她的任务就是诱惑玩家主动破坏游戏规则，让他们接受死亡惩罚。 　　可是为什么到最后，不仅是副本boss，就连这些玩家都争抢着进入她打工的世界，疯狂咬钩？ 　　—— 副本一：玫瑰庄园 　　云芙是吸血鬼boss的蝙蝠手下，负责吸食玩家血液。 　　明明她都说了，被她吸到可是会死的哦。 　　可是为什么这些玩家听后，反而还双眼放光的扒开自己衣领诱惑她？？？ 副本二：男寝中的唯一女生 请掩藏好自己男校中唯一女性的身份哦。 　　[具体副本看小标题]",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8a594e50c0adf7b83952099046f5f2aa~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157771&x-signature=UOuMCeqwgb00RLGh869g2a2yKGA%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8a594e50c0adf7b83952099046f5f2aa~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243174&x-signature=s1jVfWVjpk9OOG%2BzUvBaWuxIVgk%3D",
           "url": "https://fanqienovel.com/page/7691191766791228478"
+        },
+        {
+          "title": "在柯学世界被满级马甲争抢",
+          "author": "乔乔给你瞧瞧",
+          "reads": "3.3万",
+          "intro": "马甲流柯同+误解向水仙+保柯南+金手指无脑大，作者对原作所有角色均无恶意，整体好感中上，本文不黑任何角色，拒绝对立。 穿越进自己正在玩的全息游戏里，雾泽怜本以为拿的是满级大佬屠新手的剧本，但他很快发现，他穿越的好像是那个危机四伏的名侦探柯南世界，满级的两个大号还用不了，本体却是自己刚创建的小号，还是个天赋为富江体质的小号。 于是，在众人眼中，他成了行走的珍宝，精致易碎的外表下，是吸引一切极端情绪的漩涡，凶手对他滋生扭曲的爱意，好人对他燃起强烈的保护欲。 他名义上的顶流偶像兄长对他无微不至，眼神却冰冷如看私有物；传说中的绝望魔女为他扫清障碍，举止间满是偏执的保护。 红方觉得他是被邪恶觊觎需要拯救的羔羊，黑方认为他是引发强者争夺的关键钥匙，所有人都坚信，这个表面清冷的养兄和那位性格扭曲又实力强悍的魔女之间，正上演着惊心动魄的狗血戏码。 没人知道，雾泽怜正悠闲地坐在风暴眼中心，一边用获得的积分在商城兑换技能，一边操控着自己的两个满级马甲给自己铺路清理麻烦。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2affeaa310014e789efd411efc472e6d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243174&x-signature=zgXsoE0M0cUtuFM%2BU5GawLIJr%2Bg%3D",
+          "url": "https://fanqienovel.com/page/7597122414366968894"
         },
         {
           "title": "宿舍求生：花钱雇佣诡异后躺赢了",
           "author": "燕予猫",
-          "reads": "3.2万",
+          "reads": "3万",
           "intro": "【宿舍求生+塔防+无CP+科幻末日+游戏入侵】 时初觉得自己要完，人能倒霉成什么样，只是睡个觉就被抓去宿舍求生了。 每天刷新无数诡异，这些诡异个个都要吃人。 诡异跟人类是有很大差别的，她跑也跑不过，打也打不动 但她有脑子，冒着金光的一定是好东西，这还说什么，拿到手就跑。 成功绑定了金色传说技能卡：有亿点钱！ 但凡只要是她前一天花出去的钱，都会在午夜12点双倍返还。 这天赋能有什么用，都来宿舍求生了，难不成诡异还会为五斗米折腰。 会的，会的！ 谁能不爱钱，升级为求生世界VVVIP大客户的时初告诉你。 只要你有亿点钱，诡异当保镖，道具批发放门口。 别人辛苦求生，她手中金币一撒，养着宠物，宿舍里吃火锅，日子不要太美。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o74cf888370a172c80463c4095d5d6e18~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157771&x-signature=FjNeDdpKmJYCkfC%2BYxIeXbQq4rI%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o74cf888370a172c80463c4095d5d6e18~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243174&x-signature=2Xi7YqcU029DYDZPQ1DiktQbooM%3D",
           "url": "https://fanqienovel.com/page/7690574344589691929"
         },
         {
           "title": "游戏求生：我在诡界收租【无限】",
           "author": "棠霖雪",
-          "reads": "3.1万",
+          "reads": "3万",
           "intro": "评分刚出，后面会涨。 【无限流+微恐+全文架空+男主背景板】 没人知道，为什么【恐怖游戏】忽然降临在了她们世界。 自从这游戏降临后，年满十八周岁至五十周岁的公民都有可能被游戏随机选中，进入“诡界”，游戏通关成为玩家继续下一轮游戏，游戏失败全村吃席。 棠昭，一位热爱生命的女生，在十八年的光辉岁月中已经深谙躺平之道，没有大事绝不出门，能躺则躺，避免加大被游戏选中的概率。 然而发小蹲在酒店预备冲进去抓出轨对象，她抄了把伞出门，决定支援发小，同对面进行2v2自由搏击。 大雨倾盆，她撑着把伞站在路边，不出意外的话意外就来了…… 【欢迎来到恐怖游戏。】 棠昭闭了闭眼：不敢睁开眼，希望是我的幻觉。 2026.5.1留 排雷： 无脑爽文？？？ 男主控不要点开。 看到读者雷点有猫，不喜猫的不要点开。其它的想到再说。 【依旧放飞自我之作】",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc55f8c898a8d18902fbf8d8b1a1a5fe7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157771&x-signature=YfcmCEZoWwkgIekMj4TA8JTUyCw%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc55f8c898a8d18902fbf8d8b1a1a5fe7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243174&x-signature=ickWn9dv2k3I91lFEN7yYF0eX%2Bc%3D",
           "url": "https://fanqienovel.com/page/7634890369385122840"
-        },
-        {
-          "title": "我在盗笔世界当导游",
-          "author": "潭州伯益",
-          "reads": "2.7万",
-          "intro": "陈圆第三次穿越后被一个旅社系统绑定了，让她当导游。陈圆无语，陈圆无奈。虽然陈圆在诡秘转了学徒序列，虽然学徒序列的序列5叫旅行家，但是旅行家和导游是两码事。什么？完成任务可以奖励积分，积分可以净化魔药，还可以奖励后续序列的魔药，那还是努力一把吧！ 新手练手之作，人物ooc，不喜勿喷。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc1856f3602a8caef6acb5768add4ef8a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157774&x-signature=Lcgh0obIcGkCiTrxIXxi2N14w7w%3D",
-          "url": "https://fanqienovel.com/page/7681589029770382398"
         },
         {
           "title": "诡异横行，无所谓，我的花会出手",
           "author": "芦笋鲜子贝",
-          "reads": "2.3万",
+          "reads": "2.9万",
           "intro": "【无cp+女主迪化流】 纪棠穿进了一个诡异横行、污染遍地的废土世界。 　　好消息：她觉醒自带种花系统的金手指，吃喝不愁。 　　坏消息：她对世界真相一无所知，每天勤勤恳恳当老农民。 　　她觉得自己就是个普通花店店主，顶多花养得比别人好那么一点点。 　　直到向日葵花盘裂开，变成锁定诡异的“花籽炮台大嘴花”，康乃馨C位出道开启个花演唱会，把B级诡异唱到昏昏欲睡。 　　她以为代表着浪漫爱意的红玫瑰，谁知客人拿它送给爱人，荆棘当场把污染诡异扎成了筛子。 　　客人：……omg！你们这是正经花店吗？ 　　全球诡异肆虐末世幸存者拼死搏杀、夹缝求生，而诡异见到她的花店绕道走，她养出的花会把诡异吞得渣都不剩，就连天灾级诡异面对花店也害怕到瑟瑟发抖。 　　诡异管理局眼中的纪棠简直就是行走的危险天灾，生怕这位一个不开心刷爆废土。 　　结果没想到这位SSS级天灾诡异日常主打一个安分守己、专心开店，彻底放下戒备的官方火速变脸，主动上门跪求合作！ 　　AAA.鲜花批发·纪棠眼睛一亮：“大客户！早说啊，批发价打八折！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob22bfb06c9f3d8802d808960f373db9d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157774&x-signature=05wxfg7aBapP1WM2j1%2B5%2FABVAJ4%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob22bfb06c9f3d8802d808960f373db9d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243177&x-signature=mUOubIkN4GNRC03o0VFeuwj%2BIYQ%3D",
           "url": "https://fanqienovel.com/page/7629635955212684312"
+        },
+        {
+          "title": "我在盗笔世界当导游",
+          "author": "潭州伯益",
+          "reads": "2.8万",
+          "intro": "陈圆第三次穿越后被一个旅社系统绑定了，让她当导游。陈圆无语，陈圆无奈。虽然陈圆在诡秘转了学徒序列，虽然学徒序列的序列5叫旅行家，但是旅行家和导游是两码事。什么？完成任务可以奖励积分，积分可以净化魔药，还可以奖励后续序列的魔药，那还是努力一把吧！ 新手练手之作，人物ooc，不喜勿喷。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc1856f3602a8caef6acb5768add4ef8a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243177&x-signature=3QIdwH7d01OMQRE0DdMJ9jKSWZ0%3D",
+          "url": "https://fanqienovel.com/page/7681589029770382398"
+        },
+        {
+          "title": "求生：从抢隐藏宿舍到星球至高神",
+          "author": "史呆芬的猫",
+          "reads": "2.4万",
+          "intro": "【求生游戏+无CP女强+女主最强+爽文】 夏扶楹见鬼了。 死去多年的外公突然给她托梦了。 梦境里，外公化为恶鬼的模样，追杀、恐吓最后毫不留情的杀掉她。 烧香拜佛、驱鬼符纸，丝毫不起作用。 整整一个月，夏扶楹精神越发崩溃。 就在这时，求生游戏降临了。 面对阴森恐惧的大楼，夏扶楹表示：有什么好怕的？冲冲冲！ 于是，夏扶楹抢到了这座大楼里唯一一个藏有金色传说级别道具的宿舍。 更叫她意外的是： 别人见诡异：【警告！你的理智下降了1点。】 而夏扶楹见诡异：【警告！你的理智下降了0.5点。】 “哇哦~感谢外公在游戏降临前的脱敏训练。” 夏扶楹还能看见一个奇怪的直播间。 直播间里面的观众疑似来自宇宙里的不同文明。 【如果这个玩家运气好，说不定能发现藏在厕所里的好东西。】 正在窥屏的夏扶楹：感谢馈赠，拿下！ …… 夏扶楹先是觉醒能打的天赋【剑仙】后又觉醒死不掉的天赋【耐活王】以及能够给目标脑海植入精神烙印的【灵台客】…… 夏扶楹一路打打杀杀，最后她突然发现—— 所有人都成了她最忠诚的信徒，她成神了！",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o73038a1046994773b5d0d95fc5dd6850~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243177&x-signature=9DXrg1MvQjwgv3qinmChXaQcqck%3D",
+          "url": "https://fanqienovel.com/page/7688082721221905433"
         },
         {
           "title": "穿成漫恐主角正太私生弟弟咋办？",
           "author": "南凌风起",
           "reads": "2.2万",
           "intro": "【漫画+马甲+论坛+无cp+群像+女频】 穿越到了自己写的一本诡异游戏漫画中。 成了男主那人嫌狗厌不干人事，身高只有1米5的、天使般的脸、蛇蝎般的心、专门给对方添堵的、好坏的、反派弟弟。 好坏的弟弟阮淮舟：“…” 现在的时间段，原主该做的已经做了，他都已经准备在下次副本中做掉主角了，虽然结果会被反杀。 但现在距离自己的结局差不多就到了，主角已经知道他的计划了啊啊啊啊啊。 嗯，那个伟大的计划就是弄掉主角哥哥、继承他的一切。 阮淮舟：“……” 人在无语的时候，是会笑的。 而此时此刻，他正在垃圾桶旁边叼着糖思考接下来怎么办。 直接跑路？ 脑海中的系统全出爆鸣的尖叫声。 “请不要放弃治疗啊，身为作者的你，难道想看到自己的漫画断更吗？” 拥有强迫症的阮淮舟：“……” 这该死的系统竟然拿捏住了他的想法！ 于是乎. 爷爷对主角说：“钥匙一直都在。” 男主：“？” 阮家是一个变态占有欲超强的疯批家族，今天我挖坑，明天白刀进红刀出更是常有的事，就比如说本家的长子就是有名的精神病，经常监控自己愚蠢的弟弟。 不过这和分家没有关系，事不关己高高挂起。 直到… 【主写亲情/非传统惊悚/男频误入】",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oedf7677a06cea36f8f738a39408eaf9d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157774&x-signature=clbhwjat72S41%2FMguysOUELT8qw%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oedf7677a06cea36f8f738a39408eaf9d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243177&x-signature=HvFpfF3oYwlKstuhqflEA0Ln0y4%3D",
           "url": "https://fanqienovel.com/page/7626804996272573465"
         },
         {
-          "title": "求生：从抢隐藏宿舍到星球至高神",
-          "author": "史呆芬的猫",
-          "reads": "2.2万",
-          "intro": "【求生游戏+无CP女强+女主最强+爽文】 夏扶楹见鬼了。 死去多年的外公突然给她托梦了。 梦境里，外公化为恶鬼的模样，追杀、恐吓最后毫不留情的杀掉她。 烧香拜佛、驱鬼符纸，丝毫不起作用。 整整一个月，夏扶楹精神越发崩溃。 就在这时，求生游戏降临了。 面对阴森恐惧的大楼，夏扶楹表示：有什么好怕的？冲冲冲！ 于是，夏扶楹抢到了这座大楼里唯一一个藏有金色传说级别道具的宿舍。 更叫她意外的是： 别人见诡异：【警告！你的理智下降了1点。】 而夏扶楹见诡异：【警告！你的理智下降了0.5点。】 “哇哦~感谢外公在游戏降临前的脱敏训练。” 夏扶楹还能看见一个奇怪的直播间。 直播间里面的观众疑似来自宇宙里的不同文明。 【如果这个玩家运气好，说不定能发现藏在厕所里的好东西。】 正在窥屏的夏扶楹：感谢馈赠，拿下！ …… 夏扶楹先是觉醒能打的天赋【剑仙】后又觉醒死不掉的天赋【耐活王】以及能够给目标脑海植入精神烙印的【灵台客】…… 夏扶楹一路打打杀杀，最后她突然发现—— 所有人都成了她最忠诚的信徒，她成神了！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o73038a1046994773b5d0d95fc5dd6850~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157774&x-signature=qdcrSlkV4miajOTEXdIaRKJgCC8%3D",
-          "url": "https://fanqienovel.com/page/7688082721221905433"
+          "title": "盗笔：我的植物没有成精",
+          "author": "冉冉v587",
+          "reads": "2万",
+          "intro": "【无cp+植物大战僵尸+团宠+对九门不友好】 什么是倒霉？ 倒霉就是刚落地新世界，就对上敌方人马，然后水灵灵从这个世界的外来者变成黑户+犯罪分子。 不仅如此，自己的犯罪全过程还被一只大黑耗子全程围观，虽然那只大黑耗子也不是什么好人。 虽然出场方式不太对，但没关系，强者从不抱怨环境！ 什么妖魔鬼怪，阴谋诡计，在小爷的植物下都是纸老虎！ 诶？那是啥？唐亦安爆冲ing…… 黑瞎子：小祖宗带我一个呗～ 张起灵：心累(\"▔□▔) 无邪：危险！！！Σ(°Д°; 胖子：(°ο°)孩子真有活力啊～ 简介无力，请感兴趣的宝子们移步正文～ PS：主角在嫩牛五方面前不会隐藏能力，因为他不在意，以及有保密协议，介意者勿入～",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o587da827436aedc29186e8df8010da54~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243177&x-signature=Ndf76isysodU4V1la1N34jvdI2E%3D",
+          "url": "https://fanqienovel.com/page/7692067250475387928"
         },
         {
           "title": "盗墓：家有比格，白月光狗都不当",
           "author": "深意y",
           "reads": "2万",
           "intro": "【癫文+ooc+all+女主乐子人+南部档案开局接老九门】 别人穿越拯救意难平，努力成为对方的白月光，张久意拯救意难平，直接成为对方小叔叔 什么？女孩子不能当叔叔？凭什么？我就要当叔叔 康庄大路越走越离谱 开局顶替张瑞朴，面对前来刺杀她的张海楼和张海侠，张久意让土著追着他俩在橡胶园里狂奔。 等到他俩去调查盘花礁失踪案，张久意直接开着船，炮轰莫云高副官的船，给了他们一个震撼登场 调查瘟疫案，张久意当着他俩的面，让人把张海娇姐弟直接带走 张久意：养的明白吗你就养？拿来吧你！ 莫云高派杀手来暗杀？张久意直接躲到张海侠的屁股后：叔可忍，侄不能忍，上，弄他们。 解决完莫云高，张久意转战长沙 张瑞朴秒改张瑞桐 张久意：孙砸，爷爷来咯~ 张启山：拉出去毙了 张久意：误会，我的意思是说，张瑞桐是我爷爷，咱俩是堂兄妹 张日山：那我是谁？ 一路冲到南疆，张久意不当张瑞朴了，她摇身一变成为了莫云高 张久意：我要当师座 张久意不理解为什么当师座这么累？ 张久意被累跑到长沙混了个副官的身份，开始作威作福 张久意：还是官小轻松 所有人：佛爷啊，你管管你府上的贪官吧 张启山：她只是贪财，又不害命，你们就不能忍忍吗",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6365a87a34e0fe089c53f3ed46057027~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157774&x-signature=c2r7tQeNLYcXcKdJ5cwibGNP5ek%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6365a87a34e0fe089c53f3ed46057027~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243177&x-signature=AhibgLsfE7yXj0vuoJLQgatjdvY%3D",
           "url": "https://fanqienovel.com/page/7676366359369894936"
-        },
-        {
-          "title": "我在盗墓世界绑定了美食系统",
-          "author": "爱吃甜的小胖子",
-          "reads": "2万",
-          "intro": "苏粟加入倒斗队伍前。 众人背包标配：压缩饼干、黑驴蹄子、绳索、洛阳铲、各式武器，全副武装严阵以待。 苏粟加入队伍后。 众人背包统一升级：锅碗瓢盆加筷子，顺带揣好自己干饭的嘴。 苏粟：…… 不是说盗墓凶险，带点压缩饼干凑活就行？ 呉邪：谁说的？罚他三天不许吃苏师傅做的饭。 胖子望天吹口哨：不是我胖爷啊，别瞅我。 张启灵：……（默默吃鸡腿） 解雨臣：弯眼浅笑。 黑瞎子：啧，真香。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0ee660cd5cee5378cf06deac1cc994c9~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157774&x-signature=jujNqOuKuRHYlGKBbbjzKi4m%2FhU%3D",
-          "url": "https://fanqienovel.com/page/7688798952103087129"
-        },
-        {
-          "title": "盗笔：我的植物没有成精",
-          "author": "冉冉v587",
-          "reads": "1.9万",
-          "intro": "【无cp+植物大战僵尸+团宠+对九门不友好】 什么是倒霉？ 倒霉就是刚落地新世界，就对上敌方人马，然后水灵灵从这个世界的外来者变成黑户+犯罪分子。 不仅如此，自己的犯罪全过程还被一只大黑耗子全程围观，虽然那只大黑耗子也不是什么好人。 虽然出场方式不太对，但没关系，强者从不抱怨环境！ 什么妖魔鬼怪，阴谋诡计，在小爷的植物下都是纸老虎！ 诶？那是啥？唐亦安爆冲ing…… 黑瞎子：小祖宗带我一个呗～ 张起灵：心累(\"▔□▔) 无邪：危险！！！Σ(°Д°; 胖子：(°ο°)孩子真有活力啊～ 简介无力，请感兴趣的宝子们移步正文～ PS：主角在嫩牛五方面前不会隐藏能力，因为他不在意，以及有保密协议，介意者勿入～",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o587da827436aedc29186e8df8010da54~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157774&x-signature=845IxrW70BbiCOVuIToqoD%2FbbcM%3D",
-          "url": "https://fanqienovel.com/page/7692067250475387928"
-        },
-        {
-          "title": "盗墓：我只是一个伙计啊",
-          "author": "66滴",
-          "reads": "1.8万",
-          "intro": "［盗笔+南部档案+all+十二符咒+微万人迷+ooc］ (女频文女频文，盗笔同人，盗笔时期不是纯爽文！！不是纯爽文！！爱好不同不要看求你们了，标签系统给的我也改不了) 在一场沙尘暴里，沈渡睁开眼时什么都不记得了。 还好他有系统给的金手指十二生肖符咒，什么！符咒要靠自己倒霉才能换！ 系统给沈渡画大饼，十二生肖符咒魅力四射，这点倒霉程度不算什么！ 身为阿宁队伍里默默无闻的伙计，沈渡在墓里一边大喊着不要咬我啊一边用自己的细瘦的胳膊徒手撕大蛇。 一边被石头绊倒一边迅速爬起来以人类不可达之速跑的飞快。 一边善良的人格躲在吴邪众人身边嘤嘤嘤求保护，一边邪恶人格就要炸掉墓穴与怪物同归于尽。 沈渡在失去记忆后给自己找了好多好朋友，但是好朋友总是往危险的地方钻怎么办，没办法，沈渡这么善良的人当然要保护他们啦！ 只是为什么好朋友们看他的眼神怎么越来越怪啊。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o11dd54d6f8926ddbaf8493af346162ce~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157774&x-signature=fjjl1fCrEcHCxH%2B%2FTTXw55Djd6M%3D",
-          "url": "https://fanqienovel.com/page/7667160428958452798"
         },
         {
           "title": "让魅魔去盗墓助人为乐",
           "author": "青椒小鱼",
-          "reads": "1.8万",
+          "reads": "1.9万",
           "intro": "【魅魔体质女主+心机男主+all+1vn+助人为乐系统】 叮，前方发现颜值80分以上美人，需要帮助！ 助人为乐？ 不，是系统给得多。 女主自杀的时候被助人为乐系统绑定，她以为是穿越，没想到是回到过去，只可惜这个过去没有姑奶奶。 黑瞎子：哟，老刘家的人！ 刘岁岁：……你认错人了。 吳邪：刘岁是我请的向导，是我兄弟。 刘岁岁：对对，你说的对。 小哥：她不能走。 刘岁岁：切，那那么多规矩，想走就走。 小花：佣金发给你了。 刘岁岁：好嘞老板，这就给你带路。 张海客：九门给你多少，我张家出双倍。 汪灿：张家给你多少，我汪家出双倍。 刘岁岁：有系统挂爹在，你们都是弟弟。 刘丧：……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o370ceea8c5e1b0a05c55c79a79e2315f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157774&x-signature=6D2RA33lSNy%2FCBfaaiiaIQK3nVs%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o370ceea8c5e1b0a05c55c79a79e2315f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243177&x-signature=vvqZNuhSckDfX5zyacPRN2ELWvU%3D",
           "url": "https://fanqienovel.com/page/7702667432489405502"
+        },
+        {
+          "title": "盗墓：我只是一个伙计啊",
+          "author": "66滴",
+          "reads": "1.9万",
+          "intro": "［盗笔+南部档案+all+十二符咒+微万人迷+ooc］ (女频文女频文，盗笔同人，盗笔时期不是纯爽文！！不是纯爽文！！爱好不同不要看求你们了，标签系统给的我也改不了) 在一场沙尘暴里，沈渡睁开眼时什么都不记得了。 还好他有系统给的金手指十二生肖符咒，什么！符咒要靠自己倒霉才能换！ 系统给沈渡画大饼，十二生肖符咒魅力四射，这点倒霉程度不算什么！ 身为阿宁队伍里默默无闻的伙计，沈渡在墓里一边大喊着不要咬我啊一边用自己的细瘦的胳膊徒手撕大蛇。 一边被石头绊倒一边迅速爬起来以人类不可达之速跑的飞快。 一边善良的人格躲在吴邪众人身边嘤嘤嘤求保护，一边邪恶人格就要炸掉墓穴与怪物同归于尽。 沈渡在失去记忆后给自己找了好多好朋友，但是好朋友总是往危险的地方钻怎么办，没办法，沈渡这么善良的人当然要保护他们啦！ 只是为什么好朋友们看他的眼神怎么越来越怪啊。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o11dd54d6f8926ddbaf8493af346162ce~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243177&x-signature=SrRtPKYfvr9a%2Bb1Q%2FmI5mMcEhN0%3D",
+          "url": "https://fanqienovel.com/page/7667160428958452798"
+        },
+        {
+          "title": "我在盗墓世界绑定了美食系统",
+          "author": "爱吃甜的小胖子",
+          "reads": "1.8万",
+          "intro": "苏粟加入倒斗队伍前。 众人背包标配：压缩饼干、黑驴蹄子、绳索、洛阳铲、各式武器，全副武装严阵以待。 苏粟加入队伍后。 众人背包统一升级：锅碗瓢盆加筷子，顺带揣好自己干饭的嘴。 苏粟：…… 不是说盗墓凶险，带点压缩饼干凑活就行？ 呉邪：谁说的？罚他三天不许吃苏师傅做的饭。 胖子望天吹口哨：不是我胖爷啊，别瞅我。 张启灵：……（默默吃鸡腿） 解雨臣：弯眼浅笑。 黑瞎子：啧，真香。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0ee660cd5cee5378cf06deac1cc994c9~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243177&x-signature=9yVIIBI9%2FAjNw6edg0N7HF2te6Y%3D",
+          "url": "https://fanqienovel.com/page/7688798952103087129"
         },
         {
           "title": "盗墓之咸鱼欧皇降临",
           "author": "南意到梦洲",
           "reads": "1.7万",
           "intro": "盗墓同人，ooc预警 林青柚是一个非常幸运的人，从小到大都是这样，想要什么基本都会得到，就像小说里面的主角一样，仿佛有什么气运环绕着他。 幸运到极致后，他穿越了。 什么？拯救主角？ 什么？还要穿越平行世界拯救主角？ 他只是一个平平无奇、幸运至极且摆烂的小咸鱼罢了。 怎么光逮着他一个人薅啊？ 还有主角，不要围着他啊！这些都是任务！任务！ 其他人：嗯，你说的都对。 （避雷：大概率无cp或者aII！！！人物ooc！！！）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocbc0745e7906f655e5b10d6239fbb5cd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795157774&x-signature=q%2B6SsL02sCyHMnuTW2hza7tt4Qw%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocbc0745e7906f655e5b10d6239fbb5cd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795243177&x-signature=bwTSY1%2BUr5bYQMEb2WPrIMsi4uU%3D",
           "url": "https://fanqienovel.com/page/7618604368241101848"
         }
       ]

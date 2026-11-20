@@ -1,49 +1,36 @@
 {
   "type": "科幻末世",
-  "date": "2026-11-19",
-  "prev_date": "2026-11-17",
+  "date": "2026-11-20",
+  "prev_date": "2026-11-19",
   "category": {
     "name": "科幻末世",
     "trend": {
-      "new_count": 3,
-      "dropped_count": 3,
-      "new_books": [
-        "末世了，还好我是人外",
-        "年代文炮灰大小姐每天都在求生",
-        "穿进末世，怎么尽遇到变态啊！"
-      ],
-      "dropped_books": [
-        {
-          "title": "开局拍卖，被四个哨兵强制契约了",
-          "intro": "（刚开分，后面会涨）多男主1v4＋男全洁＋微强制 好消息，终于穿越了，还穿成了向导！ 坏消息，穿越的是暗黑版向哨世界。 本以为能过上上四休三、美男环绕的幸福生活，宋沅却发现—— 自己是个F级向导。 还"
-        },
-        {
-          "title": "末世也要好好的苟下去",
-          "intro": "［无CP+囤货+苟+空间］ 顾安宁被人遗弃，顾奶奶捡到了她，祖孙二人相依为命，后面顾奶奶去世。 在河里捡到了一块石头，不小心开启了空间，又频繁梦到顾奶奶，奶奶一直说灾难要来了。 给了顾安宁一种危机感，"
-        },
-        {
-          "title": "末世了，我哥用叉车叉着我跑",
-          "intro": "【末世+异能+亲情+双重人格】 抽象软怂妹vs装傻心黑哥 唐芋，人如其名软绵绵的，到死的时候声音也很软的求着大佬给自己烧个猪肘子，因为她还没吃午饭。 再睁眼时自己重生到了五岁，离末世还有十年的时间，正"
-        }
-      ],
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
       "top_risers": [
         {
-          "title": "穿越异世：我带瓶邪黑花木筏求生",
-          "change": "+5"
+          "title": "末世了，还好我是人外",
+          "change": "+3"
         },
         {
-          "title": "末世菟丝花，大小姐又被疯狂觊觎",
-          "change": "+4"
+          "title": "末世：全小区重生，我不当圣母了",
+          "change": "+1"
         },
         {
-          "title": "天灾末世：孤儿院四人帮全重生了",
-          "change": "+2"
+          "title": "公路求生，我靠盗笔主角杀疯了",
+          "change": "+1"
         }
       ],
       "top_fallers": [
         {
-          "title": "星际军校：我们五个真的无害！",
-          "change": "-3"
+          "title": "国运：三岁萌娃带飞龙国很合理吧",
+          "change": "-2"
+        },
+        {
+          "title": "末世来临，养兄黑脸为我收舔狗",
+          "change": "-1"
         },
         {
           "title": "天幕文，谁没事天天刷历史视频啊",
@@ -53,170 +40,170 @@
       "reads_growth": [
         {
           "title": "穿越异世：我带瓶邪黑花木筏求生",
-          "growth": "+2.1万"
-        },
-        {
-          "title": "末世菟丝花，大小姐又被疯狂觊觎",
           "growth": "+7000"
         },
         {
-          "title": "天灾末世：孤儿院四人帮全重生了",
+          "title": "末世了，还好我是人外",
           "growth": "+4000"
+        },
+        {
+          "title": "末世菟丝花，大小姐又被疯狂觊觎",
+          "growth": "+3000"
         }
       ],
-      "summary": "新增3本上榜；3本掉出（《开局拍卖，被四个哨兵强制契约了》、《末世也要好好的苟下去》、《末世了，我哥用叉车叉着我跑》）；《穿越异世：我带瓶邪黑花木筏求生》排名上升+5位；《穿越异世：我带瓶邪黑花木筏求生》阅读量+2.1万。"
+      "summary": "《末世了，还好我是人外》排名上升+3位；《穿越异世：我带瓶邪黑花木筏求生》阅读量+7000。"
     },
     "books": [
       {
         "title": "自由的你",
         "author": "GEM邓紫棋",
-        "reads": "45.1万",
+        "reads": "44.2万",
         "intro": "核战之后，人类才第一次明白—— 人口尚在，文明却可以先死。 幸存者中的三百万人就此被送往另一颗行星：2号地球。 那里一天有二十八小时，天上有两颗月亮。 而你，可以拥有一枚小小的芯片，助你打理生活。 夏泠安，手执镜头的人。 中学时，她有了一支让她小有名气的短片： 「你可以跑，你可以停。你，是自由的你。」 凌予恒，修补大脑的人。 十六岁入选「优秀种子计划」，在新星球上成为神经调控科医生。 双满月那夜，夏泠安因父亲突然中风，与凌予恒在这颗星球上相遇。两人慢慢走近，她却渐渐发现这位无可挑剔的医生，眼里总有一些她读不懂的东西。 自由是什么？ 她曾以为，是想跑就跑、想飞就飞。 「你，是自由的你」—— 这句她十几岁时写下的旁白，却要她用一生，才懂得全部的意思。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/9e3c3a52c52e4460f8822b74c160c7e8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678507&x-signature=KcTXDSLafErBOTphPFsJ%2FdAdx3E%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/9e3c3a52c52e4460f8822b74c160c7e8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764390&x-signature=7xRE9UVMRCVqxwT4ITZwTVcvNnU%3D",
         "url": "https://fanqienovel.com/page/7701923232449842200"
       },
       {
         "title": "国运求生：三岁萌娃排行第一咋啦",
         "author": "大西瓜甜",
-        "reads": "11.1万",
+        "reads": "10.8万",
         "intro": "【萌宝+锦鲤+国运末世+打脸+万倍返还】 求生游戏降临蓝星，游戏半年后，龙国抽中三岁两个月萌娃，龙国人天塌了。 别国幸灾乐祸，“三岁幼崽，喂海兽都不够塞牙缝的，坐等龙国灭亡。” 三岁萌娃天生好运，锦鲤附体，抽宝箱抽到手软，开出来的物资，都是别国梦寐的，气的别国嗷嗷叫，龙国人乐得哈哈笑！ 被预言活不过新手期的萌娃，不仅拿到新手期第一，还成功度过新手期，杀海兽，开宝箱，找爸爸，赢得食物养妈妈。 面粉，大米，泡面，鸡腿，猪蹄，红烧肉，龙国人顿顿吃饱，天天吃肉。 别国人，三天饿九顿:“现在加入龙国还来得及吗？” 西瓜，苹果，草莓，榴莲吃不完 别国饿得头晕眼花啃树皮。 吃了萌娃上交的异能国，龙国人身强体壮还会飞，风雨雷电水木冰系异能开花！ 他国人惊呆了:龙国人会飞！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9c8dc88d5ae4635b50f489e562958c45~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678507&x-signature=AEkrfI4chfR969j2zPgdO1Slnrg%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9c8dc88d5ae4635b50f489e562958c45~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764390&x-signature=NBkgZ%2F29tVqBXfkB9SXA3Qu6pHU%3D",
         "url": "https://fanqienovel.com/page/7694566339922365502"
       },
       {
         "title": "穿越异世：我带瓶邪黑花木筏求生",
         "author": "昭月松",
-        "reads": "6.3万",
+        "reads": "7万",
         "intro": "【团宠女主/女主✕瓶邪黑花｜从互相猜忌到生死相依】 乔月一脚踩空摔进海上求生游戏，开局就只有一张小木筏。 系统喊她领金手指，她兴冲冲点完，还没来得及高兴，天上哐哐砸下来四个大活人！ 夭寿啊！ 系统一本正经告诉她，这就是它给她找来的的专属金手指，顶配保镖天团——能打的、脑子好使的、会做生意的，还有一个能兼职保姆的。 可看着眼前四个人高马大的男人，乔月心里只有一个念头：天爷啊！这是什么鬼热闹，我命休矣……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o003d15653da66894299930298a30cf99~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678507&x-signature=PwWD6Rxveo00DqOVRnnDju4FaZg%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o003d15653da66894299930298a30cf99~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764390&x-signature=tM%2BfIlED7y2h6iU10GtRWjbp0qk%3D",
         "url": "https://fanqienovel.com/page/7696058436592602136"
       },
       {
         "title": "天灾末世：孤儿院四人帮全重生了",
         "author": "瑾初心",
-        "reads": "5.6万",
+        "reads": "5.7万",
         "intro": "【天灾囤货+系统+微群像+1V2】 末世第四年，云念被神秘人推下城墙死无全尸，一睁眼她竟然重生到末世前一个月！ 重生第一件事：拿回空间玉石。第二件事：和孤儿院四人帮汇合。第三件事：齐心协力，搞钱囤货！ 无敌空间到手，开始全球零元购，先囤粮，再囤枪，集装箱，大邮轮……通通收进空间！ 暴雨，极寒，极热，海啸，台风，病毒……各种天灾接踵而至。 别人还在为了一口食物拼的你死我活的时候，云念他们四人正窝在庇护所美滋滋吃着火锅。 可这安逸的日子过得不久，云念得知了一个惊天秘密。 原来她是小说里的炮灰女配，孤儿院四人帮也全都是反派。 他们的存在就是为了衬托女主，给女主铺路。 云念怒了，炮灰是吧？反派是吧？ 好啊，那就换一换主角！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od1c4f13da8a6a09780bd0a5d30ab4c16~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678507&x-signature=qUhEDgzFdw7Nes1P50qVClaQLj8%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od1c4f13da8a6a09780bd0a5d30ab4c16~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764390&x-signature=UVzZjWwRooD3jbTl%2BciSbJwULic%3D",
         "url": "https://fanqienovel.com/page/7695833323125361688"
       },
       {
         "title": "公路求生我的金手指是盗笔铁三角",
         "author": "妄夜将尽时",
-        "reads": "5.5万",
+        "reads": "5.6万",
         "intro": "【公路求生＋盗笔＋团宠＋all向】 祝明月没想到，在被拉进公路求生游戏的第一天，她多了一个名叫“终极羁绊”的系统。 系统告诉她，她可以召唤《盗墓笔记》里的人物和她一起求生。 她更没想到第一个召唤来的，会是那个死在张家古楼，为小三爷唱着红高粱的男人。 他带着满身伤痕和迷茫被拉到祝明月的末日破车上，第一句话是：“你是谁？我不是……死了吗？” 祝明月告诉他，在这里，他可以重新活一次。 于是，这个忠诚的硬汉成了她最坚实的盾牌。她们的目标只有一个：在这求生游戏里活下去，还有，找到他的小三爷。 后来，她们找到了。 还有那个神出鬼没的小哥，和贫嘴的胖子。 以为铁三角齐了就完了？ 系统又给她召来了那个吊儿郎当的黑瞎子，和温文尔雅的解小花。 六个男人围着一辆不断升级的五菱，为她盖毯子、争副驾、给她烤肉吃。 祝明月：我只想活着跑完这条公路，没想过被六个男人宠上天啊！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7912dbb325778121779072a7e60ed7dd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678507&x-signature=mWCjpet4c1ugIUAlp3UgtWQOSSU%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7912dbb325778121779072a7e60ed7dd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764390&x-signature=tidvpu%2BC84QS%2Bd7ppDGChvMB7y0%3D",
         "url": "https://fanqienovel.com/page/7686533983441554456"
       },
       {
         "title": "末日胖妞和她的魅魔升级系统",
         "author": "深蓝悠悠",
-        "reads": "5.1万",
+        "reads": "5.2万",
         "intro": "曼灵是一抹怨魂，她不知道自己死后为什么没有踏上轮回路。无所事事的她，见证了一个星球的种种变迁，直到环境崩塌的一天，一颗如启明星般的光团吸引了她的视线。 她夺了那个叫魅魔升级的系统，也连带着不小心夺了一具在她眼中丑陋五垠的身体。 不过她不在意，千年的漂泊早已令她无趣至极，现在终于可以重返这世间，她只想肆意而为。 1vn多男主，男洁，女主三观不一定在线，有雌竞，雄竞。女主善于伪装，她所展现的只是她想让你看到的。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o499d5b4e016597f23f9c21c72725501c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678507&x-signature=uT96S6jmn3hNpRqdSTTg6OfywR0%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o499d5b4e016597f23f9c21c72725501c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764390&x-signature=sGG4yTQb04dGJygC8Z6UgSfi0rk%3D",
         "url": "https://fanqienovel.com/page/7639384379311016985"
       },
       {
         "title": "星际军校：我们五个真的无害！",
         "author": "又见祈",
-        "reads": "5万",
+        "reads": "4.6万",
         "intro": "【华芯系统提醒：昆仑五害刚开启上分模式，请诸位军部总官注意！】 【星际+军校+多群像+轻松搞笑+精神力+机甲+热血+文明】 在修仙界卷了一千多年后，祝安和终于回到了星际。 她悟了。 什么飞升成神、天下第一，谁爱当谁当！ 可惜天不遂人愿，刚落地，她就砸进军校入学考试，还被全星际万年老三——昆仑军校录取了。 这学校很有病，校徽像冲全宇宙竖中指，校服像准备谋朝篡位，百年前的学长更是差点把军部变成昆仑分校。 而今年的新生，病得尤其严重。 一个法外狂徒预备役，差点喜提星际监狱终身套餐，被打包送来改造； 一个佣兵世家考编选手，祖宗十八代刀口舔血，到他这代突然想吃公家饭； 两个军部退货的问题分子，一个舍己为人差点把自己舍没了，一个敌我平等不当人，主打各有各的病； 最后一个得了个怪病，别人靠营养剂活命，她靠揍人续命。 校长看完档案，沉默了。 别人军校培养栋梁，昆仑专收疑难杂症。 本以为五人上了战场，校长总能清净点。 谁知投诉直接升级成跨文明联名匿名举报。 虫族：“你们人类管这叫军校生？！” 星兽：“昆仑五害！谁才是兽啊？！” 祝安和：“造谣！我们五个真的无害！” 五联：“害的是敌人？那叫栋梁！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3472412f5879050132a6cd481aa8544e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678507&x-signature=qeB360QORUs98jhKrdm%2ByYdLPhs%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3472412f5879050132a6cd481aa8544e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764390&x-signature=FB27dCkoiVhIeLlcQYxLghJSUps%3D",
         "url": "https://fanqienovel.com/page/7678029439699012632"
       },
       {
         "title": "末世菟丝花，大小姐又被疯狂觊觎",
         "author": "许寄身",
-        "reads": "4.3万",
+        "reads": "4.6万",
         "intro": "刚开分…【末世｜万人迷｜菟丝花｜雄竞｜群狼环伺｜】 黎媱媱被人掳走的第二天，全球灾变，末日降临。 绑匪消失得无影无踪，毫无自保能力的黎媱媱懵了。 很快孤身一人，在末世求生的她。 发现比丧尸、变异动植物更可怕的，是那些身负异能却毫无道德的…… * 女主非常弱小，喜欢大女主的别看，求你了，给你磕一个了，对我们都好。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o18d343060140aa5266eef130bf161972~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678507&x-signature=pz4QQNyHTPFadb4Dw0yjoybmlvQ%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o18d343060140aa5266eef130bf161972~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764390&x-signature=zXaic%2B2wRPAOQHSZ3kCClblmC0Q%3D",
         "url": "https://fanqienovel.com/page/7696469337313381401"
-      },
-      {
-        "title": "末世来临，养兄黑脸为我收舔狗",
-        "author": "黄金招财猫",
-        "reads": "4.1万",
-        "intro": "【1vn男全结+非大女主爽文但也不弱+互相的病情】 末世降临，鹿呦发现，陆辰变了。 * “呦呦，你不反感他们，就可以不拒绝。” “呦呦，只要你喜欢，我会帮你平衡关系。” “呦呦，什么都不重要，只有你好好活着才最重要。” * 陆辰在异能觉醒时，梦到了他与鹿呦的死亡。 他能确定，不管发生什么，他都会尽他所能，保护鹿呦，但梦里他没护住。 梦境模糊，他看不到原因。 既然他一个人护不住，那么，他会摒弃一切独占欲，只要鹿呦活着。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob6376b058d1e719cad21f3cadb70f39f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678507&x-signature=u8Zc0vb2dQDShwFJy2jsLxbREcI%3D",
-        "url": "https://fanqienovel.com/page/7663407747450276888"
       },
       {
         "title": "末世：全小区重生，我不当圣母了",
         "author": "碗秃",
-        "reads": "4万",
+        "reads": "4.3万",
         "intro": "【末世重生＋全员火葬场＋系统＋基建＋囤货＋爽文】 徐芙被云庭基地一千三百二十七名幸存者全票处死。 没人知道，守护基地的金色屏障，是她透支寿命换来的。 那些高高在上的异能强者，能力全是她亲手赠予的。 就连未婚夫引以为傲的S级雷系，也是她用寿命换来的。 可到头来，他们却骂她是灾星，亲手将她推进丧尸群。 临死前，圣母系统问她是否继续庇护基地。 “不救了。” 下一秒，屏障破碎，异能消失，整个基地陷入绝望！ 再睁眼，她重生回末世爆发前十天。 云庭那一千三百二十七个人，竟也全部重生了！ 他们兴高采烈地囤积物资，等待异能觉醒，幻想着凭借前世记忆，再次建立最强基地。 却不知道，他们最大的金手指，早已被自己亲手杀死。 这一世，徐芙果断抛弃云庭，转身绑定了儿时居住的破旧小区。 别人忙着争权夺利，她忙着囤货、升级、扩建基地。 从一间老房子，到整栋居民楼，再到一座坚不可摧的末世堡垒！ 直到尸潮席卷全城，昔日那些高高在上的云庭幸存者，终于跪在她的基地外苦苦哀求。 徐芙站在金色屏障之内，居高临下地看着他们，笑了。 “上辈子不是说我是疯子吗？” “怎么现在来求着我救命了？”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o627da59b888fddec5f362d17472dd9d4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678507&x-signature=RZ61fzWL0bdgmTKDHkx1chCV68k%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o627da59b888fddec5f362d17472dd9d4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764390&x-signature=NmdQp1iRtMYyq6HIhmT1YToBOq0%3D",
         "url": "https://fanqienovel.com/page/7695727931066174488"
       },
       {
-        "title": "天幕文，谁没事天天刷历史视频啊",
-        "author": "且随意",
-        "reads": "3.7万",
-        "intro": "星际时代，一个痴迷历史的科学家，为证明自己看到的一条野史是真的，亲手造了一个系统，送它穿越回古蓝星，寻找真实的历史。 系统在穿越时空裂隙时受损，意外接入到蓝星华国的网络上。 为修复自己，它用最后一点能量向星际传出信号，接入星网，向星际民众播放蓝星现状，收集震惊值来修复自身。 结果不仅链接了星际人族的星网，其它各族的星网也接收到了信号。 从此，星际各族被迫观看古蓝星华国的各种视频。 因为系统受损，在发出信号时，一丝能量链接到古代，歪打正着地开启了各朝代的天幕生活。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4764ee032825691d1028a01d5caa16a4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678511&x-signature=5AqaB7uePUGzyZOXVhcTgz4ULOY%3D",
-        "url": "https://fanqienovel.com/page/7692096254590848025"
+        "title": "末世来临，养兄黑脸为我收舔狗",
+        "author": "黄金招财猫",
+        "reads": "3.9万",
+        "intro": "【1vn男全结+非大女主爽文但也不弱+互相的病情】 末世降临，鹿呦发现，陆辰变了。 * “呦呦，你不反感他们，就可以不拒绝。” “呦呦，只要你喜欢，我会帮你平衡关系。” “呦呦，什么都不重要，只有你好好活着才最重要。” * 陆辰在异能觉醒时，梦到了他与鹿呦的死亡。 他能确定，不管发生什么，他都会尽他所能，保护鹿呦，但梦里他没护住。 梦境模糊，他看不到原因。 既然他一个人护不住，那么，他会摒弃一切独占欲，只要鹿呦活着。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob6376b058d1e719cad21f3cadb70f39f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764390&x-signature=0fhEJle8TR%2FMtmLgfWGK2slN54M%3D",
+        "url": "https://fanqienovel.com/page/7663407747450276888"
       },
       {
         "title": "公路求生，我靠盗笔主角杀疯了",
         "author": "你要杀鱼吗",
         "reads": "3.6万",
         "intro": "（11.16刚开分，会涨）【黑莲花女主+男主反向攻略勾引女主+女主和瓶邪黑花爱情向cp，和胖子是亲情向】 白霁初穿越到了公路求生游戏的副本里，末日副本，各种变异怪物到处跑，作为残疾人的她根本没有生存的能力。 在她绝望之际，穿越前看的小说主角突然出现在了她的眼前，吴邪，张起灵，王胖子，黑瞎子，解雨臣。 看到五个男人，白霁初十分警惕，但为了活下去，她开始扮柔弱博同情利用他们。 然而随着相处时间的增长，四个人却甘愿成为她的裙下臣。 文臣吴邪，武将张起灵，虎将王胖子，奸臣黑瞎子，谋士解雨臣。 副本一：异形城市 副本二：寂静之地 副本三：全城热恋 副本四：童话小镇 ......",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe4619eb1bd7999ef8f102549c6a36ae9~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678511&x-signature=NRHTes%2Brw6e1AT4nhXbdGiYe0Tg%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe4619eb1bd7999ef8f102549c6a36ae9~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764393&x-signature=AKi5wS3HS7yJsHhAJzcZ%2BmfnUdY%3D",
         "url": "https://fanqienovel.com/page/7689475913062304830"
+      },
+      {
+        "title": "天幕文，谁没事天天刷历史视频啊",
+        "author": "且随意",
+        "reads": "3.4万",
+        "intro": "星际时代，一个痴迷历史的科学家，为证明自己看到的一条野史是真的，亲手造了一个系统，送它穿越回古蓝星，寻找真实的历史。 系统在穿越时空裂隙时受损，意外接入到蓝星华国的网络上。 为修复自己，它用最后一点能量向星际传出信号，接入星网，向星际民众播放蓝星现状，收集震惊值来修复自身。 结果不仅链接了星际人族的星网，其它各族的星网也接收到了信号。 从此，星际各族被迫观看古蓝星华国的各种视频。 因为系统受损，在发出信号时，一丝能量链接到古代，歪打正着地开启了各朝代的天幕生活。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4764ee032825691d1028a01d5caa16a4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764393&x-signature=iFqdUF263cMI7UyLB7cCavmbnIU%3D",
+        "url": "https://fanqienovel.com/page/7692096254590848025"
       },
       {
         "title": "天灾末日：救世主在星际读小学",
         "author": "林筱鹭",
-        "reads": "3.2万",
+        "reads": "3.3万",
         "intro": "2030年，蓝星暴雨已持续三个月，全球沦陷。 林汐，一个平平无奇的助理研究员。 她发现，每当睡着，她的意识就会穿越到星际联邦。 那是一个科技高度发达的世界。 在那里，她只是个六岁小学生。 而星际的义务教育，要学到一百岁。 可控核聚变、戴森球、基因药剂、反重力技术、气象武器…… 这些星际小学生的常识，是蓝星求而不得的神迹。 她一边在星际卷小学课程，一边把黑科技搬回蓝星。 全球末日，蓝星唯一的希望，是在星际读小学的她。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odcc56b3cadb429d674c09d825c453c7f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678511&x-signature=i%2Be7DA%2BZjx%2F3WU2aJNeJq%2B%2Fk8XA%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odcc56b3cadb429d674c09d825c453c7f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764393&x-signature=U%2BQ%2FocCWzFUE7CKkxns8DZr4Rus%3D",
         "url": "https://fanqienovel.com/page/7696448635084475416"
-      },
-      {
-        "title": "国运：三岁萌娃带飞龙国很合理吧",
-        "author": "吨一瓶快乐水",
-        "reads": "2.6万",
-        "intro": "【双人开局+萌宝+国运求生+萌兽+微群像+打脸+美食】 国运降临，全球百国求生，资源枯竭，败者亡国灭种！ 龙国开局抽中顶流荒野教官林清玄，举国欢腾。 可紧接着，连环暴毙机制触发，强行抽中一个扎着丸子揪揪、连字都不认识的三岁半小奶团岁岁！ 全网悲鸣，各国哄笑：“一个女人带个吃奶的娃娃，不出三天龙国必灭！” 甚至十六国联军撕毁条约，下达绝杀令，企图围剿幼崽！ 谁知—— 神芒冲霄，九天祥云倒卷，岁岁头顶直接亮出全蓝星唯一的SSS级天赋！ 外邦选手打生打死，在凶兽爪下抱头鼠窜，吓破苦胆； 岁岁气鼓鼓叉腰喊一句“不许欺负姐姐”，一阶霸主巨蟾蜍当场吓趴贴地，不仅温顺认主当座驾，还屁颠屁颠跑回老巢挖出青铜宝箱当见面礼！ 顺带一口一个，把赶来围攻的外邦精锐全当成了下午茶点心。 别国选手在绝地求生，岁岁在凶兽脑袋上啃着牛肉干跳海草舞！ 别国天选者在荒野拿命赌明天，龙国这一大一小带着凶兽满地图上门进货。 全球破防哀嚎：“求求国运开眼，把龙国那个三岁小祖宗给封号了吧！没法玩了！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3655da832ddba070a921dc687b429522~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678511&x-signature=pn9BVDic%2Fif0vYEMlNrIbHe0nXs%3D",
-        "url": "https://fanqienovel.com/page/7694892932448390168"
       },
       {
         "title": "末世，万人嫌大小姐竟是全能美人",
         "author": "十木苏",
         "reads": "2.6万",
         "intro": "（评分刚开后面会涨） 【未世修仙+团宠+万人迷+囤货+基建+灵泉空间】 姜妩是修仙界最年轻的元婴大佬。 渡化神雷劫的时候，却被一个天雷劈回了现代，重生成了人人嫌弃的作精大小姐。 未世来临，丧尸横行，世界一片废墟，队友赌她被扔掉后活不过三天。 然而第一天她手刃一阶异能者；第二天搬空走上千物资；第三天轻松吊打三阶强者。 第N天她带领幸存者打造出全世界最坚固的基地。 建设家园、恢复生产、重建秩序……过得比未世前还滋润。 众人发现，那个随手送出异能觉醒药水、研发出病毒特效药、创造出超强防御系统的人都是她！ 而她不仅是华国最强大基地的首领，还精通医术、算卦、造武器等各项技能！ - 所有人都说霍家收养的那个孙女又蠢又作，是个万人嫌。 可是， 阴湿养兄宠她如珍宝。 矜冷商业巨鳄跪下来在她掌心蹭脸撒娇。 腹黑丧尸王半夜潜入她的房间索要名分。 冷血雇佣兵将她抵在墙上乞怜多看他一眼。 闷骚竹马、自卑前未婚夫、毒舌发小、禁欲学长、温柔甜妹、傲娇千金、清冷御姐……通通围在她身边争宠。 她只是想建个足够安全的基地躺平，却没想到成了末世大佬们的白月光。 （暂定全员单箭头，女主不恋爱，后续看剧情。谨慎入坑）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6108db4b3714e1fb32c7326944b1d013~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678511&x-signature=xWWdbqOR69WUwsJlUmrtPGL0%2Bnw%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6108db4b3714e1fb32c7326944b1d013~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764393&x-signature=Mmz94VEW5GloT0CEjAPXyxorDgU%3D",
         "url": "https://fanqienovel.com/page/7689420124993883161"
+      },
+      {
+        "title": "末世了，还好我是人外",
+        "author": "矢车菊",
+        "reads": "2.5万",
+        "intro": "夏知一觉醒来发现天塌了。 末世降临，未知病毒席卷全球，现实版生化危机上演。而她记忆全无，孤身出现在荒无人烟的国道上。 好在她的身体各部位有自己的想法。 头发能自由生长和活动，热衷于给她洗衣做饭、打扫卫生。骨头能操控全身，随时随地切号代打。不小心划破皮，流出来的血会朝她比心，然后自己钻回体内，再顺手帮忙将伤口堵上…… 丧尸未必有她可怕。 Ps：女主十六，未成年，所以不谈恋爱，亲情友情向，守序善良阵营，有能力的情况下会救人，非独狼，有同伴。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odc90c515a916dd9cc25cc7f985621b7a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764393&x-signature=3pdPo2ndJxVLcrbLW5ZFAbXbF24%3D",
+        "url": "https://fanqienovel.com/page/7702996595410734142"
+      },
+      {
+        "title": "国运：三岁萌娃带飞龙国很合理吧",
+        "author": "吨一瓶快乐水",
+        "reads": "2.4万",
+        "intro": "【双人开局+萌宝+国运求生+萌兽+微群像+打脸+美食】 国运降临，全球百国求生，资源枯竭，败者亡国灭种！ 龙国开局抽中顶流荒野教官林清玄，举国欢腾。 可紧接着，连环暴毙机制触发，强行抽中一个扎着丸子揪揪、连字都不认识的三岁半小奶团岁岁！ 全网悲鸣，各国哄笑：“一个女人带个吃奶的娃娃，不出三天龙国必灭！” 甚至十六国联军撕毁条约，下达绝杀令，企图围剿幼崽！ 谁知—— 神芒冲霄，九天祥云倒卷，岁岁头顶直接亮出全蓝星唯一的SSS级天赋！ 外邦选手打生打死，在凶兽爪下抱头鼠窜，吓破苦胆； 岁岁气鼓鼓叉腰喊一句“不许欺负姐姐”，一阶霸主巨蟾蜍当场吓趴贴地，不仅温顺认主当座驾，还屁颠屁颠跑回老巢挖出青铜宝箱当见面礼！ 顺带一口一个，把赶来围攻的外邦精锐全当成了下午茶点心。 别国选手在绝地求生，岁岁在凶兽脑袋上啃着牛肉干跳海草舞！ 别国天选者在荒野拿命赌明天，龙国这一大一小带着凶兽满地图上门进货。 全球破防哀嚎：“求求国运开眼，把龙国那个三岁小祖宗给封号了吧！没法玩了！”",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3655da832ddba070a921dc687b429522~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764393&x-signature=lpwBMbngqrWUahm%2FTEPovSDJOaY%3D",
+        "url": "https://fanqienovel.com/page/7694892932448390168"
       },
       {
         "title": "病弱大小姐和她的丧尸小狗",
         "author": "浅墨麻黄",
-        "reads": "2.4万",
+        "reads": "2.2万",
         "intro": "【白切黑病弱大小姐×忠犬护主丧尸王】【1V1双洁】 [末世降临，丧尸病毒席卷全球，各类异能相继觉醒，人类秩序崩塌。掌权者迅速更迭，后在废墟上建立九个新的据点] 虞知夏在末世来临的前一个小时觉醒，发现自己生活在一本名叫《九大基地》的末世基建流小说里。而自己，则是小说中大反派丧尸王的炮灰青梅。顺带一提，大反派是她那傲娇脾气大、活像一只大金毛的竹马盛烬，被男主一刀毙命，挖掉晶核做能源，最后死无全尸。 全书只有路人甲在背后蛐蛐大反派时提过她一句话——要是虞知夏没死，盛烬他…… 虞知夏：……很无语的好伐 她一个躺在病床上只能靠呼吸机续命的病人，让她知道这些也没什么用吧。 不过为了自己最后死状悲惨的小狗，虞知夏只能努力再活一活了。 ——小剧场—— 盛烬从地上捡到一枚晶核…… 虞知夏：“别吃，脏死了……” 盛烬：“嗷嗷！” —— 虞知夏：“盛烬你能不能不要像狗一样舔我！” 盛烬：“嗷！” 盛烬亲吻着她脖颈逐渐向下，被她捶了一拳，却没再阻止。 —— 虞知夏被人追杀命悬一线。 既然她打不过，那就只能——关门，放盛烬。 盛烬：“嗷！！！” 后来，人人都道：“那真的是丧尸王？真不是她虞大小姐的g……保镖？”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o096943081337699638e3b4f9a0d781bf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678511&x-signature=muomYyn5JCSQ5CEXyJgMh%2FpoTzA%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o096943081337699638e3b4f9a0d781bf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764393&x-signature=3JYmELD65jpCB5r1aT9C5MTcCjc%3D",
         "url": "https://fanqienovel.com/page/7690470844392295448"
       },
       {
         "title": "末世经营，我绑定了瓶邪黑花",
         "author": "蛋黄塔可",
         "reads": "2.2万",
-        "intro": "【1v4+有系统+末世经营+女主无敌】 【避雷点在第一章作话】 别人的末世：囤物资、觉醒异能、建立基地。 苏庭玉的末世：开酒店，搞经营，顺便谈恋爱。 什么？你说办公室恋爱谈不得？ 去，哪来那么多规矩啊！ 员工可是瓶邪黑花欸！ 员工名单如下—— 解雨臣：前知名戏曲艺术家，现负责微笑服务。 吴邪：前邪门门主，现超市门主。 黑瞎子：大名鼎鼎的南瞎，特长是遛弯以及随时随地出现吓人一跳。 张起灵：战力天花板，主要工作内容是在大堂角落的沙发上坐一整天。 当隔壁基地为了抢一箱过期泡面打得头破血流时， 庭玉酒店的客人们正在餐厅排队打红烧肉，在超市扫码买可乐，在洗浴中心搓澡。 爽之爽之！！！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6fbd6ea98a5d737c392cd26d12c16220~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678511&x-signature=OXp44RCp6OKs0ev7MsU1tyEsnTU%3D",
+        "intro": "【1v4+有系统+末世经营+女主无敌】 11.18开分，评分会涨请放心~【避雷点在第一章作话】 别人的末世：囤物资、觉醒异能、建立基地。 苏庭玉的末世：开酒店，搞经营，顺便谈恋爱。 什么？你说办公室恋爱谈不得？ 去，哪来那么多规矩啊！ 员工可是瓶邪黑花欸！ 员工名单如下—— 解雨臣：前知名戏曲艺术家，现负责微笑服务。 吴邪：前邪门门主，现超市门主。 黑瞎子：大名鼎鼎的南瞎，特长是遛弯以及随时随地出现吓人一跳。 张起灵：战力天花板，主要工作内容是在大堂角落的沙发上坐一整天。 当隔壁基地为了抢一箱过期泡面打得头破血流时， 庭玉酒店的客人们正在餐厅排队打红烧肉，在超市扫码买可乐，在洗浴中心搓澡。 爽之爽之！！！",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6fbd6ea98a5d737c392cd26d12c16220~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764393&x-signature=nRfFQidHwpleE%2BB%2Bsu3bDP%2B92Z4%3D",
         "url": "https://fanqienovel.com/page/7688314439937821758"
-      },
-      {
-        "title": "末世了，还好我是人外",
-        "author": "矢车菊",
-        "reads": "2.1万",
-        "intro": "夏知一觉醒来发现天塌了。 末世降临，未知病毒席卷全球，现实版生化危机上演。而她记忆全无，孤身出现在荒无人烟的国道上。 好在她的身体各部位有自己的想法。 头发能自由生长和活动，热衷于给她洗衣做饭、打扫卫生。骨头能操控全身，随时随地切号代打。不小心划破皮，流出来的血会朝她比心，然后自己钻回体内，再顺手帮忙将伤口堵上…… 丧尸未必有她可怕。 Ps：女主十六，未成年，所以不谈恋爱，亲情友情向，守序善良阵营，有能力的情况下会救人，非独狼，有同伴。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odc90c515a916dd9cc25cc7f985621b7a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678511&x-signature=2pvdr2jZn0GuGVC%2Bpux1oWUrLWY%3D",
-        "url": "https://fanqienovel.com/page/7702996595410734142"
       },
       {
         "title": "年代文炮灰大小姐每天都在求生",
         "author": "季绯夜",
-        "reads": "2.1万",
+        "reads": "2.2万",
         "intro": "【女主无cp】【副cp双男】【女主成长型】【高幸运值】【病秧子身体】【走年代剧情】 蓝星全民被拉入求生副本，倒霉蛋苏青在传送新手副本时发生未知错误，被传送至次级位面，成为一本年代文小说的炮灰病弱大小姐苏青颜，然而作为蓝星已经被求生副本标记的灵魂，还是逃不掉要参加求生副本的命运！ 行吧！不就病弱了一年！ 不就是下乡一个月后病死的炮灰！ 她可以的！ 但是，也没有人告诉她居然是用这副走两步路就得歇半晌的病弱身体去求生！ 下乡也要求生！ 这是一个病弱大小姐在年代文和求生副本求生的日常。 谁说病弱大小姐不能逆袭的！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2401e8222e59e34659d3e3bdfd802762~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678511&x-signature=qrHaXTwiZ54LtGYe2Y9yzFfmAtw%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2401e8222e59e34659d3e3bdfd802762~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764393&x-signature=uBCsWLT65w6uKwCv7CtUSAvcyJk%3D",
         "url": "https://fanqienovel.com/page/7696358149527194649"
       },
       {
@@ -224,7 +211,7 @@
         "author": "嘻嘻娅丽达",
         "reads": "2万",
         "intro": "【末世+多男主+男全洁+成长型女主】 沈念前脚刚拿到男友母亲甩来的五百万分手费，后脚就被一辆大卡车创飞了。 一睁眼，发现自己穿到了末世，原身的男朋友居然跟自己男友长的一模一样。 好消息：并不是她的男友，并且她还在这末世觉醒了异能。 所以沈念打算前期疯狂囤物资，后期找个地方苟起来。 可人算不如天算！ 就在她逃亡的路上，碰到的一个个的大好人，他们表面说要跟自己组队，可背地全都想占有她。 最让她惶恐的是，她男友居然也穿来了！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o20ddc090562c64a6059d699278cf23d2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678511&x-signature=%2F3CyCA231PtvvQwKXrVYISo9hHc%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o20ddc090562c64a6059d699278cf23d2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764393&x-signature=%2Fuhz3MOlqhBDGSUdtRx%2BrRTCHY4%3D",
         "url": "https://fanqienovel.com/page/7688292446253370393"
       }
     ]
@@ -233,45 +220,32 @@
     {
       "name": "科幻末世",
       "trend": {
-        "new_count": 3,
-        "dropped_count": 3,
-        "new_books": [
-          "末世了，还好我是人外",
-          "年代文炮灰大小姐每天都在求生",
-          "穿进末世，怎么尽遇到变态啊！"
-        ],
-        "dropped_books": [
-          {
-            "title": "开局拍卖，被四个哨兵强制契约了",
-            "intro": "（刚开分，后面会涨）多男主1v4＋男全洁＋微强制 好消息，终于穿越了，还穿成了向导！ 坏消息，穿越的是暗黑版向哨世界。 本以为能过上上四休三、美男环绕的幸福生活，宋沅却发现—— 自己是个F级向导。 还"
-          },
-          {
-            "title": "末世也要好好的苟下去",
-            "intro": "［无CP+囤货+苟+空间］ 顾安宁被人遗弃，顾奶奶捡到了她，祖孙二人相依为命，后面顾奶奶去世。 在河里捡到了一块石头，不小心开启了空间，又频繁梦到顾奶奶，奶奶一直说灾难要来了。 给了顾安宁一种危机感，"
-          },
-          {
-            "title": "末世了，我哥用叉车叉着我跑",
-            "intro": "【末世+异能+亲情+双重人格】 抽象软怂妹vs装傻心黑哥 唐芋，人如其名软绵绵的，到死的时候声音也很软的求着大佬给自己烧个猪肘子，因为她还没吃午饭。 再睁眼时自己重生到了五岁，离末世还有十年的时间，正"
-          }
-        ],
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
         "top_risers": [
           {
-            "title": "穿越异世：我带瓶邪黑花木筏求生",
-            "change": "+5"
+            "title": "末世了，还好我是人外",
+            "change": "+3"
           },
           {
-            "title": "末世菟丝花，大小姐又被疯狂觊觎",
-            "change": "+4"
+            "title": "末世：全小区重生，我不当圣母了",
+            "change": "+1"
           },
           {
-            "title": "天灾末世：孤儿院四人帮全重生了",
-            "change": "+2"
+            "title": "公路求生，我靠盗笔主角杀疯了",
+            "change": "+1"
           }
         ],
         "top_fallers": [
           {
-            "title": "星际军校：我们五个真的无害！",
-            "change": "-3"
+            "title": "国运：三岁萌娃带飞龙国很合理吧",
+            "change": "-2"
+          },
+          {
+            "title": "末世来临，养兄黑脸为我收舔狗",
+            "change": "-1"
           },
           {
             "title": "天幕文，谁没事天天刷历史视频啊",
@@ -281,170 +255,170 @@
         "reads_growth": [
           {
             "title": "穿越异世：我带瓶邪黑花木筏求生",
-            "growth": "+2.1万"
-          },
-          {
-            "title": "末世菟丝花，大小姐又被疯狂觊觎",
             "growth": "+7000"
           },
           {
-            "title": "天灾末世：孤儿院四人帮全重生了",
+            "title": "末世了，还好我是人外",
             "growth": "+4000"
+          },
+          {
+            "title": "末世菟丝花，大小姐又被疯狂觊觎",
+            "growth": "+3000"
           }
         ],
-        "summary": "新增3本上榜；3本掉出（《开局拍卖，被四个哨兵强制契约了》、《末世也要好好的苟下去》、《末世了，我哥用叉车叉着我跑》）；《穿越异世：我带瓶邪黑花木筏求生》排名上升+5位；《穿越异世：我带瓶邪黑花木筏求生》阅读量+2.1万。"
+        "summary": "《末世了，还好我是人外》排名上升+3位；《穿越异世：我带瓶邪黑花木筏求生》阅读量+7000。"
       },
       "books": [
         {
           "title": "自由的你",
           "author": "GEM邓紫棋",
-          "reads": "45.1万",
+          "reads": "44.2万",
           "intro": "核战之后，人类才第一次明白—— 人口尚在，文明却可以先死。 幸存者中的三百万人就此被送往另一颗行星：2号地球。 那里一天有二十八小时，天上有两颗月亮。 而你，可以拥有一枚小小的芯片，助你打理生活。 夏泠安，手执镜头的人。 中学时，她有了一支让她小有名气的短片： 「你可以跑，你可以停。你，是自由的你。」 凌予恒，修补大脑的人。 十六岁入选「优秀种子计划」，在新星球上成为神经调控科医生。 双满月那夜，夏泠安因父亲突然中风，与凌予恒在这颗星球上相遇。两人慢慢走近，她却渐渐发现这位无可挑剔的医生，眼里总有一些她读不懂的东西。 自由是什么？ 她曾以为，是想跑就跑、想飞就飞。 「你，是自由的你」—— 这句她十几岁时写下的旁白，却要她用一生，才懂得全部的意思。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/9e3c3a52c52e4460f8822b74c160c7e8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678507&x-signature=KcTXDSLafErBOTphPFsJ%2FdAdx3E%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/9e3c3a52c52e4460f8822b74c160c7e8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764390&x-signature=7xRE9UVMRCVqxwT4ITZwTVcvNnU%3D",
           "url": "https://fanqienovel.com/page/7701923232449842200"
         },
         {
           "title": "国运求生：三岁萌娃排行第一咋啦",
           "author": "大西瓜甜",
-          "reads": "11.1万",
+          "reads": "10.8万",
           "intro": "【萌宝+锦鲤+国运末世+打脸+万倍返还】 求生游戏降临蓝星，游戏半年后，龙国抽中三岁两个月萌娃，龙国人天塌了。 别国幸灾乐祸，“三岁幼崽，喂海兽都不够塞牙缝的，坐等龙国灭亡。” 三岁萌娃天生好运，锦鲤附体，抽宝箱抽到手软，开出来的物资，都是别国梦寐的，气的别国嗷嗷叫，龙国人乐得哈哈笑！ 被预言活不过新手期的萌娃，不仅拿到新手期第一，还成功度过新手期，杀海兽，开宝箱，找爸爸，赢得食物养妈妈。 面粉，大米，泡面，鸡腿，猪蹄，红烧肉，龙国人顿顿吃饱，天天吃肉。 别国人，三天饿九顿:“现在加入龙国还来得及吗？” 西瓜，苹果，草莓，榴莲吃不完 别国饿得头晕眼花啃树皮。 吃了萌娃上交的异能国，龙国人身强体壮还会飞，风雨雷电水木冰系异能开花！ 他国人惊呆了:龙国人会飞！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9c8dc88d5ae4635b50f489e562958c45~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678507&x-signature=AEkrfI4chfR969j2zPgdO1Slnrg%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9c8dc88d5ae4635b50f489e562958c45~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764390&x-signature=NBkgZ%2F29tVqBXfkB9SXA3Qu6pHU%3D",
           "url": "https://fanqienovel.com/page/7694566339922365502"
         },
         {
           "title": "穿越异世：我带瓶邪黑花木筏求生",
           "author": "昭月松",
-          "reads": "6.3万",
+          "reads": "7万",
           "intro": "【团宠女主/女主✕瓶邪黑花｜从互相猜忌到生死相依】 乔月一脚踩空摔进海上求生游戏，开局就只有一张小木筏。 系统喊她领金手指，她兴冲冲点完，还没来得及高兴，天上哐哐砸下来四个大活人！ 夭寿啊！ 系统一本正经告诉她，这就是它给她找来的的专属金手指，顶配保镖天团——能打的、脑子好使的、会做生意的，还有一个能兼职保姆的。 可看着眼前四个人高马大的男人，乔月心里只有一个念头：天爷啊！这是什么鬼热闹，我命休矣……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o003d15653da66894299930298a30cf99~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678507&x-signature=PwWD6Rxveo00DqOVRnnDju4FaZg%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o003d15653da66894299930298a30cf99~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764390&x-signature=tM%2BfIlED7y2h6iU10GtRWjbp0qk%3D",
           "url": "https://fanqienovel.com/page/7696058436592602136"
         },
         {
           "title": "天灾末世：孤儿院四人帮全重生了",
           "author": "瑾初心",
-          "reads": "5.6万",
+          "reads": "5.7万",
           "intro": "【天灾囤货+系统+微群像+1V2】 末世第四年，云念被神秘人推下城墙死无全尸，一睁眼她竟然重生到末世前一个月！ 重生第一件事：拿回空间玉石。第二件事：和孤儿院四人帮汇合。第三件事：齐心协力，搞钱囤货！ 无敌空间到手，开始全球零元购，先囤粮，再囤枪，集装箱，大邮轮……通通收进空间！ 暴雨，极寒，极热，海啸，台风，病毒……各种天灾接踵而至。 别人还在为了一口食物拼的你死我活的时候，云念他们四人正窝在庇护所美滋滋吃着火锅。 可这安逸的日子过得不久，云念得知了一个惊天秘密。 原来她是小说里的炮灰女配，孤儿院四人帮也全都是反派。 他们的存在就是为了衬托女主，给女主铺路。 云念怒了，炮灰是吧？反派是吧？ 好啊，那就换一换主角！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od1c4f13da8a6a09780bd0a5d30ab4c16~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678507&x-signature=qUhEDgzFdw7Nes1P50qVClaQLj8%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od1c4f13da8a6a09780bd0a5d30ab4c16~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764390&x-signature=UVzZjWwRooD3jbTl%2BciSbJwULic%3D",
           "url": "https://fanqienovel.com/page/7695833323125361688"
         },
         {
           "title": "公路求生我的金手指是盗笔铁三角",
           "author": "妄夜将尽时",
-          "reads": "5.5万",
+          "reads": "5.6万",
           "intro": "【公路求生＋盗笔＋团宠＋all向】 祝明月没想到，在被拉进公路求生游戏的第一天，她多了一个名叫“终极羁绊”的系统。 系统告诉她，她可以召唤《盗墓笔记》里的人物和她一起求生。 她更没想到第一个召唤来的，会是那个死在张家古楼，为小三爷唱着红高粱的男人。 他带着满身伤痕和迷茫被拉到祝明月的末日破车上，第一句话是：“你是谁？我不是……死了吗？” 祝明月告诉他，在这里，他可以重新活一次。 于是，这个忠诚的硬汉成了她最坚实的盾牌。她们的目标只有一个：在这求生游戏里活下去，还有，找到他的小三爷。 后来，她们找到了。 还有那个神出鬼没的小哥，和贫嘴的胖子。 以为铁三角齐了就完了？ 系统又给她召来了那个吊儿郎当的黑瞎子，和温文尔雅的解小花。 六个男人围着一辆不断升级的五菱，为她盖毯子、争副驾、给她烤肉吃。 祝明月：我只想活着跑完这条公路，没想过被六个男人宠上天啊！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7912dbb325778121779072a7e60ed7dd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678507&x-signature=mWCjpet4c1ugIUAlp3UgtWQOSSU%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7912dbb325778121779072a7e60ed7dd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764390&x-signature=tidvpu%2BC84QS%2Bd7ppDGChvMB7y0%3D",
           "url": "https://fanqienovel.com/page/7686533983441554456"
         },
         {
           "title": "末日胖妞和她的魅魔升级系统",
           "author": "深蓝悠悠",
-          "reads": "5.1万",
+          "reads": "5.2万",
           "intro": "曼灵是一抹怨魂，她不知道自己死后为什么没有踏上轮回路。无所事事的她，见证了一个星球的种种变迁，直到环境崩塌的一天，一颗如启明星般的光团吸引了她的视线。 她夺了那个叫魅魔升级的系统，也连带着不小心夺了一具在她眼中丑陋五垠的身体。 不过她不在意，千年的漂泊早已令她无趣至极，现在终于可以重返这世间，她只想肆意而为。 1vn多男主，男洁，女主三观不一定在线，有雌竞，雄竞。女主善于伪装，她所展现的只是她想让你看到的。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o499d5b4e016597f23f9c21c72725501c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678507&x-signature=uT96S6jmn3hNpRqdSTTg6OfywR0%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o499d5b4e016597f23f9c21c72725501c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764390&x-signature=sGG4yTQb04dGJygC8Z6UgSfi0rk%3D",
           "url": "https://fanqienovel.com/page/7639384379311016985"
         },
         {
           "title": "星际军校：我们五个真的无害！",
           "author": "又见祈",
-          "reads": "5万",
+          "reads": "4.6万",
           "intro": "【华芯系统提醒：昆仑五害刚开启上分模式，请诸位军部总官注意！】 【星际+军校+多群像+轻松搞笑+精神力+机甲+热血+文明】 在修仙界卷了一千多年后，祝安和终于回到了星际。 她悟了。 什么飞升成神、天下第一，谁爱当谁当！ 可惜天不遂人愿，刚落地，她就砸进军校入学考试，还被全星际万年老三——昆仑军校录取了。 这学校很有病，校徽像冲全宇宙竖中指，校服像准备谋朝篡位，百年前的学长更是差点把军部变成昆仑分校。 而今年的新生，病得尤其严重。 一个法外狂徒预备役，差点喜提星际监狱终身套餐，被打包送来改造； 一个佣兵世家考编选手，祖宗十八代刀口舔血，到他这代突然想吃公家饭； 两个军部退货的问题分子，一个舍己为人差点把自己舍没了，一个敌我平等不当人，主打各有各的病； 最后一个得了个怪病，别人靠营养剂活命，她靠揍人续命。 校长看完档案，沉默了。 别人军校培养栋梁，昆仑专收疑难杂症。 本以为五人上了战场，校长总能清净点。 谁知投诉直接升级成跨文明联名匿名举报。 虫族：“你们人类管这叫军校生？！” 星兽：“昆仑五害！谁才是兽啊？！” 祝安和：“造谣！我们五个真的无害！” 五联：“害的是敌人？那叫栋梁！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3472412f5879050132a6cd481aa8544e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678507&x-signature=qeB360QORUs98jhKrdm%2ByYdLPhs%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3472412f5879050132a6cd481aa8544e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764390&x-signature=FB27dCkoiVhIeLlcQYxLghJSUps%3D",
           "url": "https://fanqienovel.com/page/7678029439699012632"
         },
         {
           "title": "末世菟丝花，大小姐又被疯狂觊觎",
           "author": "许寄身",
-          "reads": "4.3万",
+          "reads": "4.6万",
           "intro": "刚开分…【末世｜万人迷｜菟丝花｜雄竞｜群狼环伺｜】 黎媱媱被人掳走的第二天，全球灾变，末日降临。 绑匪消失得无影无踪，毫无自保能力的黎媱媱懵了。 很快孤身一人，在末世求生的她。 发现比丧尸、变异动植物更可怕的，是那些身负异能却毫无道德的…… * 女主非常弱小，喜欢大女主的别看，求你了，给你磕一个了，对我们都好。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o18d343060140aa5266eef130bf161972~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678507&x-signature=pz4QQNyHTPFadb4Dw0yjoybmlvQ%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o18d343060140aa5266eef130bf161972~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764390&x-signature=zXaic%2B2wRPAOQHSZ3kCClblmC0Q%3D",
           "url": "https://fanqienovel.com/page/7696469337313381401"
-        },
-        {
-          "title": "末世来临，养兄黑脸为我收舔狗",
-          "author": "黄金招财猫",
-          "reads": "4.1万",
-          "intro": "【1vn男全结+非大女主爽文但也不弱+互相的病情】 末世降临，鹿呦发现，陆辰变了。 * “呦呦，你不反感他们，就可以不拒绝。” “呦呦，只要你喜欢，我会帮你平衡关系。” “呦呦，什么都不重要，只有你好好活着才最重要。” * 陆辰在异能觉醒时，梦到了他与鹿呦的死亡。 他能确定，不管发生什么，他都会尽他所能，保护鹿呦，但梦里他没护住。 梦境模糊，他看不到原因。 既然他一个人护不住，那么，他会摒弃一切独占欲，只要鹿呦活着。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob6376b058d1e719cad21f3cadb70f39f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678507&x-signature=u8Zc0vb2dQDShwFJy2jsLxbREcI%3D",
-          "url": "https://fanqienovel.com/page/7663407747450276888"
         },
         {
           "title": "末世：全小区重生，我不当圣母了",
           "author": "碗秃",
-          "reads": "4万",
+          "reads": "4.3万",
           "intro": "【末世重生＋全员火葬场＋系统＋基建＋囤货＋爽文】 徐芙被云庭基地一千三百二十七名幸存者全票处死。 没人知道，守护基地的金色屏障，是她透支寿命换来的。 那些高高在上的异能强者，能力全是她亲手赠予的。 就连未婚夫引以为傲的S级雷系，也是她用寿命换来的。 可到头来，他们却骂她是灾星，亲手将她推进丧尸群。 临死前，圣母系统问她是否继续庇护基地。 “不救了。” 下一秒，屏障破碎，异能消失，整个基地陷入绝望！ 再睁眼，她重生回末世爆发前十天。 云庭那一千三百二十七个人，竟也全部重生了！ 他们兴高采烈地囤积物资，等待异能觉醒，幻想着凭借前世记忆，再次建立最强基地。 却不知道，他们最大的金手指，早已被自己亲手杀死。 这一世，徐芙果断抛弃云庭，转身绑定了儿时居住的破旧小区。 别人忙着争权夺利，她忙着囤货、升级、扩建基地。 从一间老房子，到整栋居民楼，再到一座坚不可摧的末世堡垒！ 直到尸潮席卷全城，昔日那些高高在上的云庭幸存者，终于跪在她的基地外苦苦哀求。 徐芙站在金色屏障之内，居高临下地看着他们，笑了。 “上辈子不是说我是疯子吗？” “怎么现在来求着我救命了？”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o627da59b888fddec5f362d17472dd9d4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678507&x-signature=RZ61fzWL0bdgmTKDHkx1chCV68k%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o627da59b888fddec5f362d17472dd9d4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764390&x-signature=NmdQp1iRtMYyq6HIhmT1YToBOq0%3D",
           "url": "https://fanqienovel.com/page/7695727931066174488"
         },
         {
-          "title": "天幕文，谁没事天天刷历史视频啊",
-          "author": "且随意",
-          "reads": "3.7万",
-          "intro": "星际时代，一个痴迷历史的科学家，为证明自己看到的一条野史是真的，亲手造了一个系统，送它穿越回古蓝星，寻找真实的历史。 系统在穿越时空裂隙时受损，意外接入到蓝星华国的网络上。 为修复自己，它用最后一点能量向星际传出信号，接入星网，向星际民众播放蓝星现状，收集震惊值来修复自身。 结果不仅链接了星际人族的星网，其它各族的星网也接收到了信号。 从此，星际各族被迫观看古蓝星华国的各种视频。 因为系统受损，在发出信号时，一丝能量链接到古代，歪打正着地开启了各朝代的天幕生活。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4764ee032825691d1028a01d5caa16a4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678511&x-signature=5AqaB7uePUGzyZOXVhcTgz4ULOY%3D",
-          "url": "https://fanqienovel.com/page/7692096254590848025"
+          "title": "末世来临，养兄黑脸为我收舔狗",
+          "author": "黄金招财猫",
+          "reads": "3.9万",
+          "intro": "【1vn男全结+非大女主爽文但也不弱+互相的病情】 末世降临，鹿呦发现，陆辰变了。 * “呦呦，你不反感他们，就可以不拒绝。” “呦呦，只要你喜欢，我会帮你平衡关系。” “呦呦，什么都不重要，只有你好好活着才最重要。” * 陆辰在异能觉醒时，梦到了他与鹿呦的死亡。 他能确定，不管发生什么，他都会尽他所能，保护鹿呦，但梦里他没护住。 梦境模糊，他看不到原因。 既然他一个人护不住，那么，他会摒弃一切独占欲，只要鹿呦活着。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob6376b058d1e719cad21f3cadb70f39f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764390&x-signature=0fhEJle8TR%2FMtmLgfWGK2slN54M%3D",
+          "url": "https://fanqienovel.com/page/7663407747450276888"
         },
         {
           "title": "公路求生，我靠盗笔主角杀疯了",
           "author": "你要杀鱼吗",
           "reads": "3.6万",
           "intro": "（11.16刚开分，会涨）【黑莲花女主+男主反向攻略勾引女主+女主和瓶邪黑花爱情向cp，和胖子是亲情向】 白霁初穿越到了公路求生游戏的副本里，末日副本，各种变异怪物到处跑，作为残疾人的她根本没有生存的能力。 在她绝望之际，穿越前看的小说主角突然出现在了她的眼前，吴邪，张起灵，王胖子，黑瞎子，解雨臣。 看到五个男人，白霁初十分警惕，但为了活下去，她开始扮柔弱博同情利用他们。 然而随着相处时间的增长，四个人却甘愿成为她的裙下臣。 文臣吴邪，武将张起灵，虎将王胖子，奸臣黑瞎子，谋士解雨臣。 副本一：异形城市 副本二：寂静之地 副本三：全城热恋 副本四：童话小镇 ......",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe4619eb1bd7999ef8f102549c6a36ae9~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678511&x-signature=NRHTes%2Brw6e1AT4nhXbdGiYe0Tg%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe4619eb1bd7999ef8f102549c6a36ae9~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764393&x-signature=AKi5wS3HS7yJsHhAJzcZ%2BmfnUdY%3D",
           "url": "https://fanqienovel.com/page/7689475913062304830"
+        },
+        {
+          "title": "天幕文，谁没事天天刷历史视频啊",
+          "author": "且随意",
+          "reads": "3.4万",
+          "intro": "星际时代，一个痴迷历史的科学家，为证明自己看到的一条野史是真的，亲手造了一个系统，送它穿越回古蓝星，寻找真实的历史。 系统在穿越时空裂隙时受损，意外接入到蓝星华国的网络上。 为修复自己，它用最后一点能量向星际传出信号，接入星网，向星际民众播放蓝星现状，收集震惊值来修复自身。 结果不仅链接了星际人族的星网，其它各族的星网也接收到了信号。 从此，星际各族被迫观看古蓝星华国的各种视频。 因为系统受损，在发出信号时，一丝能量链接到古代，歪打正着地开启了各朝代的天幕生活。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4764ee032825691d1028a01d5caa16a4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764393&x-signature=iFqdUF263cMI7UyLB7cCavmbnIU%3D",
+          "url": "https://fanqienovel.com/page/7692096254590848025"
         },
         {
           "title": "天灾末日：救世主在星际读小学",
           "author": "林筱鹭",
-          "reads": "3.2万",
+          "reads": "3.3万",
           "intro": "2030年，蓝星暴雨已持续三个月，全球沦陷。 林汐，一个平平无奇的助理研究员。 她发现，每当睡着，她的意识就会穿越到星际联邦。 那是一个科技高度发达的世界。 在那里，她只是个六岁小学生。 而星际的义务教育，要学到一百岁。 可控核聚变、戴森球、基因药剂、反重力技术、气象武器…… 这些星际小学生的常识，是蓝星求而不得的神迹。 她一边在星际卷小学课程，一边把黑科技搬回蓝星。 全球末日，蓝星唯一的希望，是在星际读小学的她。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odcc56b3cadb429d674c09d825c453c7f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678511&x-signature=i%2Be7DA%2BZjx%2F3WU2aJNeJq%2B%2Fk8XA%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odcc56b3cadb429d674c09d825c453c7f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764393&x-signature=U%2BQ%2FocCWzFUE7CKkxns8DZr4Rus%3D",
           "url": "https://fanqienovel.com/page/7696448635084475416"
-        },
-        {
-          "title": "国运：三岁萌娃带飞龙国很合理吧",
-          "author": "吨一瓶快乐水",
-          "reads": "2.6万",
-          "intro": "【双人开局+萌宝+国运求生+萌兽+微群像+打脸+美食】 国运降临，全球百国求生，资源枯竭，败者亡国灭种！ 龙国开局抽中顶流荒野教官林清玄，举国欢腾。 可紧接着，连环暴毙机制触发，强行抽中一个扎着丸子揪揪、连字都不认识的三岁半小奶团岁岁！ 全网悲鸣，各国哄笑：“一个女人带个吃奶的娃娃，不出三天龙国必灭！” 甚至十六国联军撕毁条约，下达绝杀令，企图围剿幼崽！ 谁知—— 神芒冲霄，九天祥云倒卷，岁岁头顶直接亮出全蓝星唯一的SSS级天赋！ 外邦选手打生打死，在凶兽爪下抱头鼠窜，吓破苦胆； 岁岁气鼓鼓叉腰喊一句“不许欺负姐姐”，一阶霸主巨蟾蜍当场吓趴贴地，不仅温顺认主当座驾，还屁颠屁颠跑回老巢挖出青铜宝箱当见面礼！ 顺带一口一个，把赶来围攻的外邦精锐全当成了下午茶点心。 别国选手在绝地求生，岁岁在凶兽脑袋上啃着牛肉干跳海草舞！ 别国天选者在荒野拿命赌明天，龙国这一大一小带着凶兽满地图上门进货。 全球破防哀嚎：“求求国运开眼，把龙国那个三岁小祖宗给封号了吧！没法玩了！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3655da832ddba070a921dc687b429522~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678511&x-signature=pn9BVDic%2Fif0vYEMlNrIbHe0nXs%3D",
-          "url": "https://fanqienovel.com/page/7694892932448390168"
         },
         {
           "title": "末世，万人嫌大小姐竟是全能美人",
           "author": "十木苏",
           "reads": "2.6万",
           "intro": "（评分刚开后面会涨） 【未世修仙+团宠+万人迷+囤货+基建+灵泉空间】 姜妩是修仙界最年轻的元婴大佬。 渡化神雷劫的时候，却被一个天雷劈回了现代，重生成了人人嫌弃的作精大小姐。 未世来临，丧尸横行，世界一片废墟，队友赌她被扔掉后活不过三天。 然而第一天她手刃一阶异能者；第二天搬空走上千物资；第三天轻松吊打三阶强者。 第N天她带领幸存者打造出全世界最坚固的基地。 建设家园、恢复生产、重建秩序……过得比未世前还滋润。 众人发现，那个随手送出异能觉醒药水、研发出病毒特效药、创造出超强防御系统的人都是她！ 而她不仅是华国最强大基地的首领，还精通医术、算卦、造武器等各项技能！ - 所有人都说霍家收养的那个孙女又蠢又作，是个万人嫌。 可是， 阴湿养兄宠她如珍宝。 矜冷商业巨鳄跪下来在她掌心蹭脸撒娇。 腹黑丧尸王半夜潜入她的房间索要名分。 冷血雇佣兵将她抵在墙上乞怜多看他一眼。 闷骚竹马、自卑前未婚夫、毒舌发小、禁欲学长、温柔甜妹、傲娇千金、清冷御姐……通通围在她身边争宠。 她只是想建个足够安全的基地躺平，却没想到成了末世大佬们的白月光。 （暂定全员单箭头，女主不恋爱，后续看剧情。谨慎入坑）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6108db4b3714e1fb32c7326944b1d013~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678511&x-signature=xWWdbqOR69WUwsJlUmrtPGL0%2Bnw%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6108db4b3714e1fb32c7326944b1d013~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764393&x-signature=Mmz94VEW5GloT0CEjAPXyxorDgU%3D",
           "url": "https://fanqienovel.com/page/7689420124993883161"
+        },
+        {
+          "title": "末世了，还好我是人外",
+          "author": "矢车菊",
+          "reads": "2.5万",
+          "intro": "夏知一觉醒来发现天塌了。 末世降临，未知病毒席卷全球，现实版生化危机上演。而她记忆全无，孤身出现在荒无人烟的国道上。 好在她的身体各部位有自己的想法。 头发能自由生长和活动，热衷于给她洗衣做饭、打扫卫生。骨头能操控全身，随时随地切号代打。不小心划破皮，流出来的血会朝她比心，然后自己钻回体内，再顺手帮忙将伤口堵上…… 丧尸未必有她可怕。 Ps：女主十六，未成年，所以不谈恋爱，亲情友情向，守序善良阵营，有能力的情况下会救人，非独狼，有同伴。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odc90c515a916dd9cc25cc7f985621b7a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764393&x-signature=3pdPo2ndJxVLcrbLW5ZFAbXbF24%3D",
+          "url": "https://fanqienovel.com/page/7702996595410734142"
+        },
+        {
+          "title": "国运：三岁萌娃带飞龙国很合理吧",
+          "author": "吨一瓶快乐水",
+          "reads": "2.4万",
+          "intro": "【双人开局+萌宝+国运求生+萌兽+微群像+打脸+美食】 国运降临，全球百国求生，资源枯竭，败者亡国灭种！ 龙国开局抽中顶流荒野教官林清玄，举国欢腾。 可紧接着，连环暴毙机制触发，强行抽中一个扎着丸子揪揪、连字都不认识的三岁半小奶团岁岁！ 全网悲鸣，各国哄笑：“一个女人带个吃奶的娃娃，不出三天龙国必灭！” 甚至十六国联军撕毁条约，下达绝杀令，企图围剿幼崽！ 谁知—— 神芒冲霄，九天祥云倒卷，岁岁头顶直接亮出全蓝星唯一的SSS级天赋！ 外邦选手打生打死，在凶兽爪下抱头鼠窜，吓破苦胆； 岁岁气鼓鼓叉腰喊一句“不许欺负姐姐”，一阶霸主巨蟾蜍当场吓趴贴地，不仅温顺认主当座驾，还屁颠屁颠跑回老巢挖出青铜宝箱当见面礼！ 顺带一口一个，把赶来围攻的外邦精锐全当成了下午茶点心。 别国选手在绝地求生，岁岁在凶兽脑袋上啃着牛肉干跳海草舞！ 别国天选者在荒野拿命赌明天，龙国这一大一小带着凶兽满地图上门进货。 全球破防哀嚎：“求求国运开眼，把龙国那个三岁小祖宗给封号了吧！没法玩了！”",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3655da832ddba070a921dc687b429522~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764393&x-signature=lpwBMbngqrWUahm%2FTEPovSDJOaY%3D",
+          "url": "https://fanqienovel.com/page/7694892932448390168"
         },
         {
           "title": "病弱大小姐和她的丧尸小狗",
           "author": "浅墨麻黄",
-          "reads": "2.4万",
+          "reads": "2.2万",
           "intro": "【白切黑病弱大小姐×忠犬护主丧尸王】【1V1双洁】 [末世降临，丧尸病毒席卷全球，各类异能相继觉醒，人类秩序崩塌。掌权者迅速更迭，后在废墟上建立九个新的据点] 虞知夏在末世来临的前一个小时觉醒，发现自己生活在一本名叫《九大基地》的末世基建流小说里。而自己，则是小说中大反派丧尸王的炮灰青梅。顺带一提，大反派是她那傲娇脾气大、活像一只大金毛的竹马盛烬，被男主一刀毙命，挖掉晶核做能源，最后死无全尸。 全书只有路人甲在背后蛐蛐大反派时提过她一句话——要是虞知夏没死，盛烬他…… 虞知夏：……很无语的好伐 她一个躺在病床上只能靠呼吸机续命的病人，让她知道这些也没什么用吧。 不过为了自己最后死状悲惨的小狗，虞知夏只能努力再活一活了。 ——小剧场—— 盛烬从地上捡到一枚晶核…… 虞知夏：“别吃，脏死了……” 盛烬：“嗷嗷！” —— 虞知夏：“盛烬你能不能不要像狗一样舔我！” 盛烬：“嗷！” 盛烬亲吻着她脖颈逐渐向下，被她捶了一拳，却没再阻止。 —— 虞知夏被人追杀命悬一线。 既然她打不过，那就只能——关门，放盛烬。 盛烬：“嗷！！！” 后来，人人都道：“那真的是丧尸王？真不是她虞大小姐的g……保镖？”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o096943081337699638e3b4f9a0d781bf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678511&x-signature=muomYyn5JCSQ5CEXyJgMh%2FpoTzA%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o096943081337699638e3b4f9a0d781bf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764393&x-signature=3JYmELD65jpCB5r1aT9C5MTcCjc%3D",
           "url": "https://fanqienovel.com/page/7690470844392295448"
         },
         {
           "title": "末世经营，我绑定了瓶邪黑花",
           "author": "蛋黄塔可",
           "reads": "2.2万",
-          "intro": "【1v4+有系统+末世经营+女主无敌】 【避雷点在第一章作话】 别人的末世：囤物资、觉醒异能、建立基地。 苏庭玉的末世：开酒店，搞经营，顺便谈恋爱。 什么？你说办公室恋爱谈不得？ 去，哪来那么多规矩啊！ 员工可是瓶邪黑花欸！ 员工名单如下—— 解雨臣：前知名戏曲艺术家，现负责微笑服务。 吴邪：前邪门门主，现超市门主。 黑瞎子：大名鼎鼎的南瞎，特长是遛弯以及随时随地出现吓人一跳。 张起灵：战力天花板，主要工作内容是在大堂角落的沙发上坐一整天。 当隔壁基地为了抢一箱过期泡面打得头破血流时， 庭玉酒店的客人们正在餐厅排队打红烧肉，在超市扫码买可乐，在洗浴中心搓澡。 爽之爽之！！！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6fbd6ea98a5d737c392cd26d12c16220~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678511&x-signature=OXp44RCp6OKs0ev7MsU1tyEsnTU%3D",
+          "intro": "【1v4+有系统+末世经营+女主无敌】 11.18开分，评分会涨请放心~【避雷点在第一章作话】 别人的末世：囤物资、觉醒异能、建立基地。 苏庭玉的末世：开酒店，搞经营，顺便谈恋爱。 什么？你说办公室恋爱谈不得？ 去，哪来那么多规矩啊！ 员工可是瓶邪黑花欸！ 员工名单如下—— 解雨臣：前知名戏曲艺术家，现负责微笑服务。 吴邪：前邪门门主，现超市门主。 黑瞎子：大名鼎鼎的南瞎，特长是遛弯以及随时随地出现吓人一跳。 张起灵：战力天花板，主要工作内容是在大堂角落的沙发上坐一整天。 当隔壁基地为了抢一箱过期泡面打得头破血流时， 庭玉酒店的客人们正在餐厅排队打红烧肉，在超市扫码买可乐，在洗浴中心搓澡。 爽之爽之！！！",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6fbd6ea98a5d737c392cd26d12c16220~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764393&x-signature=nRfFQidHwpleE%2BB%2Bsu3bDP%2B92Z4%3D",
           "url": "https://fanqienovel.com/page/7688314439937821758"
-        },
-        {
-          "title": "末世了，还好我是人外",
-          "author": "矢车菊",
-          "reads": "2.1万",
-          "intro": "夏知一觉醒来发现天塌了。 末世降临，未知病毒席卷全球，现实版生化危机上演。而她记忆全无，孤身出现在荒无人烟的国道上。 好在她的身体各部位有自己的想法。 头发能自由生长和活动，热衷于给她洗衣做饭、打扫卫生。骨头能操控全身，随时随地切号代打。不小心划破皮，流出来的血会朝她比心，然后自己钻回体内，再顺手帮忙将伤口堵上…… 丧尸未必有她可怕。 Ps：女主十六，未成年，所以不谈恋爱，亲情友情向，守序善良阵营，有能力的情况下会救人，非独狼，有同伴。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odc90c515a916dd9cc25cc7f985621b7a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678511&x-signature=2pvdr2jZn0GuGVC%2Bpux1oWUrLWY%3D",
-          "url": "https://fanqienovel.com/page/7702996595410734142"
         },
         {
           "title": "年代文炮灰大小姐每天都在求生",
           "author": "季绯夜",
-          "reads": "2.1万",
+          "reads": "2.2万",
           "intro": "【女主无cp】【副cp双男】【女主成长型】【高幸运值】【病秧子身体】【走年代剧情】 蓝星全民被拉入求生副本，倒霉蛋苏青在传送新手副本时发生未知错误，被传送至次级位面，成为一本年代文小说的炮灰病弱大小姐苏青颜，然而作为蓝星已经被求生副本标记的灵魂，还是逃不掉要参加求生副本的命运！ 行吧！不就病弱了一年！ 不就是下乡一个月后病死的炮灰！ 她可以的！ 但是，也没有人告诉她居然是用这副走两步路就得歇半晌的病弱身体去求生！ 下乡也要求生！ 这是一个病弱大小姐在年代文和求生副本求生的日常。 谁说病弱大小姐不能逆袭的！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2401e8222e59e34659d3e3bdfd802762~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678511&x-signature=qrHaXTwiZ54LtGYe2Y9yzFfmAtw%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2401e8222e59e34659d3e3bdfd802762~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764393&x-signature=uBCsWLT65w6uKwCv7CtUSAvcyJk%3D",
           "url": "https://fanqienovel.com/page/7696358149527194649"
         },
         {
@@ -452,7 +426,7 @@
           "author": "嘻嘻娅丽达",
           "reads": "2万",
           "intro": "【末世+多男主+男全洁+成长型女主】 沈念前脚刚拿到男友母亲甩来的五百万分手费，后脚就被一辆大卡车创飞了。 一睁眼，发现自己穿到了末世，原身的男朋友居然跟自己男友长的一模一样。 好消息：并不是她的男友，并且她还在这末世觉醒了异能。 所以沈念打算前期疯狂囤物资，后期找个地方苟起来。 可人算不如天算！ 就在她逃亡的路上，碰到的一个个的大好人，他们表面说要跟自己组队，可背地全都想占有她。 最让她惶恐的是，她男友居然也穿来了！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o20ddc090562c64a6059d699278cf23d2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795678511&x-signature=%2F3CyCA231PtvvQwKXrVYISo9hHc%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o20ddc090562c64a6059d699278cf23d2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795764393&x-signature=%2Fuhz3MOlqhBDGSUdtRx%2BrRTCHY4%3D",
           "url": "https://fanqienovel.com/page/7688292446253370393"
         }
       ]
